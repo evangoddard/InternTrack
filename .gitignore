@@ -1,6 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
-*.db
 .env
 .DS_Store
+
+# interntrack.db is intentionally tracked -- it's the shared history state
+# that GitHub Actions commits back after every scan, and what a local run
+# should `git pull` before starting so both stay in sync.
