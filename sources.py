@@ -73,31 +73,121 @@ def fetch_vansh(url: str = VANSH_URL) -> list[Posting]:
     return postings
 
 
-# Phase 3 adds fetch_greenhouse() and fetch_lever() here. They return the same
-# list[Posting], so nothing downstream changes.
-SOURCES = {"vanshb03": fetch_vansh}
+GREENHOUSE_URL = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
+LEVER_URL = "https://api.lever.co/v0/postings/{token}?mode=json"
 
 
-def fetch_all(names: list[str] | None = None) -> list[Posting]:
-    """Fetch from every configured source.
+def _looks_like_internship(title: str) -> bool:
+    """Greenhouse/Lever boards list a company's whole hiring pipeline.
 
-    One source failing does not abort the others, but errors are collected and
-    surfaced so the run can still exit non-zero.
+    Unlike the aggregator, there's no upstream "internship" flag to rely on,
+    so titles that don't even mention "intern" are dropped before they ever
+    reach config.yaml's keyword filters.
     """
-    names = names or list(SOURCES)
+    return "intern" in title.lower()
+
+
+def fetch_greenhouse(token: str, company: str) -> list[Posting]:
+    """Fetch a company's public Greenhouse job board, filtered to internships."""
+    url = GREENHOUSE_URL.format(token=token)
+    log.info("fetching greenhouse board %s (%s)", token, company)
+
+    try:
+        response = requests.get(
+            url, timeout=TIMEOUT_SECONDS, headers={"User-Agent": USER_AGENT}
+        )
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise FetchError(f"could not reach greenhouse board {token}: {exc}") from exc
+
+    try:
+        data = response.json()
+    except ValueError as exc:
+        raise FetchError(f"greenhouse board {token} did not return valid JSON: {exc}") from exc
+
+    jobs = data.get("jobs")
+    if jobs is None:
+        raise FetchError(f"greenhouse board {token} response missing 'jobs' key")
+
+    postings = [
+        Posting.from_greenhouse(job, company)
+        for job in jobs
+        if _looks_like_internship(job.get("title") or "")
+    ]
+    log.info("parsed %d internship postings from greenhouse/%s (of %d total)", len(postings), token, len(jobs))
+    return postings
+
+
+def fetch_lever(token: str, company: str) -> list[Posting]:
+    """Fetch a company's public Lever job board, filtered to internships."""
+    url = LEVER_URL.format(token=token)
+    log.info("fetching lever board %s (%s)", token, company)
+
+    try:
+        response = requests.get(
+            url, timeout=TIMEOUT_SECONDS, headers={"User-Agent": USER_AGENT}
+        )
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise FetchError(f"could not reach lever board {token}: {exc}") from exc
+
+    try:
+        jobs = response.json()
+    except ValueError as exc:
+        raise FetchError(f"lever board {token} did not return valid JSON: {exc}") from exc
+
+    if not isinstance(jobs, list):
+        raise FetchError(f"lever board {token} returned {type(jobs).__name__}, expected a list")
+
+    postings = [
+        Posting.from_lever(job, company)
+        for job in jobs
+        if _looks_like_internship(job.get("text") or "")
+    ]
+    log.info("parsed %d internship postings from lever/%s (of %d total)", len(postings), token, len(jobs))
+    return postings
+
+
+def fetch_all(config: dict | None = None) -> list[Posting]:
+    """Fetch from every source enabled in config.yaml's `sources:` section.
+
+    Shape of `config`:
+        {"vanshb03": true,
+         "greenhouse": [{"token": "robinhood", "company": "Robinhood"}],
+         "lever": [{"token": "ro", "company": "Ro"}]}
+
+    One source (or board) failing does not abort the others, but errors are
+    collected and surfaced so the run can still exit non-zero if everything
+    failed.
+    """
+    config = config if config is not None else {"vanshb03": True}
     postings: list[Posting] = []
     errors: list[str] = []
 
-    for name in names:
-        fetcher = SOURCES.get(name)
-        if fetcher is None:
-            errors.append(f"unknown source: {name}")
-            continue
+    if config.get("vanshb03"):
         try:
-            postings.extend(fetcher())
+            postings.extend(fetch_vansh())
         except FetchError as exc:
-            log.error("source %s failed: %s", name, exc)
-            errors.append(f"{name}: {exc}")
+            log.error("source vanshb03 failed: %s", exc)
+            errors.append(f"vanshb03: {exc}")
+
+    for board in config.get("greenhouse") or []:
+        token = board["token"]
+        company = board.get("company") or token.title()
+        try:
+            postings.extend(fetch_greenhouse(token, company))
+        except FetchError as exc:
+            log.error("source greenhouse/%s failed: %s", token, exc)
+            errors.append(f"greenhouse/{token}: {exc}")
+
+    for board in config.get("lever") or []:
+        token = board["token"]
+        company = board.get("company") or token.title()
+        try:
+            postings.extend(fetch_lever(token, company))
+        except FetchError as exc:
+            log.error("source lever/%s failed: %s", token, exc)
+            errors.append(f"lever/{token}: {exc}")
 
     if errors and not postings:
         raise FetchError("all sources failed -- " + "; ".join(errors))

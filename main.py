@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""InternTrack -- Phase 2.
+"""InternTrack -- Phase 4.
 
-Fetch internship postings, filter them, remember what's been seen before, and
-print them. No alerts yet; that's Phase 4.
+Fetch internship postings (aggregator + Greenhouse/Lever boards), dedupe
+across sources, filter them, remember what's been seen before, print them,
+and alert Discord about anything new.
 
     python main.py                   # matching postings, newest first
     python main.py --new             # only postings never seen in a prior run
     python main.py --all             # every posting, unfiltered
     python main.py --explain         # why postings were rejected
     python main.py --company nvidia  # search within results
+    python main.py --no-notify       # skip Discord even if configured
 """
 
 from __future__ import annotations
@@ -17,11 +19,19 @@ import argparse
 import logging
 import sys
 from collections import Counter
+from pathlib import Path
 
+import yaml
+from dotenv import load_dotenv
+
+import dedupe
 import filters
+import notify
 import sources
 import storage
 from models import Posting
+
+log = logging.getLogger(__name__)
 
 
 def parse_args() -> argparse.Namespace:
@@ -38,6 +48,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--company", help="only show companies matching this substring")
     parser.add_argument("--limit", type=int, default=40, help="max postings to print")
     parser.add_argument("--verbose", "-v", action="store_true", help="debug logging")
+    parser.add_argument(
+        "--no-notify", action="store_true", help="skip Discord alerts even if configured"
+    )
     return parser.parse_args()
 
 
@@ -77,22 +90,33 @@ def print_explanation(postings: list[Posting], config: filters.FilterConfig) -> 
 
 
 def main() -> int:
+    load_dotenv()
     args = parse_args()
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
         format="%(levelname)s  %(message)s",
     )
 
+    with open(args.config) as handle:
+        raw_config = yaml.safe_load(handle) or {}
+    sources_config = raw_config.get("sources", {})
+
     try:
-        postings = sources.fetch_all()
+        postings = sources.fetch_all(sources_config)
     except sources.FetchError as exc:
         # Exiting non-zero matters: in Phase 5 this is what makes GitHub
         # Actions mark the run failed instead of silently passing.
         print(f"\nFETCH FAILED: {exc}", file=sys.stderr)
         return 1
 
+    postings = dedupe.deduplicate(postings)
     total = len(postings)
     config = None
+
+    # A DB that doesn't exist yet means this is a first run: everything would
+    # count as "new," which would flood Discord with the entire backlog
+    # instead of a real alert. Seed history silently instead.
+    is_first_run = not Path(args.db).exists()
 
     conn = storage.connect(args.db)
     new_keys = {p.key for p in storage.sync(postings, conn)}
@@ -108,15 +132,27 @@ def main() -> int:
         needle = args.company.lower()
         selected = [p for p in selected if needle in p.company.lower()]
 
-    if args.new:
-        selected = [p for p in selected if p.key in new_keys]
+    new_and_matched = [p for p in selected if p.key in new_keys]
 
+    display = new_and_matched if args.new else selected
     label = "new" if args.new else "matched"
-    print(f"\n{len(selected)} of {total} postings {label}.")
-    print_postings(selected, args.limit)
+    print(f"\n{len(display)} of {total} postings {label}.")
+    print_postings(display, args.limit)
 
     if args.explain and config is not None:
         print_explanation(postings, config)
+
+    if is_first_run:
+        print(f"\n(seeded history db at {args.db}; no Discord alerts sent for this run)")
+    elif not args.no_notify and new_and_matched:
+        url = notify.webhook_url()
+        if url:
+            if notify.send(new_and_matched, url):
+                print(f"\nsent {len(new_and_matched)} new posting(s) to Discord")
+            else:
+                print("\nDiscord webhook failed; see log above", file=sys.stderr)
+        else:
+            log.debug("DISCORD_WEBHOOK_URL not set; skipping notification")
 
     return 0
 

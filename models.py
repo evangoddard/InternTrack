@@ -51,6 +51,53 @@ class Posting:
             raw=record,
         )
 
+    @classmethod
+    def from_greenhouse(cls, record: dict, company: str) -> "Posting":
+        """Build a Posting from a Greenhouse job-board API record.
+
+        Greenhouse boards list a company's entire hiring pipeline, not just
+        internships, and carry no season field -- callers must filter to
+        internship titles themselves (see sources.fetch_greenhouse).
+        """
+        location = (record.get("location") or {}).get("name", "")
+        return cls(
+            uid=str(record["id"]),
+            source="greenhouse",
+            company=company,
+            title=(record.get("title") or "").strip(),
+            url=(record.get("absolute_url") or "").strip(),
+            locations=(location,) if location else (),
+            season="",
+            sponsorship="",
+            active=True,  # the API only lists open postings
+            date_posted=iso_to_dt(record.get("first_published")),
+            raw=record,
+        )
+
+    @classmethod
+    def from_lever(cls, record: dict, company: str) -> "Posting":
+        """Build a Posting from a Lever postings API record.
+
+        Same caveat as Greenhouse: full job board, no season field.
+        """
+        categories = record.get("categories") or {}
+        locations = tuple(categories.get("allLocations") or [])
+        if not locations and categories.get("location"):
+            locations = (categories["location"],)
+        return cls(
+            uid=str(record["id"]),
+            source="lever",
+            company=company,
+            title=(record.get("text") or "").strip(),
+            url=(record.get("hostedUrl") or "").strip(),
+            locations=locations,
+            season="",
+            sponsorship="",
+            active=True,
+            date_posted=epoch_ms_to_dt(record.get("createdAt")),
+            raw=record,
+        )
+
     @property
     def key(self) -> str:
         """Globally unique key across all sources. Phase 2 stores this."""
@@ -69,10 +116,31 @@ class Posting:
 
 
 def epoch_to_dt(value) -> datetime | None:
-    """Convert a unix timestamp to an aware UTC datetime, tolerating junk."""
+    """Convert a unix timestamp (seconds) to an aware UTC datetime, tolerating junk."""
     if value in (None, "", 0):
         return None
     try:
         return datetime.fromtimestamp(int(value), tz=timezone.utc)
     except (ValueError, TypeError, OSError, OverflowError):
         return None
+
+
+def epoch_ms_to_dt(value) -> datetime | None:
+    """Convert a unix timestamp in milliseconds (Lever's format) to UTC."""
+    if value in (None, "", 0):
+        return None
+    try:
+        return datetime.fromtimestamp(int(value) / 1000, tz=timezone.utc)
+    except (ValueError, TypeError, OSError, OverflowError):
+        return None
+
+
+def iso_to_dt(value) -> datetime | None:
+    """Convert an ISO-8601 string (Greenhouse's format) to UTC, tolerating junk."""
+    if not value:
+        return None
+    try:
+        dt = datetime.fromisoformat(value)
+    except (ValueError, TypeError):
+        return None
+    return dt.astimezone(timezone.utc) if dt.tzinfo else dt.replace(tzinfo=timezone.utc)

@@ -55,8 +55,11 @@ def rejection_reason(posting: Posting, config: FilterConfig) -> str | None:
     if config.active_only and not posting.active:
         return "posting is closed"
 
-    if config.seasons and posting.season.lower() not in config.seasons:
-        return f"season is {posting.season or 'unset'}"
+    # Greenhouse/Lever postings carry no season field at all. Rejecting them
+    # for that would silently drop every posting from those sources, so an
+    # unset season skips this check rather than failing it.
+    if config.seasons and posting.season and posting.season.lower() not in config.seasons:
+        return f"season is {posting.season}"
 
     if any(term in posting.sponsorship.lower() for term in config.sponsorship_exclude):
         return f"sponsorship: {posting.sponsorship}"
