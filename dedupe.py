@@ -17,7 +17,7 @@ from models import Posting
 _COMPANY_SUFFIXES = {"inc", "llc", "corp", "corporation", "ltd", "co", "company", "group"}
 
 # Lower index wins when the same job appears from multiple sources.
-_SOURCE_PRIORITY = ("greenhouse", "lever", "vanshb03")
+_SOURCE_PRIORITY = ("greenhouse", "lever", "ashby", "vanshb03")
 
 
 def normalize_company(name: str) -> str:

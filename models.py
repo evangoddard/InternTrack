@@ -98,6 +98,29 @@ class Posting:
             raw=record,
         )
 
+    @classmethod
+    def from_ashby(cls, record: dict, company: str) -> "Posting":
+        """Build a Posting from an Ashby job-board API record.
+
+        Same full-board caveat as Greenhouse/Lever. Ashby is the one source
+        of the three that actually reports a real publish time (publishedAt)
+        rather than a last-updated time or nothing at all.
+        """
+        location = record.get("location") or ""
+        return cls(
+            uid=str(record["id"]),
+            source="ashby",
+            company=company,
+            title=(record.get("title") or "").strip(),
+            url=(record.get("jobUrl") or "").strip(),
+            locations=(location,) if location else (),
+            season="",
+            sponsorship="",
+            active=bool(record.get("isListed", True)),
+            date_posted=iso_to_dt(record.get("publishedAt")),
+            raw=record,
+        )
+
     @property
     def key(self) -> str:
         """Globally unique key across all sources. Phase 2 stores this."""
