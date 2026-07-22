@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""InternTrack -- Phase 1.
+"""InternTrack -- Phase 2.
 
-Fetch internship postings, filter them, print them. No storage and no alerts
-yet; those are Phase 2 and Phase 4.
+Fetch internship postings, filter them, remember what's been seen before, and
+print them. No alerts yet; that's Phase 4.
 
     python main.py                   # matching postings, newest first
+    python main.py --new             # only postings never seen in a prior run
     python main.py --all             # every posting, unfiltered
     python main.py --explain         # why postings were rejected
     python main.py --company nvidia  # search within results
@@ -19,13 +20,18 @@ from collections import Counter
 
 import filters
 import sources
+import storage
 from models import Posting
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Fetch and filter internship postings.")
     parser.add_argument("--config", default="config.yaml", help="path to config file")
+    parser.add_argument("--db", default="interntrack.db", help="path to the history database")
     parser.add_argument("--all", action="store_true", help="skip filtering")
+    parser.add_argument(
+        "--new", action="store_true", help="only show postings never seen in a prior run"
+    )
     parser.add_argument(
         "--explain", action="store_true", help="report why postings were rejected"
     )
@@ -88,6 +94,10 @@ def main() -> int:
     total = len(postings)
     config = None
 
+    conn = storage.connect(args.db)
+    new_keys = {p.key for p in storage.sync(postings, conn)}
+    conn.close()
+
     if args.all:
         selected = postings
     else:
@@ -98,7 +108,11 @@ def main() -> int:
         needle = args.company.lower()
         selected = [p for p in selected if needle in p.company.lower()]
 
-    print(f"\n{len(selected)} of {total} postings matched.")
+    if args.new:
+        selected = [p for p in selected if p.key in new_keys]
+
+    label = "new" if args.new else "matched"
+    print(f"\n{len(selected)} of {total} postings {label}.")
     print_postings(selected, args.limit)
 
     if args.explain and config is not None:
