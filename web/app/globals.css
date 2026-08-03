@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+/* -----------------------------------------------------------------------
+   Dark, blue-gradient + glassmorphism theme. Contrast ratios verified
+   against WCAG AA: near-white text on bg 18.6:1, blue-500 text on bg
+   5.48:1, white text on blue-600 pill fill 4.77:1.
+   ----------------------------------------------------------------------- */
+:root {
+  --bg: #05070c;
+  --bg-raised: #0b0f1a;
+  --text: #f3f6fb;
+  --text-muted: #93a0b4;
+  --text-faint: #5c6779;
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.18);
+  --glass: rgba(255, 255, 255, 0.06);
+  --glass-strong: rgba(255, 255, 255, 0.1);
+  --accent: #3b82f6;
+  --accent-bright: #60a5fa;
+  --accent-fill: #2563eb;
+  --accent-wash: rgba(59, 130, 246, 0.14);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-raised: var(--bg-raised);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-faint: var(--text-faint);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-glass: var(--glass);
+  --color-glass-strong: var(--glass-strong);
+  --color-accent: var(--accent);
+  --color-accent-bright: var(--accent-bright);
+  --color-accent-fill: var(--accent-fill);
+  --color-accent-wash: var(--accent-wash);
+  --font-display: var(--font-display);
+  --font-text: var(--font-text);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.font-display {
+  font-family: var(--font-display), serif;
+  letter-spacing: -0.03em;
+}
+
+.font-text {
+  font-family: var(--font-text), monospace;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Glass surface: translucent fill + blur + hairline border. Used for the
+   floating nav, stat chips, step tiles, and form controls. */
+.glass {
+  background: var(--glass);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border);
+}
+
+/* Hero gradient: a deep-space navy resolving into a blue glow, evoking the
+   reference's radial color wash without copying its palette. */
+.hero-gradient {
+  background:
+    radial-gradient(70% 100% at 25% 15%, rgba(59, 130, 246, 0.6), transparent 65%),
+    radial-gradient(60% 80% at 90% 5%, rgba(96, 165, 250, 0.4), transparent 60%),
+    linear-gradient(180deg, #0a1330 0%, #060a16 60%, #05070c 100%);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}

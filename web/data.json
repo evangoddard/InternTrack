@@ -1,0 +1,274 @@
+{
+  "stats": {
+    "postings_tracked": 24,
+    "sources": 4,
+    "companies": 18,
+    "last_updated": "2026-08-03"
+  },
+  "postings": [
+    {
+      "id": "p001",
+      "company": "Acme Robotics",
+      "title": "Software Engineer Intern - Backend",
+      "location": "Remote",
+      "url": "https://example.com/jobs/acme-robotics-backend-intern",
+      "date_posted": "2026-07-28",
+      "deadline": "2026-08-06",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p002",
+      "company": "Northwind Systems",
+      "title": "Data Engineering Intern",
+      "location": "Seattle, WA",
+      "url": "https://example.com/jobs/northwind-data-eng-intern",
+      "date_posted": "2026-07-30",
+      "deadline": "2026-08-09",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p003",
+      "company": "Bluepeak Labs",
+      "title": "Machine Learning Intern",
+      "location": "New York, NY",
+      "url": "https://example.com/jobs/bluepeak-ml-intern",
+      "date_posted": "2026-07-15",
+      "deadline": "2026-09-01",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    },
+    {
+      "id": "p004",
+      "company": "Cascade Analytics",
+      "title": "Software Engineer Intern - Frontend",
+      "location": "Austin, TX",
+      "url": "https://example.com/jobs/cascade-frontend-intern",
+      "date_posted": "2026-07-22",
+      "deadline": "2026-08-15",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p005",
+      "company": "Vantage Point Financial",
+      "title": "Quantitative Research Intern",
+      "location": "Chicago, IL",
+      "url": "https://example.com/jobs/vantage-quant-intern",
+      "date_posted": "2026-07-10",
+      "deadline": "2026-08-04",
+      "season": "Winter 2027",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "p006",
+      "company": "Orbit Aerospace",
+      "title": "Embedded Systems Intern",
+      "location": "Hawthorne, CA",
+      "url": "https://example.com/jobs/orbit-embedded-intern",
+      "date_posted": "2026-07-25",
+      "deadline": "2026-08-20",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    },
+    {
+      "id": "p007",
+      "company": "Fernwood Health",
+      "title": "Software Engineer Intern - Platform",
+      "location": "Boston, MA",
+      "url": "https://example.com/jobs/fernwood-platform-intern",
+      "date_posted": "2026-06-30",
+      "deadline": "2026-08-01",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p008",
+      "company": "Lumen Robotics",
+      "title": "Computer Vision Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://example.com/jobs/lumen-cv-intern",
+      "date_posted": "2026-07-18",
+      "deadline": "2026-09-12",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p009",
+      "company": "Ridgeline Security",
+      "title": "Security Engineering Intern",
+      "location": "Remote",
+      "url": "https://example.com/jobs/ridgeline-security-intern",
+      "date_posted": "2026-07-27",
+      "deadline": "2026-08-05",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p010",
+      "company": "Meridian Cloud",
+      "title": "Site Reliability Engineering Intern",
+      "location": "Denver, CO",
+      "url": "https://example.com/jobs/meridian-sre-intern",
+      "date_posted": "2026-07-05",
+      "deadline": "2026-08-25",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p011",
+      "company": "Harborlight Games",
+      "title": "Gameplay Engineer Intern",
+      "location": "Los Angeles, CA",
+      "url": "https://example.com/jobs/harborlight-gameplay-intern",
+      "date_posted": "2026-07-12",
+      "deadline": "2026-09-05",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    },
+    {
+      "id": "p012",
+      "company": "Ironclad Manufacturing",
+      "title": "Electrical Engineering Intern",
+      "location": "Detroit, MI",
+      "url": "https://example.com/jobs/ironclad-ee-intern",
+      "date_posted": "2026-07-20",
+      "deadline": "2026-08-30",
+      "season": "Fall 2026",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "p013",
+      "company": "Acme Robotics",
+      "title": "Firmware Engineer Intern",
+      "location": "San Jose, CA",
+      "url": "https://example.com/jobs/acme-robotics-firmware-intern",
+      "date_posted": "2026-07-29",
+      "deadline": "2026-08-07",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p014",
+      "company": "Solace Energy",
+      "title": "Data Science Intern",
+      "location": "Houston, TX",
+      "url": "https://example.com/jobs/solace-ds-intern",
+      "date_posted": "2026-06-15",
+      "deadline": "2026-07-30",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p015",
+      "company": "Northwind Systems",
+      "title": "Product Management Intern",
+      "location": "Seattle, WA",
+      "url": "https://example.com/jobs/northwind-pm-intern",
+      "date_posted": "2026-07-26",
+      "deadline": "2026-08-10",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p016",
+      "company": "Skyline Robotics",
+      "title": "Robotics Software Intern",
+      "location": "Pittsburgh, PA",
+      "url": "https://example.com/jobs/skyline-robotics-intern",
+      "date_posted": "2026-07-08",
+      "deadline": "2026-09-15",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    },
+    {
+      "id": "p017",
+      "company": "Cobalt Trading",
+      "title": "Software Engineer Intern - Trading Systems",
+      "location": "New York, NY",
+      "url": "https://example.com/jobs/cobalt-trading-intern",
+      "date_posted": "2026-07-24",
+      "deadline": "2026-08-08",
+      "season": "Winter 2027",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "p018",
+      "company": "Driftwood Studios",
+      "title": "Tools Engineer Intern",
+      "location": "Remote",
+      "url": "https://example.com/jobs/driftwood-tools-intern",
+      "date_posted": "2026-07-14",
+      "deadline": "2026-09-20",
+      "season": "Fall 2026",
+      "source": "Greenhouse"
+    },
+    {
+      "id": "p019",
+      "company": "Vantage Point Financial",
+      "title": "Software Engineer Intern - Risk Platform",
+      "location": "Chicago, IL",
+      "url": "https://example.com/jobs/vantage-risk-intern",
+      "date_posted": "2026-07-19",
+      "deadline": "2026-08-18",
+      "season": "Fall 2026",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "p020",
+      "company": "Bluepeak Labs",
+      "title": "NLP Research Intern",
+      "location": "New York, NY",
+      "url": "https://example.com/jobs/bluepeak-nlp-intern",
+      "date_posted": "2026-07-31",
+      "deadline": "2026-08-11",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    },
+    {
+      "id": "p021",
+      "company": "Ironclad Manufacturing",
+      "title": "Mechanical Engineering Intern",
+      "location": "Detroit, MI",
+      "url": "https://example.com/jobs/ironclad-me-intern",
+      "date_posted": "2026-06-20",
+      "deadline": "2026-08-02",
+      "season": "Fall 2026",
+      "source": "LinkedIn"
+    },
+    {
+      "id": "p022",
+      "company": "Meridian Cloud",
+      "title": "Full Stack Engineer Intern",
+      "location": "Remote",
+      "url": "https://example.com/jobs/meridian-fullstack-intern",
+      "date_posted": "2026-07-21",
+      "deadline": "2026-09-01",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p023",
+      "company": "Fernwood Health",
+      "title": "Data Analyst Intern",
+      "location": "Boston, MA",
+      "url": "https://example.com/jobs/fernwood-analyst-intern",
+      "date_posted": "2026-07-16",
+      "deadline": "2026-09-10",
+      "season": "Fall 2026",
+      "source": "Lever"
+    },
+    {
+      "id": "p024",
+      "company": "Orbit Aerospace",
+      "title": "Software Engineer Intern - Flight Systems",
+      "location": "Hawthorne, CA",
+      "url": "https://example.com/jobs/orbit-flight-systems-intern",
+      "date_posted": "2026-07-23",
+      "deadline": "2026-08-12",
+      "season": "Fall 2026",
+      "source": "Ashby"
+    }
+  ]
+}
