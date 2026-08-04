@@ -15,11 +15,14 @@ yet.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+cp config.example.yaml config.yaml   # then edit config.yaml with your own criteria
 python main.py
 ```
 
 No secrets or `.env` file needed -- nothing in this project calls out to a
-third-party notification service.
+third-party notification service. `config.yaml` is gitignored (it's your
+personal search criteria -- target companies, title keywords -- not
+something to commit); `config.example.yaml` is the tracked template.
 
 ## Usage
 

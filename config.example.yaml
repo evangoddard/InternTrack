@@ -1,0 +1,59 @@
+# InternTrack configuration -- TEMPLATE
+#
+# Copy this file to config.yaml and fill in your own criteria:
+#   cp config.example.yaml config.yaml
+#
+# config.yaml is gitignored on purpose -- it's your personal search
+# criteria (target companies, title keywords), not something this repo
+# should carry. Everything here is data, not code: tune freely and re-run;
+# use `python main.py --explain` to see why any posting was filtered out.
+
+# Which sources to fetch from. SimplifyJobs is the only supported source --
+# every posting InternTrack shows comes from that one GitHub repo.
+sources:
+  simplify: true
+
+filters:
+  # Which recruiting seasons to watch. The upstream repo also carries
+  # Fall/Winter/Spring co-op listings; add them if you want those too.
+  seasons:
+    - Summer
+
+  # Skip postings the source has marked closed.
+  active_only: true
+
+  # Phase out anything posted before this date -- older postings are more
+  # likely to already have a large applicant pool. Quoted so PyYAML treats
+  # it as a plain string, parsed as UTC midnight of that day. Set to null
+  # (or delete the line) to disable the cutoff entirely.
+  min_date_posted: null
+
+  # A posting passes if its title contains any of these. A few illustrative
+  # examples below -- replace with whatever roles you're actually targeting.
+  title_include:
+    - software engineer
+    - hardware engineer
+    - data scientist
+
+  # ...unless it contains any of these.
+  title_exclude:
+    - phd
+    - mba
+
+  # Target companies bypass title matching. If one of these posts anything,
+  # it surfaces regardless of how the title is worded. Empty by default --
+  # add the companies you're specifically watching for.
+  company_always_include: []
+
+  # Sponsorship values to drop, e.g. ["U.S. Citizenship is Required"] if
+  # sponsorship eligibility rules you out of postings that require it.
+  sponsorship_exclude: []
+
+  # Substring match against locations. Empty means no location filter.
+  locations_include: []
+
+  # Substring match against Simplify's `category` field (Software, Hardware,
+  # "Data Science, AI & Machine Learning", Quant, Product, etc. -- it's not a
+  # fixed enum, so e.g. both "Software" and "Software Engineering" occur;
+  # substring matching catches both without listing every variant).
+  category_include: []

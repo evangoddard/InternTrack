@@ -31,6 +31,13 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # config.yaml is gitignored (personal search criteria, not something
+      # the repo carries) -- write it from a repo secret instead. Add one
+      # named CONFIG_YAML under Settings -> Secrets and variables -> Actions,
+      # with your local config.yaml's contents pasted in as the value.
+      - name: Write config.yaml from secret
+        run: echo "${{ secrets.CONFIG_YAML }}" > config.yaml
+
       - name: Run scanner
         run: python main.py --limit 5
 

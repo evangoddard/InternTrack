@@ -4,6 +4,11 @@ __pycache__/
 .env
 .DS_Store
 
+# Personal search criteria (target companies, title keywords) -- not
+# something this repo should carry. See config.example.yaml for the
+# template; copy it to config.yaml and fill in your own.
+config.yaml
+
 # interntrack.db is intentionally tracked -- it's the shared history state
 # that GitHub Actions commits back after every scan, and what a local run
 # should `git pull` before starting so both stay in sync.
