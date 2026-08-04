@@ -9,6 +9,10 @@ __pycache__/
 # template; copy it to config.yaml and fill in your own.
 config.yaml
 
+# Local Claude Code tooling config (dev-server launch config, local
+# permission settings) -- machine-specific, not something to share.
+.claude/
+
 # interntrack.db is intentionally tracked -- it's the shared history state
 # that GitHub Actions commits back after every scan, and what a local run
 # should `git pull` before starting so both stay in sync.
