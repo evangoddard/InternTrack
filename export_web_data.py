@@ -54,6 +54,7 @@ def to_web_posting(posting: Posting) -> dict:
         "company": posting.company,
         "title": posting.title,
         "location": posting.location_str,
+        "locations": list(posting.locations),
         "url": posting.url,
         "date_posted": posting.date_posted.date().isoformat() if posting.date_posted else "",
         "deadline": "",  # not present in Simplify's data -- see module docstring

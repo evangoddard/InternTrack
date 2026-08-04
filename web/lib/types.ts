@@ -5,7 +5,8 @@ export interface Posting {
   id: string;
   company: string;
   title: string;
-  location: string;
+  location: string; // truncated summary, e.g. "SF +2 more"
+  locations: string[]; // full list
   url: string;
   date_posted: string; // ISO date string, e.g. "2026-08-03"
   deadline: string; // ISO date string, "" if unknown/rolling
