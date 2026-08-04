@@ -35,6 +35,7 @@ CREATE TABLE IF NOT EXISTS postings (
 def connect(path: str | Path) -> sqlite3.Connection:
     conn = sqlite3.connect(path)
     conn.execute(SCHEMA)
+    conn.commit()
     return conn
 
 

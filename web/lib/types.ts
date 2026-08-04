@@ -10,8 +10,7 @@ export interface Posting {
   date_posted: string; // ISO date string, e.g. "2026-08-03"
   deadline: string; // ISO date string, "" if unknown/rolling
   season: string; // e.g. "Fall 2026"
-  source: string; // e.g. "Greenhouse", "Lever", "Ashby", "LinkedIn"
-  category: string; // e.g. "Software", "Hardware", "AI/ML/Data" -- "" if the source doesn't set one
+  category: string; // e.g. "Software", "Hardware", "AI/ML/Data" -- "" if unset
   degrees: string[]; // e.g. ["Bachelor's", "Master's"] -- [] if unset
 }
 

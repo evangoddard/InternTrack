@@ -7,12 +7,11 @@ your actual current postings instead of its placeholder sample data.
 
     python export_web_data.py
 
-Note on `deadline`: none of the configured sources (SimplifyJobs included)
-report an application deadline anywhere in their data -- only a posting
-date. This script writes "" for every posting's deadline rather than
-inventing one; the site already renders that as "-" and treats it as "no
-upcoming deadline," which is the honest behavior given what the data
-actually contains.
+Note on `deadline`: SimplifyJobs doesn't report an application deadline
+anywhere in its data -- only a posting date. This script writes "" for every
+posting's deadline rather than inventing one; the site already renders that
+as "-" and treats it as "no upcoming deadline," which is the honest behavior
+given what the data actually contains.
 """
 
 from __future__ import annotations
@@ -30,14 +29,6 @@ import sources
 from models import Posting, _SEASON_WORD
 
 OUTPUT_PATH = Path(__file__).parent / "web" / "data.json"
-
-SOURCE_DISPLAY_NAMES = {
-    "simplify": "Simplify",
-    "vanshb03": "vanshb03",
-    "greenhouse": "Greenhouse",
-    "lever": "Lever",
-    "ashby": "Ashby",
-}
 
 
 def season_display(posting: Posting) -> str:
@@ -65,14 +56,10 @@ def to_web_posting(posting: Posting) -> dict:
         "location": posting.location_str,
         "url": posting.url,
         "date_posted": posting.date_posted.date().isoformat() if posting.date_posted else "",
-        "deadline": "",  # not present in any configured source -- see module docstring
+        "deadline": "",  # not present in Simplify's data -- see module docstring
         "season": season_display(posting),
-        "source": SOURCE_DISPLAY_NAMES.get(posting.source, posting.source),
-        # Only Simplify sets these (empty for everything else). Neither is a
-        # job description -- none of the configured sources provide one --
-        # but both give the résumé matcher real signal beyond a 4-6 word
-        # title: category ("Hardware", "AI/ML/Data", ...) and preferred
-        # degree level(s) ("Bachelor's", "Master's", ...).
+        # Both give the résumé matcher real signal beyond a 4-6 word title:
+        # category ("Hardware", "AI/ML/Data", ...) and preferred degree level(s).
         "category": posting.category,
         "degrees": list(posting.raw.get("degrees") or []),
     }

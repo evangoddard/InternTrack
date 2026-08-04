@@ -14,15 +14,10 @@ export default function JobBoard({
   savedIds: Set<string>;
 }) {
   const [search, setSearch] = useState("");
-  const [source, setSource] = useState("all");
   const [season, setSeason] = useState("all");
   const [upcomingOnly, setUpcomingOnly] = useState(false);
   const [sortKey, setSortKey] = useState<SortKey>("date_posted");
 
-  const sources = useMemo(
-    () => ["all", ...Array.from(new Set(postings.map((p) => p.source))).sort()],
-    [postings]
-  );
   const seasons = useMemo(
     () => ["all", ...Array.from(new Set(postings.map((p) => p.season))).sort()],
     [postings]
@@ -38,7 +33,6 @@ export default function JobBoard({
         const haystack = `${p.company} ${p.title}`.toLowerCase();
         if (!haystack.includes(query)) return false;
       }
-      if (source !== "all" && p.source !== source) return false;
       if (season !== "all" && p.season !== season) return false;
       if (upcomingOnly && !isUpcomingDeadline(p.deadline)) return false;
       return true;
@@ -53,7 +47,7 @@ export default function JobBoard({
     });
 
     return list;
-  }, [postings, search, source, season, upcomingOnly, sortKey]);
+  }, [postings, search, season, upcomingOnly, sortKey]);
 
   return (
     <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
@@ -67,21 +61,6 @@ export default function JobBoard({
             placeholder="company or title…"
             className="w-48 border-b border-border bg-transparent py-1 text-sm text-text outline-none placeholder:text-text-faint focus:border-accent-bright sm:w-56"
           />
-        </label>
-
-        <label className="flex flex-col gap-1">
-          <span className="text-[0.65rem] uppercase tracking-[0.06em] text-text-faint">Source</span>
-          <select
-            value={source}
-            onChange={(e) => setSource(e.target.value)}
-            className="border-b border-border bg-transparent py-1 text-sm text-text outline-none focus:border-accent-bright"
-          >
-            {sources.map((s) => (
-              <option key={s} value={s} className="bg-bg-raised">
-                {s === "all" ? "All" : s}
-              </option>
-            ))}
-          </select>
         </label>
 
         <label className="flex flex-col gap-1">

@@ -9,6 +9,7 @@ you expected never showed up.
 from __future__ import annotations
 
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -26,12 +27,26 @@ class FilterConfig:
     sponsorship_exclude: list[str]
     locations_include: list[str]
     category_include: list[str]
+    min_date_posted: datetime | None
 
     @classmethod
     def load(cls, path: str | Path) -> "FilterConfig":
         with open(path) as handle:
             data = yaml.safe_load(handle) or {}
         filters = data.get("filters", {})
+
+        raw_min_date = filters.get("min_date_posted")
+        min_date_posted = None
+        if raw_min_date:
+            # PyYAML parses an unquoted YYYY-MM-DD as a date already; a
+            # quoted string needs parsing. Accept either.
+            min_date_posted = (
+                raw_min_date
+                if isinstance(raw_min_date, datetime)
+                else datetime.strptime(str(raw_min_date), "%Y-%m-%d")
+            )
+            min_date_posted = min_date_posted.replace(tzinfo=timezone.utc)
+
         return cls(
             seasons=lower_all(filters.get("seasons", [])),
             active_only=bool(filters.get("active_only", True)),
@@ -41,6 +56,7 @@ class FilterConfig:
             sponsorship_exclude=lower_all(filters.get("sponsorship_exclude", [])),
             locations_include=lower_all(filters.get("locations_include", [])),
             category_include=lower_all(filters.get("category_include", [])),
+            min_date_posted=min_date_posted,
         )
 
 
@@ -57,10 +73,9 @@ def rejection_reason(posting: Posting, config: FilterConfig) -> str | None:
     if config.active_only and not posting.active:
         return "posting is closed"
 
-    # Greenhouse/Lever postings carry no season field at all. Rejecting them
-    # for that would silently drop every posting from those sources, so an
-    # unset season skips this check rather than failing it.
-    #
+    if config.min_date_posted and posting.date_posted and posting.date_posted < config.min_date_posted:
+        return f"posted {posting.date_posted.date()}, before cutoff"
+
     # Simplify postings can cover multiple terms at once (a co-op spanning
     # Fall/Spring), which models._season_from_terms represents as
     # "Fall/Spring" rather than a single word. Splitting on "/" here means a

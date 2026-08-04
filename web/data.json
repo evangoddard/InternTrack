@@ -1,11 +1,375 @@
 {
   "stats": {
-    "postings_tracked": 408,
+    "postings_tracked": 137,
     "sources": 1,
-    "companies": 198,
-    "last_updated": "2026-08-03"
+    "companies": 49,
+    "last_updated": "2026-08-04"
   },
   "postings": [
+    {
+      "id": "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
+      "company": "American Express",
+      "title": "Product Innovation Intern - Credit & Fraud Risk",
+      "location": "Phoenix, AZ",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:14af9b4a-6b3e-473b-844f-542a89afb184",
+      "company": "TikTok",
+      "title": "Recommendation Product Manager Intern - Content Ecosystem",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7667874197682899205",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6c0be2d1-eac9-429a-b900-df719577d679",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669711968043092229",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "MBA",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:6454b1b2-6daf-4a13-9e9f-47209a333d39",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7667935150530840837",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b05ba4c5-016d-48b3-888c-f09fa7f253ad",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern - Global CRM",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669711026846058757",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e6fd79b5-22a9-40cb-a2a0-896d01ebf44b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Lead Ads",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669707492914727221",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8bc8874a-e4e7-4cc8-ba27-aa5854cba4d6",
+      "company": "TikTok",
+      "title": "AI Product Manager Intern - Content Ecosystem",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7667578131150506293",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b6428bbb-bf53-4e9c-8121-3217159bb9b6",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce",
+      "location": "Seattle, WA",
+      "url": "https://lifeattiktok.com/search/7668383643375257909",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0fb5cd0a-2141-450b-b5c0-d7a1d71036dd",
+      "company": "TikTok",
+      "title": "Data Science Intern - TikTok Live",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669700822370945333",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3b44efc2-7d58-43bc-a375-21f4344932d3",
+      "company": "TikTok",
+      "title": "Data Science Intern - Integrity and Safety",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669682935444900149",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b11dddb4-7bc4-4864-8ee8-ab5d5bb12c9a",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - App Ads and Gaming",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669709472078170373",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fb88f1c3-967a-419b-8ac4-535d941480ac",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Search Ads",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669698648817305909",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:dde435d3-0494-49e6-bba7-811e7131b9be",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Intelligent Creation-Camera",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7668862422178318597",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:708992c3-129c-4bbd-9c10-a0ae59f29fd2",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Performance Monetization",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669693163422845237",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5182ae3f-a0b7-4e07-80fd-25a69767ee5d",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Transaction Platform",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669943120351906053",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b59992d0-e14b-4009-9121-ed1172ad9b24",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - AI Platform",
+      "location": "San Jose, CA",
+      "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:04eb8758-e0be-4ae4-aca7-40e1626d3e24",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Product Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7667935633764370741",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4ef18c97-61e7-45fb-96b5-55d9163a1786",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Effects Performance",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7668725183121000757",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b8f5c841-1a67-4b15-bb05-70d871b0ab77",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7668834837268138293",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:44dacd86-f76d-414d-9cb5-9dd6a0211b2d",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Ads Signal & Measurement",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669700361976809733",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6fa46b99-9c48-44b2-8d38-e17ef2651837",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Ads Interface",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669705785962727733",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8b95003b-f01d-4d6b-a4d2-1e4c6d890df5",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Global CRM",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669711844487399685",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b1a212f9-bfdc-4a20-bc91-e34800cb57f6",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7669702702763018501",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:072800b9-3b80-4a6e-8cb3-e41ea30d9a45",
+      "company": "e-Careers",
+      "title": "Software Developer Trainee",
+      "location": "Blackpool, UK",
+      "url": "https://apply.workable.com/ecareers/j/C82B9AD635/apply",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:7aa9448f-c028-4566-8078-45d402ca4ffe",
+      "company": "American Express",
+      "title": "Product Management Intern",
+      "location": "NYC",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:db36b892-52d0-41cd-a477-521af6328b70",
       "company": "Samsara",
@@ -15,7 +379,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Spring 2028 / Summer 2028 / Fall 2028 / Winter 2029",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -30,7 +393,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -46,7 +408,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -62,7 +423,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -78,7 +438,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -91,7 +450,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -104,7 +462,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -117,7 +474,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -132,7 +488,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -147,7 +502,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -162,7 +516,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Master's"
@@ -177,7 +530,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Master's"
@@ -192,7 +544,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -208,7 +559,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -224,7 +574,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -237,7 +586,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -253,7 +601,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": []
     },
@@ -266,42 +613,10 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
-      "company": "JP Morgan Chase",
-      "title": "Data Internship - Data & AI Program",
-      "location": "Palo Alto, CA +7 more",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern",
-      "location": "NYC",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -313,43 +628,10 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-      "location": "NYC",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:c603c749-ab7d-489e-a4f7-a962ea05b835",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Markets - Analyst",
-      "location": "NYC",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -361,24 +643,7 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
-      "company": "JP Morgan Chase",
-      "title": "Data & AI Intern - Analyst",
-      "location": "Palo Alto, CA +7 more",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -393,7 +658,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -408,7 +672,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Master's"
@@ -423,7 +686,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -438,7 +700,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -453,7 +714,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Master's"
@@ -468,7 +728,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -484,7 +743,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -500,7 +758,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -515,7 +772,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -530,7 +786,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -546,7 +801,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -562,7 +816,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -578,7 +831,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -595,7 +847,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -610,7 +861,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -626,7 +876,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -641,10 +890,24 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
+      "company": "TikTok",
+      "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture",
+      "location": "Seattle, WA",
+      "url": "https://lifeattiktok.com/search/7667934792727906565",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -656,7 +919,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -671,7 +933,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -687,7 +948,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -703,7 +963,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -719,7 +978,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -735,7 +993,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -750,7 +1007,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -765,7 +1021,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -780,7 +1035,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's"
@@ -795,7 +1049,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's"
@@ -810,7 +1063,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -825,7 +1077,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's",
@@ -842,7 +1093,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -857,7 +1107,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's"
@@ -872,7 +1121,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -887,7 +1135,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -902,7 +1149,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": []
     },
@@ -915,7 +1161,6 @@
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -930,7 +1175,6 @@
       "date_posted": "2026-08-02",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -947,7 +1191,6 @@
       "date_posted": "2026-08-02",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -964,7 +1207,6 @@
       "date_posted": "2026-08-01",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -980,7 +1222,6 @@
       "date_posted": "2026-08-01",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -996,7 +1237,6 @@
       "date_posted": "2026-08-01",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1012,7 +1252,6 @@
       "date_posted": "2026-07-31",
       "deadline": "",
       "season": "Winter 2027 / Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -1025,7 +1264,6 @@
       "date_posted": "2026-07-31",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Master's"
@@ -1040,7 +1278,6 @@
       "date_posted": "2026-07-31",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -1057,7 +1294,6 @@
       "date_posted": "2026-07-31",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1070,7 +1306,6 @@
       "date_posted": "2026-07-30",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's"
@@ -1085,7 +1320,6 @@
       "date_posted": "2026-07-29",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1100,7 +1334,6 @@
       "date_posted": "2026-07-29",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -1116,7 +1349,6 @@
       "date_posted": "2026-07-29",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -1131,7 +1363,6 @@
       "date_posted": "2026-07-28",
       "deadline": "",
       "season": "Summer 2026",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1144,24 +1375,10 @@
       "date_posted": "2026-07-28",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:b722e715-5a14-4a63-a460-c1e16e834e4e",
-      "company": "Airbus",
-      "title": "Electrical Assembler",
-      "location": "Mirabel, QC, Canada",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Assembleur-se--lectrique-d-avions---Alternance-Travail-tudes--ATE----Airbus-Canada_JR10425810",
-      "date_posted": "2026-07-27",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": []
     },
     {
       "id": "simplify:4bd46e38-6629-44aa-b557-05c1094d119c",
@@ -1172,7 +1389,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's"
@@ -1187,7 +1403,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -1203,7 +1418,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1216,7 +1430,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1233,7 +1446,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1246,7 +1458,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2026 / Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1262,7 +1473,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's",
@@ -1278,7 +1488,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Fall 2026 / Winter 2026 / Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -1295,7 +1504,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2026",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -1311,7 +1519,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Winter 2027 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1326,7 +1533,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -1342,7 +1548,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Master's",
@@ -1358,7 +1563,6 @@
       "date_posted": "2026-07-23",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -1375,7 +1579,6 @@
       "date_posted": "2026-07-22",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "PhD"
@@ -1390,7 +1593,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -1403,7 +1605,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1418,7 +1619,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -1431,7 +1631,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's"
@@ -1446,7 +1645,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1461,7 +1659,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2026",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
@@ -1476,7 +1673,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2025",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "PhD"
@@ -1491,7 +1687,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2026",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1506,7 +1701,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2026 / Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -1521,7 +1715,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2026",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1537,7 +1730,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1553,7 +1745,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -1569,7 +1760,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -1586,7 +1776,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
@@ -1602,7 +1791,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": [
         "Bachelor's",
@@ -1618,7 +1806,6 @@
       "date_posted": "2026-07-21",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1631,7 +1818,6 @@
       "date_posted": "2026-07-20",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -1647,7 +1833,6 @@
       "date_posted": "2026-07-20",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Master's",
@@ -1663,7 +1848,6 @@
       "date_posted": "2026-07-20",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -1678,7 +1862,6 @@
       "date_posted": "2026-07-16",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Product",
       "degrees": [
         "Bachelor's",
@@ -1694,7 +1877,6 @@
       "date_posted": "2026-07-16",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -1711,7 +1893,6 @@
       "date_posted": "2026-07-16",
       "deadline": "",
       "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026 / Winter 2027 / Spring 2027 / Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1724,7 +1905,6 @@
       "date_posted": "2026-07-16",
       "deadline": "",
       "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026 / Winter 2027 / Spring 2027 / Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1737,7 +1917,6 @@
       "date_posted": "2026-07-15",
       "deadline": "",
       "season": "",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1750,7 +1929,6 @@
       "date_posted": "2026-07-15",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Quant",
       "degrees": []
     },
@@ -1763,7 +1941,6 @@
       "date_posted": "2026-07-15",
       "deadline": "",
       "season": "Summer 2027",
-      "source": "Simplify",
       "category": "Software",
       "degrees": []
     },
@@ -1776,4380 +1953,10 @@
       "date_posted": "2026-07-15",
       "deadline": "",
       "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "source": "Simplify",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:d429d89b-a684-47e8-a3c8-32639ab0d9c8",
-      "company": "Voloridge",
-      "title": "Quantitative Research Intern",
-      "location": "Jupiter, FL",
-      "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
-      "date_posted": "2026-07-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fcbb295b-3dae-4af6-bd41-ec8b5d05a1ca",
-      "company": "Jane Street",
-      "title": "Data Engineering Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
-      "date_posted": "2026-07-14",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:cbd572b1-88d5-4325-a534-e4b8b03290c6",
-      "company": "National Laboratory of the Rockies",
-      "title": "Graduate Intern - Transportation Systems Analysis",
-      "location": "Golden, CO",
-      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153",
-      "date_posted": "2026-07-14",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:87235779-9531-4bf2-b265-6cc448aa0f35",
-      "company": "Hudson River Trading",
-      "title": "Software Engineer Intern - C++ or Python",
-      "location": "Austin, TX +2 more",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3be23f9f-b730-4b41-90d4-adf9e07a393a",
-      "company": "Hudson River Trading",
-      "title": "Algorithm Development Intern - Quant Research",
-      "location": "NYC",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6d81dba4-27af-4e8b-b52b-a5b3b123f393",
-      "company": "DRW",
-      "title": "FPGA Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:aeb731f5-2ac3-477e-921b-74a84adcbdb6",
-      "company": "Citadel Securities",
-      "title": "Quantitative Trading Intern",
-      "location": "London, UK / Paris, France",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:210479d3-03b2-4a63-87ed-9c2f0d783379",
-      "company": "DRW",
-      "title": "Software Developer Intern",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:136acc19-04d4-4587-ac2a-23f2cd4c8ba3",
-      "company": "DRW",
-      "title": "Quantitative Research Intern",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957756",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2028",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c8d12bba-d657-4fe9-8c69-af2f801895a1",
-      "company": "DRW",
-      "title": "Quantitative Trading Analyst Intern",
-      "location": "London, UK",
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/7957243",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:64902580-c49d-4221-8f19-a1e00d5b2f02",
-      "company": "Arizona State University",
-      "title": "Student Data Science Assistant",
-      "location": "Scottsdale, AZ",
-      "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Student-Assistant---Data-Science_R1449",
-      "date_posted": "2026-07-13",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d7612fa7-5009-43fc-a9d3-8f16c3478eb2",
-      "company": "Jane Street",
-      "title": "Hardware Engineer - FPGA/Asic",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8624440002",
-      "date_posted": "2026-07-10",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Monetization Computer Vision",
-      "location": "Menlo Park, CA",
-      "url": "https://www.metacareers.com/jobs/2281218542616482",
-      "date_posted": "2026-07-10",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:cee814d5-6814-4bea-b567-0b0b7460e127",
-      "company": "Arrowstreet Capital",
-      "title": "Quantitative Developer Intern",
-      "location": "Boston, MA",
-      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
-      "date_posted": "2026-07-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6db9e02b-faca-4e0e-ac29-f4fb8c87be71",
-      "company": "Arrowstreet Capital",
-      "title": "Quantitative Researcher Intern",
-      "location": "Boston, MA",
-      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505",
-      "date_posted": "2026-07-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6de13808-7632-4d90-b7bb-993b55170ec7",
-      "company": "Brevium",
-      "title": "Data Analyst Assistant",
-      "location": "American Fork, UT",
-      "url": "https://job-boards.greenhouse.io/brevium/jobs/4326783006",
-      "date_posted": "2026-07-09",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f0aadc2c-2a47-404c-bc18-f3863ab3e456",
-      "company": "Pylon",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application",
-      "date_posted": "2026-07-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5eb655ae-5b71-490f-93e4-7026519c395f",
-      "company": "Jump Trading",
-      "title": "Campus Software Engineer Intern",
-      "location": "Chicago, IL",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8002989",
-      "date_posted": "2026-07-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:140e7fe6-bc56-47a0-8415-282c3257e658",
-      "company": "Jump Trading",
-      "title": "Campus Data Engineer Intern",
-      "location": "Chicago, IL",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8002998",
-      "date_posted": "2026-07-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:0dddbfae-5080-4262-acf4-8f92bc7de995",
-      "company": "Jump Trading",
-      "title": "FPGA Engineer Intern",
-      "location": "Chicago, IL",
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8003013",
-      "date_posted": "2026-07-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:95a232c5-f611-4960-ab8f-79fcd25db5f2",
-      "company": "Flow Traders",
-      "title": "Quantitative Trading Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8047166",
-      "date_posted": "2026-07-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c1d1053c-438a-481e-8375-57149313ea2f",
-      "company": "National Laboratory of the Rockies",
-      "title": "Software and Data Infrastructure Intern",
-      "location": "Golden, CO",
-      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
-      "date_posted": "2026-07-08",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4b968d7d-6734-4e0b-b21f-d1b8a7968640",
-      "company": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8621450002",
-      "date_posted": "2026-07-07",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4040c08e-acb6-48dd-b6cd-43c4aede894c",
-      "company": "AlixPartners",
-      "title": "Data Scientist Intern",
-      "location": "NYC",
-      "url": "https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:626bb7ad-7fc6-4fd0-99cd-31a7fb23cef3",
-      "company": "Jane Street",
-      "title": "Software Engineering Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8419303002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4770a4e3-28be-40d7-b5a2-700c0307960d",
-      "company": "Jane Street",
-      "title": "Software Engineer",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8599644002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:02295591-882e-4a5b-a71f-dd90219ec024",
-      "company": "Jane Street",
-      "title": "Sales and Trading",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8347385002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:33b81d4d-2080-4016-b2af-33d8a690356f",
-      "company": "Jane Street",
-      "title": "Quantitative Trader",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8617344002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:767f1b1b-9676-407d-99db-e3582821b87a",
-      "company": "Jane Street",
-      "title": "Quantitative Researcher Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8498547002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:24534a41-4bd7-4c4d-9ae9-8eb9bbc7c79c",
-      "company": "Jane Street",
-      "title": "Machine Learning Researcher",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8384490002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7a155542-8f46-4f7b-8366-966fcea9c221",
-      "company": "Jane Street",
-      "title": "Machine Learning Engineer",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8611307002",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5faf35a0-7208-492e-8ae8-bd9bab34001e",
-      "company": "Blue River Technology",
-      "title": "Machine Learning Intern - Autonomy",
-      "location": "Santa Clara, CA",
-      "url": "https://www.bluerivertechnology.com/job/?gh_jid=7947246",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6e1d88dd-30e6-454a-935b-beb34fbb9077",
-      "company": "American University",
-      "title": "Quantitative Research Methodology Assistant - Student",
-      "location": "Washington, DC",
-      "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:b977109a-8e8c-4173-a584-460e709a733f",
-      "company": "Citadel Securities",
-      "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
-      "location": "London, UK / Paris, France",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
-      "company": "Celonis",
-      "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-      "location": "Raleigh, NC",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:28286b52-4c99-4d00-a870-d919c13d68c6",
-      "company": "Citadel",
-      "title": "Software Engineer Intern",
-      "location": "Greenwich, CT +3 more",
-      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:249582ff-82d0-4883-adda-90d4315e8a98",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Trading System Engineer Intern",
-      "location": "United States",
-      "url": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-07-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f48a8b1a-b2ba-48ce-becd-612e1c0a2198",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Trader Intern",
-      "location": "NYC",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
-      "date_posted": "2026-07-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Developer Intern",
-      "location": "Chicago, IL / NYC",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-      "date_posted": "2026-07-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8c8a1f21-e711-48d0-8cec-601018138920",
-      "company": "CTGT",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
-      "date_posted": "2026-07-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:25b9a125-ee47-46ff-852e-22fb108b21d6",
-      "company": "Blackstone",
-      "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
-      "location": "London, UK",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819",
-      "date_posted": "2026-07-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5971e10c-96c8-4605-9fe5-6b3de66eb784",
-      "company": "JP Morgan Chase",
-      "title": "Machine Learning Center of Excellence Intern - NLP",
-      "location": "London, UK",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492",
-      "date_posted": "2026-07-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c604390d-1e7b-4ac6-906e-4946647383dd",
-      "company": "IMC Trading",
-      "title": "Quantitative Trader Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
-      "company": "IMC Trading",
-      "title": "Machine Learning Research Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4aa719b5-d2a2-4379-950b-53301335fcac",
-      "company": "IMC Trading",
-      "title": "Hardware Engineer Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:95f1deb7-1dce-443a-ad6d-1d1c78b64892",
-      "company": "Optiver",
-      "title": "Quantitative Research Intern",
-      "location": "Chicago, IL",
-      "url": "https://www.optiver.com/join-us/jobs/8451781002/?gh_jid=8451781002",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6f0dbd5a-a41a-4a05-a5f4-7fa193dbc2ab",
-      "company": "Optiver",
-      "title": "Quantitative Intern",
-      "location": "Austin, TX / Chicago, IL",
-      "url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e7d75784-3452-4e8b-ab92-f6c42a3641c1",
-      "company": "Palo Alto Networks",
-      "title": "Software Engineer Intern",
-      "location": "California",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3781fd12-0d4b-4e6f-a890-013b3381c856",
-      "company": "Citadel",
-      "title": "Quantitative Research Analyst Intern",
-      "location": "London, UK / Paris, France",
-      "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1f74ca3f-e832-45e6-bc13-b8222034e373",
-      "company": "Citadel",
-      "title": "Quantitative Research Engineer Intern",
-      "location": "Greenwich, CT +3 more",
-      "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:40090818-c9a2-4104-9627-111a5b9cd079",
-      "company": "Citadel Securities",
-      "title": "Quantitative Research Engineer Intern",
-      "location": "Miami, FL / NYC",
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/",
-      "date_posted": "2026-07-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - Commercial",
-      "location": "Chicago, IL",
-      "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-      "date_posted": "2026-06-30",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027 / Winter 2028 / Spring 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a47f5b39-f0c7-4d92-b3ba-b6eafe282f63",
-      "company": "Truland Equipment",
-      "title": "Power Platform Intern",
-      "location": "Fort Wayne, IN",
-      "url": "https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007",
-      "date_posted": "2026-06-30",
-      "deadline": "",
-      "season": "Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:de258f68-480f-46d8-90eb-6a87d8ded565",
-      "company": "Tesla",
-      "title": "Data Engineer Intern - Applications Engineering",
-      "location": "Fremont, CA",
-      "url": "https://www.tesla.com/careers/search/job/272928",
-      "date_posted": "2026-06-30",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:234ddad0-78fe-4f76-b966-bb8bf98bcf47",
-      "company": "Tesla",
-      "title": "Inline Metrology Systems Design/Engineer Intern - Cell Engineering",
-      "location": "Fremont, CA",
-      "url": "https://www.tesla.com/careers/search/job/275335",
-      "date_posted": "2026-06-29",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4b0a0a22-ba97-43e6-b131-336344fb7fe6",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Infrastructure",
-      "location": "Palo Alto, CA",
-      "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
-      "date_posted": "2026-06-29",
-      "deadline": "",
-      "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4a30dd71-73a0-48c8-9e4a-9422a6952920",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Defense Tech",
-      "location": "Washington, DC",
-      "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
-      "date_posted": "2026-06-29",
-      "deadline": "",
-      "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0d20db7c-197a-4ec4-91c2-a72684374d51",
-      "company": "Palantir",
-      "title": "Software Engineer Intern - Production Infrastructure",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
-      "date_posted": "2026-06-29",
-      "deadline": "",
-      "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ea21f599-680e-4822-8289-fe0af38a4bfe",
-      "company": "Palantir",
-      "title": "Privacy and Civil Liberties Software Engineer Intern",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply",
-      "date_posted": "2026-06-29",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:99283317-d8aa-4b4e-be87-1a9bd31e8e11",
-      "company": "Northeastern University",
-      "title": "Temporary R&D Software Engineer",
-      "location": "Burlington, MA",
-      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231",
-      "date_posted": "2026-06-27",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:808f7430-55f6-4daa-9c66-727dc6615eee",
-      "company": "Virtu Financial",
-      "title": "Quantitative Research Intern - Quant Research - Undergrad",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
-      "date_posted": "2026-06-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a6532539-f30d-4228-b8fa-a5ae3b555eb5",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer - Multiple Teams",
-      "location": "Pittsfield, MA",
-      "url": "https://careers-gdms.icims.com/jobs/73300/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-06-26",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:b8c23e53-79db-45ab-a105-78a3d344b881",
-      "company": "kos.ai",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application",
-      "date_posted": "2026-06-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:da228603-aa5d-4d28-94e6-89b4d8db92e7",
-      "company": "Maxima",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74/application",
-      "date_posted": "2026-06-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:458415d1-7c6f-417e-9299-30a80dcdf88b",
-      "company": "Espa AI",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application",
-      "date_posted": "2026-06-26",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4d6d9d8d-ef9c-4af6-98d5-d441afd6ea36",
-      "company": "RFCUNY",
-      "title": "Fullstack Web Development Peer Tutor",
-      "location": "NYC",
-      "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051",
-      "date_posted": "2026-06-25",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:8ce746f2-4dd9-4c00-bfee-754334ef88ec",
-      "company": "RFCUNY",
-      "title": "Data Analyst Intern",
-      "location": "NYC",
-      "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Data-Analyst-Intern_JR2987",
-      "date_posted": "2026-06-25",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:9ef328e9-1153-41e5-a037-2d1748c0288c",
-      "company": "Binance",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application",
-      "date_posted": "2026-06-25",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1a7325df-0d65-4acf-b873-c25bc0cf3318",
-      "company": "Astranis",
-      "title": "Hardware Design Associate - Software Defined Radio Team",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4691172006",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a56f3edd-d4b0-4571-9f3e-f4a339d8dd8b",
-      "company": "AfterQuery",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/AfterQuery/83ca470d-b1f7-41d6-935f-c1f2b8243e4b/application",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:2c50d66a-bdb8-46dc-8a47-f505dcf9f116",
-      "company": "Hiverge",
-      "title": "Research Engineer Intern",
-      "location": "Cambridge, UK",
-      "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8b859d22-1375-43c9-87ac-1af93ace29a5",
-      "company": "HARMAN",
-      "title": "Intern \u2013 Software Engineering",
-      "location": "Sunnyvale, CA",
-      "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3b16aba4-17cf-4636-b0fa-03bc53122db2",
-      "company": "VetsEZ",
-      "title": "Full Stack Developer Intern",
-      "location": "Remote in US",
-      "url": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d5f656c8-3f10-4705-8103-f3f7a76b54b1",
-      "company": "Mindsmith",
-      "title": "Software Engineering Intern",
-      "location": "Lehi, UT",
-      "url": "https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e",
-      "date_posted": "2026-06-24",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5116a1a4-a977-4162-a4be-3d2edc2d0f4a",
-      "company": "Centerfield",
-      "title": "Data Science Intern",
-      "location": "LA",
-      "url": "https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33/application",
-      "date_posted": "2026-06-23",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:cf783ed0-c7de-4051-813a-018e1ba6e7fc",
-      "company": "Core & Main",
-      "title": "Data Engineering Intern",
-      "location": "St. Louis, MO",
-      "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
-      "date_posted": "2026-06-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d77e9157-6bd3-45f9-82d5-488b2242147f",
-      "company": "Beyondsoft",
-      "title": "Software Engineer Intern",
-      "location": "United States",
-      "url": "https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-06-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:95f67d1a-0c71-458d-a724-50a943e61f90",
-      "company": "Sony",
-      "title": "Software Engineer Intern",
-      "location": "San Diego, CA",
-      "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282",
-      "date_posted": "2026-06-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8937b4a1-831c-441b-b889-821e11516a62",
-      "company": "Viridien",
-      "title": "Software Engineer Intern",
-      "location": "Crawley, UK",
-      "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1",
-      "date_posted": "2026-06-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:92102d77-8574-46bc-b529-80e4985b7bbf",
-      "company": "Meta",
-      "title": "Research Scientist Intern - State Estimation for Dexterous Manipulation",
-      "location": "Redmond, WA",
-      "url": "https://www.metacareers.com/jobs/2774289902955470",
-      "date_posted": "2026-06-16",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:35b298f5-dbfb-476b-a5c0-782ae622f7cd",
-      "company": "Definity Financial",
-      "title": "Data Analyst Co-op/Intern",
-      "location": "Toronto, ON, Canada",
-      "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9152",
-      "date_posted": "2026-06-16",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fe77f108-84fc-48fd-bc64-dfd8921d203f",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-      "location": "Washington, DC",
-      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-      "date_posted": "2026-06-16",
-      "deadline": "",
-      "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0503901e-622f-4d1b-b7f9-29d44e59eaab",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer Intern - US Government",
-      "location": "Washington, DC",
-      "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
-      "date_posted": "2026-06-16",
-      "deadline": "",
-      "season": "Winter 2028 / Spring 2028 / Summer 2028",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f5c86f4d-394f-4270-9bb3-1a362fbddbcb",
-      "company": "TikTok",
-      "title": "Data Scientist Intern - TikTok Shop User Product DS",
-      "location": "Seattle, WA",
-      "url": "https://lifeattiktok.com/search/7532254890627696903",
-      "date_posted": "2026-06-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a2690da9-8ffe-49b7-8e47-3db840df7b79",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-      "location": "Seattle, WA",
-      "url": "https://lifeattiktok.com/search/7527585101065652498",
-      "date_posted": "2026-06-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Trust and Safety",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7527582397938223367",
-      "date_posted": "2026-06-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6568ed59-ff3f-4485-97a2-64f6d218c8a0",
-      "company": "The Campbell's Company",
-      "title": "Data Engineer Co-op - Operational Support",
-      "location": "Philadelphia, PA",
-      "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842",
-      "date_posted": "2026-06-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:480b1ffd-7a33-4a90-9d19-fd390e121055",
-      "company": "Solar Turbines",
-      "title": "Gas Compressor Data Analyst Intern",
-      "location": "San Diego, CA",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
-      "date_posted": "2026-06-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d43b31ed-46ea-4c3d-8731-9b123a3e9678",
-      "company": "The Campbell's Company",
-      "title": "Data Engineer Co-op",
-      "location": "Philadelphia, PA",
-      "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837",
-      "date_posted": "2026-06-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:438a49bd-1732-4815-b2b2-e048f205949f",
-      "company": "Intel",
-      "title": "AI Software Engineer Intern",
-      "location": "Phoenix, AZ",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
-      "date_posted": "2026-06-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0b08ca4e-bd94-4d3b-b4c8-1fa0807b3175",
-      "company": "Walleye Capital",
-      "title": "Equity Volatility Quant Researcher Intern",
-      "location": "Miami, FL",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-      "date_posted": "2026-06-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:951080fa-b448-4ec1-8e54-80b5a3176cca",
-      "company": "Meshy",
-      "title": "Fullstack Engineer Intern",
-      "location": "California",
-      "url": "https://jobs.ashbyhq.com/meshy/262d74c7-8aab-474e-9fc6-8c8c48ec6572/application",
-      "date_posted": "2026-06-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
-      "company": "Evolver",
-      "title": "Applied Data Science Intern",
-      "location": "Palo Alto, CA",
-      "url": "https://job-boards.greenhouse.io/evolver/jobs/4254540009",
-      "date_posted": "2026-06-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f201c4fb-0c02-4b0c-910d-f94f40ef4e92",
-      "company": "TribalScale",
-      "title": "Agile Software Engineer Co-op",
-      "location": "Toronto, ON, Canada",
-      "url": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006",
-      "date_posted": "2026-06-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1f413552-77af-4f45-aecd-532852b777c8",
-      "company": "Sweatpals",
-      "title": "Product Manager Intern - Host Squad",
-      "location": "Remote in USA",
-      "url": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true",
-      "date_posted": "2026-06-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Product",
-      "degrees": []
-    },
-    {
-      "id": "simplify:47768da2-8643-4881-8249-a78543064605",
-      "company": "TikTok",
-      "title": "AI Software Engineer Intern - Transaction Platform",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7646621925436131637",
-      "date_posted": "2026-06-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b70cf0fc-1a6d-451a-a737-885a6a68884f",
-      "company": "Ancestry",
-      "title": "Machine Learning Engineer Co-op",
-      "location": "Remote in USA",
-      "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003378",
-      "date_posted": "2026-06-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:369aa379-9db8-44bd-8238-0cbf7f9c3483",
-      "company": "Tessera Labs",
-      "title": "Product Manager Intern",
-      "location": "San Jose, CA +2 more",
-      "url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true",
-      "date_posted": "2026-06-08",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA"
-      ]
-    },
-    {
-      "id": "simplify:91e02296-e111-4285-9087-9c63a3cb566b",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware",
-      "location": "Palo Alto, CA",
-      "url": "https://www.tesla.com/careers/search/job/270618",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:eee826e6-97e1-40a7-91fd-be9d495e5e43",
-      "company": "Tesla",
-      "title": "AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware",
-      "location": "Palo Alto, CA / Austin, TX",
-      "url": "https://www.tesla.com/careers/search/job/272462",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:abc70453-012c-4ef3-b911-7ee7d6a4af95",
-      "company": "Tesla",
-      "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
-      "location": "Palo Alto, CA",
-      "url": "https://www.tesla.com/careers/search/job/272581",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6148bc47-e98c-4c1a-9255-16279e18a578",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Software Engineer - AI Hardware Infrastructure",
-      "location": "Palo Alto, CA",
-      "url": "https://www.tesla.com/careers/search/job/260382",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Fall 2026 / Summer 2026 / Winter 2027 / Spring 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0606524d-078f-47d6-8447-f7842723a934",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Vehicle UI Development",
-      "location": "Palo Alto, CA",
-      "url": "https://www.tesla.com/careers/search/job/270063",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:57f10307-1152-4194-b7fe-b3925f20ae3e",
-      "company": "Tesla",
-      "title": "Software Engineer Intern - Software Engineer - Energy Engineering",
-      "location": "Palo Alto, CA / Fremont, CA",
-      "url": "https://www.tesla.com/careers/search/job/271362",
-      "date_posted": "2026-06-07",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026 / Winter 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:80d17130-e8af-42ec-9d13-451a3db46199",
-      "company": "XPENG Motors",
-      "title": "AI Infrastructure Onboard Performance Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002",
-      "date_posted": "2026-06-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:980b782f-08f5-4d65-8cde-74e2a0a76186",
-      "company": "Clarity Innovations",
-      "title": "Junior Software Engineer Intern",
-      "location": "Reston, VA",
-      "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
-      "date_posted": "2026-06-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:14f19965-aa67-424b-92a5-f048cefb3a34",
-      "company": "ByteDance",
-      "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
-      "date_posted": "2026-06-04",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9d377784-8ac4-48d0-9e39-db00dec7d15a",
-      "company": "ByteDance",
-      "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
-      "date_posted": "2026-06-04",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:836b094c-8889-4063-8bb3-2c4a5f202ee9",
-      "company": "ByteDance",
-      "title": "Research Intern - Seed",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
-      "date_posted": "2026-06-04",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab",
-      "company": "Ciena",
-      "title": "Embedded Software Engineer Intern",
-      "location": "Ottawa, ON, Canada",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:cffd6bd0-5186-4c17-8fac-8d5a71a2a071",
-      "company": "Nightwing Intelligence Solutions",
-      "title": "Software / Hardware Engineering Intern",
-      "location": "Annapolis Junction, MD",
-      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db",
-      "company": "Instead",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6516400c-f9b1-40bb-a008-78c1fa27b414",
-      "company": "ByteDance",
-      "title": "Payment Partnership Project Intern - Global Payment",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7642450978503641397/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:09174c1c-7ac5-489a-8c87-dcb67b971aa0",
-      "company": "LiveRamp",
-      "title": "Software Engineer Co-op - Conversions API",
-      "location": "Seattle, WA +3 more",
-      "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:8ec30018-f2c6-45b8-ba34-9afbf20eee7f",
-      "company": "ByteDance",
-      "title": "Research Intern - SDN Traffic Intelligence & Control",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6cf0985b-9f4b-4fbb-9dee-114a376730a2",
-      "company": "ByteDance",
-      "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7645070235035044101/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f1526646-4e0f-4501-b158-b8d7eb77bf4e",
-      "company": "ByteDance",
-      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:0686730f-5d35-438b-9745-60e0e744adff",
-      "company": "ByteDance",
-      "title": "Student Researcher Intern",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:17c17e13-cd4c-441d-8d4c-0da4520b0c37",
-      "company": "ByteDance",
-      "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
-      "date_posted": "2026-06-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:152398c0-8915-4c84-b415-a84c821e1a62",
-      "company": "TransMarket Group",
-      "title": "Quantitative Trader Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2027 / Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:de48457d-a67f-404d-998a-651a76fa2e00",
-      "company": "ByteDance",
-      "title": "Research Intern - Virtual Network",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7537164763424606482/detail",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f96f37aa-90f1-4570-b25c-870dcbcee499",
-      "company": "ByteDance",
-      "title": "Research Intern - AI/LLM Network",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7539992380817639687/detail",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:de5074f8-86bf-493d-b154-08ce9f1f4a9c",
-      "company": "ByteDance",
-      "title": "Researcher Intern - Virtual Network",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7537163899668531474/detail",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5ba6e23d-6e0c-406a-9f67-e88da7202998",
-      "company": "Lawrence Livermore National Laboratory (LLNL)",
-      "title": "Machine Learning Physics Graduate Student Intern",
-      "location": "Livermore, CA",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990013424486",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
-      "company": "Fluxergy",
-      "title": "Firmware Engineer Intern",
-      "location": "Irvine, CA",
-      "url": "https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:71f5d4c0-dc9d-4fe6-afcc-6d0735570374",
-      "company": "Clerkie",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "url": "http://getfiber.ai/careers?gh_jid=5152467007",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Winter 2024 / Spring 2024 / Summer 2024 / Fall 2024 / Winter 2025 / Spring 2025 / Summer 2025",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1d80a1df-6557-427b-8e92-f3380038cd16",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer Intern",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-      "date_posted": "2026-06-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d700b10f-a687-49f6-bd90-94bd0783aeab",
-      "company": "Magna",
-      "title": "Junior Full Stack Developer Co-op",
-      "location": "Oakville, ON, Canada",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793",
-      "date_posted": "2026-05-30",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:b7827240-ddc0-4787-b2b6-f95f65c55b31",
-      "company": "Autodesk",
-      "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
-      "location": "Canada",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2",
-      "date_posted": "2026-05-30",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2ed62ebe-2d2b-4ccb-bf87-d9a76e9209fa",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Researcher Intern",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000129235439",
-      "date_posted": "2026-05-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bf81e231-61f0-481a-9930-6a924fda265a",
-      "company": "pony.ai",
-      "title": "Software Engineer Intern",
-      "location": "Fremont, CA",
-      "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply",
-      "date_posted": "2026-05-29",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
-      "company": "pony.ai",
-      "title": "Research Intern - Deep Learning",
-      "location": "Fremont, CA",
-      "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
-      "date_posted": "2026-05-29",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bdcaf4b4-8b8e-422a-abc8-4c87da4098a9",
-      "company": "Diversified Automation",
-      "title": "Hardware Engineering Co-op",
-      "location": "Louisville, KY",
-      "url": "https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply",
-      "date_posted": "2026-05-28",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:52ee1de2-11b1-4e37-a1a0-6903f7dd9b9b",
-      "company": "TikTok",
-      "title": "Data Science Intern - Tiktok Shop-Supply Chain & Logistics",
-      "location": "Seattle, WA",
-      "url": "https://lifeattiktok.com/search/7644719084681234741",
-      "date_posted": "2026-05-28",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern Co-op",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005",
-      "date_posted": "2026-05-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e2e3917f-309a-4c40-9db2-2b8beedf29be",
-      "company": "Base Power",
-      "title": "Software Engineer Intern",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application",
-      "date_posted": "2026-05-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:7d1cf43e-e1f6-4c90-8aff-9370057da6ba",
-      "company": "Base Power",
-      "title": "Quantitative Developer Intern",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application",
-      "date_posted": "2026-05-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:de3ac110-de5d-4cf0-8ae0-c05d6927c542",
-      "company": "PlusAI",
-      "title": "Research Engineer Intern - Mapping & Localization",
-      "location": "Santa Clara, CA",
-      "url": "https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061/apply",
-      "date_posted": "2026-05-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
-      "company": "Marvell",
-      "title": "Applied Machine Learning Scientist Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
-      "date_posted": "2026-05-23",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:06de75c2-cc22-4498-95d5-a96d0f6f920b",
-      "company": "Magna",
-      "title": "Artificial Intelligence Student",
-      "location": "Vaughan, ON, Canada",
-      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f8909d93-bd64-4c59-950a-efeb6a7816bc",
-      "company": "MAG Aerospace",
-      "title": "Systems Analyst Apprentice",
-      "location": "California",
-      "url": "https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6d8fbd5f-f59a-4dcf-9018-fd44f9b0f565",
-      "company": "PlusAI",
-      "title": "Research Engineer Intern - Control",
-      "location": "Santa Clara, CA",
-      "url": "https://jobs.lever.co/plus-2/ac7f8f73-88d0-48d5-8d4f-71ed4cfa6ecc/apply",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:06fdb7fb-f7a7-4d74-9a9c-d59f0d316fe4",
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern - Planning",
-      "location": "Santa Clara, CA",
-      "url": "https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:526d01e5-61df-44da-b2e9-feac9226e326",
-      "company": "Apple",
-      "title": "Undergrad Engineering Intern",
-      "location": "United States",
-      "url": "https://jobs.apple.com/en-us/details/200663968",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e385d69d-8eb3-4a95-969e-3d2e6d216b1e",
-      "company": "Apple",
-      "title": "Software Engineering Masters Intern",
-      "location": "United States",
-      "url": "https://jobs.apple.com/en-us/details/200664320",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9de9af2d-fdd8-4a02-8964-7ef816980d72",
-      "company": "Apple",
-      "title": "Hardware Engineering Intern",
-      "location": "United States",
-      "url": "https://jobs.apple.com/en-us/details/200663981",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:466ed4e1-53fd-4db3-9dbc-b2b85c1ba40f",
-      "company": "Apple",
-      "title": "Hardware Technologies Engineering Intern",
-      "location": "United States",
-      "url": "https://jobs.apple.com/en-us/details/200664383",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:cc65bfdb-925a-4e51-ab70-e5d7927114dd",
-      "company": "Apple",
-      "title": "Machine Learning and Artificial Intelligence Intern",
-      "location": "United States",
-      "url": "https://jobs.apple.com/en-us/details/200664221",
-      "date_posted": "2026-05-22",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:733ec987-5677-4e4e-a8fc-0a8dbcef6060",
-      "company": "Base Power",
-      "title": "Hardware Engineer Intern",
-      "location": "Austin, TX",
-      "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application",
-      "date_posted": "2026-05-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4eb1a0e0-e03b-4a73-b036-cda58ca88425",
-      "company": "TikTok",
-      "title": "Data Analyst Intern - TikTok Live",
-      "location": "London, UK",
-      "url": "https://lifeattiktok.com/search/7642264645810292997",
-      "date_posted": "2026-05-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:7f652134-0291-4759-8e6a-e499a01587af",
-      "company": "Oracle",
-      "title": "Software Engineer Intern",
-      "location": "Seattle, WA / Santa Clara, CA",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
-      "date_posted": "2026-05-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:95ecb2a1-6a8f-4c29-b971-2b3713f37046",
-      "company": "Oracle",
-      "title": "Software Engineer Intern - Ovip",
-      "location": "Nashville, TN +2 more",
-      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
-      "date_posted": "2026-05-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
-      "company": "Primetals Technologies",
-      "title": "Data Science Intern - Data Platforms",
-      "location": "Lake Mary, FL",
-      "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors",
-      "date_posted": "2026-05-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:5407f428-b513-492f-97d0-d2bd020610b6",
-      "company": "Microsoft",
-      "title": "Research Intern - Self-Improving AI",
-      "location": "Cambridge, MA / NYC",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858",
-      "date_posted": "2026-05-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d3ee5bc4-7518-4aa5-b4c1-53a1a4793a3e",
-      "company": "Melotech",
-      "title": "AI/ML Engineer Intern",
-      "location": "London, UK +2 more",
-      "url": "https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073/application",
-      "date_posted": "2026-05-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:39d9c34d-25c2-4b63-b896-ad1ecb98c563",
-      "company": "Melotech",
-      "title": "Data Science Intern - Music & Audio",
-      "location": "London, UK +4 more",
-      "url": "https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application",
-      "date_posted": "2026-05-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ec5e83b4-1cb5-4b81-9056-28110a076c6e",
-      "company": "SiFive",
-      "title": "Platform Technologies Language Design Intern",
-      "location": "Santa Clara, CA / Berkeley, CA",
-      "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183",
-      "date_posted": "2026-05-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
-      "company": "Adobe",
-      "title": "AI/ML Intern \u2013 Machine Learning Engineer/Researcher Intern",
-      "location": "Seattle, WA +2 more",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-      "date_posted": "2026-05-16",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:7f826bfb-a9e6-425c-a6dc-82510874e1d0",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern - Infrastructure",
-      "location": "Fremont, CA",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003",
-      "date_posted": "2026-05-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
-      "company": "Docugami",
-      "title": "Software Engineer Intern",
-      "location": "Kirkland, WA",
-      "url": "https://job-boards.greenhouse.io/docugami/jobs/4014838003",
-      "date_posted": "2026-05-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:991a8f63-65fa-4790-8de1-d09deeed8643",
-      "company": "Facility Solutions Group",
-      "title": "AI Automation Intern - Electrical Construction Operations",
-      "location": "NYC",
-      "url": "https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-05-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e5bf0800-58fa-41cf-bba9-7799f4f540f5",
-      "company": "Palantir",
-      "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
-      "location": "NYC",
-      "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
-      "date_posted": "2026-05-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d82bb13b-066a-4f6d-8f2f-ad3e7b394a3d",
-      "company": "Astera",
-      "title": "Software Engineer Intern - Distributed Simulation Systems",
-      "location": "Oakland, CA",
-      "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066/application",
-      "date_posted": "2026-05-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:69f769a1-69e0-4347-b4c0-00b287637051",
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Fremont, CA",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003",
-      "date_posted": "2026-05-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:73ceaf56-0208-4efc-ab70-3dea4246f067",
-      "company": "Heron Power",
-      "title": "Hardware Test Engineering Intern",
-      "location": "Santa Cruz, CA",
-      "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
-      "date_posted": "2026-05-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:07de287a-60cf-4318-9941-284ab79b4148",
-      "company": "Eluvio",
-      "title": "AI Machine Learning Intern - Gen AI - Multimodal",
-      "location": "Berkeley, CA",
-      "url": "https://apply.workable.com/eluvio/j/F70F3473E7/apply",
-      "date_posted": "2026-05-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8c643851-d7eb-41d5-9c08-aa99ae659141",
-      "company": "Acceldata",
-      "title": "Software Engineering Co-op",
-      "location": "Kitchener, ON, Canada",
-      "url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply",
-      "date_posted": "2026-05-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a8394fef-9f28-44ce-a233-ed8822941ae4",
-      "company": "Cresta",
-      "title": "Data Science Intern - Customer Success",
-      "location": "Remote in USA",
-      "url": "https://job-boards.greenhouse.io/cresta/jobs/5213417008",
-      "date_posted": "2026-05-07",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a0e95457-348b-495c-b6ca-6c74a2122451",
-      "company": "Tesla",
-      "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.tesla.com/careers/search/job/269819",
-      "date_posted": "2026-05-06",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:41d0ba32-8c09-48c5-917a-2ee8e6af3a8d",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Language & Multimodal Foundations",
-      "location": "Seattle, WA +2 more",
-      "url": "https://www.metacareers.com/jobs/24536664159369645",
-      "date_posted": "2026-05-05",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:6030164c-e664-402f-979c-959537416807",
-      "company": "Rainmaker",
-      "title": "Software Engineering Intern",
-      "location": "El Segundo, CA",
-      "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b",
-      "date_posted": "2026-05-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:55023fd3-ef60-49f4-ac11-5d1fe01b0a7d",
-      "company": "Axiomatic AI",
-      "title": "Software Engineering Internship \u2013 Platform/DevOps",
-      "location": "Boston, MA",
-      "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101",
-      "date_posted": "2026-05-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f43a9396-7c89-4fa7-bfd1-eca8533895fb",
-      "company": "Axiomatic AI",
-      "title": "Software Engineering Internship \u2013 AI/Agentic Systems",
-      "location": "Boston, MA",
-      "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101",
-      "date_posted": "2026-05-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
-      "company": "Apptronik",
-      "title": "Robotics Software Intern - Real-Time Controls",
-      "location": "Austin, TX",
-      "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004",
-      "date_posted": "2026-04-30",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e18b5659-3658-49dd-a554-9ba2b49123a9",
-      "company": "Intel",
-      "title": "AI Software Engineering Intern",
-      "location": "Hillsboro, OR / Folsom, CA",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
-      "date_posted": "2026-04-29",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:810e50c9-00ba-458d-bdb0-89ae72adc9f9",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Nextgen LLM",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7633668061979543813",
-      "date_posted": "2026-04-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9424072c-485e-43c4-91e8-4f124356a286",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Trading System Engineering Intern",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-04-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:14dcee99-b506-4efe-a80a-63151e541c4d",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Strategy Developer Intern",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-04-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:04690200-00da-4592-b697-fc3f8a39af9c",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Systematic Trading Intern",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-04-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-04-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9b3a298c-8894-407e-bb7b-b72434713c39",
-      "company": "Pennsylvania State University",
-      "title": "Embedded Systems and Hardware Co-Op",
-      "location": "Horsham, PA",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
-      "date_posted": "2026-04-18",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c141650-b107-465f-a7ed-290459b5da2a",
-      "company": "Tencent",
-      "title": "Software Engineering Intern - PC Game Client Development",
-      "location": "London, UK",
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1",
-      "date_posted": "2026-04-18",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Trader Intern",
-      "location": "Ardmore, PA",
-      "url": "https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-04-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:74c89fde-4677-4b10-b706-43f45065e8e4",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7629187524074342709",
-      "date_posted": "2026-04-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:55c29391-7472-4e4d-a26f-2f38c7efc55e",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
-      "location": "Seattle, WA",
-      "url": "https://lifeattiktok.com/search/7629188397976586501",
-      "date_posted": "2026-04-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:0774f31a-26bd-433d-bc51-3d4bbb820b0d",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - TikTok Search / Generative AI - LLM",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7629250876813642037",
-      "date_posted": "2026-04-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f301da26-1c76-4bd7-a703-7a4a42159c02",
-      "company": "Output Biosciences",
-      "title": "Research Intern, Machine Learning",
-      "location": "New York, NY / San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/output/da2723ca-a418-49f1-b7da-a4f383dd8239",
-      "date_posted": "2026-04-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1df8808f-a878-46a2-ba15-70c3fbeae304",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Nextgen Recommendation",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7519768631745087752",
-      "date_posted": "2026-04-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5de46fee-d75d-49db-b9a1-b75c30056591",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - TikTok Recommendation",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7625928030560700725",
-      "date_posted": "2026-04-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:0d633297-0371-40a5-bcfe-d66992c2ba79",
-      "company": "Anthropic",
-      "title": "Anthropic Fellows Program - ML Systems & Performance",
-      "location": "London, UK +3 more",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "date_posted": "2026-04-10",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:cbd849a6-3f10-4184-9849-bdd8e45f6bc6",
-      "company": "Anthropic",
-      "title": "Anthropic Fellows Program - Reinforcement Learning",
-      "location": "London, UK +3 more",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183052008",
-      "date_posted": "2026-04-10",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:6d5e8652-a493-422e-ba2a-0811ef8f8cff",
-      "company": "Radix Trading",
-      "title": "Quantitative Technologist C++ Intern",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
-      "date_posted": "2026-04-09",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:50476edb-b428-4583-901b-6dc310fab018",
-      "company": "Perplexity AI",
-      "title": "Intern - Search Machine Learning Engineer",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application",
-      "date_posted": "2026-04-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:00b962ad-7300-4a69-b5ea-dc0b7bad5669",
-      "company": "ByteDance",
-      "title": "Security Engineering Project - Watermark",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7625759034518128901/detail",
-      "date_posted": "2026-04-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2547b989-7e3c-4396-91bc-44de4e601bc7",
-      "company": "Omnis",
-      "title": "Software Engineering Internship/Co-Op",
-      "location": "Venice, CA",
-      "url": "https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753",
-      "date_posted": "2026-04-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d07dc6c0-69ed-42e6-a0f0-732bbe5b72fc",
-      "company": "Veeva",
-      "title": "Intern Software Engineer",
-      "location": "Pleasanton, CA",
-      "url": "https://careers.veeva.com/job/4df9c2ca-d702-4d41-af82-290deff66564/intern-software-engineer-summer-2026-pleasanton-ca/",
-      "date_posted": "2026-04-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:954e23d8-480c-418b-881b-ac4dbca5f098",
-      "company": "TikTok",
-      "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7623531249253255429",
-      "date_posted": "2026-04-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c282058b-cc59-4c84-882c-b9455c3fa0e9",
-      "company": "SoloPulse",
-      "title": "Systems Engineering Intern",
-      "location": "Norcross, GA",
-      "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51/apply",
-      "date_posted": "2026-04-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1f07093f-af2d-4820-8147-f6ea26602897",
-      "company": "Pennsylvania State University",
-      "title": "AI/ML Research and Development Intern",
-      "location": "State College, PA / Reston, VA",
-      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000077083-1",
-      "date_posted": "2026-04-02",
-      "deadline": "",
-      "season": "Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:01b73789-a55c-4227-864d-4e1c9f06b059",
-      "company": "Haize Labs",
-      "title": "Software Engineer Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008",
-      "date_posted": "2026-04-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:76c586e3-eb16-454a-a7d8-5431a785b342",
-      "company": "Aquatic Capital Management",
-      "title": "Quantitative Researcher \u2013 Intern",
-      "location": "London, UK / Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:15636fe2-413f-4e5d-b6c9-0d42dc5edc5f",
-      "company": "Aquatic Capital Management",
-      "title": "Software Engineer Intern",
-      "location": "London, UK / Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3b2df1b1-de52-40af-b5e6-97ad417126f1",
-      "company": "HEXAWARE",
-      "title": "Intern Data Engineer",
-      "location": "United States",
-      "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f1916feb-f156-4153-baa5-e26c75d5ae6f",
-      "company": "ByteDance",
-      "title": "Research Scientist in Large Language Model - LLM",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d964cbb0-851e-48b9-97f4-66e970586e9a",
-      "company": "ByteDance",
-      "title": "Student Researcher - Multimodal Interaction and World Model",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
-      "company": "ByteDance",
-      "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:fe92a675-1a53-4b88-a3e3-7e810871610d",
-      "company": "ByteDance",
-      "title": "Research Scientist in Vision Foundation Model \u2013 Graduates",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623543228228536581/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
-      "company": "ByteDance",
-      "title": "Student Researcher - AI Foundation Model Infrastructure",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:12c61451-8c62-417c-b97a-6b13f42bc584",
-      "company": "ByteDance",
-      "title": "Student Researcher - Vision Foundation Model",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5ee0c221-6808-401f-9d4e-a8e71f60785b",
-      "company": "ByteDance",
-      "title": "Student Researcher - Speech Foundation Model",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:38db92f9-6338-4caa-b797-e738cda127b9",
-      "company": "ByteDance",
-      "title": "Student Researcher",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:079a44ae-b213-4f4c-9088-cc2c48d346b1",
-      "company": "ByteDance",
-      "title": "Student Researcher - Large Language Model - Seed",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
-      "date_posted": "2026-04-01",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9eb5db83-d537-441b-9c55-31a3f7b3746b",
-      "company": "Doctors Without Borders",
-      "title": "Data Science Intern",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/msfcareers/jobs/4993728008",
-      "date_posted": "2026-03-30",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a8f12fe0-48d1-413b-8917-7a8890b19e5f",
-      "company": "Prime Intellect",
-      "title": "AI Research Resident - Open Source AGI",
-      "location": "Remote in USA",
-      "url": "https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f/application?embed=true",
-      "date_posted": "2026-03-27",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
-      "company": "QuantCo",
-      "title": "Software Engineer Intern",
-      "location": "London, UK +4 more",
-      "url": "https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c/apply",
-      "date_posted": "2026-03-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:4f45fa19-d12a-4b2b-804a-16e5c8cdc02d",
-      "company": "Ellipsis Labs",
-      "title": "Software Engineer",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849/application",
-      "date_posted": "2026-03-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:466fb8d5-0978-48fe-bbfe-b0bdb2df53aa",
-      "company": "TikTok",
-      "title": "Data Analyst Project Intern - Data Science",
-      "location": "London, UK",
-      "url": "https://lifeattiktok.com/search/7620775575152462085",
-      "date_posted": "2026-03-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2a020896-015e-4ca9-8e89-f9ce18d0152c",
-      "company": "Intropic",
-      "title": "Quantrepreneur - Engineering",
-      "location": "London, UK",
-      "url": "https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803/apply",
-      "date_posted": "2026-03-23",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:58821bd1-bd22-45bf-82f0-c375329b1523",
-      "company": "Geneva Trading",
-      "title": "Junior Software Engineer",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-      "date_posted": "2026-03-23",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0d4503e1-90d1-4c0f-bd67-bb854a37ac01",
-      "company": "Nio",
-      "title": "LLM Algorithmic Optimization Engineer \u2013 Intern",
-      "location": "San Jose, CA",
-      "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119",
-      "date_posted": "2026-03-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:1d1aaa5f-b30b-4532-a9ae-e76b54b9fead",
-      "company": "ByteDance",
-      "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail",
-      "date_posted": "2026-03-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1c46b945-3a24-4c37-b029-66008dc23b63",
-      "company": "ByteDance",
-      "title": "Software Engineer Intern - Security-Data - BS/MS",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7616874229010647349/detail",
-      "date_posted": "2026-03-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ab5fa332-ca73-429e-83d4-712536d312df",
-      "company": "Creatify Lab",
-      "title": "Software Engineer Intern",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application",
-      "date_posted": "2026-03-18",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f2003bcd-3a85-486f-ab57-496ec1a066b8",
-      "company": "Hewlett Packard (HP)",
-      "title": "Graduate Web Developer",
-      "location": "Cambridge, UK",
-      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344-1",
-      "date_posted": "2026-03-16",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6f0099e1-42bd-4acc-879d-6d5959f30133",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern - Internal Apps",
-      "location": "Fremont, CA / Austin, TX",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003",
-      "date_posted": "2026-03-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:7bf6db8c-27ff-4940-b8ef-19a292ee39bd",
-      "company": "ByteDance",
-      "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
-      "location": "Seattle, WA",
-      "url": "https://jobs.bytedance.com/en/position/7614301443042642229/detail",
-      "date_posted": "2026-03-13",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:df86468a-0723-4315-bf56-0803134d3889",
-      "company": "TikTok",
-      "title": "Data Analyst Project Intern",
-      "location": "London, UK",
-      "url": "https://lifeattiktok.com/search/7616659899507591477",
-      "date_posted": "2026-03-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
-      "company": "Berkshire Hathaway Energy",
-      "title": "Software Engineer Intern",
-      "location": "Des Moines, IA +4 more",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
-      "date_posted": "2026-03-12",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:751867f3-533e-4690-8897-2b77e95e20b3",
-      "company": "Smiths Detection",
-      "title": "Software Engineering Intern (Cyber focus)",
-      "location": "Edgewood, MD",
-      "url": "https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677",
-      "date_posted": "2026-03-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e9569c77-dc0a-48e3-a280-aab0544afe8e",
-      "company": "Nightwing Intelligence Solutions",
-      "title": "Radio Frequency Engineering Intern",
-      "location": "Dulles, VA",
-      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
-      "date_posted": "2026-03-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:226d8391-85d9-4671-9460-0c1aba2da6d1",
-      "company": "Magna",
-      "title": "Robotics AI Algorithm- R&D",
-      "location": "Troy, MI",
-      "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837",
-      "date_posted": "2026-03-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:93aad207-f111-43b0-be25-98c6db424327",
-      "company": "Magna",
-      "title": "Robotics AI Software- R&D",
-      "location": "Troy, MI",
-      "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838",
-      "date_posted": "2026-03-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e971a3e2-631b-4ad9-ab78-effc38c864ed",
-      "company": "Tenstorrent",
-      "title": "AI Compiler Software Intern",
-      "location": "Toronto, ON, Canada",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
-      "date_posted": "2026-03-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:03ab4d41-5cba-45c5-8db8-f4a6b4ccb687",
-      "company": "Techtronic Industries",
-      "title": "Lab Power Platform Development Intern",
-      "location": "Anderson, SC",
-      "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Lab-Power-Platform-Development-Intern_R71591",
-      "date_posted": "2026-03-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5fdf7d5e-02c5-4d49-9d2b-a9b3dc38869d",
-      "company": "Zettabyte",
-      "title": "Software Engineer Intern",
-      "location": "Palo Alto, CA / United States",
-      "url": "https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759/application?embed=true",
-      "date_posted": "2026-03-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:44bbff4b-6183-44c5-93b8-e082f78ee431",
-      "company": "Hermeus",
-      "title": "Flight Software Engineering Intern",
-      "location": "Atlanta, GA",
-      "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440",
-      "date_posted": "2026-03-06",
-      "deadline": "",
-      "season": "Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Hardware Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c90fd52e-24ef-4129-b1c4-1af34d7b997b",
-      "company": "Tilde Research",
-      "title": "ML Engineer",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef/application",
-      "date_posted": "2026-03-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:a1f9bdda-ef89-4be4-b96d-0b533c672b33",
-      "company": "John Deere",
-      "title": "Part Time Student - Software Engineer",
-      "location": "Ames, IA",
-      "url": "https://johndeere.eightfold.ai/careers/job/137479561561",
-      "date_posted": "2026-03-05",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:49253634-daa9-4f92-89fc-e71ec916eb6b",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Monetization Generative AI - LLM",
-      "location": "Seattle, WA +3 more",
-      "url": "https://www.metacareers.com/jobs/2916726525182155",
-      "date_posted": "2026-03-05",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:30d1162f-2765-4044-9e44-203f4a85d5a1",
-      "company": "Meta",
-      "title": "Research Scientist Intern - AI Alignment",
-      "location": "Boston, MA +5 more",
-      "url": "https://www.metacareers.com/jobs/1782902493113620",
-      "date_posted": "2026-03-05",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ce2b8a69-f8a4-41dc-8b62-0a5987028ce6",
-      "company": "Meta",
-      "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
-      "location": "London, UK",
-      "url": "https://www.metacareers.com/jobs/771948392580541",
-      "date_posted": "2026-03-05",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:b1e539b6-36e7-4ebf-85d8-38f7357fff68",
-      "company": "Creatify Lab",
-      "title": "Product Manager",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application",
-      "date_posted": "2026-03-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Product",
-      "degrees": [
-        "MBA"
-      ]
-    },
-    {
-      "id": "simplify:4ea55721-8b99-4c35-9153-70fbe060609a",
-      "company": "Nio",
-      "title": "Systems Verification & Concurrent Kernel Architecture Research Intern",
-      "location": "San Jose, CA",
-      "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139",
-      "date_posted": "2026-03-04",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:69225149-308a-4cc5-84fa-f22b334b94b9",
-      "company": "Marmon Holdings",
-      "title": "Data Engineering Intern/Co-op",
-      "location": "Milwaukee, WI",
-      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453",
-      "date_posted": "2026-03-04",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2202e642-993c-409e-9a28-010a98bbeafc",
-      "company": "TikTok",
-      "title": "Data Scientist Intern - Tiktok Integrity and Safety - 2026 Summer",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7610543185362372917",
-      "date_posted": "2026-03-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2e4bcf86-ac79-4bab-97c9-17d24636cb96",
-      "company": "TikTok",
-      "title": "AI Product Operations Intern",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7611950589973186821",
-      "date_posted": "2026-03-02",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:50b74e7f-6fd6-4664-990a-0cf32bb4f58f",
-      "company": "AXQ Capital",
-      "title": "Quantitative Research Intern",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/axq/jobs/5575450004",
-      "date_posted": "2026-03-02",
-      "deadline": "",
-      "season": "Summer 2026 / Winter 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e86150cf-386f-4eac-99a4-224ea7eacfc3",
-      "company": "Serval",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "url": "https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application",
-      "date_posted": "2026-03-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0065f072-c487-4769-b10d-6993af68f633",
-      "company": "Expedia Group",
-      "title": "Machine Learning Science Intern",
-      "location": "San Jose, CA / Austin, TX",
-      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585",
-      "date_posted": "2026-02-25",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:413d4356-f795-4ec6-a74e-db82af5f19cb",
-      "company": "Brookfield",
-      "title": "Artificial Intelligence Intern - Renewable Power & Transition",
-      "location": "NYC / Toronto, ON, Canada",
-      "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741",
-      "date_posted": "2026-02-25",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "MBA"
-      ]
-    },
-    {
-      "id": "simplify:d20e2f57-773d-47e9-bab8-54f94d0060e0",
-      "company": "Multiply Labs",
-      "title": "Software Engineering Intern",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
-      "date_posted": "2026-02-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:97e90df1-ce3c-402c-b01a-191b722209e1",
-      "company": "Multiply Labs",
-      "title": "Robotics Software Intern",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586",
-      "date_posted": "2026-02-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8d025ab1-dd40-4fc6-b039-ad07e208b45b",
-      "company": "HCompany",
-      "title": "Research Scientist Intern - Model Team",
-      "location": "London, UK",
-      "url": "https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application",
-      "date_posted": "2026-02-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a12394d5-cf24-4163-b933-f97a81581b85",
-      "company": "Jobs for Humanity",
-      "title": "Artificial Intelligence Manager",
-      "location": "Atlanta, GA",
-      "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016293725",
-      "date_posted": "2026-02-24",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:3f608301-24e9-44cc-a414-5e9d5f26a2d3",
-      "company": "Corpay",
-      "title": "Software Developer \u2013 Co-op",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866",
-      "date_posted": "2026-02-21",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:272cb1de-278a-45fe-87a1-7215f39bdd32",
-      "company": "Codeage",
-      "title": "Web Developer Intern - Wordpress and Woocommerce",
-      "location": "Culver City, CA",
-      "url": "https://jobs.smartrecruiters.com/Codeage/743999669081604",
-      "date_posted": "2026-02-20",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:85e161ce-7df7-4b28-b13e-71f36a0670de",
-      "company": "Huxley",
-      "title": "Software Engineer 1",
-      "location": "Raleigh, NC",
-      "url": "https://jobs.smartrecruiters.com/ComputerFutures3/101016513",
-      "date_posted": "2026-02-20",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4adda786-ba0c-4479-9bfd-b9799f03d6ff",
-      "company": "Hewlett Packard (HP)",
-      "title": "Graduate Web Developer - 1 year Placement",
-      "location": "Cambridge, UK",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344",
-      "date_posted": "2026-02-20",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:83c142e0-55fd-47b2-bbc2-e6813317112c",
-      "company": "Hunt Oil Company",
-      "title": "Software Engineer Intern - Summer 2026",
-      "location": "Dallas, TX",
-      "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891",
-      "date_posted": "2026-02-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3ea65aaa-0297-4b8f-9378-51e35478fb95",
-      "company": "Octaura",
-      "title": "Intern \u2013 Data Engineering",
-      "location": "NYC",
-      "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
-      "date_posted": "2026-02-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8adf8a0f-8e62-4272-a4ac-197b91e8bb67",
-      "company": "BlinqLABS",
-      "title": "Java Web Development Intern",
-      "location": "Southfield, MI",
-      "url": "https://jobs.smartrecruiters.com/Blinqlabs/743999734120603",
-      "date_posted": "2026-02-19",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:8f637d0b-eb09-4bfb-8875-fa6166bb6de2",
-      "company": "Thomson Reuters",
-      "title": "Research Scientist Intern",
-      "location": "London, UK",
-      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484",
-      "date_posted": "2026-02-18",
-      "deadline": "",
-      "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:219daf1b-8dbb-4edb-ac96-3946967faf83",
-      "company": "Bree",
-      "title": "Software Engineer \u2013 Machine Learning Intern/Co-op",
-      "location": "Toronto, ON, Canada",
-      "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
-      "date_posted": "2026-02-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:9b2c8392-e286-400e-95e9-809d118e367e",
-      "company": "ByteDance",
-      "title": "Benefits Operation Data Analyst Project Intern",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
-      "date_posted": "2026-02-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d55233d5-c04b-4722-b48b-b39c50e6b4c9",
-      "company": "ByteDance",
-      "title": "Software Engineer Intern - AI Infrastructure",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7595756835349973253/detail",
-      "date_posted": "2026-02-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:eb88c4db-86bf-440d-9bd8-2e371a47c706",
-      "company": "Fanatics",
-      "title": "Collectibles - Software Engineer",
-      "location": "NYC +2 more",
-      "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727",
-      "date_posted": "2026-02-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:921c0431-a012-464f-988d-479e03995d57",
-      "company": "Fanatics",
-      "title": "Collectibles Intern - Product - Physical Trading Cards",
-      "location": "NYC",
-      "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26720",
-      "date_posted": "2026-02-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d682d247-adfc-4dad-8a92-2194c9d88119",
-      "company": "ByteDance",
-      "title": "Software Engineer Project Intern - Security Engineering",
-      "location": "San Jose, CA",
-      "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail",
-      "date_posted": "2026-02-07",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b6a3ef51-360d-4fca-b9ce-d3956052fbb0",
-      "company": "Etched.ai",
-      "title": "Firmware Intern - Firmware",
-      "location": "San Jose, CA",
-      "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application",
-      "date_posted": "2026-02-07",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:45a0cf16-aac8-4f67-a3e7-de757ff4ffe4",
-      "company": "TikTok",
-      "title": "Research Scientist Intern",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7602701787133249797",
-      "date_posted": "2026-02-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
-      "company": "Auctor",
-      "title": "Software Engineering Intern",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
-      "date_posted": "2026-02-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:24dbcbe0-d481-45c9-b53d-1484768ec672",
-      "company": "onsemi",
-      "title": "LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems",
-      "location": "Fairview, OR",
-      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970",
-      "date_posted": "2026-02-04",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:61a1bd21-b985-4837-bf71-6e3d21f98241",
-      "company": "Jain Global",
-      "title": "Quant Research Intern",
-      "location": "London, UK",
-      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1",
-      "date_posted": "2026-02-04",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8370f5b4-e4c5-4cd8-8d48-50a580ca3d04",
-      "company": "RESPEC",
-      "title": "Student Engineering Intern - Data Science",
-      "location": "Rapid City, SD",
-      "url": "https://jobs.smartrecruiters.com/RESPECInc/744000107100902",
-      "date_posted": "2026-02-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aab2c1bd-bf56-42bf-b06b-fd9efea2acba",
-      "company": "John Deere",
-      "title": "Part-Time Student - Software Engineering - Ames IA Technology CA",
-      "location": "Ames, IA",
-      "url": "https://johndeere.eightfold.ai/careers/job/137478709942",
-      "date_posted": "2026-02-03",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2feb0baf-d212-4827-9c88-22d0b99dd528",
-      "company": "Point72",
-      "title": "Fund Flow Quantitative Researcher",
-      "location": "Stamford, CT / NYC",
-      "url": "https://boards.greenhouse.io/point72/jobs/8389431002",
-      "date_posted": "2026-01-23",
-      "deadline": "",
-      "season": "",
-      "source": "Simplify",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3697b474-d02a-477a-949b-63c212baa9a1",
-      "company": "AeroVironment",
-      "title": "Software Engineering Intern \u2013 Hyper-RF Division",
-      "location": "Germantown, MD",
-      "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
-      "date_posted": "2025-12-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0cc4797c-81ae-43bc-85bb-ba188815da52",
-      "company": "TikTok",
-      "title": "Machine Learning Scientist Intern - TikTok Recommendation",
-      "location": "San Jose, CA",
-      "url": "https://lifeattiktok.com/search/7519241729582516487",
-      "date_posted": "2025-12-18",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:39e88ace-8fcd-4b32-896c-f73ccdbe0631",
-      "company": "LinkedIn",
-      "title": "Strategy & Insights- Data Science Intern, Master's",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913",
-      "date_posted": "2025-12-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0f0d42f7-4d21-4673-8880-574d8ced1106",
-      "company": "LinkedIn",
-      "title": "Data Engineer- Data Science Intern, Master's",
-      "location": "Mountain View, CA",
-      "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
-      "date_posted": "2025-12-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7e0fee85-6b27-4c02-a943-7b7b47f28ebd",
-      "company": "Velera",
-      "title": "Data Engineer",
-      "location": "Remote in USA",
-      "url": "https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844",
-      "date_posted": "2025-12-16",
-      "deadline": "",
-      "season": "Summer 2026 / Winter 2026 / Spring 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3dbd2ba2-63b1-4b77-9886-cb3abf12b61c",
-      "company": "ASML",
-      "title": "Internship - Software Quality Assurance",
-      "location": "San Jose, CA",
-      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394",
-      "date_posted": "2025-12-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b934d36b-3e65-4506-9064-7eea7f4da6ad",
-      "company": "General Motors",
-      "title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
-      "location": "Mountain View, CA +2 more",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
-      "date_posted": "2025-12-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
-      "company": "Capella",
-      "title": "Flight Software Engineering Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.capellaspace.com/company/apply?gh_jid=5735295004",
-      "date_posted": "2025-12-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Hardware Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
-      "company": "Tenstorrent",
-      "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
-      "location": "Austin, TX / Santa Clara, CA",
-      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
-      "date_posted": "2025-12-12",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ada5c220-536e-454a-8ba0-1f7629d949e6",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-      "location": "Honolulu, HI",
-      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-      "date_posted": "2025-12-12",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "source": "Simplify",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:932eae26-30ca-4b13-9092-ad3924591106",
-      "company": "Meta",
-      "title": "Research Scientist Intern, LLM Evaluation",
-      "location": "New York, NY",
-      "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
-      "date_posted": "2025-12-11",
-      "deadline": "",
-      "season": "Summer 2026 / Winter 2026 / Spring 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2ef20c02-0da5-469f-ae3b-77415aa7081c",
-      "company": "Bosch",
-      "title": "LLM & Agentic AI R&D Intern",
-      "location": "Sunnyvale, CA",
-      "url": "https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern",
-      "date_posted": "2025-12-10",
-      "deadline": "",
-      "season": "Summer 2026 / Winter 2026 / Spring 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:41b49e0b-6452-42a9-8893-0d31db922126",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Computational Chemist",
-      "location": "Redmond, WA",
-      "url": "https://www.metacareers.com/profile/job_details/2059739221232640",
-      "date_posted": "2025-12-10",
-      "deadline": "",
-      "season": "Summer 2026 / Winter 2026 / Spring 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "Data Science, AI & Machine Learning",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:faaeecec-2f51-4926-b379-c75a7cabe96b",
-      "company": "Westinghouse",
-      "title": "Software Engineering Intern",
-      "location": "Shoreview, MN",
-      "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/",
-      "date_posted": "2025-12-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "source": "Simplify",
-      "category": "Software Engineering",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:83202c55-8636-4cc2-9b99-1ae2c111a000",
-      "company": "Amazon",
-      "title": "Amazon Robotics \u2013 Applied Scientist 2 Intern / Co-op - 2026",
-      "location": "Seattle, WA +2 more",
-      "url": "https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-      "date_posted": "2025-12-08",
-      "deadline": "",
-      "season": "Summer 2026 / Spring 2026 / Fall 2026",
-      "source": "Simplify",
-      "category": "AI/ML/Data",
-      "degrees": []
     }
   ]
 }

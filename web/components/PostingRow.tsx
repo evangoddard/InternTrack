@@ -73,7 +73,6 @@ export default function PostingRow({
             <input type="hidden" name="url" value={posting.url} />
             <input type="hidden" name="location" value={posting.location} />
             <input type="hidden" name="season" value={posting.season} />
-            <input type="hidden" name="source" value={posting.source} />
             <input type="hidden" name="returnTo" value="/" />
             <button
               type="submit"

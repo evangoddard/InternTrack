@@ -10,15 +10,11 @@
 // replace the body of rankPostings() later without touching any caller --
 // the function signature and RankedPosting shape are the contract.
 //
-// HONEST LIMITATION: none of this app's data sources (SimplifyJobs
-// included) provide an actual job description -- only a title, and for
-// Simplify-sourced postings, a category ("Software", "Hardware", "AI/ML/
-// Data", ...) and preferred degree level(s). postingDocument() below
-// builds the richest text it can from what's actually available; it is
-// not comparing against a real description because none exists upstream.
-// If a source starts providing real descriptions, add that field to
-// Posting and postingDocument() and everything downstream improves for
-// free -- the algorithm itself doesn't change.
+// HONEST LIMITATION: no source provides a real job description -- postings
+// only carry a title, company, category ("Software", "Hardware",
+// "AI/ML/Data", ...), and preferred degree level(s). postingDocument() below
+// matches against exactly those short fields; there's no longer text to
+// fall back to.
 //
 // How it works, briefly:
 //   1. Tokenize the résumé and every posting's text into unigrams and
@@ -100,13 +96,16 @@ function cosineSimilarity(a: Map<string, number>, b: Map<string, number>): numbe
   return dot / (magA * magB);
 }
 
-// The text actually available to match against -- see the module-level
-// comment for why this is title/company/category/degrees/season and not
-// a real description.
+// The text actually available to match against -- see the HONEST LIMITATION
+// note above.
 function postingDocument(posting: Posting): string {
-  return [posting.title, posting.company, posting.category, posting.season, ...posting.degrees].join(
-    " "
-  );
+  return [
+    posting.title,
+    posting.company,
+    posting.category,
+    posting.season,
+    ...posting.degrees,
+  ].join(" ");
 }
 
 export function rankPostings(resumeText: string, postings: Posting[]): RankedPosting[] {

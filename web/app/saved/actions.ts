@@ -29,7 +29,6 @@ export async function savePosting(formData: FormData) {
       url: String(formData.get("url") ?? ""),
       location: String(formData.get("location") ?? ""),
       season: String(formData.get("season") ?? ""),
-      source: String(formData.get("source") ?? ""),
     },
     { onConflict: "user_id,posting_id" }
   );
@@ -73,9 +72,27 @@ export async function updateStatus(formData: FormData) {
   const status = String(formData.get("status") ?? "");
   if (!STATUSES.includes(status as SavedStatus)) return;
 
+  const update: Record<string, unknown> = { status, updated_at: new Date().toISOString() };
+
+  // applied_at is set once, the first time status becomes "applied", and
+  // never overwritten by later status changes -- it has to be a real apply
+  // date for the Excel export to mean anything, not just "last touched."
+  if (status === "applied") {
+    const { data: existing } = await supabase
+      .from("saved_postings")
+      .select("applied_at")
+      .eq("id", id)
+      .eq("user_id", user.id)
+      .single();
+
+    if (!existing?.applied_at) {
+      update.applied_at = new Date().toISOString();
+    }
+  }
+
   const { error } = await supabase
     .from("saved_postings")
-    .update({ status, updated_at: new Date().toISOString() })
+    .update(update)
     .eq("id", id)
     .eq("user_id", user.id);
 

@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """InternTrack.
 
-Fetch internship postings (aggregators + Greenhouse/Lever/Ashby boards),
-dedupe across sources, filter them, remember what's been seen before, and
-print them. No notifications -- this just fetches and stores; run it
-whenever you want to see what's current.
+Fetch internship postings from SimplifyJobs, dedupe, filter them, remember
+what's been seen before, and print them. No notifications -- this just
+fetches and stores; run it whenever you want to see what's current.
 
     python main.py                    # matching postings, newest first
     python main.py --new              # only postings never seen in a prior run
@@ -117,7 +116,8 @@ def main() -> int:
     is_first_run = not Path(args.db).exists()
 
     conn = storage.connect(args.db)
-    new_keys = {p.key for p in storage.sync(postings, conn)}
+    new_postings = storage.sync(postings, conn)
+    new_keys = {p.key for p in new_postings}
     conn.close()
 
     if args.all:

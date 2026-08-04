@@ -1,11 +1,8 @@
-"""Cross-source deduplication.
+"""Deduplication.
 
-The same posting can arrive twice: once from the aggregator, once from a
-company's own Greenhouse/Lever board. Neither source shares an ID with the
-other, so there's no exact key to match on -- instead we normalize company
-and title and match on that pair. A direct board is preferred over the
-aggregator when both report the same job, since it's the more authoritative,
-lower-latency copy.
+SimplifyJobs occasionally lists the same job twice under different IDs (e.g.
+a re-post). Neither copy shares an ID with the other, so there's no exact key
+to match on -- instead we normalize company and title and match on that pair.
 """
 
 from __future__ import annotations
@@ -16,12 +13,7 @@ from models import Posting
 
 _COMPANY_SUFFIXES = {"inc", "llc", "corp", "corporation", "ltd", "co", "company", "group"}
 
-# Lower index wins when the same job appears from multiple sources. Direct
-# company boards are the most authoritative; vanshb03 and simplify are both
-# aggregators of the same rough tier, so a tie between them is arbitrary
-# either way -- they're listed together rather than left to the "unknown
-# source" fallback below.
-_SOURCE_PRIORITY = ("greenhouse", "lever", "ashby", "vanshb03", "simplify")
+_SOURCE_PRIORITY = ("simplify",)
 
 
 def normalize_company(name: str) -> str:
