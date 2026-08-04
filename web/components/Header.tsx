@@ -19,6 +19,9 @@ export default async function Header() {
             <Link href="/saved" className="transition-colors hover:text-text">
               Saved
             </Link>
+            <Link href="/tracker" className="transition-colors hover:text-text">
+              Tracker
+            </Link>
             <Link href="/resume" className="transition-colors hover:text-text">
               Résumé
             </Link>

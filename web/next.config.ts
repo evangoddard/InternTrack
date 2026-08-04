@@ -10,6 +10,11 @@ const nextConfig: NextConfig = {
   // from bundling lets it load as a plain Node module instead, where its
   // own worker resolution works correctly.
   serverExternalPackages: ["pdf-parse"],
+
+  // Hides the dev-only route/build-activity badge Next.js overlays in the
+  // corner during `npm run dev` -- it never shows in production, but it was
+  // getting in the way while working locally.
+  devIndicators: false,
 };
 
 export default nextConfig;

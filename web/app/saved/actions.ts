@@ -8,6 +8,12 @@ import { STATUSES, type SavedStatus } from "@/lib/savedStatus";
 // Saves (or re-saves) a posting for the current user, snapshotting its
 // display fields -- see supabase/schema.sql for why. Signed-out users are
 // sent to log in and then back to wherever they were.
+//
+// Status defaults straight to "applied" (with applied_at set immediately)
+// rather than the old "saved" intermediate stage -- the Save button on the
+// feed is the only way postings enter this table, so by the time something
+// is here it's because you're applying to it, and it should show up on
+// /tracker right away without a separate "mark applied" step.
 export async function savePosting(formData: FormData) {
   const supabase = await createClient();
   const {
@@ -29,6 +35,8 @@ export async function savePosting(formData: FormData) {
       url: String(formData.get("url") ?? ""),
       location: String(formData.get("location") ?? ""),
       season: String(formData.get("season") ?? ""),
+      status: "applied",
+      applied_at: new Date().toISOString(),
     },
     { onConflict: "user_id,posting_id" }
   );
@@ -39,6 +47,7 @@ export async function savePosting(formData: FormData) {
 
   revalidatePath(returnTo);
   revalidatePath("/saved");
+  revalidatePath("/tracker");
 }
 
 export async function unsavePosting(formData: FormData) {
@@ -58,6 +67,7 @@ export async function unsavePosting(formData: FormData) {
   if (error) console.error("unsavePosting failed:", error.message);
 
   revalidatePath("/saved");
+  revalidatePath("/tracker");
   revalidatePath("/");
 }
 
@@ -99,4 +109,32 @@ export async function updateStatus(formData: FormData) {
   if (error) console.error("updateStatus failed:", error.message);
 
   revalidatePath("/saved");
+  revalidatePath("/tracker");
+}
+
+// The freeform per-application fields on the /tracker sheet -- edited
+// inline cell-by-cell, so this takes plain arguments instead of a FormData
+// (it's called directly from a client component, never from a <form>).
+// Whitelisted against TRACKER_FIELDS since `field` ultimately becomes a
+// column name in the update -- never build that from unvalidated input.
+const TRACKER_FIELDS = new Set(["resume_used", "cover_letter", "salary", "offer"]);
+
+export async function updateTrackerField(id: string, field: string, value: string) {
+  if (!TRACKER_FIELDS.has(field)) return;
+
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) redirect("/login");
+
+  const { error } = await supabase
+    .from("saved_postings")
+    .update({ [field]: value, updated_at: new Date().toISOString() })
+    .eq("id", id)
+    .eq("user_id", user.id);
+
+  if (error) console.error("updateTrackerField failed:", error.message);
+
+  revalidatePath("/tracker");
 }

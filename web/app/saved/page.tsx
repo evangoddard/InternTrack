@@ -37,22 +37,11 @@ export default async function SavedPage() {
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
-      <div className="flex flex-wrap items-start justify-between gap-4">
-        <div>
-          <h1 className="font-display text-2xl font-semibold text-text">Saved postings</h1>
-          <p className="mt-1 text-sm text-text-muted">
-            {saved?.length ?? 0} saved. Update status as you move through each application.
-          </p>
-        </div>
-
-        {saved && saved.length > 0 && (
-          <a
-            href="/saved/export"
-            className="shrink-0 rounded-full border border-border px-4 py-2 text-sm font-semibold text-text transition-colors hover:border-accent-bright hover:text-accent-bright"
-          >
-            Export to Excel
-          </a>
-        )}
+      <div>
+        <h1 className="font-display text-2xl font-semibold text-text">Saved postings</h1>
+        <p className="mt-1 text-sm text-text-muted">
+          {saved?.length ?? 0} saved. Update status as you move through each application.
+        </p>
       </div>
 
       {!saved || saved.length === 0 ? (

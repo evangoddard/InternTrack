@@ -2,11 +2,10 @@ import ExcelJS from "exceljs";
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 
-// GET /saved/export -- downloads the signed-in user's saved postings as an
-// .xlsx file. RLS on saved_postings means this query can only ever return
-// that user's own rows, even though there's no explicit .eq("user_id", ...)
-// here -- Supabase enforces it server-side from the session, same as every
-// other query against this table in the app.
+// GET /tracker/export -- downloads the signed-in user's application tracker
+// as a real .xlsx file (open it in Excel, Numbers, Google Sheets, or
+// whatever your system opens .xlsx with). RLS on saved_postings means this
+// query can only ever return the signed-in user's own rows.
 export async function GET() {
   const supabase = await createClient();
   const {
@@ -20,7 +19,8 @@ export async function GET() {
   const { data: rows, error } = await supabase
     .from("saved_postings")
     .select("*")
-    .order("created_at", { ascending: false });
+    .not("applied_at", "is", null)
+    .order("applied_at", { ascending: false });
 
   if (error) {
     return NextResponse.json({ error: error.message }, { status: 500 });
@@ -28,16 +28,18 @@ export async function GET() {
 
   const workbook = new ExcelJS.Workbook();
   workbook.creator = "InternTrack";
-  const sheet = workbook.addWorksheet("Saved Postings");
+  const sheet = workbook.addWorksheet("Application Tracker");
 
   sheet.columns = [
     { header: "Company", key: "company", width: 26 },
     { header: "Role", key: "title", width: 42 },
+    { header: "Resume Used", key: "resume_used", width: 20 },
+    { header: "Cover Letter", key: "cover_letter", width: 20 },
     { header: "Location", key: "location", width: 20 },
-    { header: "Season", key: "season", width: 22 },
-    { header: "Status", key: "status", width: 14 },
-    { header: "Date Saved", key: "created_at", width: 14 },
     { header: "Date Applied", key: "applied_at", width: 14 },
+    { header: "Status/Interview Stage", key: "status", width: 18 },
+    { header: "Salary", key: "salary", width: 16 },
+    { header: "Offer", key: "offer", width: 16 },
     { header: "Link", key: "url", width: 46 },
   ];
   sheet.getRow(1).font = { bold: true };
@@ -48,17 +50,19 @@ export async function GET() {
     sheet.addRow({
       company: row.company,
       title: row.title,
+      resume_used: row.resume_used,
+      cover_letter: row.cover_letter,
       location: row.location,
-      season: row.season,
-      status: row.status,
-      created_at: dateOnly(row.created_at),
       applied_at: dateOnly(row.applied_at),
+      status: row.status,
+      salary: row.salary,
+      offer: row.offer,
       url: row.url,
     });
   }
 
   const buffer = await workbook.xlsx.writeBuffer();
-  const fileName = `interntrack-saved-${new Date().toISOString().slice(0, 10)}.xlsx`;
+  const fileName = `interntrack-tracker-${new Date().toISOString().slice(0, 10)}.xlsx`;
 
   return new NextResponse(new Uint8Array(buffer), {
     headers: {

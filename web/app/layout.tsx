@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Fraunces, Geist, IBM_Plex_Mono } from "next/font/google";
+import HomeLink from "@/components/HomeLink";
 import "./globals.css";
 
 // Display face: high-contrast serif, carries the wordmark and section heads.
@@ -41,6 +42,7 @@ export default function RootLayout({
       className={`${fraunces.variable} ${geist.variable} ${plexMono.variable} h-full`}
     >
       <body className="min-h-full flex flex-col bg-bg text-text font-body antialiased">
+        <HomeLink />
         {children}
       </body>
     </html>
