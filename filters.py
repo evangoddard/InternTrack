@@ -25,6 +25,7 @@ class FilterConfig:
     company_always_include: list[str]
     sponsorship_exclude: list[str]
     locations_include: list[str]
+    category_include: list[str]
 
     @classmethod
     def load(cls, path: str | Path) -> "FilterConfig":
@@ -39,6 +40,7 @@ class FilterConfig:
             company_always_include=lower_all(filters.get("company_always_include", [])),
             sponsorship_exclude=lower_all(filters.get("sponsorship_exclude", [])),
             locations_include=lower_all(filters.get("locations_include", [])),
+            category_include=lower_all(filters.get("category_include", [])),
         )
 
 
@@ -58,8 +60,17 @@ def rejection_reason(posting: Posting, config: FilterConfig) -> str | None:
     # Greenhouse/Lever postings carry no season field at all. Rejecting them
     # for that would silently drop every posting from those sources, so an
     # unset season skips this check rather than failing it.
-    if config.seasons and posting.season and posting.season.lower() not in config.seasons:
-        return f"season is {posting.season}"
+    #
+    # Simplify postings can cover multiple terms at once (a co-op spanning
+    # Fall/Spring), which models._season_from_terms represents as
+    # "Fall/Spring" rather than a single word. Splitting on "/" here means a
+    # posting passes if *any* of its seasons is one you're watching for --
+    # exact whole-string membership would wrongly reject every multi-term
+    # posting even when one of its terms matches.
+    if config.seasons and posting.season:
+        posting_seasons = posting.season.lower().split("/")
+        if not any(s in config.seasons for s in posting_seasons):
+            return f"season is {posting.season}"
 
     if any(term in posting.sponsorship.lower() for term in config.sponsorship_exclude):
         return f"sponsorship: {posting.sponsorship}"
@@ -77,6 +88,15 @@ def rejection_reason(posting: Posting, config: FilterConfig) -> str | None:
         blob = " ".join(posting.locations).lower()
         if not any(term in blob for term in config.locations_include):
             return f"location: {posting.location_str}"
+
+    # Substring match, not exact -- Simplify's category field isn't a fixed
+    # enum ("Software" and "Software Engineering" both occur), so this lets
+    # `category_include: [software]` catch both variants without having to
+    # enumerate every spelling.
+    if config.category_include:
+        category = posting.category.lower()
+        if not category or not any(term in category for term in config.category_include):
+            return f"category: {posting.category or 'none'}"
 
     return None
 

@@ -36,7 +36,8 @@
   --color-accent-fill: var(--accent-fill);
   --color-accent-wash: var(--accent-wash);
   --font-display: var(--font-display);
-  --font-text: var(--font-text);
+  --font-body: var(--font-body);
+  --font-num: var(--font-num);
 }
 
 body {
@@ -49,8 +50,14 @@ body {
   letter-spacing: -0.03em;
 }
 
-.font-text {
-  font-family: var(--font-text), monospace;
+.font-body {
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+/* Reserved for actual numeric values (the résumé-match score badge) —
+   not for prose, labels, or dates, which read better in the body face. */
+.font-num {
+  font-family: var(--font-num), monospace;
 }
 
 p {

@@ -11,6 +11,8 @@ export interface Posting {
   deadline: string; // ISO date string, "" if unknown/rolling
   season: string; // e.g. "Fall 2026"
   source: string; // e.g. "Greenhouse", "Lever", "Ashby", "LinkedIn"
+  category: string; // e.g. "Software", "Hardware", "AI/ML/Data" -- "" if the source doesn't set one
+  degrees: string[]; // e.g. ["Bachelor's", "Master's"] -- [] if unset
 }
 
 export interface Stats {

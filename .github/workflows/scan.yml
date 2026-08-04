@@ -3,10 +3,10 @@ name: Scan internships
 on:
   workflow_dispatch:
   schedule:
-    # Every 15 minutes, offset from :00/:15/:30/:45 -- scheduled GitHub Actions
-    # runs are disproportionately delayed right at the top of each quarter
-    # hour under load, so this dodges the worst of that queueing.
-    - cron: "7,22,37,52 * * * *"
+    # Every 4 hours (6 runs/day), offset 13 minutes past the hour -- exact
+    # top-of-hour schedules queue up under load on GitHub's shared runners,
+    # so a small offset avoids the worst of that.
+    - cron: "13 */4 * * *"
 
 # A run that takes longer than 15 minutes shouldn't overlap with the next
 # one -- two concurrent runs both writing to and pushing interntrack.db is
@@ -32,8 +32,6 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Run scanner
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python main.py --limit 5
 
       - name: Persist history db

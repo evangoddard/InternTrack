@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Fraunces, IBM_Plex_Mono } from "next/font/google";
+import { Fraunces, Geist, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
 // Display face: high-contrast serif, carries the wordmark and section heads.
@@ -10,9 +10,16 @@ const fraunces = Fraunces({
   axes: ["opsz", "SOFT", "WONK"],
 });
 
-// Text face: also doubles as the numeral/mono voice for dates, scores, labels.
+// Body/UI face: everything else — labels, filters, feed rows, copy. A
+// monospace font reads oddly for full sentences, so prose lives here.
+const geist = Geist({
+  variable: "--font-body",
+  subsets: ["latin"],
+});
+
+// Numeral face: reserved for the résumé-match score badge only.
 const plexMono = IBM_Plex_Mono({
-  variable: "--font-text",
+  variable: "--font-num",
   subsets: ["latin"],
   weight: ["400", "500", "600"],
 });
@@ -29,8 +36,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${fraunces.variable} ${plexMono.variable} h-full`}>
-      <body className="min-h-full flex flex-col bg-bg text-text font-text antialiased">
+    <html
+      lang="en"
+      className={`${fraunces.variable} ${geist.variable} ${plexMono.variable} h-full`}
+    >
+      <body className="min-h-full flex flex-col bg-bg text-text font-body antialiased">
         {children}
       </body>
     </html>

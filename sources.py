@@ -23,6 +23,11 @@ VANSH_URL = (
     "/dev/.github/scripts/listings.json"
 )
 
+SIMPLIFY_URL = (
+    "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships"
+    "/dev/.github/scripts/listings.json"
+)
+
 TIMEOUT_SECONDS = 20
 USER_AGENT = "interntrack/0.1 (personal job tracker)"
 
@@ -64,6 +69,56 @@ def fetch_vansh(url: str = VANSH_URL) -> list[Posting]:
 
     # A few bad rows is normal. Most of them being bad means the upstream
     # schema changed and the parser needs updating -- worth failing on.
+    if skipped > len(records) * 0.2:
+        raise FetchError(
+            f"{skipped} of {len(records)} records failed to parse -- "
+            "the upstream schema has probably changed"
+        )
+
+    log.info("parsed %d postings (%d skipped)", len(postings), skipped)
+    return postings
+
+
+def fetch_simplify(url: str = SIMPLIFY_URL) -> list[Posting]:
+    """Fetch and parse the SimplifyJobs/Summer2027-Internships listings file.
+
+    ~14.6k records, most of them closed (only active:false postings from
+    past seasons that Simplify hasn't pruned yet) -- active_only in
+    config.yaml is what cuts that down to the ~1.4k actually open right now.
+    The file itself is ~10MB; it's fetched fresh into memory on every run and
+    never written to disk, so that size doesn't leak into interntrack.db or
+    the Phase 5 GitHub Actions commit -- only the filtered/deduped Postings
+    that come out the other end of the pipeline get persisted.
+    """
+    log.info("fetching %s", url)
+
+    try:
+        response = requests.get(
+            url, timeout=TIMEOUT_SECONDS, headers={"User-Agent": USER_AGENT}
+        )
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise FetchError(f"could not reach {url}: {exc}") from exc
+
+    try:
+        records = json.loads(response.text)
+    except json.JSONDecodeError as exc:
+        raise FetchError(f"{url} did not return valid JSON: {exc}") from exc
+
+    if not isinstance(records, list):
+        raise FetchError(f"{url} returned {type(records).__name__}, expected a list")
+
+    if not records:
+        raise FetchError(f"{url} returned an empty list -- treating as a failure")
+
+    postings, skipped = [], 0
+    for record in records:
+        try:
+            postings.append(Posting.from_simplify(record))
+        except (KeyError, TypeError) as exc:
+            skipped += 1
+            log.warning("skipping malformed record: %s", exc)
+
     if skipped > len(records) * 0.2:
         raise FetchError(
             f"{skipped} of {len(records)} records failed to parse -- "
@@ -191,6 +246,7 @@ def fetch_all(config: dict | None = None) -> list[Posting]:
 
     Shape of `config`:
         {"vanshb03": true,
+         "simplify": true,
          "greenhouse": [{"token": "robinhood", "company": "Robinhood"}],
          "lever": [{"token": "ro", "company": "Ro"}],
          "ashby": [{"token": "ramp", "company": "Ramp"}]}
@@ -209,6 +265,13 @@ def fetch_all(config: dict | None = None) -> list[Posting]:
         except FetchError as exc:
             log.error("source vanshb03 failed: %s", exc)
             errors.append(f"vanshb03: {exc}")
+
+    if config.get("simplify"):
+        try:
+            postings.extend(fetch_simplify())
+        except FetchError as exc:
+            log.error("source simplify failed: %s", exc)
+            errors.append(f"simplify: {exc}")
 
     for board in config.get("greenhouse") or []:
         token = board["token"]

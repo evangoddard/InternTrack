@@ -6,7 +6,13 @@ import PostingRow, { isUpcomingDeadline } from "./PostingRow";
 
 type SortKey = "date_posted" | "deadline";
 
-export default function JobBoard({ postings }: { postings: Posting[] }) {
+export default function JobBoard({
+  postings,
+  savedIds,
+}: {
+  postings: Posting[];
+  savedIds: Set<string>;
+}) {
   const [search, setSearch] = useState("");
   const [source, setSource] = useState("all");
   const [season, setSeason] = useState("all");
@@ -119,23 +125,24 @@ export default function JobBoard({ postings }: { postings: Posting[] }) {
           Deadline within 7 days
         </label>
 
-        <span className="ml-auto pb-1 font-text text-xs text-text-faint">
+        <span className="ml-auto pb-1 font-num text-xs text-text-faint">
           {filtered.length} / {postings.length}
         </span>
       </div>
 
-      <div className="mt-4 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1.6fr_1fr_auto_auto_5.5rem_auto] sm:gap-x-4">
+      <div className="mt-4 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1fr_1.3fr_9.5rem_12rem_5.5rem_6rem_5rem] sm:gap-x-4">
+        <span>Company</span>
         <span>Role</span>
-        <span className="text-right">Location</span>
         <span>Posted</span>
         <span>Deadline</span>
         <span>Season</span>
-        <span className="text-right">Source</span>
+        <span>Apply</span>
+        <span>Save</span>
       </div>
 
       <ul>
         {filtered.map((posting) => (
-          <PostingRow key={posting.id} posting={posting} />
+          <PostingRow key={posting.id} posting={posting} saved={savedIds.has(posting.id)} />
         ))}
       </ul>
 

@@ -1,4 +1,4 @@
-const TECH_STACK = ["Next.js", "TypeScript", "Tailwind CSS", "Static export"];
+const TECH_STACK = ["Next.js", "TypeScript", "Tailwind CSS", "Supabase"];
 
 export default function Footer() {
   return (

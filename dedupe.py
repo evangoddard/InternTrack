@@ -16,8 +16,12 @@ from models import Posting
 
 _COMPANY_SUFFIXES = {"inc", "llc", "corp", "corporation", "ltd", "co", "company", "group"}
 
-# Lower index wins when the same job appears from multiple sources.
-_SOURCE_PRIORITY = ("greenhouse", "lever", "ashby", "vanshb03")
+# Lower index wins when the same job appears from multiple sources. Direct
+# company boards are the most authoritative; vanshb03 and simplify are both
+# aggregators of the same rough tier, so a tie between them is arbitrary
+# either way -- they're listed together rather than left to the "unknown
+# source" fallback below.
+_SOURCE_PRIORITY = ("greenhouse", "lever", "ashby", "vanshb03", "simplify")
 
 
 def normalize_company(name: str) -> str:
