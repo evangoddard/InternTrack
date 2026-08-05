@@ -3,15 +3,18 @@
 import { useMemo, useState } from "react";
 import type { Posting } from "@/lib/types";
 import PostingRow, { isUpcomingDeadline } from "./PostingRow";
+import { restoreDismissed } from "@/app/saved/actions";
 
 type SortKey = "date_posted" | "deadline";
 
 export default function JobBoard({
   postings,
   savedIds,
+  hiddenCount = 0,
 }: {
   postings: Posting[];
   savedIds: Set<string>;
+  hiddenCount?: number;
 }) {
   const [search, setSearch] = useState("");
   const [season, setSeason] = useState("all");
@@ -108,6 +111,22 @@ export default function JobBoard({
           {filtered.length} / {postings.length}
         </span>
       </div>
+
+      {hiddenCount > 0 && (
+        <div className="mt-2 flex items-center gap-3 px-1 text-xs text-text-faint">
+          <span>
+            {hiddenCount} posting{hiddenCount === 1 ? "" : "s"} hidden
+          </span>
+          <form action={restoreDismissed}>
+            <button
+              type="submit"
+              className="font-semibold transition-colors hover:text-accent-bright"
+            >
+              Restore all
+            </button>
+          </form>
+        </div>
+      )}
 
       <div className="mt-4 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1fr_1.3fr_9.5rem_12rem_5.5rem_6rem_5rem] sm:gap-x-4">
         <span>Company</span>

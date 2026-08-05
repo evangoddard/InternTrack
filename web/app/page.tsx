@@ -14,14 +14,16 @@ export default async function Home() {
   } = await supabase.auth.getUser();
 
   let savedIds = new Set<string>();
+  let dismissedIds = new Set<string>();
   let hasResume = false;
   let hasParsedResume = false;
   let latestResumeName: string | null = null;
   let ranked = null;
 
   if (user) {
-    const [{ data: saved }, { data: resumes }] = await Promise.all([
+    const [{ data: saved }, { data: dismissed }, { data: resumes }] = await Promise.all([
       supabase.from("saved_postings").select("posting_id").eq("user_id", user.id),
+      supabase.from("dismissed_postings").select("posting_id").eq("user_id", user.id),
       supabase
         .from("resumes")
         .select("file_name, parsed_text")
@@ -31,6 +33,7 @@ export default async function Home() {
     ]);
 
     savedIds = new Set((saved ?? []).map((row) => row.posting_id));
+    dismissedIds = new Set((dismissed ?? []).map((row) => row.posting_id));
 
     const latest = resumes?.[0];
     if (latest) {
@@ -38,10 +41,17 @@ export default async function Home() {
       latestResumeName = latest.file_name;
       if (latest.parsed_text && latest.parsed_text.trim().length > 0) {
         hasParsedResume = true;
-        ranked = rankPostings(latest.parsed_text, postings);
+        ranked = rankPostings(
+          latest.parsed_text,
+          postings.filter((p) => !dismissedIds.has(p.id))
+        );
       }
     }
   }
+
+  // Postings the user has ruled out are dropped before anything sees them,
+  // so they're gone from the feed and the résumé match list alike.
+  const visiblePostings = postings.filter((p) => !dismissedIds.has(p.id));
 
   return (
     <>
@@ -50,7 +60,13 @@ export default async function Home() {
       </div>
       <main className="flex-1">
         <HomeTabs
-          allContent={<JobBoard postings={postings} savedIds={savedIds} />}
+          allContent={
+            <JobBoard
+              postings={visiblePostings}
+              savedIds={savedIds}
+              hiddenCount={dismissedIds.size}
+            />
+          }
           personalContent={
             <PersonalTab
               loggedIn={!!user}

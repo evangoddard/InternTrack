@@ -3,8 +3,15 @@
 import { useState } from "react";
 import type { Posting } from "@/lib/types";
 import { formatDate } from "@/lib/formatDate";
-import { savePosting, unsaveByPostingId } from "@/app/saved/actions";
+import { savePosting, unsaveByPostingId, dismissPosting } from "@/app/saved/actions";
 import CompanyLogo from "./CompanyLogo";
+
+interface QualState {
+  status: "idle" | "loading" | "ready" | "unavailable";
+  qualifications?: string | null;
+  full?: string;
+  source?: string;
+}
 
 export function isUpcomingDeadline(deadline: string, withinDays = 7): boolean {
   if (!deadline) return false;
@@ -23,7 +30,42 @@ export default function PostingRow({
   saved: boolean;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const [qual, setQual] = useState<QualState>({ status: "idle" });
+  const [showFull, setShowFull] = useState(false);
   const urgent = isUpcomingDeadline(posting.deadline);
+
+  // Requirements are fetched the first time a row is opened, never for the
+  // feed as a whole -- most postings are never expanded, and the upstream
+  // sites shouldn't be hit 137 times for a page view. Once fetched it stays
+  // in component state, and the API memoises server-side too.
+  const loadQualifications = async () => {
+    if (qual.status !== "idle") return;
+    setQual({ status: "loading" });
+
+    try {
+      const res = await fetch(`/api/qualifications?url=${encodeURIComponent(posting.url)}`);
+      const data = await res.json();
+      setQual(
+        data?.available
+          ? {
+              status: "ready",
+              qualifications: data.qualifications,
+              full: data.full,
+              source: data.source,
+            }
+          : { status: "unavailable" }
+      );
+    } catch {
+      setQual({ status: "unavailable" });
+    }
+  };
+
+  const toggle = () => {
+    setExpanded((open) => {
+      if (!open) void loadQualifications();
+      return !open;
+    });
+  };
 
   return (
     <li
@@ -34,11 +76,11 @@ export default function PostingRow({
       <div
         role="button"
         tabIndex={0}
-        onClick={() => setExpanded((v) => !v)}
+        onClick={toggle}
         onKeyDown={(e) => {
           if (e.key === "Enter" || e.key === " ") {
             e.preventDefault();
-            setExpanded((v) => !v);
+            toggle();
           }
         }}
         aria-expanded={expanded}
@@ -145,21 +187,73 @@ export default function PostingRow({
             </div>
           </dl>
 
-          {/* InternTrack doesn't have real description/requirements text --
-              SimplifyJobs (the only source) doesn't provide it. This links
-              out to the original posting instead of inventing one. */}
-          <p className="mt-3 text-xs text-text-faint">
-            Full description and requirements aren&apos;t available here — see the original posting.
-          </p>
+          {/* Requirements, pulled live from whichever applicant tracking
+              system the company actually uses. Not every host exposes them
+              (see lib/qualifications.ts) -- when one doesn't, say so plainly
+              rather than showing an empty box. */}
+          <div className="mt-4 border-t border-border pt-3">
+            <div className="flex items-baseline justify-between gap-3">
+              <h3 className="text-[0.65rem] uppercase tracking-[0.06em] text-text-faint">
+                Qualifications
+              </h3>
+              {qual.status === "ready" && qual.source && (
+                <span className="text-[0.6rem] text-text-faint">via {qual.source}</span>
+              )}
+            </div>
 
-          <a
-            href={posting.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-2 inline-block w-fit border-b border-text-faint text-xs font-semibold text-text transition-colors hover:border-accent-bright hover:text-accent-bright"
-          >
-            View full posting →
-          </a>
+            {qual.status === "loading" && (
+              <p className="mt-2 animate-pulse text-xs text-text-faint">
+                Fetching from the company&apos;s posting…
+              </p>
+            )}
+
+            {qual.status === "unavailable" && (
+              <p className="mt-2 text-xs text-text-faint">
+                This company&apos;s site doesn&apos;t publish its requirements in a readable form —
+                open the posting to read them.
+              </p>
+            )}
+
+            {qual.status === "ready" && (
+              <>
+                <p className="mt-2 max-h-72 overflow-y-auto whitespace-pre-line text-xs leading-relaxed text-text-muted">
+                  {showFull || !qual.qualifications ? qual.full : qual.qualifications}
+                </p>
+                {qual.qualifications && qual.full !== qual.qualifications && (
+                  <button
+                    type="button"
+                    onClick={() => setShowFull((v) => !v)}
+                    className="mt-1.5 text-[0.7rem] font-semibold text-text-faint transition-colors hover:text-accent-bright"
+                  >
+                    {showFull ? "Show requirements only" : "Show full description"}
+                  </button>
+                )}
+              </>
+            )}
+          </div>
+
+          <div className="mt-3 flex flex-wrap items-center gap-4">
+            <a
+              href={posting.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-fit border-b border-text-faint text-xs font-semibold text-text transition-colors hover:border-accent-bright hover:text-accent-bright"
+            >
+              View full posting →
+            </a>
+
+            {/* Hide a posting you've ruled out (PhD-only, wrong location...)
+                so it stops taking up space in the feed on every visit. */}
+            <form action={dismissPosting}>
+              <input type="hidden" name="posting_id" value={posting.id} />
+              <button
+                type="submit"
+                className="text-xs font-semibold text-text-faint transition-colors hover:text-red-400"
+              >
+                Not interested — hide this
+              </button>
+            </form>
+          </div>
         </div>
       )}
     </li>

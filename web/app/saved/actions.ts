@@ -90,6 +90,41 @@ export async function unsaveByPostingId(formData: FormData) {
   revalidatePath("/tracker");
 }
 
+// Hide a posting from the feed for good. Kept separate from unsaving --
+// this is "I've ruled this out", not "I'm no longer tracking it".
+export async function dismissPosting(formData: FormData) {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) {
+    redirect(`/login?message=${encodeURIComponent("Sign in to hide postings.")}`);
+  }
+
+  const postingId = String(formData.get("posting_id") ?? "");
+  const { error } = await supabase
+    .from("dismissed_postings")
+    .upsert({ user_id: user.id, posting_id: postingId }, { onConflict: "user_id,posting_id" });
+
+  if (error) console.error("dismissPosting failed:", error.message);
+
+  revalidatePath("/");
+}
+
+/** Bring every hidden posting back into the feed. */
+export async function restoreDismissed() {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) redirect("/login");
+
+  const { error } = await supabase.from("dismissed_postings").delete().eq("user_id", user.id);
+  if (error) console.error("restoreDismissed failed:", error.message);
+
+  revalidatePath("/");
+}
+
 export async function updateStatus(formData: FormData) {
   const supabase = await createClient();
   const {
