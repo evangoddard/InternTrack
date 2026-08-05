@@ -9,6 +9,7 @@ import { formatDate } from "@/lib/formatDate";
 
 export interface TrackerRow {
   id: string;
+  posting_id: string;
   company: string;
   title: string;
   location: string;
@@ -19,6 +20,16 @@ export interface TrackerRow {
   cover_letter: string;
   salary: string;
   offer: string;
+}
+
+/** Statuses that mean the ball is in the company's court. */
+const AWAITING = new Set(["applied", "oa", "interview", "final_round"]);
+const NUDGE_AFTER_DAYS = 14;
+
+function daysSince(iso: string | null): number | null {
+  if (!iso) return null;
+  const ms = Date.now() - new Date(iso).getTime();
+  return ms < 0 ? null : Math.floor(ms / 86_400_000);
 }
 
 const COLUMN_LETTERS = ["A", "B", "C", "D", "E", "F", "G", "H", "I"];
@@ -34,7 +45,14 @@ function LockedCell({ children }: { children: ReactNode }) {
   );
 }
 
-export default function TrackerSheet({ rows }: { rows: TrackerRow[] }) {
+export default function TrackerSheet({
+  rows,
+  listedIds,
+}: {
+  rows: TrackerRow[];
+  /** posting ids present in the current feed -- anything else is stale. */
+  listedIds: Set<string>;
+}) {
   return (
     <div className="overflow-x-auto rounded-xl border border-border">
       <table className="w-full min-w-[1200px] border-collapse text-left">
@@ -88,16 +106,44 @@ export default function TrackerSheet({ rows }: { rows: TrackerRow[] }) {
               {/* The role is the link out to the actual application page --
                   one click from the sheet to where you apply. */}
               <td className="border-b border-r border-border p-0">
-                <LockedCell>
+                <div className="bg-bg-raised/40 px-2 py-1.5">
                   <a
                     href={row.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-text hover:text-accent-bright hover:underline"
+                    className="block truncate text-xs text-text hover:text-accent-bright hover:underline"
+                    title={row.title}
                   >
                     {row.title}
                   </a>
-                </LockedCell>
+                  <div className="flex flex-wrap gap-1.5">
+                    {/* The posting is gone from the current feed. Deliberately
+                        worded as "not listed" rather than "closed" -- we know
+                        it left the feed, not why. The row is never deleted. */}
+                    {!listedIds.has(row.posting_id) && (
+                      <span
+                        title="This posting is no longer in the current feed. It may have closed."
+                        className="mt-1 inline-block rounded-full border border-border px-1.5 py-0.5 text-[0.6rem] text-text-faint"
+                      >
+                        No longer listed
+                      </span>
+                    )}
+                    {(() => {
+                      const d = daysSince(row.applied_at);
+                      if (d === null || d < NUDGE_AFTER_DAYS || !AWAITING.has(row.status)) {
+                        return null;
+                      }
+                      return (
+                        <span
+                          title="No status change since you applied. Worth a follow-up."
+                          className="mt-1 inline-block rounded-full border border-accent/40 bg-accent-wash px-1.5 py-0.5 text-[0.6rem] text-accent-bright"
+                        >
+                          {d}d, no movement
+                        </span>
+                      );
+                    })()}
+                  </div>
+                </div>
               </td>
               <td className="border-b border-r border-border p-0">
                 <EditableCell id={row.id} field="resume_used" value={row.resume_used} placeholder="—" />

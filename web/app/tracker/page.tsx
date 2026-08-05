@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import TrackerSheet, { type TrackerRow } from "@/components/TrackerSheet";
+import SkillGaps from "@/components/SkillGaps";
+import { postings } from "@/lib/data";
 
 // Every saved posting is a row here, newest first -- saving is what puts it
 // in the sheet, and status starts at "Not applied" until you move it along.
@@ -36,6 +38,12 @@ export default async function TrackerPage() {
     console.error("failed to load tracker rows:", error.message);
   }
 
+  // Tracker rows are snapshots taken when you saved them, so a posting that
+  // has since closed would otherwise sit here looking live. Anything whose
+  // id is no longer in the current feed gets flagged -- never deleted, since
+  // an application you already sent still matters.
+  const listedIds = new Set(postings.map((p) => p.id));
+
   return (
     <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
       <div className="flex flex-wrap items-start justify-between gap-4">
@@ -68,7 +76,8 @@ export default async function TrackerPage() {
         </p>
       ) : (
         <div className="mt-6">
-          <TrackerSheet rows={rows as TrackerRow[]} />
+          <TrackerSheet rows={rows as TrackerRow[]} listedIds={listedIds} />
+          <SkillGaps />
         </div>
       )}
     </div>
