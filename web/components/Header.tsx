@@ -23,6 +23,12 @@ export default async function Header() {
             >
               Tracker
             </Link>
+            <Link
+              href="/account"
+              className="text-text-muted transition-colors hover:text-text"
+            >
+              Account
+            </Link>
             <form action={signOut}>
               <button
                 type="submit"

@@ -37,7 +37,14 @@ export async function GET() {
     return NextResponse.json({ error: "No readable résumé uploaded." }, { status: 400 });
   }
 
-  const profile = parseResumeProfile(resumeText);
+  // The résumé is the default source for these, but parsing can misread
+  // unusual formatting -- an override set on /account wins.
+  const meta = user.user_metadata ?? {};
+  const detected = parseResumeProfile(resumeText);
+  const profile = {
+    level: meta.degree_level || detected.level,
+    gradYear: meta.grad_year ?? detected.gradYear,
+  };
 
   const quals = await getQualificationsFor(
     postings.map((p) => ({ posting_id: p.id, url: p.url }))
