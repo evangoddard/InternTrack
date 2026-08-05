@@ -1,8 +1,9 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import type { Posting } from "@/lib/types";
 import PostingRow from "./PostingRow";
+import EligibilityScanning from "./EligibilityScanning";
 
 interface Verdict {
   eligible: boolean;
@@ -30,6 +31,14 @@ export default function JobBoard({
   const [verdicts, setVerdicts] = useState<Record<string, Verdict> | null>(null);
   const [checking, setChecking] = useState(false);
   const [checkError, setCheckError] = useState<string | null>(null);
+  const abortRef = useRef<AbortController | null>(null);
+
+  const cancelCheck = () => {
+    abortRef.current?.abort();
+    abortRef.current = null;
+    setChecking(false);
+    setEligibleOnly(false);
+  };
 
   // Verdicts are computed server-side (it needs the résumé and the
   // requirements text for every posting) and fetched once, the first time
@@ -45,16 +54,23 @@ export default function JobBoard({
 
     setChecking(true);
     setCheckError(null);
+    const controller = new AbortController();
+    abortRef.current = controller;
+
     try {
-      const res = await fetch("/api/eligibility");
+      const res = await fetch("/api/eligibility", { signal: controller.signal });
       const data = await res.json();
       if (!res.ok) throw new Error(data?.error ?? "Couldn't check eligibility.");
       setVerdicts(data.verdicts);
+      setChecking(false);
     } catch (err) {
+      // A cancel already reset the UI in cancelCheck(); don't clobber it.
+      if (controller.signal.aborted) return;
       setCheckError(err instanceof Error ? err.message : "Couldn't check eligibility.");
       setEligibleOnly(false);
-    } finally {
       setChecking(false);
+    } finally {
+      if (abortRef.current === controller) abortRef.current = null;
     }
   };
 
@@ -79,6 +95,14 @@ export default function JobBoard({
     [postings, verdicts]
   );
 
+  if (checking) {
+    return (
+      <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
+        <EligibilityScanning total={postings.length} onCancel={cancelCheck} />
+      </section>
+    );
+  }
+
   return (
     <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
       {/* Deliberately unboxed -- the controls sit on the page background so
@@ -100,7 +124,7 @@ export default function JobBoard({
               onChange={toggleEligible}
               className="h-3.5 w-3.5 accent-accent"
             />
-            {checking ? "Checking requirements…" : "Only roles I qualify for"}
+            Only roles I qualify for
           </label>
         )}
 
