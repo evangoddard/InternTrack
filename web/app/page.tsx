@@ -16,15 +16,25 @@ export default async function Home() {
 
   let savedIds = new Set<string>();
   let dismissedIds = new Set<string>();
+  let hasResume = false;
 
   if (user) {
-    const [{ data: saved }, { data: dismissed }] = await Promise.all([
+    const [{ data: saved }, { data: dismissed }, { data: resumes }] = await Promise.all([
       supabase.from("saved_postings").select("posting_id").eq("user_id", user.id),
       supabase.from("dismissed_postings").select("posting_id").eq("user_id", user.id),
+      supabase
+        .from("resumes")
+        .select("parsed_text")
+        .eq("user_id", user.id)
+        .order("uploaded_at", { ascending: false })
+        .limit(1),
     ]);
 
     savedIds = new Set((saved ?? []).map((row) => row.posting_id));
     dismissedIds = new Set((dismissed ?? []).map((row) => row.posting_id));
+    // Only a résumé we could actually read text from is usable for the
+    // eligibility filter.
+    hasResume = Boolean(resumes?.[0]?.parsed_text?.trim());
   }
 
   // Postings the user has ruled out are dropped before the feed sees them,
@@ -43,6 +53,7 @@ export default async function Home() {
           savedIds={savedIds}
           hiddenCount={hiddenPostings.length}
           hiddenContent={<HiddenPostings postings={hiddenPostings} />}
+          hasResume={hasResume}
         />
       </main>
       <Footer />

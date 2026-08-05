@@ -4,26 +4,59 @@ import { useMemo, useState } from "react";
 import type { Posting } from "@/lib/types";
 import PostingRow from "./PostingRow";
 
+interface Verdict {
+  eligible: boolean;
+  reason?: string;
+}
+
 export default function JobBoard({
   postings,
   savedIds,
   hiddenCount = 0,
   hiddenContent,
+  hasResume = false,
 }: {
   postings: Posting[];
   savedIds: Set<string>;
   hiddenCount?: number;
   /** Rendered by the server and toggled in place -- see app/page.tsx. */
   hiddenContent?: React.ReactNode;
+  /** Gates the eligibility filter -- it needs a résumé to compare against. */
+  hasResume?: boolean;
 }) {
   const [search, setSearch] = useState("");
-  const [season, setSeason] = useState("all");
   const [showHidden, setShowHidden] = useState(false);
+  const [eligibleOnly, setEligibleOnly] = useState(false);
+  const [verdicts, setVerdicts] = useState<Record<string, Verdict> | null>(null);
+  const [checking, setChecking] = useState(false);
+  const [checkError, setCheckError] = useState<string | null>(null);
 
-  const seasons = useMemo(
-    () => ["all", ...Array.from(new Set(postings.map((p) => p.season))).sort()],
-    [postings]
-  );
+  // Verdicts are computed server-side (it needs the résumé and the
+  // requirements text for every posting) and fetched once, the first time
+  // the filter is switched on. That first call can take a while if the
+  // shared cache is cold; afterwards it's a single query.
+  const toggleEligible = async () => {
+    if (eligibleOnly) {
+      setEligibleOnly(false);
+      return;
+    }
+    setEligibleOnly(true);
+    if (verdicts || checking) return;
+
+    setChecking(true);
+    setCheckError(null);
+    try {
+      const res = await fetch("/api/eligibility");
+      const data = await res.json();
+      if (!res.ok) throw new Error(data?.error ?? "Couldn't check eligibility.");
+      setVerdicts(data.verdicts);
+    } catch (err) {
+      setCheckError(err instanceof Error ? err.message : "Couldn't check eligibility.");
+      setEligibleOnly(false);
+    } finally {
+      setChecking(false);
+    }
+  };
 
   // Always newest-first: there's no second ordering worth offering when
   // deadlines aren't published by the source.
@@ -33,11 +66,18 @@ export default function JobBoard({
     return postings
       .filter((p) => {
         if (query && !`${p.company} ${p.title}`.toLowerCase().includes(query)) return false;
-        if (season !== "all" && p.season !== season) return false;
+        if (eligibleOnly && verdicts && verdicts[p.id]?.eligible === false) return false;
         return true;
       })
       .sort((a, b) => (b.date_posted || "").localeCompare(a.date_posted || ""));
-  }, [postings, search, season]);
+  }, [postings, search, eligibleOnly, verdicts]);
+
+  // Counted off the verdicts directly rather than by diffing list lengths,
+  // so an active search doesn't inflate the number.
+  const ineligibleCount = useMemo(
+    () => (verdicts ? postings.filter((p) => verdicts[p.id]?.eligible === false).length : 0),
+    [postings, verdicts]
+  );
 
   return (
     <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
@@ -52,20 +92,17 @@ export default function JobBoard({
           className="w-full border-b border-border/60 bg-transparent py-1.5 text-sm text-text outline-none transition-colors placeholder:text-text-faint focus:border-text-muted sm:w-72"
         />
 
-        {/* Width is pinned because a few upstream season strings are absurdly
-            long ("Winter 2026 / Spring 2026 / Summer 2026 / ...") and a bare
-            select sizes itself to its widest option. */}
-        <select
-          value={season}
-          onChange={(e) => setSeason(e.target.value)}
-          className="w-40 truncate border-b border-border/60 bg-transparent py-1.5 text-sm text-text-muted outline-none transition-colors hover:text-text focus:border-text-muted"
-        >
-          {seasons.map((s) => (
-            <option key={s} value={s} className="bg-bg-raised">
-              {s === "all" ? "All seasons" : s}
-            </option>
-          ))}
-        </select>
+        {hasResume && (
+          <label className="flex cursor-pointer items-center gap-2 text-xs text-text-muted">
+            <input
+              type="checkbox"
+              checked={eligibleOnly}
+              onChange={toggleEligible}
+              className="h-3.5 w-3.5 accent-accent"
+            />
+            {checking ? "Checking requirements…" : "Only roles I qualify for"}
+          </label>
+        )}
 
         <span className="ml-auto font-num text-xs text-text-faint">
           {filtered.length === postings.length
@@ -73,6 +110,16 @@ export default function JobBoard({
             : `${filtered.length} / ${postings.length}`}
         </span>
       </div>
+
+      {checkError && <p className="mt-2 text-xs text-red-400">{checkError}</p>}
+
+      {eligibleOnly && verdicts && (
+        <p className="mt-2 text-xs text-text-faint">
+          {ineligibleCount === 0
+            ? "You meet the stated requirements for every posting here."
+            : `Hiding ${ineligibleCount} role${ineligibleCount === 1 ? "" : "s"} that state requirements you don't meet.`}
+        </p>
+      )}
 
       <div className="mt-6 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1fr_1.4fr_9.5rem_6rem_6rem_5rem] sm:gap-x-4">
         <span>Company</span>
