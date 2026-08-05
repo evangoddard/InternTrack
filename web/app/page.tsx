@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import JobBoard from "@/components/JobBoard";
 import PersonalTab from "@/components/PersonalTab";
 import HomeTabs from "@/components/HomeTabs";
+import HiddenTab from "@/components/HiddenTab";
 import Footer from "@/components/Footer";
 import { postings } from "@/lib/data";
 import { createClient } from "@/lib/supabase/server";
@@ -50,8 +51,10 @@ export default async function Home() {
   }
 
   // Postings the user has ruled out are dropped before anything sees them,
-  // so they're gone from the feed and the résumé match list alike.
+  // so they're gone from the feed and the résumé match list alike -- and
+  // collected separately so the Hidden tab can offer them back.
   const visiblePostings = postings.filter((p) => !dismissedIds.has(p.id));
+  const hiddenPostings = postings.filter((p) => dismissedIds.has(p.id));
 
   return (
     <>
@@ -60,13 +63,7 @@ export default async function Home() {
       </div>
       <main className="flex-1">
         <HomeTabs
-          allContent={
-            <JobBoard
-              postings={visiblePostings}
-              savedIds={savedIds}
-              hiddenCount={dismissedIds.size}
-            />
-          }
+          allContent={<JobBoard postings={visiblePostings} savedIds={savedIds} />}
           personalContent={
             <PersonalTab
               loggedIn={!!user}
@@ -76,6 +73,8 @@ export default async function Home() {
               ranked={ranked}
             />
           }
+          hiddenContent={<HiddenTab postings={hiddenPostings} loggedIn={!!user} />}
+          hiddenCount={hiddenPostings.length}
         />
       </main>
       <Footer />

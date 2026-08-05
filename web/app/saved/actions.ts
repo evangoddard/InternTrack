@@ -111,6 +111,26 @@ export async function dismissPosting(formData: FormData) {
   revalidatePath("/");
 }
 
+/** Bring one hidden posting back into the feed. */
+export async function undismissPosting(formData: FormData) {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) redirect("/login");
+
+  const postingId = String(formData.get("posting_id") ?? "");
+  const { error } = await supabase
+    .from("dismissed_postings")
+    .delete()
+    .eq("posting_id", postingId)
+    .eq("user_id", user.id);
+
+  if (error) console.error("undismissPosting failed:", error.message);
+
+  revalidatePath("/");
+}
+
 /** Bring every hidden posting back into the feed. */
 export async function restoreDismissed() {
   const supabase = await createClient();
