@@ -12,7 +12,7 @@ export const CATEGORIES = [
   "AI/ML",
   "Data Science",
   "Quant",
-  "Product",
+  "Management",
   "Hardware",
 ] as const;
 
@@ -31,7 +31,7 @@ export function categoryOf(posting: Posting): Category | null {
 
   if (raw.includes("quant")) return "Quant";
   if (raw.includes("hardware")) return "Hardware";
-  if (raw.includes("product")) return "Product";
+  if (raw.includes("product")) return "Management";
   if (raw.includes("software")) return "Software";
 
   if (raw.includes("ai") || raw.includes("data") || raw.includes("ml")) {
