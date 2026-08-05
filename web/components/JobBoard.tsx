@@ -85,17 +85,19 @@ export default function JobBoard({
     });
   };
 
-  // Counts are of the whole feed, not the filtered view, so the numbers on
-  // the chips don't shift around as you type in the search box.
+  // Chip counts deliberately ignore the search box -- numbers jumping on
+  // every keystroke is noise -- but they do respect the eligibility filter,
+  // so once it's on the chips show how many roles you can actually apply to.
   const counts = useMemo(() => {
     const out = {} as Record<Category, number>;
     for (const c of CATEGORIES) out[c] = 0;
     for (const p of postings) {
+      if (eligibleOnly && verdicts && verdicts[p.id]?.eligible === false) continue;
       const c = categoryOf(p);
       if (c) out[c] += 1;
     }
     return out;
-  }, [postings]);
+  }, [postings, eligibleOnly, verdicts]);
 
   // Always newest-first: there's no second ordering worth offering when
   // deadlines aren't published by the source.
