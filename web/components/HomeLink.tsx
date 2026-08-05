@@ -1,9 +1,15 @@
-import Link from "next/link";
+"use client";
 
-// Most pages (Saved, Tracker, Résumé, auth) don't render the full Header --
-// only the homepage does -- so without this there's no way back except the
-// browser's back button. Fixed in a corner, present on every page.
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+
+// Most pages (Tracker, Résumé, auth) don't render the full Header, so
+// without this there's no way back except the browser's back button.
+// Hidden on the home page itself, where it would point at the current page.
 export default function HomeLink() {
+  const pathname = usePathname();
+  if (pathname === "/") return null;
+
   return (
     <Link
       href="/"

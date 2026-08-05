@@ -10,28 +10,31 @@ export default async function Header() {
 
   return (
     <div className="px-4 pt-6 sm:px-6">
-      {/* Slim nav row -- links only, no wordmark here (that's the big
-          heading below). Kept small and out of the way so it doesn't
-          compete with the brand statement. */}
-      <nav className="mx-auto flex max-w-3xl items-center justify-end gap-4 text-sm text-text-muted">
+      {/* One slim row, everything to the right, so nothing competes with the
+          wordmark below. Tracker is the only destination in the app besides
+          the feed itself, so it gets a pill rather than sitting in a list of
+          links -- /resume is still reachable by URL, just not advertised. */}
+      <nav className="mx-auto flex max-w-5xl items-center justify-end gap-3 text-sm">
         {user ? (
           <>
-            <Link href="/tracker" className="transition-colors hover:text-text">
+            <Link
+              href="/tracker"
+              className="rounded-full border border-border px-4 py-1.5 font-semibold text-text-muted transition-colors hover:border-accent-bright hover:text-text"
+            >
               Tracker
             </Link>
-            <Link href="/resume" className="transition-colors hover:text-text">
-              Résumé
-            </Link>
-            <span className="hidden text-text-faint sm:inline">{user.email}</span>
             <form action={signOut}>
-              <button type="submit" className="transition-colors hover:text-text">
+              <button
+                type="submit"
+                className="px-1 text-text-faint transition-colors hover:text-text"
+              >
                 Sign out
               </button>
             </form>
           </>
         ) : (
           <>
-            <Link href="/login" className="transition-colors hover:text-text">
+            <Link href="/login" className="text-text-muted transition-colors hover:text-text">
               Sign in
             </Link>
             <Link

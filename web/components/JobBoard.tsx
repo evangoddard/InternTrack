@@ -2,119 +2,82 @@
 
 import { useMemo, useState } from "react";
 import type { Posting } from "@/lib/types";
-import PostingRow, { isUpcomingDeadline } from "./PostingRow";
-
-type SortKey = "date_posted" | "deadline";
+import PostingRow from "./PostingRow";
 
 export default function JobBoard({
   postings,
   savedIds,
+  hiddenCount = 0,
+  hiddenContent,
 }: {
   postings: Posting[];
   savedIds: Set<string>;
+  hiddenCount?: number;
+  /** Rendered by the server and toggled in place -- see app/page.tsx. */
+  hiddenContent?: React.ReactNode;
 }) {
   const [search, setSearch] = useState("");
   const [season, setSeason] = useState("all");
-  const [upcomingOnly, setUpcomingOnly] = useState(false);
-  const [sortKey, setSortKey] = useState<SortKey>("date_posted");
+  const [showHidden, setShowHidden] = useState(false);
 
   const seasons = useMemo(
     () => ["all", ...Array.from(new Set(postings.map((p) => p.season))).sort()],
     [postings]
   );
 
-  // No animation runs on this derived list — filtering/sorting must feel
-  // instant. The only motion in this design lives in the framing sections.
+  // Always newest-first: there's no second ordering worth offering when
+  // deadlines aren't published by the source.
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase();
 
-    let list = postings.filter((p) => {
-      if (query) {
-        const haystack = `${p.company} ${p.title}`.toLowerCase();
-        if (!haystack.includes(query)) return false;
-      }
-      if (season !== "all" && p.season !== season) return false;
-      if (upcomingOnly && !isUpcomingDeadline(p.deadline)) return false;
-      return true;
-    });
-
-    list = [...list].sort((a, b) => {
-      const aVal = sortKey === "date_posted" ? a.date_posted : a.deadline;
-      const bVal = sortKey === "date_posted" ? b.date_posted : b.deadline;
-      if (!aVal) return 1;
-      if (!bVal) return -1;
-      return sortKey === "date_posted" ? bVal.localeCompare(aVal) : aVal.localeCompare(bVal);
-    });
-
-    return list;
-  }, [postings, search, season, upcomingOnly, sortKey]);
+    return postings
+      .filter((p) => {
+        if (query && !`${p.company} ${p.title}`.toLowerCase().includes(query)) return false;
+        if (season !== "all" && p.season !== season) return false;
+        return true;
+      })
+      .sort((a, b) => (b.date_posted || "").localeCompare(a.date_posted || ""));
+  }, [postings, search, season]);
 
   return (
     <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
-      <div className="glass flex flex-wrap items-end gap-x-6 gap-y-3 rounded-2xl px-4 py-4">
-        <label className="flex flex-col gap-1">
-          <span className="text-[0.65rem] uppercase tracking-[0.06em] text-text-faint">Search</span>
-          <input
-            type="text"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="company or title…"
-            className="w-48 border-b border-border bg-transparent py-1 text-sm text-text outline-none placeholder:text-text-faint focus:border-accent-bright sm:w-56"
-          />
-        </label>
+      {/* Deliberately unboxed -- the controls sit on the page background so
+          the feed reads as one surface rather than a panel above a table. */}
+      <div className="flex flex-wrap items-center gap-x-5 gap-y-2">
+        <input
+          type="text"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder="Search company or role…"
+          className="w-full border-b border-border/60 bg-transparent py-1.5 text-sm text-text outline-none transition-colors placeholder:text-text-faint focus:border-text-muted sm:w-72"
+        />
 
-        <label className="flex flex-col gap-1">
-          <span className="text-[0.65rem] uppercase tracking-[0.06em] text-text-faint">Season</span>
-          <select
-            value={season}
-            onChange={(e) => setSeason(e.target.value)}
-            className="border-b border-border bg-transparent py-1 text-sm text-text outline-none focus:border-accent-bright"
-          >
-            {seasons.map((s) => (
-              <option key={s} value={s} className="bg-bg-raised">
-                {s === "all" ? "All" : s}
-              </option>
-            ))}
-          </select>
-        </label>
-
-        <label className="flex flex-col gap-1">
-          <span className="text-[0.65rem] uppercase tracking-[0.06em] text-text-faint">Sort</span>
-          <select
-            value={sortKey}
-            onChange={(e) => setSortKey(e.target.value as SortKey)}
-            className="border-b border-border bg-transparent py-1 text-sm text-text outline-none focus:border-accent-bright"
-          >
-            <option value="date_posted" className="bg-bg-raised">
-              Newest posted
+        {/* Width is pinned because a few upstream season strings are absurdly
+            long ("Winter 2026 / Spring 2026 / Summer 2026 / ...") and a bare
+            select sizes itself to its widest option. */}
+        <select
+          value={season}
+          onChange={(e) => setSeason(e.target.value)}
+          className="w-40 truncate border-b border-border/60 bg-transparent py-1.5 text-sm text-text-muted outline-none transition-colors hover:text-text focus:border-text-muted"
+        >
+          {seasons.map((s) => (
+            <option key={s} value={s} className="bg-bg-raised">
+              {s === "all" ? "All seasons" : s}
             </option>
-            <option value="deadline" className="bg-bg-raised">
-              Deadline soonest
-            </option>
-          </select>
-        </label>
+          ))}
+        </select>
 
-        <label className="flex items-center gap-2 pb-1 text-sm text-text-muted">
-          <input
-            type="checkbox"
-            checked={upcomingOnly}
-            onChange={(e) => setUpcomingOnly(e.target.checked)}
-            className="h-4 w-4 accent-accent"
-          />
-          Deadline within 7 days
-        </label>
-
-        <span className="ml-auto pb-1 font-num text-xs text-text-faint">
-          {filtered.length} / {postings.length}
+        <span className="ml-auto font-num text-xs text-text-faint">
+          {filtered.length === postings.length
+            ? `${postings.length}`
+            : `${filtered.length} / ${postings.length}`}
         </span>
       </div>
 
-
-      <div className="mt-4 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1fr_1.3fr_9.5rem_12rem_5.5rem_6rem_5rem] sm:gap-x-4">
+      <div className="mt-6 hidden border-b border-border px-4 py-2 text-[0.65rem] uppercase tracking-[0.06em] text-text-faint sm:grid sm:grid-cols-[1fr_1.4fr_9.5rem_6rem_6rem_5rem] sm:gap-x-4">
         <span>Company</span>
         <span>Role</span>
         <span>Posted</span>
-        <span>Deadline</span>
         <span>Season</span>
         <span>Apply</span>
         <span>Save</span>
@@ -128,7 +91,20 @@ export default function JobBoard({
 
       {filtered.length === 0 && (
         <div className="border-t border-border py-10 text-center text-sm text-text-muted">
-          No postings match those filters.
+          No postings match that search.
+        </div>
+      )}
+
+      {hiddenCount > 0 && (
+        <div className="mt-10 border-t border-border pt-4">
+          <button
+            type="button"
+            onClick={() => setShowHidden((v) => !v)}
+            className="text-xs text-text-faint transition-colors hover:text-text"
+          >
+            {hiddenCount} hidden · {showHidden ? "collapse" : "show"}
+          </button>
+          {showHidden && <div className="mt-3">{hiddenContent}</div>}
         </div>
       )}
     </section>
