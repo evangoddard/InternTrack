@@ -6,11 +6,19 @@ import { formatDate } from "@/lib/formatDate";
 import { savePosting, unsaveByPostingId, dismissPosting } from "@/app/saved/actions";
 import CompanyLogo from "./CompanyLogo";
 
+interface MatchInfo {
+  score: number;
+  matched: string[];
+  missing: string[];
+  total: number;
+}
+
 interface QualState {
   status: "idle" | "loading" | "ready" | "unavailable";
   qualifications?: string | null;
   full?: string;
   source?: string;
+  match?: MatchInfo | null;
 }
 
 export default function PostingRow({
@@ -42,6 +50,7 @@ export default function PostingRow({
               qualifications: data.qualifications,
               full: data.full,
               source: data.source,
+              match: data.match ?? null,
             }
           : { status: "unavailable" }
       );
@@ -166,6 +175,46 @@ export default function PostingRow({
               <dd className="mt-0.5 text-text-muted">{posting.season || "—"}</dd>
             </div>
           </dl>
+
+          {/* The actionable half: which of the skills this posting names are
+              on the résumé and which aren't. Only rendered when a résumé is
+              uploaded AND the posting named enough recognisable skills to
+              say something honest -- see lib/matchExplain.ts. */}
+          {qual.status === "ready" && qual.match && (
+            <div className="mt-4 rounded-xl border border-border bg-bg-raised/40 p-3">
+              <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
+                <span
+                  className={`font-num text-lg font-semibold tabular-nums ${
+                    qual.match.score >= 60
+                      ? "text-accent-bright"
+                      : qual.match.score >= 30
+                        ? "text-text"
+                        : "text-text-muted"
+                  }`}
+                >
+                  {qual.match.score}% match
+                </span>
+                <span className="text-xs text-text-faint">
+                  {qual.match.matched.length} of {qual.match.total} skills this posting names
+                </span>
+              </div>
+
+              {qual.match.matched.length > 0 && (
+                <p className="mt-2 text-xs leading-relaxed text-text-muted">
+                  <span className="text-accent-bright">You have</span>{" "}
+                  {qual.match.matched.join(", ")}.
+                </p>
+              )}
+
+              {qual.match.missing.length > 0 && (
+                <p className="mt-1 text-xs leading-relaxed text-text-muted">
+                  <span className="text-text-faint">Not on your résumé</span>{" "}
+                  {qual.match.missing.slice(0, 10).join(", ")}
+                  {qual.match.missing.length > 10 && ` +${qual.match.missing.length - 10} more`}.
+                </p>
+              )}
+            </div>
+          )}
 
           {/* Requirements, pulled live from whichever applicant tracking
               system the company actually uses. Not every host exposes them
