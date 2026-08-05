@@ -97,24 +97,83 @@ function checkDegreeField(degrees: string[], profile: ResumeProfile): Verdict {
   return { eligible: false, reason: `${names.join("/")} only` };
 }
 
+const MONTH_OR_SEASON =
+  "fall|autumn|spring|summer|winter|jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|" +
+  "jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t|tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?";
+
 /**
- * Rule 2 -- graduation window stated in the requirements text, e.g.
- * "graduating between December 2026 and June 2027". Only fires when a
- * real year range is found AND the résumé gave a graduation year.
+ * Postings write graduation years every which way -- "Fall 2027", "Fall 27",
+ * "Fall '27". Two-digit years are expanded to four, but only when they're
+ * apostrophised or directly follow a month/season, so a bare number ("we
+ * hired 27 interns", "27 credits") is never mistaken for a year. The 24-35
+ * range is what's plausible for a current internship posting.
+ */
+function expandShortYears(clause: string): string {
+  return clause
+    .replace(/'(2[4-9]|3[0-5])\b/g, (_, yy) => `20${yy}`)
+    .replace(
+      new RegExp(`\\b(${MONTH_OR_SEASON})\\s+(2[4-9]|3[0-5])\\b`, "gi"),
+      (_, word, yy) => `${word} 20${yy}`
+    );
+}
+
+/** The text around each mention of "graduat...", where a stated window would
+ *  appear. Matching is confined to these windows so requirement language
+ *  elsewhere in the posting can't be misread as a deadline. Reaches back a
+ *  little as well as forward, since the gating word usually precedes the
+ *  verb ("must be graduating in 2027"). */
+function graduationClauses(text: string): string[] {
+  const out: string[] = [];
+  const re = /graduat\w*/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(text)) !== null) {
+    out.push(text.slice(Math.max(0, m.index - 45), m.index + 120));
+  }
+  return out;
+}
+
+/**
+ * Rule 2 -- a graduation window stated in the requirements text, e.g.
+ * "graduating between December 2026 and June 2027" or "between Fall 27 and
+ * Spring 28". Only fires when the résumé gave a graduation year.
  */
 function checkGradWindow(text: string, profile: ResumeProfile): Verdict {
   if (!profile.gradYear) return { eligible: true };
+  const year = profile.gradYear;
 
-  const range = text.match(
-    /graduat\w*[^.\n]{0,80}?(20\d\d)\s*(?:-|–|—|and|to|through)\s*(?:\w+\s+)?(20\d\d)/i
-  );
-  if (range) {
-    const lo = Number(range[1]);
-    const hi = Number(range[2]);
-    if (lo <= hi && (profile.gradYear < lo || profile.gradYear > hi)) {
-      return { eligible: false, reason: `Graduation ${lo}–${hi}` };
+  for (const raw of graduationClauses(text)) {
+    const clause = expandShortYears(raw);
+
+    // A range: "between X and Y", "X - Y", "X through Y".
+    const range = clause.match(
+      /(20\d\d)\s*(?:-|–|—|\/|and|to|through|until|thru)\s*(?:\w+\s+)?(20\d\d)/i
+    );
+    if (range) {
+      const lo = Number(range[1]);
+      const hi = Number(range[2]);
+      if (lo <= hi && (year < lo || year > hi)) {
+        return { eligible: false, reason: `Graduation ${lo}–${hi}` };
+      }
+      continue; // window found and satisfied
     }
-    return { eligible: true };
+
+    // An open-ended bound: "graduating in 2027 or later", "no earlier than
+    // 2028". Only the stated side is a constraint.
+    const open = clause.match(/(20\d\d)\s*(?:or\s+(?:later|after|beyond)|onwards?|\+)/i);
+    if (open) {
+      const lo = Number(open[1]);
+      if (year < lo) return { eligible: false, reason: `Graduation ${lo} or later` };
+      continue;
+    }
+
+    // A single stated year: "must be graduating in 2027". Requires explicit
+    // requirement language, since a bare year mention is often descriptive
+    // ("our 2027 cohort") rather than a gate.
+    const single = clause.match(/\b(must|required?|only|need to be)\b[^.\n]{0,60}?(20\d\d)/i);
+    if (single) {
+      const only = Number(single[2]);
+      if (year !== only) return { eligible: false, reason: `Graduation ${only}` };
+    }
   }
 
   return { eligible: true };
