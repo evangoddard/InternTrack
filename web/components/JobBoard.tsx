@@ -4,6 +4,7 @@ import { useMemo, useRef, useState } from "react";
 import type { Posting } from "@/lib/types";
 import PostingRow from "./PostingRow";
 import EligibilityScanning from "./EligibilityScanning";
+import { CATEGORIES, categoryOf, type Category } from "@/lib/categories";
 
 interface Verdict {
   eligible: boolean;
@@ -26,6 +27,7 @@ export default function JobBoard({
   hasResume?: boolean;
 }) {
   const [search, setSearch] = useState("");
+  const [selected, setSelected] = useState<Set<Category>>(new Set());
   const [showHidden, setShowHidden] = useState(false);
   const [eligibleOnly, setEligibleOnly] = useState(false);
   const [verdicts, setVerdicts] = useState<Record<string, Verdict> | null>(null);
@@ -74,6 +76,27 @@ export default function JobBoard({
     }
   };
 
+  const toggleCategory = (c: Category) => {
+    setSelected((prev) => {
+      const next = new Set(prev);
+      if (next.has(c)) next.delete(c);
+      else next.add(c);
+      return next;
+    });
+  };
+
+  // Counts are of the whole feed, not the filtered view, so the numbers on
+  // the chips don't shift around as you type in the search box.
+  const counts = useMemo(() => {
+    const out = {} as Record<Category, number>;
+    for (const c of CATEGORIES) out[c] = 0;
+    for (const p of postings) {
+      const c = categoryOf(p);
+      if (c) out[c] += 1;
+    }
+    return out;
+  }, [postings]);
+
   // Always newest-first: there's no second ordering worth offering when
   // deadlines aren't published by the source.
   const filtered = useMemo(() => {
@@ -83,10 +106,16 @@ export default function JobBoard({
       .filter((p) => {
         if (query && !`${p.company} ${p.title}`.toLowerCase().includes(query)) return false;
         if (eligibleOnly && verdicts && verdicts[p.id]?.eligible === false) return false;
+        if (selected.size > 0) {
+          const c = categoryOf(p);
+          // Uncategorised postings stay visible rather than being
+          // unreachable through any chip.
+          if (c && !selected.has(c)) return false;
+        }
         return true;
       })
       .sort((a, b) => (b.date_posted || "").localeCompare(a.date_posted || ""));
-  }, [postings, search, eligibleOnly, verdicts]);
+  }, [postings, search, eligibleOnly, verdicts, selected]);
 
   // Counted off the verdicts directly rather than by diffing list lengths,
   // so an active search doesn't inflate the number.
@@ -133,6 +162,36 @@ export default function JobBoard({
             ? `${postings.length}`
             : `${filtered.length} / ${postings.length}`}
         </span>
+      </div>
+
+      <div className="mt-3 flex flex-wrap items-center gap-2">
+        {CATEGORIES.map((c) => {
+          const on = selected.has(c);
+          return (
+            <button
+              key={c}
+              type="button"
+              onClick={() => toggleCategory(c)}
+              className={`rounded-full border px-3 py-1 text-xs transition-colors ${
+                on
+                  ? "border-accent-bright bg-accent-wash font-semibold text-accent-bright"
+                  : "border-border/60 text-text-muted hover:border-text-faint hover:text-text"
+              }`}
+            >
+              {c}
+              <span className="ml-1.5 font-num text-[0.65rem] text-text-faint">{counts[c]}</span>
+            </button>
+          );
+        })}
+        {selected.size > 0 && (
+          <button
+            type="button"
+            onClick={() => setSelected(new Set())}
+            className="px-1 text-xs text-text-faint transition-colors hover:text-text"
+          >
+            Clear
+          </button>
+        )}
       </div>
 
       {checkError && <p className="mt-2 text-xs text-red-400">{checkError}</p>}
