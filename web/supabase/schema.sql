@@ -17,8 +17,10 @@ create table if not exists saved_postings (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references auth.users (id) on delete cascade,
   posting_id text not null,
-  status text not null default 'saved'
-    check (status in ('saved', 'applied', 'interviewing', 'offer', 'rejected')),
+  status text not null default 'not_applied'
+    check (status in (
+      'not_applied', 'applied', 'oa', 'interview', 'final_round', 'offer', 'rejected'
+    )),
   company text not null,
   title text not null,
   url text not null,

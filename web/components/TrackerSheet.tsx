@@ -3,6 +3,8 @@
 import type { ReactNode } from "react";
 import EditableCell from "./EditableCell";
 import OfferSelect from "./OfferSelect";
+import RemoveRowButton from "./RemoveRowButton";
+import StatusSelect from "./StatusSelect";
 import { formatDate } from "@/lib/formatDate";
 
 export interface TrackerRow {
@@ -35,34 +37,43 @@ function LockedCell({ children }: { children: ReactNode }) {
 export default function TrackerSheet({ rows }: { rows: TrackerRow[] }) {
   return (
     <div className="overflow-x-auto rounded-xl border border-border">
-      <table className="w-full min-w-[1100px] border-collapse text-left">
+      <table className="w-full min-w-[1200px] border-collapse text-left">
         <thead>
           {/* Excel-style column-letter ruler, purely decorative. */}
           <tr className="bg-bg-raised text-[0.65rem] text-text-faint">
             <th className="w-10 border-b border-r border-border px-2 py-1 text-center font-normal"> </th>
             {COLUMN_LETTERS.map((letter) => (
-              <th key={letter} className="border-b border-r border-border px-2 py-1 text-center font-normal last:border-r-0">
+              <th key={letter} className="border-b border-r border-border px-2 py-1 text-center font-normal">
                 {letter}
               </th>
             ))}
+            {/* Trailing gutter for the remove button -- unlettered, like the
+                row-number gutter, since it isn't one of the data columns. */}
+            <th className="w-8 border-b border-border px-1 py-1"> </th>
           </tr>
           <tr className="bg-bg-raised text-xs font-semibold text-text">
             <th className="w-10 border-b border-r border-border px-2 py-1.5"> </th>
             {[
-              "Company",
-              "Role",
-              "Resume Used",
-              "Cover Letter",
-              "Location",
-              "Date Applied",
-              "Status / Stage",
-              "Salary",
-              "Offer",
-            ].map((label) => (
-              <th key={label} className="border-b border-r border-border px-2 py-1.5 text-left font-semibold last:border-r-0">
+              { label: "Company" },
+              { label: "Role" },
+              { label: "Resume Used" },
+              { label: "Cover Letter" },
+              { label: "Location" },
+              { label: "Date Applied" },
+              // Wide enough that the longest stage ("Final round") isn't
+              // clipped inside the select.
+              { label: "Status / Stage", className: "min-w-[9.5rem]" },
+              { label: "Salary" },
+              { label: "Offer", className: "min-w-[6.5rem]" },
+            ].map(({ label, className }) => (
+              <th
+                key={label}
+                className={`border-b border-r border-border px-2 py-1.5 text-left font-semibold ${className ?? ""}`}
+              >
                 {label}
               </th>
             ))}
+            <th className="w-8 border-b border-border px-1 py-1.5"> </th>
           </tr>
         </thead>
         <tbody>
@@ -72,19 +83,21 @@ export default function TrackerSheet({ rows }: { rows: TrackerRow[] }) {
                 {i + 1}
               </td>
               <td className="border-b border-r border-border p-0">
+                <LockedCell>{row.company}</LockedCell>
+              </td>
+              {/* The role is the link out to the actual application page --
+                  one click from the sheet to where you apply. */}
+              <td className="border-b border-r border-border p-0">
                 <LockedCell>
                   <a
                     href={row.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="hover:text-accent-bright hover:underline"
+                    className="text-text hover:text-accent-bright hover:underline"
                   >
-                    {row.company}
+                    {row.title}
                   </a>
                 </LockedCell>
-              </td>
-              <td className="border-b border-r border-border p-0">
-                <LockedCell>{row.title}</LockedCell>
               </td>
               <td className="border-b border-r border-border p-0">
                 <EditableCell id={row.id} field="resume_used" value={row.resume_used} placeholder="—" />
@@ -98,14 +111,17 @@ export default function TrackerSheet({ rows }: { rows: TrackerRow[] }) {
               <td className="border-b border-r border-border p-0">
                 <LockedCell>{row.applied_at ? formatDate(row.applied_at.slice(0, 10)) : "—"}</LockedCell>
               </td>
-              <td className="border-b border-r border-border p-0">
-                <LockedCell>{row.status.charAt(0).toUpperCase() + row.status.slice(1)}</LockedCell>
+              <td className="min-w-[9.5rem] border-b border-r border-border px-2 py-1">
+                <StatusSelect id={row.id} status={row.status} />
               </td>
               <td className="border-b border-r border-border p-0">
                 <EditableCell id={row.id} field="salary" value={row.salary} placeholder="—" />
               </td>
-              <td className="border-b border-border px-2 py-1">
+              <td className="border-b border-r border-border px-2 py-1">
                 <OfferSelect id={row.id} value={row.offer} />
+              </td>
+              <td className="w-8 border-b border-border px-1 py-1 text-center">
+                <RemoveRowButton id={row.id} company={row.company} />
               </td>
             </tr>
           ))}

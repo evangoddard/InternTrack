@@ -2,15 +2,7 @@
 
 import { useRef } from "react";
 import { updateStatus } from "@/app/saved/actions";
-import { STATUSES } from "@/lib/savedStatus";
-
-const LABELS: Record<string, string> = {
-  saved: "Saved",
-  applied: "Applied",
-  interviewing: "Interviewing",
-  offer: "Offer",
-  rejected: "Rejected",
-};
+import { STATUSES, STATUS_LABELS } from "@/lib/savedStatus";
 
 export default function StatusSelect({ id, status }: { id: string; status: string }) {
   const formRef = useRef<HTMLFormElement>(null);
@@ -22,11 +14,11 @@ export default function StatusSelect({ id, status }: { id: string; status: strin
         name="status"
         defaultValue={status}
         onChange={() => formRef.current?.requestSubmit()}
-        className="rounded-lg border border-border bg-bg/60 px-2 py-1 text-xs text-text outline-none focus:border-accent-bright"
+        className="w-full rounded-lg border border-border bg-bg/60 px-2 py-1 text-xs text-text outline-none focus:border-accent-bright"
       >
         {STATUSES.map((s) => (
           <option key={s} value={s} className="bg-bg-raised">
-            {LABELS[s]}
+            {STATUS_LABELS[s]}
           </option>
         ))}
       </select>

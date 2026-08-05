@@ -2,10 +2,8 @@ import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import TrackerSheet, { type TrackerRow } from "@/components/TrackerSheet";
 
-// The tracker sheet only shows postings that have actually been applied to
-// (applied_at set) -- not everything sitting in /saved. Once a row appears
-// here it stays, even if status later moves past "applied" (interviewing,
-// offer, rejected), since applied_at is a one-time flag, not the live status.
+// Every saved posting is a row here, newest first -- saving is what puts it
+// in the sheet, and status starts at "Not applied" until you move it along.
 export default async function TrackerPage() {
   const supabase = await createClient();
   const {
@@ -17,7 +15,7 @@ export default async function TrackerPage() {
       <div className="mx-auto flex min-h-[60vh] max-w-lg flex-col items-start justify-center px-4">
         <h1 className="font-display text-2xl font-semibold text-text">Application tracker</h1>
         <p className="mt-2 text-sm text-text-muted">
-          Sign in to track the applications you&apos;ve actually sent.
+          Sign in to track the internships you&apos;ve saved and applied to.
         </p>
         <Link
           href="/login"
@@ -32,8 +30,7 @@ export default async function TrackerPage() {
   const { data: rows, error } = await supabase
     .from("saved_postings")
     .select("*")
-    .not("applied_at", "is", null)
-    .order("applied_at", { ascending: false });
+    .order("created_at", { ascending: false });
 
   if (error) {
     console.error("failed to load tracker rows:", error.message);
@@ -45,8 +42,9 @@ export default async function TrackerPage() {
         <div>
           <h1 className="font-display text-2xl font-semibold text-text">Application tracker</h1>
           <p className="mt-1 text-sm text-text-muted">
-            {rows?.length ?? 0} applied. Company, role, location, and date applied are locked to what
-            you actually applied for; everything else is yours to fill in.
+            {rows?.length ?? 0} tracked. Every posting you save lands here. Company, role, and
+            location stay locked to the real posting; Date Applied fills itself in the first time
+            you move a row off &quot;Not applied.&quot;
           </p>
         </div>
 
@@ -62,11 +60,11 @@ export default async function TrackerPage() {
 
       {!rows || rows.length === 0 ? (
         <p className="mt-8 text-sm text-text-muted">
-          Nothing here yet — mark a saved posting &quot;Applied&quot; on the{" "}
-          <Link href="/saved" className="underline hover:text-accent-bright">
-            Saved
+          Nothing here yet — hit Save on a posting in the{" "}
+          <Link href="/" className="underline hover:text-accent-bright">
+            feed
           </Link>{" "}
-          page and it&apos;ll show up here.
+          and it&apos;ll show up as a row.
         </p>
       ) : (
         <div className="mt-6">

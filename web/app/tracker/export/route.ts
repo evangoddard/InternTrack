@@ -1,6 +1,7 @@
 import ExcelJS from "exceljs";
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
+import { statusLabel } from "@/lib/savedStatus";
 
 // GET /tracker/export -- downloads the signed-in user's application tracker
 // as a real .xlsx file (open it in Excel, Numbers, Google Sheets, or
@@ -19,8 +20,7 @@ export async function GET() {
   const { data: rows, error } = await supabase
     .from("saved_postings")
     .select("*")
-    .not("applied_at", "is", null)
-    .order("applied_at", { ascending: false });
+    .order("created_at", { ascending: false });
 
   if (error) {
     return NextResponse.json({ error: error.message }, { status: 500 });
@@ -54,7 +54,7 @@ export async function GET() {
       cover_letter: row.cover_letter,
       location: row.location,
       applied_at: dateOnly(row.applied_at),
-      status: row.status,
+      status: statusLabel(row.status),
       salary: row.salary,
       offer: row.offer,
       url: row.url,

@@ -16,9 +16,6 @@ export default async function Header() {
       <nav className="mx-auto flex max-w-3xl items-center justify-end gap-4 text-sm text-text-muted">
         {user ? (
           <>
-            <Link href="/saved" className="transition-colors hover:text-text">
-              Saved
-            </Link>
             <Link href="/tracker" className="transition-colors hover:text-text">
               Tracker
             </Link>

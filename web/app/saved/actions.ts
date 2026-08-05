@@ -3,17 +3,15 @@
 import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
-import { STATUSES, type SavedStatus } from "@/lib/savedStatus";
+import { STATUSES, NOT_APPLIED, type SavedStatus } from "@/lib/savedStatus";
 
 // Saves (or re-saves) a posting for the current user, snapshotting its
 // display fields -- see supabase/schema.sql for why. Signed-out users are
 // sent to log in and then back to wherever they were.
 //
-// Status defaults straight to "applied" (with applied_at set immediately)
-// rather than the old "saved" intermediate stage -- the Save button on the
-// feed is the only way postings enter this table, so by the time something
-// is here it's because you're applying to it, and it should show up on
-// /tracker right away without a separate "mark applied" step.
+// Saving a posting adds it to the tracker as a lead at "not applied" --
+// it shows up on /tracker immediately, but applied_at stays null until you
+// actually move the status forward yourself (see updateStatus below).
 export async function savePosting(formData: FormData) {
   const supabase = await createClient();
   const {
@@ -35,8 +33,7 @@ export async function savePosting(formData: FormData) {
       url: String(formData.get("url") ?? ""),
       location: String(formData.get("location") ?? ""),
       season: String(formData.get("season") ?? ""),
-      status: "applied",
-      applied_at: new Date().toISOString(),
+      status: NOT_APPLIED,
     },
     { onConflict: "user_id,posting_id" }
   );
@@ -46,7 +43,6 @@ export async function savePosting(formData: FormData) {
   }
 
   revalidatePath(returnTo);
-  revalidatePath("/saved");
   revalidatePath("/tracker");
 }
 
@@ -66,9 +62,32 @@ export async function unsavePosting(formData: FormData) {
 
   if (error) console.error("unsavePosting failed:", error.message);
 
-  revalidatePath("/saved");
   revalidatePath("/tracker");
   revalidatePath("/");
+}
+
+// Unsave straight from the feed, which only knows the posting's own id --
+// not the saved_postings row id that unsavePosting() above deletes by.
+// Same delete either way: one row, scoped to this user, and it disappears
+// from the tracker too since they're the same record.
+export async function unsaveByPostingId(formData: FormData) {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) redirect("/login");
+
+  const postingId = String(formData.get("posting_id") ?? "");
+  const { error } = await supabase
+    .from("saved_postings")
+    .delete()
+    .eq("posting_id", postingId)
+    .eq("user_id", user.id);
+
+  if (error) console.error("unsaveByPostingId failed:", error.message);
+
+  revalidatePath("/");
+  revalidatePath("/tracker");
 }
 
 export async function updateStatus(formData: FormData) {
@@ -84,10 +103,12 @@ export async function updateStatus(formData: FormData) {
 
   const update: Record<string, unknown> = { status, updated_at: new Date().toISOString() };
 
-  // applied_at is set once, the first time status becomes "applied", and
-  // never overwritten by later status changes -- it has to be a real apply
-  // date for the Excel export to mean anything, not just "last touched."
-  if (status === "applied") {
+  // applied_at is stamped once, the first time status moves off
+  // "not applied", and never overwritten afterwards -- it has to be a real
+  // apply date for the sheet to mean anything, not just "last touched".
+  // Keyed off "anything but not_applied" rather than status === "applied"
+  // specifically, so jumping straight to OA/Interview still records a date.
+  if (status !== NOT_APPLIED) {
     const { data: existing } = await supabase
       .from("saved_postings")
       .select("applied_at")
@@ -108,7 +129,6 @@ export async function updateStatus(formData: FormData) {
 
   if (error) console.error("updateStatus failed:", error.message);
 
-  revalidatePath("/saved");
   revalidatePath("/tracker");
 }
 

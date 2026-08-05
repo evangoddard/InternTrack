@@ -3,7 +3,7 @@
 import { useState } from "react";
 import type { Posting } from "@/lib/types";
 import { formatDate } from "@/lib/formatDate";
-import { savePosting } from "@/app/saved/actions";
+import { savePosting, unsaveByPostingId } from "@/app/saved/actions";
 import CompanyLogo from "./CompanyLogo";
 
 export function isUpcomingDeadline(deadline: string, withinDays = 7): boolean {
@@ -79,7 +79,23 @@ export default function PostingRow({
         </span>
 
         {saved ? (
-          <span className="w-fit text-xs font-semibold text-accent-bright">Saved ✓</span>
+          // Reads "Saved ✓" at rest and swaps to "Unsave" on hover, so the
+          // row still shows its saved state but is undoable in one click.
+          // Named group (/save) so it reacts to this button only -- the <li>
+          // already owns the plain `group` for the whole-row hover.
+          <span onClick={(e) => e.stopPropagation()} className="w-fit">
+            <form action={unsaveByPostingId} className="group/save">
+              <input type="hidden" name="posting_id" value={posting.id} />
+              <button
+                type="submit"
+                title="Remove from saved"
+                className="w-fit border-b border-transparent text-xs font-semibold text-accent-bright transition-colors hover:border-red-400 hover:text-red-400"
+              >
+                <span className="group-hover/save:hidden">Saved ✓</span>
+                <span className="hidden group-hover/save:inline">Unsave</span>
+              </button>
+            </form>
+          </span>
         ) : (
           <span
             onClick={(e) => e.stopPropagation()}
