@@ -66,7 +66,17 @@ def to_web_posting(posting: Posting) -> dict:
     }
 
 
+def existing_count() -> int:
+    """How many postings the current data.json holds, or 0 if there isn't one."""
+    try:
+        return len(json.loads(OUTPUT_PATH.read_text())["postings"])
+    except (OSError, ValueError, KeyError):
+        return 0
+
+
 def main() -> int:
+    force = "--force" in sys.argv
+
     with open("config.yaml") as handle:
         raw_config = yaml.safe_load(handle) or {}
     sources_config = raw_config.get("sources", {})
@@ -85,6 +95,22 @@ def main() -> int:
         key=lambda p: p.date_posted.timestamp() if p.date_posted else 0,
         reverse=True,
     )
+
+    # Guard against a bad run silently emptying the site. Now that this runs
+    # unattended every hour and commits its output, a transient upstream
+    # problem (or a config.yaml that didn't get written in CI) would
+    # otherwise replace a good feed with an empty one and nobody would
+    # notice until the site was blank. Refuse rather than write; --force
+    # overrides when a big drop is genuinely expected.
+    previous = existing_count()
+    if not force and previous >= 20 and len(matched) < previous * 0.5:
+        print(
+            f"REFUSING TO WRITE: {len(matched)} postings is less than half of the "
+            f"{previous} already in {OUTPUT_PATH.name}. Re-run with --force if "
+            "this drop is real.",
+            file=sys.stderr,
+        )
+        return 1
 
     data = {
         "stats": {

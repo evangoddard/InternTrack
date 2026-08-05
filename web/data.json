@@ -1,11 +1,329 @@
 {
   "stats": {
-    "postings_tracked": 137,
+    "postings_tracked": 160,
     "sources": 1,
-    "companies": 49,
-    "last_updated": "2026-08-04"
+    "companies": 56,
+    "last_updated": "2026-08-05"
   },
   "postings": [
+    {
+      "id": "simplify:f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
+      "company": "Maven Securities",
+      "title": "Trader Intern - Summer",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:633fde2a-eea3-462a-91b6-f0c8025fba8d",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Search",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7668396597746862341",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:861c7a8a-d9c3-4137-b070-331f0d26e5b3",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - VOD Data",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670287013157095733",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Creation Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670289874020993285",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7fdf2de6-75ca-4715-8764-720c7cc52695",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - Ads Targeting",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7668533140146817333",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fe93fbfa-cba0-4f3c-8f20-9cbc4828ef01",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - AI Foundation Models Infrastructure - Seed Infra",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670330161462364421/detail",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d51738a7-c696-4490-8b3f-37c15f392347",
+      "company": "Qualcomm",
+      "title": "AI Integration & Interoperability Intern",
+      "location": "Cheektowaga, NY",
+      "locations": [
+        "Cheektowaga, NY"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446716226621",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:cf5af52b-83aa-43da-b187-a24ee19f0533",
+      "company": "John Deere",
+      "title": "Software Engineer Part-Time Student - Technology",
+      "location": "Moline, IL",
+      "locations": [
+        "Moline, IL"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137480957123",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1757c4ab-3e90-49bb-9fe9-1f16bd55d158",
+      "company": "John Deere",
+      "title": "Data Science and Analytics Part-Time Student - Data and Analytics",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137481458189",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:0a4cde76-0c66-45e5-9dc4-55f9d3d77009",
+      "company": "John Deere",
+      "title": "Electrical Systems Engineer Part-Time Student - Product Engineering",
+      "location": "Silvis, IL",
+      "locations": [
+        "Silvis, IL"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137482489158",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7668415591670417717",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:3b700557-5c32-4773-8cfe-f11a66b71a4f",
+      "company": "TikTok",
+      "title": "Data Science Intern - TikTok Product",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7669683639101884725",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f7298edb-1fb0-4e58-bc88-d30b54d9deea",
+      "company": "TikTok",
+      "title": "Product Operations Intern - Apps and API",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7669927344569764101",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:f2aef99d-5325-4d85-b025-b5d38d673a4a",
+      "company": "ByteDance",
+      "title": "Student Researcher - Compiler - Seed Infra",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670317975513794869/detail",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
+      "company": "GE Appliances",
+      "title": "Software Engineer Co-op - Software Engineering",
+      "location": "Louisville, KY",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d11cbbe8-c970-459f-bf95-530ed6400b12",
+      "company": "General Dynamics Information Technology",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "location": "Falls Church, VA",
+      "locations": [
+        "Falls Church, VA"
+      ],
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:0fcced78-d86d-400f-922d-576be4853376",
+      "company": "DV Trading",
+      "title": "Quantitative Risk Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:14be19fd-d9b5-4218-9a72-21ca5a1b73da",
+      "company": "American Express",
+      "title": "Product Development Intern - US Consumer Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
       "company": "American Express",
@@ -446,6 +764,24 @@
       ]
     },
     {
+      "id": "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:db36b892-52d0-41cd-a477-521af6328b70",
       "company": "Samsara",
       "title": "Software Engineering Intern",
@@ -751,6 +1087,23 @@
       ]
     },
     {
+      "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:736ed5d6-63be-4dfa-b0d6-5eb9c5d4e663",
       "company": "JP Morgan Chase",
       "title": "Quantitative Research Intern - Risk and Treasury",
@@ -768,6 +1121,42 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Summer Analyst Intern - Asset Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c603c749-ab7d-489e-a4f7-a962ea05b835",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Intern - Markets - Analyst",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1968,6 +2357,23 @@
       "category": "Quant",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:27b61932-d5fb-4bd8-81ea-90b600aaabe5",
+      "company": "Louisiana Blue",
+      "title": "Operational Reporting & Data Analyst Intern - CW",
+      "location": "Baton Rouge, LA",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "url": "https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Corporate---Baton-Rouge-LA/CW-Operational-Reporting---Data-Analyst-Intern_R11907",
+      "date_posted": "2026-07-22",
+      "deadline": "",
+      "season": "Spring 2026 / Fall 2026 / Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
