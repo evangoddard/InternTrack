@@ -46,6 +46,64 @@ export async function savePosting(formData: FormData) {
   revalidatePath("/tracker");
 }
 
+export interface BulkPosting {
+  posting_id: string;
+  company: string;
+  title: string;
+  url: string;
+  location: string;
+  season: string;
+}
+
+/**
+ * Save a batch at once -- the "save all" button on a filtered view.
+ *
+ * Upserts on (user_id, posting_id) like savePosting does, so anything
+ * already tracked keeps its existing status and dates instead of being
+ * reset to "not applied". Returns how many rows were new so the UI can say
+ * something truthful rather than claiming it saved everything.
+ */
+export async function saveManyPostings(items: BulkPosting[]) {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) {
+    redirect(`/login?message=${encodeURIComponent("Sign in to save postings.")}`);
+  }
+
+  if (items.length === 0) return { saved: 0 };
+
+  const { data: existing } = await supabase
+    .from("saved_postings")
+    .select("posting_id")
+    .eq("user_id", user.id);
+
+  const already = new Set((existing ?? []).map((r) => r.posting_id));
+  const fresh = items.filter((i) => !already.has(i.posting_id));
+
+  if (fresh.length > 0) {
+    const { error } = await supabase.from("saved_postings").upsert(
+      fresh.map((i) => ({
+        user_id: user.id,
+        posting_id: i.posting_id,
+        company: i.company,
+        title: i.title,
+        url: i.url,
+        location: i.location,
+        season: i.season,
+        status: NOT_APPLIED,
+      })),
+      { onConflict: "user_id,posting_id" }
+    );
+    if (error) console.error("saveManyPostings failed:", error.message);
+  }
+
+  revalidatePath("/");
+  revalidatePath("/tracker");
+  return { saved: fresh.length };
+}
+
 export async function unsavePosting(formData: FormData) {
   const supabase = await createClient();
   const {

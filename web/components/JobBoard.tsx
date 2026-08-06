@@ -5,6 +5,7 @@ import type { Posting } from "@/lib/types";
 import PostingRow from "./PostingRow";
 import EligibilityScanning from "./EligibilityScanning";
 import { CATEGORIES, categoryOf, type Category } from "@/lib/categories";
+import { saveManyPostings } from "@/app/saved/actions";
 
 interface Verdict {
   eligible: boolean;
@@ -33,6 +34,8 @@ export default function JobBoard({
   const [verdicts, setVerdicts] = useState<Record<string, Verdict> | null>(null);
   const [checking, setChecking] = useState(false);
   const [checkError, setCheckError] = useState<string | null>(null);
+  const [savingAll, setSavingAll] = useState(false);
+  const [saveNote, setSaveNote] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
 
   const cancelCheck = () => {
@@ -126,6 +129,43 @@ export default function JobBoard({
     [postings, verdicts]
   );
 
+  // Only offered on a narrowed view. "Save all" over an unfiltered 160-row
+  // feed is a footgun, not a feature -- the intent only makes sense once
+  // you've filtered down to roles you actually want.
+  const isFiltered = search.trim() !== "" || selected.size > 0 || eligibleOnly;
+  const unsavedInView = filtered.filter((p) => !savedIds.has(p.id));
+
+  const saveAll = async () => {
+    if (unsavedInView.length === 0 || savingAll) return;
+    if (
+      !confirm(
+        `Save ${unsavedInView.length} posting${unsavedInView.length === 1 ? "" : "s"} to your tracker?`
+      )
+    ) {
+      return;
+    }
+
+    setSavingAll(true);
+    setSaveNote(null);
+    try {
+      const result = await saveManyPostings(
+        unsavedInView.map((p) => ({
+          posting_id: p.id,
+          company: p.company,
+          title: p.title,
+          url: p.url,
+          location: p.location,
+          season: p.season,
+        }))
+      );
+      setSaveNote(`Saved ${result.saved} to your tracker.`);
+    } catch {
+      setSaveNote("Couldn't save those.");
+    } finally {
+      setSavingAll(false);
+    }
+  };
+
   if (checking) {
     return (
       <section className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-12" id="postings">
@@ -196,6 +236,38 @@ export default function JobBoard({
         )}
       </div>
 
+      <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2">
+        {isFiltered && unsavedInView.length > 0 && (
+          <button
+            type="button"
+            onClick={saveAll}
+            disabled={savingAll}
+            className="rounded-full border border-border px-3 py-1 text-xs font-semibold text-text-muted transition-colors hover:border-accent-bright hover:text-accent-bright disabled:opacity-50"
+          >
+            {savingAll ? "Saving…" : `Save all ${unsavedInView.length}`}
+          </button>
+        )}
+
+        {/* Up here rather than buried under 160 rows -- "where did my hidden
+            roles go" is only answerable if the answer is visible. */}
+        {hiddenCount > 0 && (
+          <button
+            type="button"
+            onClick={() => setShowHidden((v) => !v)}
+            className="text-xs text-text-faint transition-colors hover:text-text"
+          >
+            {showHidden ? "Hide" : "See"} {hiddenCount} hidden role
+            {hiddenCount === 1 ? "" : "s"}
+          </button>
+        )}
+
+        {saveNote && <span className="text-xs text-accent-bright">{saveNote}</span>}
+      </div>
+
+      {showHidden && hiddenCount > 0 && (
+        <div className="mt-3 rounded-xl border border-border p-3">{hiddenContent}</div>
+      )}
+
       {checkError && <p className="mt-2 text-xs text-red-400">{checkError}</p>}
 
       {eligibleOnly && verdicts && (
@@ -227,18 +299,6 @@ export default function JobBoard({
         </div>
       )}
 
-      {hiddenCount > 0 && (
-        <div className="mt-10 border-t border-border pt-4">
-          <button
-            type="button"
-            onClick={() => setShowHidden((v) => !v)}
-            className="text-xs text-text-faint transition-colors hover:text-text"
-          >
-            {hiddenCount} hidden · {showHidden ? "collapse" : "show"}
-          </button>
-          {showHidden && <div className="mt-3">{hiddenContent}</div>}
-        </div>
-      )}
     </section>
   );
 }
