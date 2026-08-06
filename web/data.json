@@ -1,11 +1,47 @@
 {
   "stats": {
-    "postings_tracked": 179,
+    "postings_tracked": 181,
     "sources": 1,
     "companies": 61,
     "last_updated": "2026-08-06"
   },
   "postings": [
+    {
+      "id": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
+      "company": "ByteDance",
+      "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+      "company": "ByteDance",
+      "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:fa4acb7b-e2c6-4b0a-8f93-4d09b537db1b",
       "company": "TikTok",
