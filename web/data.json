@@ -1,11 +1,99 @@
 {
   "stats": {
-    "postings_tracked": 160,
+    "postings_tracked": 169,
     "sources": 1,
-    "companies": 56,
-    "last_updated": "2026-08-05"
+    "companies": 60,
+    "last_updated": "2026-08-06"
   },
   "postings": [
+    {
+      "id": "simplify:f89dbf35-2e68-4087-a28a-1092da1e72d4",
+      "company": "Roblox",
+      "title": "Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:789f3f1a-8c80-4c58-bc82-1e831e81e1e7",
+      "company": "Optiver",
+      "title": "Quantitative Intern - Summer 2027",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:14c1c923-d903-4696-b2fe-7351cfa70ab2",
+      "company": "Point Blue Conservation Science",
+      "title": "Data Science Intern - Ecoinformatics",
+      "location": "Petaluma, CA",
+      "locations": [
+        "Petaluma, CA"
+      ],
+      "url": "https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Incomplete"
+      ]
+    },
+    {
+      "id": "simplify:c07d8789-5d37-4216-93ce-d2d8035adb7d",
+      "company": "American Express",
+      "title": "Product Management Intern - Global Merchant & Network Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0a98ebc5-e475-46d7-82ae-71e4d433d7c6",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Derivatives Sales Trader Intern - Summer 2027",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
       "company": "Maven Securities",
@@ -288,6 +376,25 @@
         "Bachelor's",
         "Master's",
         "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:2ccc5c31-d719-47e7-ab38-b42010d3a585",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern - Dynamo",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -1087,6 +1194,31 @@
       ]
     },
     {
+      "id": "simplify:1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
+      "company": "JP Morgan Chase",
+      "title": "Data Internship - Data & AI Program",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
       "company": "JP Morgan Chase",
       "title": "Quantitative Research Intern",
@@ -1180,6 +1312,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Analyst",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2303,6 +2460,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1a3e9e00-5d2c-4657-be1b-e639c34231eb",
+      "company": "T. Rowe Price",
+      "title": "Global Trading Intern",
+      "location": "Baltimore, MD",
+      "locations": [
+        "Baltimore, MD"
+      ],
+      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
+      "date_posted": "2026-07-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
