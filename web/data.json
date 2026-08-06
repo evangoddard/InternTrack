@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 180,
+    "postings_tracked": 179,
     "sources": 1,
-    "companies": 61,
+    "companies": 60,
     "last_updated": "2026-08-06"
   },
   "postings": [
+    {
+      "id": "simplify:f21fd8c2-51b1-48c3-a6af-092113970a45",
+      "company": "SharkNinja",
+      "title": "Digital Experience Web Development - D2C",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702667006",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
       "company": "ByteDance",
@@ -590,23 +608,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "location": "Melbourne, FL",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -2647,23 +2648,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1a3e9e00-5d2c-4657-be1b-e639c34231eb",
-      "company": "T. Rowe Price",
-      "title": "Global Trading Intern",
-      "location": "Baltimore, MD",
-      "locations": [
-        "Baltimore, MD"
-      ],
-      "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718",
-      "date_posted": "2026-07-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
