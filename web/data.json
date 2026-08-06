@@ -1,11 +1,170 @@
 {
   "stats": {
-    "postings_tracked": 169,
+    "postings_tracked": 179,
     "sources": 1,
-    "companies": 60,
+    "companies": 61,
     "last_updated": "2026-08-06"
   },
   "postings": [
+    {
+      "id": "simplify:fa4acb7b-e2c6-4b0a-8f93-4d09b537db1b",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Foundation Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670281449668905269",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5240d3a1-8474-482a-bb81-33ca1189a842",
+      "company": "TikTok",
+      "title": "Product Manager Intern - Product Infrastructure - Account",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670009830602721589",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fad1406c-cd92-4587-b376-d9839b629e3c",
+      "company": "TikTok",
+      "title": "LLM Post-training Engineer Intern - Research & Product",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670285031018432773",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0673c550-4c1f-4d6c-b03d-e2185d8183b0",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Media Engine",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670295535077427509",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b6cb7794-c736-4019-b882-94ec5758132d",
+      "company": "TikTok",
+      "title": "Strategy Product Manager Intern - Platform Responsibility",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670420287191517493",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:34fa4813-bc92-4deb-8987-cf33bc625246",
+      "company": "ByteDance",
+      "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7668464504736876853/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:caf65c55-0c26-43b0-b3e7-f7bb2f5fc7db",
+      "company": "ByteDance",
+      "title": "ASIC Design Engineer Intern - Video Silicon IP",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670332179383699717/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6f26ea4e-9081-475e-a1fa-ab0a978643f5",
+      "company": "ByteDance",
+      "title": "Video/Image AI/ML Software Engineer Intern - Multimedia",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670354329765464373/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:50940dc5-4b2f-4f49-983e-f589769f3848",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Multimedia Streaming",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670354800621603125/detail",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:f89dbf35-2e68-4087-a28a-1092da1e72d4",
       "company": "Roblox",
@@ -395,6 +554,23 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "location": "Melbourne, FL",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
