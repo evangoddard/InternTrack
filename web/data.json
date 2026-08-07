@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 181,
+    "postings_tracked": 180,
     "sources": 1,
     "companies": 59,
     "last_updated": "2026-08-07"
@@ -377,24 +377,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0a98ebc5-e475-46d7-82ae-71e4d433d7c6",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Derivatives Sales Trader Intern - Summer 2027",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://careers-sig.icims.com/jobs/10626/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
