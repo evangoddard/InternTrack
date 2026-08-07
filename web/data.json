@@ -1,29 +1,11 @@
 {
   "stats": {
-    "postings_tracked": 179,
+    "postings_tracked": 180,
     "sources": 1,
     "companies": 60,
-    "last_updated": "2026-08-06"
+    "last_updated": "2026-08-07"
   },
   "postings": [
-    {
-      "id": "simplify:f21fd8c2-51b1-48c3-a6af-092113970a45",
-      "company": "SharkNinja",
-      "title": "Digital Experience Web Development - D2C",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4702667006",
-      "date_posted": "2026-08-06",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
     {
       "id": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
       "company": "ByteDance",
@@ -608,6 +590,23 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "location": "Melbourne, FL",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1401,6 +1400,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
+      "company": "JP Morgan Chase",
+      "title": "Data Internship - Data & AI Program",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
