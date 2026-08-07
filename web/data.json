@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 184,
+    "postings_tracked": 183,
     "sources": 1,
-    "companies": 60,
+    "companies": 59,
     "last_updated": "2026-08-07"
   },
   "postings": [
@@ -643,23 +643,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
-      "company": "GE Appliances",
-      "title": "Software Engineer Co-op - Software Engineering",
-      "location": "Louisville, KY",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
