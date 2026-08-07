@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 182,
+    "postings_tracked": 181,
     "sources": 1,
-    "companies": 60,
+    "companies": 59,
     "last_updated": "2026-08-07"
   },
   "postings": [
@@ -698,23 +698,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "location": "Melbourne, FL",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
