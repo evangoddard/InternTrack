@@ -7,6 +7,25 @@
   },
   "postings": [
     {
+      "id": "simplify:600d65ac-5918-4d2c-80ed-c6a5ba2a90d4",
+      "company": "Kastle AI",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee/application?embed=true",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Bootcamp"
+      ]
+    },
+    {
       "id": "simplify:8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
       "company": "TikTok",
       "title": "Fullstack Software Engineer Intern - Global E-Commerce",
@@ -2500,24 +2519,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:229ace69-8177-42cc-a85f-c0517803f03b",
-      "company": "CVS Health",
-      "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Grad--Conversion-_R0991627",
-      "date_posted": "2026-07-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
