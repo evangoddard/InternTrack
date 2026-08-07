@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 185,
+    "postings_tracked": 184,
     "sources": 1,
     "companies": 60,
     "last_updated": "2026-08-07"
@@ -2518,23 +2518,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:40c1294a-a472-402c-882b-843d26a07449",
-      "company": "CVS Health",
-      "title": "Analytics & Behavior Change - Data Science - Conversion",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Undergrad--Conversion-_R0991610",
-      "date_posted": "2026-07-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
