@@ -1,11 +1,100 @@
 {
   "stats": {
-    "postings_tracked": 180,
+    "postings_tracked": 185,
     "sources": 1,
     "companies": 60,
     "last_updated": "2026-08-07"
   },
   "postings": [
+    {
+      "id": "simplify:8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
+      "company": "TikTok",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670700387322300677",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3eeac721-35f3-4f16-9019-05cfc80ad251",
+      "company": "TikTok",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670738362521520437",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:768f4b89-5b54-45bb-9e39-72e0b86c8110",
+      "company": "ByteDance",
+      "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670855041951795509/detail",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:aa7eb673-811f-4d32-a109-b840c82a1fab",
+      "company": "ByteDance",
+      "title": "Network Software Engineer Intern - Network Switch",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1a9582e0-2525-494c-8737-53db648f37cb",
+      "company": "ByteDance",
+      "title": "Network Software Engineer Intern - Network Observation",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
       "company": "ByteDance",
