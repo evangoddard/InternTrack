@@ -1,11 +1,41 @@
 {
   "stats": {
-    "postings_tracked": 180,
+    "postings_tracked": 183,
     "sources": 1,
-    "companies": 59,
+    "companies": 60,
     "last_updated": "2026-08-07"
   },
   "postings": [
+    {
+      "id": "simplify:c2163298-bd36-4efb-8554-64b9997a0b1b",
+      "company": "Belvedere Trading",
+      "title": "Quantitative Trading Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab/apply",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
+      "company": "Belvedere Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
     {
       "id": "simplify:600d65ac-5918-4d2c-80ed-c6a5ba2a90d4",
       "company": "Kastle AI",
@@ -1211,42 +1241,6 @@
       ]
     },
     {
-      "id": "simplify:cef4c60b-0a55-4305-94cf-d725b8c66ad2",
-      "company": "Chicago Trading Company",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ca124ec8-21c1-40d5-8aba-dea45cf0fe0d",
-      "company": "Chicago Trading Company",
-      "title": "Quantitative Trading Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ebd0e25e-fda3-446a-8872-f7292f38d1f7",
       "company": "Susquehanna International Group (SIG)",
       "title": "Quantitative Trading and Quantitative Strategy Development",
@@ -1479,6 +1473,31 @@
       ]
     },
     {
+      "id": "simplify:1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
+      "company": "JP Morgan Chase",
+      "title": "Data Internship - Data & AI Program",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
       "company": "JP Morgan Chase",
       "title": "Quantitative Research Intern",
@@ -1572,6 +1591,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Analyst",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -3013,6 +3057,24 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:5fdbf0e9-e98a-4251-b983-801d494ae586",
+      "company": "Chicago Trading Company",
+      "title": "Software Engineering Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+      "date_posted": "2026-07-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:01925f31-564d-4bc0-94fc-2a2717d3132d",
