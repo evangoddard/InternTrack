@@ -1,11 +1,230 @@
 {
   "stats": {
-    "postings_tracked": 183,
+    "postings_tracked": 202,
     "sources": 1,
-    "companies": 60,
+    "companies": 65,
     "last_updated": "2026-08-07"
   },
   "postings": [
+    {
+      "id": "simplify:01ba76c4-8637-49c3-a04f-324409838c74",
+      "company": "Trillium",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
+      "company": "Axon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c89c7602-1daa-44bd-a2e1-6c6fa55deb73",
+      "company": "Axon",
+      "title": "Firmware Engineer Intern - Platform Firmware",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Bootcamp"
+      ]
+    },
+    {
+      "id": "simplify:8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
+      "company": "Epic Games",
+      "title": "Machine Learning Intern - Special Projects - Epic Research Group",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2026 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9d04080d-0ad1-42fe-b047-599eef0c1fd7",
+      "company": "Epic Games",
+      "title": "Machine Learning Intern",
+      "location": "Canada +2 more",
+      "locations": [
+        "Canada",
+        "United Kingdom",
+        "United States"
+      ],
+      "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2026 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
+      "company": "The Nuclear Company",
+      "title": "AI/ML Engineer Intern",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b57a206e-05f4-4b02-9ccd-b54ba30848e2",
+      "company": "The Nuclear Company",
+      "title": "Software Engineering Intern - Product - Platform",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:17936a1f-6724-46a7-a97a-6feceb9c2a92",
+      "company": "John Deere",
+      "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
+      "location": "Dubuque, IA",
+      "locations": [
+        "Dubuque, IA"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137482642817",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Seattle, WA +4 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "LA",
+        "NYC",
+        "Mountain View, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern - Ads Interface",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7671211313289398581",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:34280898-ae52-4450-896d-1e47305b467e",
+      "company": "TikTok",
+      "title": "AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670010726514493749",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:016ffb65-6a85-485b-b718-14b7c85d9463",
+      "company": "TikTok",
+      "title": "Search Safety Operations Intern - Platform Responsibility - Search",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670420117406452021",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:c2163298-bd36-4efb-8554-64b9997a0b1b",
       "company": "Belvedere Trading",
@@ -142,6 +361,60 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fc244a70-fbd2-4a62-a5e8-7caad750e8d9",
+      "company": "Royal Bank of Canada",
+      "title": "Capital Markets Quant Summer Associate - Quantitative Technology Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183482",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2115234d-be28-4c20-b435-cbb15464dda9",
+      "company": "Royal Bank of Canada",
+      "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8b6ea404-0949-4cd3-a4e1-f77ec1d8cca0",
+      "company": "Royal Bank of Canada",
+      "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1235,6 +1508,42 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:cef4c60b-0a55-4305-94cf-d725b8c66ad2",
+      "company": "Chicago Trading Company",
+      "title": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ca124ec8-21c1-40d5-8aba-dea45cf0fe0d",
+      "company": "Chicago Trading Company",
+      "title": "Quantitative Trading Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2481,6 +2790,23 @@
       ]
     },
     {
+      "id": "simplify:40c1294a-a472-402c-882b-843d26a07449",
+      "company": "CVS Health",
+      "title": "Analytics & Behavior Change - Data Science - Conversion",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Undergrad--Conversion-_R0991610",
+      "date_posted": "2026-07-29",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:b71d71f5-3279-48fe-9484-0e2755e9f21b",
       "company": "Savannah River National Laboratory",
       "title": "Software Developer Undergraduate Intern",
@@ -3057,6 +3383,24 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:9ec52711-cf87-406e-83ad-c5bb73c1e65d",
+      "company": "Chicago Trading Company",
+      "title": "Quant Trading Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+      "date_posted": "2026-07-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:5fdbf0e9-e98a-4251-b983-801d494ae586",
