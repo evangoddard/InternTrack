@@ -1,11 +1,66 @@
 {
   "stats": {
-    "postings_tracked": 202,
+    "postings_tracked": 205,
     "sources": 1,
-    "companies": 65,
-    "last_updated": "2026-08-07"
+    "companies": 67,
+    "last_updated": "2026-08-08"
   },
   "postings": [
+    {
+      "id": "simplify:eaa01856-85b6-42f8-97ab-deedc1304759",
+      "company": "Capula",
+      "title": "Trading and Research Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply",
+      "date_posted": "2026-08-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
+      "company": "TMEIC Corporation Americas",
+      "title": "Applications Intern - AI and Machine Learning",
+      "location": "Roanoke, VA",
+      "locations": [
+        "Roanoke, VA"
+      ],
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
+      "date_posted": "2026-08-08",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:30e36d66-cf25-4851-9655-d22bb0c6d319",
+      "company": "ByteDance",
+      "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail",
+      "date_posted": "2026-08-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:01ba76c4-8637-49c3-a04f-324409838c74",
       "company": "Trillium",
