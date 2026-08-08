@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 205,
+    "postings_tracked": 204,
     "sources": 1,
-    "companies": 67,
+    "companies": 66,
     "last_updated": "2026-08-08"
   },
   "postings": [
@@ -2547,23 +2547,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:86e907c2-6aef-4071-ae6c-20a9c6b7306c",
-      "company": "Netsmart",
-      "title": "Software Engineer Intern",
-      "location": "Overland Park, KS",
-      "locations": [
-        "Overland Park, KS"
-      ],
-      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
