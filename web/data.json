@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 203,
+    "postings_tracked": 202,
     "sources": 1,
-    "companies": 65,
+    "companies": 64,
     "last_updated": "2026-08-08"
   },
   "postings": [
@@ -665,24 +665,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f89dbf35-2e68-4087-a28a-1092da1e72d4",
-      "company": "Roblox",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
