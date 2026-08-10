@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 202,
+    "postings_tracked": 201,
     "sources": 1,
-    "companies": 65,
-    "last_updated": "2026-08-09"
+    "companies": 64,
+    "last_updated": "2026-08-10"
   },
   "postings": [
     {
@@ -701,23 +701,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:14c1c923-d903-4696-b2fe-7351cfa70ab2",
-      "company": "Point Blue Conservation Science",
-      "title": "Data Science Intern - Ecoinformatics",
-      "location": "Petaluma, CA",
-      "locations": [
-        "Petaluma, CA"
-      ],
-      "url": "https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Incomplete"
       ]
     },
     {
