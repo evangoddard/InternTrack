@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 204,
+    "postings_tracked": 208,
     "sources": 1,
-    "companies": 63,
+    "companies": 66,
     "last_updated": "2026-08-10"
   },
   "postings": [
+    {
+      "id": "simplify:241a43cd-dad1-4859-a5e3-071488f9dd2f",
+      "company": "ExxonMobil",
+      "title": "Trading Intern/Co-op",
+      "location": "Spring, TX",
+      "locations": [
+        "Spring, TX"
+      ],
+      "url": "https://jobs.exxonmobil.com/job/Spring-Students-Seeking-InternshipCo-op-Opportunities-in-Trading-TX-77389/1417886900/?ats=successfactors",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:343e0c01-b847-4c69-97bb-7015f723432d",
       "company": "ByteDance",
@@ -165,6 +182,53 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:fa275c09-336d-4067-ad94-70cbcecb4ed9",
+      "company": "PEAK6",
+      "title": "Trading Bootcamp Micro-Internship - Summer 2027",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:755d53f2-611b-41ed-b60e-f7e1ed63a5ef",
+      "company": "PEAK6",
+      "title": "Trading Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
+      "company": "Chamberlain Group",
+      "title": "Community Product Management Intern - Summer 2027",
+      "location": "Oak Brook, IL",
+      "locations": [
+        "Oak Brook, IL"
+      ],
+      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
