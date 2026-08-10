@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 202,
+    "postings_tracked": 201,
     "sources": 1,
     "companies": 63,
     "last_updated": "2026-08-10"
@@ -2487,25 +2487,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:53a2a495-c3df-469b-964d-b5d126fdc219",
-      "company": "Capital One",
-      "title": "Technology Intern",
-      "location": "Plano, TX +2 more",
-      "locations": [
-        "Plano, TX",
-        "McLean, VA",
-        "Richmond, VA"
-      ],
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
