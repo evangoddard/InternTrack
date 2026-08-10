@@ -1,11 +1,30 @@
 {
   "stats": {
-    "postings_tracked": 201,
+    "postings_tracked": 202,
     "sources": 1,
-    "companies": 64,
+    "companies": 65,
     "last_updated": "2026-08-10"
   },
   "postings": [
+    {
+      "id": "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Researcher Intern - Summer 2027",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:eaa01856-85b6-42f8-97ab-deedc1304759",
       "company": "Capula",
