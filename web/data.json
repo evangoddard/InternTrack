@@ -1,11 +1,64 @@
 {
   "stats": {
-    "postings_tracked": 200,
+    "postings_tracked": 202,
     "sources": 1,
     "companies": 63,
     "last_updated": "2026-08-10"
   },
   "postings": [
+    {
+      "id": "simplify:d1768aee-f240-4353-b609-278b04785c95",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Global E-commerce-Search",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670839727059339525",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - Monetization Data",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7671232204182276405",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8fdae942-cdba-4211-9277-dd563870610d",
+      "company": "Vertiv",
+      "title": "Software Engineer Intern",
+      "location": "Delaware, OH",
+      "locations": [
+        "Delaware, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
       "company": "InfiniteQuant",
@@ -42,24 +95,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:aedb4915-aa4d-46c4-9e18-d1b6144d3a70",
-      "company": "TMEIC Corporation Americas",
-      "title": "Applications Intern - AI and Machine Learning",
-      "location": "Roanoke, VA",
-      "locations": [
-        "Roanoke, VA"
-      ],
-      "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply",
-      "date_posted": "2026-08-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
