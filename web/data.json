@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 201,
+    "postings_tracked": 200,
     "sources": 1,
-    "companies": 63,
+    "companies": 62,
     "last_updated": "2026-08-10"
   },
   "postings": [
@@ -2552,23 +2552,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:4eea3ea9-aa50-418f-912f-105c7ecd705a",
-      "company": "CNO Financial Group",
-      "title": "Artificial Intelligence Information Technology Intern - AI",
-      "location": "Carmel, IN",
-      "locations": [
-        "Carmel, IN"
-      ],
-      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:d7896522-5218-4362-8092-60cacc29a642",
