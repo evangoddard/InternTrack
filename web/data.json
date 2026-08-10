@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 201,
+    "postings_tracked": 200,
     "sources": 1,
-    "companies": 64,
+    "companies": 63,
     "last_updated": "2026-08-10"
   },
   "postings": [
@@ -1021,25 +1021,6 @@
         "Bachelor's",
         "Master's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:2ccc5c31-d719-47e7-ab38-b42010d3a585",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern - Dynamo",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
