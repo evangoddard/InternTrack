@@ -1,11 +1,83 @@
 {
   "stats": {
-    "postings_tracked": 208,
+    "postings_tracked": 212,
     "sources": 1,
-    "companies": 66,
+    "companies": 68,
     "last_updated": "2026-08-10"
   },
   "postings": [
+    {
+      "id": "simplify:05b3995e-c81d-477e-a460-1dcd73950118",
+      "company": "TikTok",
+      "title": "Issue Discovery Operations Intern - Content Ecosystem",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7667582040108222773",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e87551ad-e266-4369-aa66-b85287a56ea2",
+      "company": "Deloitte",
+      "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - AML-Engine-Orchestration",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:de926b0a-99e7-4dbd-94cd-334ec565be9f",
+      "company": "Citadel",
+      "title": "Sector Data Scientist Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:241a43cd-dad1-4859-a5e3-071488f9dd2f",
       "company": "ExxonMobil",
