@@ -1,11 +1,100 @@
 {
   "stats": {
-    "postings_tracked": 200,
+    "postings_tracked": 205,
     "sources": 1,
-    "companies": 62,
+    "companies": 63,
     "last_updated": "2026-08-10"
   },
   "postings": [
+    {
+      "id": "simplify:343e0c01-b847-4c69-97bb-7015f723432d",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
+      "company": "ByteDance",
+      "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:10aab0a0-09f3-44a8-990e-a5b8db3c8da8",
+      "company": "ByteDance",
+      "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e24c2017-99ff-4c15-9636-3246335193a8",
+      "company": "ByteDance",
+      "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4de1af82-e491-4ce1-8a1f-4fdc1c58dcc9",
+      "company": "Montenson",
+      "title": "Artificial Intelligence Intern",
+      "location": "Minnesota",
+      "locations": [
+        "Minnesota"
+      ],
+      "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:d1768aee-f240-4353-b609-278b04785c95",
       "company": "TikTok",
