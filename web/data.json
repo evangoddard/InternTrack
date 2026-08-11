@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 216,
+    "postings_tracked": 215,
     "sources": 1,
-    "companies": 69,
+    "companies": 68,
     "last_updated": "2026-08-11"
   },
   "postings": [
@@ -252,23 +252,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8fdae942-cdba-4211-9277-dd563870610d",
-      "company": "Vertiv",
-      "title": "Software Engineer Intern",
-      "location": "Delaware, OH",
-      "locations": [
-        "Delaware, OH"
-      ],
-      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
