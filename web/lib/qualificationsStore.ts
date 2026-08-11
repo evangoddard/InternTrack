@@ -103,9 +103,17 @@ export async function getQualificationsFor(
   );
 
   if (fresh.length > 0) {
+    // ignoreDuplicates makes this ON CONFLICT DO NOTHING, which needs only
+    // INSERT. That matters: the cache table grants no UPDATE and carries no
+    // UPDATE policy, so entries are write-once. Because the app talks to
+    // Postgres as `authenticated` -- the same role the browser gets, since
+    // there is no service-role key here -- an UPDATE grant would let any
+    // signed-in user rewrite requirements text that every other user's
+    // eligibility verdict is computed from. Write-once means a legitimate
+    // entry can never be replaced.
     const { error } = await supabase
       .from("posting_qualifications")
-      .upsert(fresh, { onConflict: "posting_id" });
+      .upsert(fresh, { onConflict: "posting_id", ignoreDuplicates: true });
     if (error) console.error("qualifications cache write failed:", error.message);
   }
 
