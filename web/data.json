@@ -1,11 +1,188 @@
 {
   "stats": {
-    "postings_tracked": 216,
+    "postings_tracked": 226,
     "sources": 1,
-    "companies": 68,
+    "companies": 70,
     "last_updated": "2026-08-11"
   },
   "postings": [
+    {
+      "id": "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
+      "company": "Deloitte",
+      "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
+      "company": "Deloitte",
+      "title": "Software Engineering Analyst Intern - Government & Public Services",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b6f0ed37-c65c-493a-b002-0e540bc09413",
+      "company": "Kimley-Horn",
+      "title": "Software Developer Intern",
+      "location": "Cary, NC",
+      "locations": [
+        "Cary, NC"
+      ],
+      "url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
+      "company": "Quantbot Technologies",
+      "title": "Quantitative Developer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.quantbot.com/careers/4341038009?gh_jid=4341038009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:446f16de-a70b-4c44-b1e7-7bd48429a95f",
+      "company": "Quantbot Technologies",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d7cb67a6-930f-4fc0-a3b7-3f7d47bcdb31",
+      "company": "Quantbot Technologies",
+      "title": "Machine Learning Research Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.quantbot.com/careers/4340833009?gh_jid=4340833009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:20ba2faa-8c06-4328-b38a-a1ff32e5b009",
+      "company": "Quantbot Technologies",
+      "title": "Quantitative Researcher Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.quantbot.com/careers/4299496009?gh_jid=4299496009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d6fad79e-96ae-48cc-b352-313e695d5e0f",
+      "company": "Quantbot Technologies",
+      "title": "Data Trading Analyst Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.quantbot.com/careers/4299767009?gh_jid=4299767009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
+      "company": "ByteDance",
+      "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7b75fe14-a899-4b20-9785-85fc95da69b3",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:b54ab32d-a9c1-471a-8365-6e0bdc0eaeb0",
       "company": "TikTok",
@@ -56,6 +233,39 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea64c40c-c89c-49ac-b395-a3c66a568e0f",
+      "company": "Royal Bank of Canada",
+      "title": "Quantitative Analyst Associate - Quantitative Technology Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:7ffcd789-ef9d-4dfa-a950-34fda3485559",
+      "company": "Bank of Montreal",
+      "title": "Full Stack Engineer Intern - Data Cognition Team",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -307,21 +517,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:755d53f2-611b-41ed-b60e-f7e1ed63a5ef",
-      "company": "PEAK6",
-      "title": "Trading Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Internship-for-Women-_JR105061",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
       "company": "Chamberlain Group",
       "title": "Community Product Management Intern - Summer 2027",
@@ -556,28 +751,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Seattle, WA +4 more",
-      "locations": [
-        "Seattle, WA",
-        "SF",
-        "LA",
-        "NYC",
-        "Mountain View, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
