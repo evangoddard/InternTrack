@@ -1,11 +1,46 @@
 {
   "stats": {
-    "postings_tracked": 233,
+    "postings_tracked": 236,
     "sources": 1,
-    "companies": 72,
+    "companies": 74,
     "last_updated": "2026-08-12"
   },
   "postings": [
+    {
+      "id": "simplify:392dd50b-b4af-4528-b142-9b17e15df06d",
+      "company": "DV Trading",
+      "title": "Trading Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e83f1c57-b726-4596-b500-63c205af6aa1",
+      "company": "Vertiv",
+      "title": "IT Systems Product Management Intern - Summer 2027",
+      "location": "Westerville, OH",
+      "locations": [
+        "Westerville, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
       "company": "TikTok",
@@ -72,6 +107,23 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:afe83bdb-f13d-462d-90e5-43f8851a4563",
+      "company": "Northwestern Mutual",
+      "title": "Quantitative Analyst Intern - Public Investments",
+      "location": "Milwaukee, WI",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
