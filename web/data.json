@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 236,
+    "postings_tracked": 238,
     "sources": 1,
     "companies": 74,
     "last_updated": "2026-08-12"
@@ -124,6 +124,24 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
+      "company": "RTX",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -2623,6 +2641,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Analyst",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
