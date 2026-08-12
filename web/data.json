@@ -1,11 +1,79 @@
 {
   "stats": {
-    "postings_tracked": 232,
+    "postings_tracked": 235,
     "sources": 1,
-    "companies": 74,
+    "companies": 73,
     "last_updated": "2026-08-12"
   },
   "postings": [
+    {
+      "id": "simplify:fc4e61cf-8b0d-41bc-a27f-9081dc511bca",
+      "company": "TikTok",
+      "title": "Product Manager Intern - Commerce Ads",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7672557943224961333",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:bbd533a0-34b2-491f-a386-2c10df203595",
+      "company": "TikTok",
+      "title": "Product Manager Intern - Ads Interface and Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7672562486917286149",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7672883129493948677",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:baeedb05-7415-43b1-a352-ff0efdc23b6b",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7672920375646488885",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:6838ef77-24cf-457a-b01e-3f440a027527",
       "company": "Quantbot Technologies",
@@ -605,21 +673,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:fa275c09-336d-4067-ad94-70cbcecb4ed9",
-      "company": "PEAK6",
-      "title": "Trading Bootcamp Micro-Internship - Summer 2027",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2027_JR105057",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
@@ -2132,6 +2185,24 @@
       ]
     },
     {
+      "id": "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:db36b892-52d0-41cd-a477-521af6328b70",
       "company": "Samsara",
       "title": "Software Engineering Intern",
@@ -3327,24 +3398,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:229ace69-8177-42cc-a85f-c0517803f03b",
-      "company": "CVS Health",
-      "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Grad--Conversion-_R0991627",
-      "date_posted": "2026-07-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
