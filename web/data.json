@@ -1,11 +1,64 @@
 {
   "stats": {
-    "postings_tracked": 232,
+    "postings_tracked": 235,
     "sources": 1,
-    "companies": 74,
-    "last_updated": "2026-08-11"
+    "companies": 76,
+    "last_updated": "2026-08-12"
   },
   "postings": [
+    {
+      "id": "simplify:6838ef77-24cf-457a-b01e-3f440a027527",
+      "company": "Quantbot Technologies",
+      "title": "Data Trading Analyst Intern - Data Trading Lab",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://www.quantbot.com/careers/4299858009?gh_jid=4299858009",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d17b4468-4164-40e2-8f69-9a059d33f996",
+      "company": "The Nuclear Company",
+      "title": "Platform & AI Pre-Engineer",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4165516a-c0f2-4f44-a98a-ad4501fb11ad",
+      "company": "Sentry",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:34a18efe-cd13-4293-a683-2e44304e1154",
       "company": "Advanced Energy",
@@ -3338,6 +3391,24 @@
       ]
     },
     {
+      "id": "simplify:229ace69-8177-42cc-a85f-c0517803f03b",
+      "company": "CVS Health",
+      "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Grad--Conversion-_R0991627",
+      "date_posted": "2026-07-29",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:b71d71f5-3279-48fe-9484-0e2755e9f21b",
       "company": "Savannah River National Laboratory",
       "title": "Software Developer Undergraduate Intern",
@@ -4138,23 +4209,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:255595f1-f6b4-4007-9563-647c8db7fae5",
-      "company": "Motorola",
-      "title": "Data Analyst Co-op",
-      "location": "Remote in Canada",
-      "locations": [
-        "Remote in Canada"
-      ],
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918",
-      "date_posted": "2026-07-15",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
     }
   ]
 }
