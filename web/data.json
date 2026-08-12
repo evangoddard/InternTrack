@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 233,
+    "postings_tracked": 232,
     "sources": 1,
-    "companies": 75,
+    "companies": 74,
     "last_updated": "2026-08-12"
   },
   "postings": [
@@ -2129,24 +2129,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
