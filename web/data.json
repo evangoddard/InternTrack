@@ -1,11 +1,61 @@
 {
   "stats": {
-    "postings_tracked": 241,
+    "postings_tracked": 244,
     "sources": 1,
-    "companies": 75,
+    "companies": 77,
     "last_updated": "2026-08-13"
   },
   "postings": [
+    {
+      "id": "simplify:8ee66953-a13e-4b26-89fb-1e17b87d31ad",
+      "company": "Mapjects",
+      "title": "PHP or Drupal Web Developer Intern",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79253426",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:dce4abe7-92f7-4e7f-a318-674ebe805bfe",
+      "company": "RRS Group",
+      "title": "Quantitative Analytics Development Program Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000141124349",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e0791588-2fd5-4867-8c40-2b4af827a16d",
+      "company": "RRS Group",
+      "title": "Software Engineer Intern - Placement Year",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
       "company": "ByteDance",
