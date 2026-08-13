@@ -7,6 +7,23 @@
   },
   "postings": [
     {
+      "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
+      "company": "Sensata",
+      "title": "Hardware Engineer Intern - Multiple Teams",
+      "location": "Newtownabbey, UK",
+      "locations": [
+        "Newtownabbey, UK"
+      ],
+      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:973baf93-b4d1-46c0-a60c-d4a170c31505",
       "company": "TikTok",
       "title": "Seller Growth Strategy & Analytics Intern - TikTok Shop",
@@ -365,23 +382,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:39d0143c-975e-465c-812c-8fe6e6401523",
-      "company": "Dick's Sporting Goods",
-      "title": "Data Engineer Co-op",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722",
-      "date_posted": "2026-08-12",
-      "deadline": "",
-      "season": "Summer 2022",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
