@@ -7,6 +7,23 @@
   },
   "postings": [
     {
+      "id": "simplify:5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+      "company": "TikTok",
+      "title": "Data Science Intern - Advertisement Team",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7673226686054107445",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:fba68433-d063-4d27-b298-93d1a9e5e965",
       "company": "RRS Group",
       "title": "Data Engineering & Analytics Intern",
@@ -4251,29 +4268,6 @@
         "Chicago, IL"
       ],
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-      "date_posted": "2026-07-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:01925f31-564d-4bc0-94fc-2a2717d3132d",
-      "company": "Western Digital",
-      "title": "Software Engineer Intern",
-      "location": "Fremont, CA +5 more",
-      "locations": [
-        "Fremont, CA",
-        "Rochester, MN",
-        "San Jose, CA",
-        "Irvine, CA",
-        "Colorado Springs, CO",
-        "Longmont, CO"
-      ],
-      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
       "date_posted": "2026-07-20",
       "deadline": "",
       "season": "Summer 2027",
