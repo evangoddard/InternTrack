@@ -1,11 +1,64 @@
 {
   "stats": {
-    "postings_tracked": 244,
+    "postings_tracked": 249,
     "sources": 1,
-    "companies": 77,
+    "companies": 79,
     "last_updated": "2026-08-13"
   },
   "postings": [
+    {
+      "id": "simplify:fba68433-d063-4d27-b298-93d1a9e5e965",
+      "company": "RRS Group",
+      "title": "Data Engineering & Analytics Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000130586249",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3bb608c1-4704-4fe1-a877-eaf540f90cc1",
+      "company": "Specter Aerospace",
+      "title": "Full Stack Developer Co-op",
+      "location": "Boston, MA / Peabody, MA",
+      "locations": [
+        "Boston, MA",
+        "Peabody, MA"
+      ],
+      "url": "https://specteraerospace.bamboohr.com/careers/122/",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fab6a94b-bce1-404c-bb49-443ecf37e5e8",
+      "company": "ByteDance",
+      "title": "Student Researcher - AI Foundation Model Infrastructure - Seed",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7673274430383032629/detail",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:8ee66953-a13e-4b26-89fb-1e17b87d31ad",
       "company": "Mapjects",
@@ -86,6 +139,40 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:93ceecd3-ef7a-4e11-a4d0-fb7eb399e7f3",
+      "company": "Wells Fargo",
+      "title": "Quantitative Analytics Intern - Multiple Teams",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c0230293-14bd-4f7f-affb-255d60ae0334",
+      "company": "Wells Fargo",
+      "title": "Quantitative Analytics Intern - Capital Markets - Masters",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Master's"
       ]
