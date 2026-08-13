@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 238,
+    "postings_tracked": 241,
     "sources": 1,
-    "companies": 74,
-    "last_updated": "2026-08-12"
+    "companies": 75,
+    "last_updated": "2026-08-13"
   },
   "postings": [
+    {
+      "id": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
+      "company": "ByteDance",
+      "title": "Self-Built Engineer Intern - CDN Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2546c60d-b4b4-495a-927e-6a112bdefc69",
+      "company": "TikTok",
+      "title": "Product Operations Intern - TikTok Shop Apps and API",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7669705525866383621",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:392dd50b-b4af-4528-b142-9b17e15df06d",
       "company": "DV Trading",
@@ -142,6 +176,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:39d0143c-975e-465c-812c-8fe6e6401523",
+      "company": "Dick's Sporting Goods",
+      "title": "Data Engineer Co-op",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722",
+      "date_posted": "2026-08-12",
+      "deadline": "",
+      "season": "Summer 2022",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
