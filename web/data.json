@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 256,
+    "postings_tracked": 255,
     "sources": 1,
     "companies": 83,
     "last_updated": "2026-08-14"
@@ -1564,23 +1564,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8b6ea404-0949-4cd3-a4e1-f77ec1d8cca0",
-      "company": "Royal Bank of Canada",
-      "title": "Global Markets Sales & Trading Summer Analyst - Capital Markets",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Sales---Trading-Summer-Analyst_R-0000147305-2",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
