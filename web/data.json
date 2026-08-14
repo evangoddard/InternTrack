@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 252,
+    "postings_tracked": 256,
     "sources": 1,
     "companies": 82,
     "last_updated": "2026-08-14"
   },
   "postings": [
+    {
+      "id": "simplify:35dd8e24-1c88-4e4b-8ba3-f9b9be169b31",
+      "company": "The Nuclear Company",
+      "title": "Data Science & Machine Learning Fellow Intern",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:d1f12ffa-cc86-44c9-aad3-b6def1a50517",
       "company": "TikTok",
@@ -136,6 +154,42 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
+      "company": "Motorola",
+      "title": "Android Platform Software Engineer Intern - Summer 2027",
+      "location": "Schaumburg, IL / Plantation, FL",
+      "locations": [
+        "Schaumburg, IL",
+        "Plantation, FL"
+      ],
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:39be2363-aaad-4bf0-9f3a-19906a6a8182",
+      "company": "RTX",
+      "title": "Electrical Computer-Aided Design Engineer Intern",
+      "location": "Tucson, AZ",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -2926,6 +2980,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Analyst",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
