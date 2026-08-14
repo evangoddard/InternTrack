@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 254,
+    "postings_tracked": 253,
     "sources": 1,
     "companies": 82,
     "last_updated": "2026-08-14"
@@ -1315,23 +1315,6 @@
       "date_posted": "2026-08-07",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:17936a1f-6724-46a7-a97a-6feceb9c2a92",
-      "company": "John Deere",
-      "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
-      "location": "Dubuque, IA",
-      "locations": [
-        "Dubuque, IA"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137482642817",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
