@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 253,
+    "postings_tracked": 252,
     "sources": 1,
     "companies": 82,
     "last_updated": "2026-08-14"
@@ -565,24 +565,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d17b4468-4164-40e2-8f69-9a059d33f996",
-      "company": "The Nuclear Company",
-      "title": "Platform & AI Pre-Engineer",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
