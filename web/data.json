@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 255,
+    "postings_tracked": 254,
     "sources": 1,
-    "companies": 83,
+    "companies": 82,
     "last_updated": "2026-08-14"
   },
   "postings": [
@@ -851,21 +851,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:ea64c40c-c89c-49ac-b395-a3c66a568e0f",
-      "company": "Royal Bank of Canada",
-      "title": "Quantitative Analyst Associate - Quantitative Technology Services",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000183827",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:5123007b-1b8e-4d00-babb-8c1c4ec245cc",
