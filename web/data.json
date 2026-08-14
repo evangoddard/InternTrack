@@ -1,11 +1,43 @@
 {
   "stats": {
-    "postings_tracked": 249,
+    "postings_tracked": 252,
     "sources": 1,
-    "companies": 79,
+    "companies": 81,
     "last_updated": "2026-08-14"
   },
   "postings": [
+    {
+      "id": "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
+      "company": "KPMG",
+      "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://careers.kpmg.ca/jobs/33306?icims=1",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cfe783b7-14a9-475b-b867-fa47ee7a6ba7",
+      "company": "Jane Street",
+      "title": "Trading Desk Operations Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": []
+    },
     {
       "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
       "company": "Sensata",
@@ -259,6 +291,23 @@
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+      "company": "Teledyne",
+      "title": "Software Engineer Intern - NHRC",
+      "location": "Huntsville, AL",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
