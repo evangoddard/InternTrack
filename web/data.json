@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 252,
+    "postings_tracked": 253,
     "sources": 1,
-    "companies": 81,
+    "companies": 83,
     "last_updated": "2026-08-14"
   },
   "postings": [
+    {
+      "id": "simplify:ad5fd9f8-d08a-4e9a-b974-0d1f735dccc7",
+      "company": "AARP",
+      "title": "Data Analyst Intern - Advocacy Data and Technology",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://careers.aarp.org/jobs/7355?icims=1",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
       "company": "KPMG",
@@ -37,6 +54,23 @@
       "season": "",
       "category": "Quant",
       "degrees": []
+    },
+    {
+      "id": "simplify:093ca891-a330-4763-aeb5-b6195cb0df79",
+      "company": "KeyBank",
+      "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
+      "location": "Cleveland, OH",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
       "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
@@ -1481,24 +1515,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:2115234d-be28-4c20-b435-cbb15464dda9",
-      "company": "Royal Bank of Canada",
-      "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
