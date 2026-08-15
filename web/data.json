@@ -1,11 +1,81 @@
 {
   "stats": {
-    "postings_tracked": 256,
+    "postings_tracked": 259,
     "sources": 1,
-    "companies": 82,
-    "last_updated": "2026-08-14"
+    "companies": 84,
+    "last_updated": "2026-08-15"
   },
   "postings": [
+    {
+      "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
+      "company": "Notion",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "SF / NYC",
+      "locations": [
+        "SF",
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f271bfa3-e723-416b-aad4-0a6cf6f4f19e",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Global Payment Infra and SRE",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7668315137242351925/detail",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ee8a3af2-214e-482e-9a90-3dd327c6bdf1",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Global Traffic Architecture",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7672557061679483189/detail",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:80991915-38ed-48d7-b67d-20f3f7a7b84c",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Traffic Infrastructure",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:35dd8e24-1c88-4e4b-8ba3-f9b9be169b31",
       "company": "The Nuclear Company",
@@ -193,6 +263,57 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:d02658b8-38cb-4fc7-9841-62916abfefc2",
+      "company": "Crowe",
+      "title": "Machine Learning Intern",
+      "location": "Lexington, KY +36 more",
+      "locations": [
+        "Lexington, KY",
+        "Boston, MA",
+        "Indianapolis, IN",
+        "Houston, TX",
+        "Louisville, KY",
+        "Knoxville, TN",
+        "Nashville, TN",
+        "Washington, DC",
+        "SF",
+        "Austin, TX",
+        "Cleveland, OH",
+        "LA",
+        "Tampa, FL",
+        "San Jose, CA",
+        "Livingston, NJ",
+        "Grand Rapids, MI",
+        "Miami, FL",
+        "Dallas, TX",
+        "The Woodlands, TX",
+        "Plano, TX",
+        "Chicago, IL",
+        "Tallahassee, FL",
+        "Charlotte, NC",
+        "Fort Lauderdale, FL",
+        "Oakbrook Terrace, IL",
+        "Burlington, VT",
+        "Sacramento, CA",
+        "Columbus, OH",
+        "Hartford, CT",
+        "Springfield, IL",
+        "NYC",
+        "Denver, CO",
+        "Atlanta, GA",
+        "Fort Wayne, IN",
+        "South Bend, IN",
+        "Sarasota, FL",
+        "Costa Mesa, CA"
+      ],
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71013",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": []
     },
     {
       "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
@@ -1239,24 +1360,6 @@
         "NYC"
       ],
       "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
-      "company": "Axon",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA / Seattle, WA",
-      "locations": [
-        "Boston, MA",
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
       "date_posted": "2026-08-07",
       "deadline": "",
       "season": "Summer 2027",
@@ -2554,24 +2657,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7a398a79-2792-4181-8700-a5fbd8d17e76",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01863980-1",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
