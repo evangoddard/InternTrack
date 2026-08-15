@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 261,
+    "postings_tracked": 260,
     "sources": 1,
-    "companies": 86,
+    "companies": 85,
     "last_updated": "2026-08-15"
   },
   "postings": [
@@ -23,26 +23,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
