@@ -1,11 +1,30 @@
 {
   "stats": {
-    "postings_tracked": 265,
+    "postings_tracked": 261,
     "sources": 1,
     "companies": 86,
     "last_updated": "2026-08-15"
   },
   "postings": [
+    {
+      "id": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
+      "company": "Replit",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:6e3ed174-33a5-41fb-9927-ca07c12a6774",
       "company": "Freeform",
@@ -23,113 +42,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -3987,6 +3899,23 @@
       "deadline": "",
       "season": "",
       "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
+      "company": "Virtu Financial",
+      "title": "Frontend Developer Internship",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+      "date_posted": "2026-07-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
