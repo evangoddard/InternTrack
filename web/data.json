@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 259,
+    "postings_tracked": 261,
     "sources": 1,
-    "companies": 84,
+    "companies": 86,
     "last_updated": "2026-08-15"
   },
   "postings": [
@@ -23,6 +23,26 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
@@ -797,6 +817,24 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:300bffa5-8c04-495e-a2c8-6487f0ae85ec",
+      "company": "Zoox",
+      "title": "Machine Learning Engineer Student Worker - Data Mining & VLM",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e/apply",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
