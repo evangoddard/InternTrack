@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 260,
+    "postings_tracked": 259,
     "sources": 1,
-    "companies": 85,
+    "companies": 84,
     "last_updated": "2026-08-15"
   },
   "postings": [
@@ -797,24 +797,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:300bffa5-8c04-495e-a2c8-6487f0ae85ec",
-      "company": "Zoox",
-      "title": "Machine Learning Engineer Student Worker - Data Mining & VLM",
-      "location": "Foster City, CA",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "url": "https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e/apply",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
