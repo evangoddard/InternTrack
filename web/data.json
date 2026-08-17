@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 272,
+    "postings_tracked": 271,
     "sources": 1,
-    "companies": 91,
+    "companies": 90,
     "last_updated": "2026-08-17"
   },
   "postings": [
@@ -778,23 +778,6 @@
       "category": "Quant",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b924c54e-cf62-4ff0-94d6-7f0825398708",
-      "company": "Thales",
-      "title": "Data Engineer Intern - Student",
-      "location": "Ottawa, ON, Canada",
-      "locations": [
-        "Ottawa, ON, Canada"
-      ],
-      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Engineer---student_R0337006-1",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
