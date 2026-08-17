@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 270,
+    "postings_tracked": 272,
     "sources": 1,
-    "companies": 89,
+    "companies": 91,
     "last_updated": "2026-08-17"
   },
   "postings": [
+    {
+      "id": "simplify:31355168-e211-42dc-a7b5-c84567c929cc",
+      "company": "Datadog",
+      "title": "Product Management Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2d5652ce-87cd-41ef-8453-45d2959aa511",
+      "company": "Daktronics",
+      "title": "Firmware/Hardware Design Student",
+      "location": "Brookings, SD",
+      "locations": [
+        "Brookings, SD"
+      ],
+      "url": "https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:367919b2-9f9f-4104-a7e7-811ae0b98c01",
       "company": "W.W. Grainger",
