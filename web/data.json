@@ -1,11 +1,117 @@
 {
   "stats": {
-    "postings_tracked": 271,
+    "postings_tracked": 280,
     "sources": 1,
-    "companies": 90,
+    "companies": 96,
     "last_updated": "2026-08-17"
   },
   "postings": [
+    {
+      "id": "simplify:baf0289f-d552-40cc-956a-c2184364f85a",
+      "company": "Xantium",
+      "title": "Quantitative Developer Intern",
+      "location": "London, UK / NYC",
+      "locations": [
+        "London, UK",
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:85ec31e6-4d3a-497b-b455-039741edf4df",
+      "company": "Xantium",
+      "title": "Quantitative Researcher Intern",
+      "location": "London, UK / NYC",
+      "locations": [
+        "London, UK",
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
+      "company": "American Express",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Global Payment",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:057837b7-3fc8-4359-a8b2-1a63802d4a6e",
+      "company": "American Express",
+      "title": "Software Engineer Intern - Technology",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f585bde5-311b-4e38-b814-787eb3d19819",
+      "company": "Hilton Worldwide",
+      "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
+      "location": "Dallas, TX +2 more",
+      "locations": [
+        "Dallas, TX",
+        "McLean, VA",
+        "Memphis, TN"
+      ],
+      "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:31355168-e211-42dc-a7b5-c84567c929cc",
       "company": "Datadog",
@@ -127,6 +233,112 @@
       ]
     },
     {
+      "id": "simplify:fd3c39d2-33c3-49a1-9e2c-6c0f99a93001",
+      "company": "NXP Semiconductors",
+      "title": "AI and Software Engineer Intern - Automotive MPUs",
+      "location": "Glasgow, UK",
+      "locations": [
+        "Glasgow, UK"
+      ],
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fc32e743-59bc-46e9-abe8-d2a441c3baa4",
+      "company": "Vanguard",
+      "title": "Data Science Intern - Information Technology",
+      "location": "Malvern, PA",
+      "locations": [
+        "Malvern, PA"
+      ],
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c5313a71-4df5-476f-839a-59038fb3d8ec",
+      "company": "Vanguard",
+      "title": "Data Science Intern - College to Corporate IT",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a3008ed4-1483-4ec4-9ccf-259ac6b6fd86",
+      "company": "Vanguard",
+      "title": "Data Analyst Intern - College to Corporate IT",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
+      "company": "Argonne National Laboratory",
+      "title": "Python Developer Predoctoral Appointee - Vehicle and Mobility Systems",
+      "location": "Lemont, IL",
+      "locations": [
+        "Lemont, IL"
+      ],
+      "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9a19ddc0-978b-4f92-832f-f0b96df5af93",
+      "company": "Suncor",
+      "title": "Automation Intern - Software or Computer Engineering Student",
+      "location": "Calgary, AB, Canada +2 more",
+      "locations": [
+        "Calgary, AB, Canada",
+        "St. John's, NL, Canada",
+        "Fort McMurray, AB, Canada"
+      ],
+      "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
       "company": "Replit",
       "title": "Software Engineer Intern - Summer 2027",
@@ -165,70 +377,23 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
+      "url": "https://higher.gs.com/roles/175423?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
