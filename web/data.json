@@ -1,11 +1,80 @@
 {
   "stats": {
-    "postings_tracked": 293,
+    "postings_tracked": 298,
     "sources": 1,
-    "companies": 97,
+    "companies": 98,
     "last_updated": "2026-08-18"
   },
   "postings": [
+    {
+      "id": "simplify:d0ef3f91-dcd5-437e-92c9-83432ed6e284",
+      "company": "TikTok",
+      "title": "Product Manager Intern - Business Integrity",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7673895973460576517",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - TikTok Search Data Infra",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7675128776856029445",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:cf6b0d27-3846-4140-9653-2b514487fa4b",
+      "company": "TikTok",
+      "title": "Category Management Project Intern",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7674880292247406901",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5b89096d-a6c7-439f-9d03-ebdd62e2588a",
+      "company": "TikTok",
+      "title": "Data Science Project Intern - Advertisement Team",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7675080308216154373",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:02d12760-33ed-4f97-8ffc-4f561fac43d0",
       "company": "Fannie Mae",
@@ -656,6 +725,26 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
