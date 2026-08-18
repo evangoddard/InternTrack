@@ -1,11 +1,114 @@
 {
   "stats": {
-    "postings_tracked": 297,
+    "postings_tracked": 305,
     "sources": 1,
-    "companies": 96,
+    "companies": 101,
     "last_updated": "2026-08-18"
   },
   "postings": [
+    {
+      "id": "simplify:9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
+      "company": "Space Dynamics Laboratory",
+      "title": "Web Developer Assistant - Enterprise Application Support",
+      "location": "North Logan, UT",
+      "locations": [
+        "North Logan, UT"
+      ],
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d935bae6-e667-4bd1-b10d-4431b5555110",
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d3edd2a3-5270-4a02-9f8f-830ec508bcc6",
+      "company": "American Express",
+      "title": "Product Development Intern - Global Servicing",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:54a129c8-53ec-4e38-b878-daaaa309f3f7",
+      "company": "American Express",
+      "title": "Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a1cb0fe2-664f-4b1e-910d-9ec9f155faa1",
+      "company": "Zipline",
+      "title": "Long Range Platform Hardware Engineering Intern",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1474720a-8c92-4fe6-adc2-0373d1b2fa67",
+      "company": "Zipline",
+      "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:d0ef3f91-dcd5-437e-92c9-83432ed6e284",
       "company": "TikTok",
@@ -124,6 +227,42 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:595763a8-6791-4ed3-8b17-52f614a6318b",
+      "company": "Brookhaven Lab",
+      "title": "Student Assistant - Machine Learning for ASIC Design",
+      "location": "Upton, Brookhaven, NY",
+      "locations": [
+        "Upton, Brookhaven, NY"
+      ],
+      "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Machine-Learning-for-ASIC-Design_JR102642",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5370153e-8623-4e1d-b4f6-986a7ab410a1",
+      "company": "PIMCO",
+      "title": "Software Engineering Intern - Technology Analyst",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
