@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 298,
+    "postings_tracked": 297,
     "sources": 1,
-    "companies": 98,
+    "companies": 97,
     "last_updated": "2026-08-18"
   },
   "postings": [
@@ -725,26 +725,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
@@ -4534,25 +4514,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:a00101f6-5c51-4a7d-a424-e3f3a7ac8a16",
-      "company": "Trillium",
-      "title": "Equity Trader",
-      "location": "Miami, FL +2 more",
-      "locations": [
-        "Miami, FL",
-        "Chicago, IL",
-        "NYC"
-      ],
-      "url": "https://www.trlm.com/apply/5191110007?gh_jid=5191110007",
-      "date_posted": "2026-07-30",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
       "company": "Virtu Financial",
       "title": "Frontend Developer Internship",
@@ -5161,6 +5122,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c57ba1d3-0591-408a-a691-b05626be84f0",
+      "company": "Zoox",
+      "title": "Student Worker - Data Analyst",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply",
+      "date_posted": "2026-07-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
