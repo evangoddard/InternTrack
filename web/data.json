@@ -3,9 +3,26 @@
     "postings_tracked": 295,
     "sources": 1,
     "companies": 99,
-    "last_updated": "2026-08-17"
+    "last_updated": "2026-08-18"
   },
   "postings": [
+    {
+      "id": "simplify:02d12760-33ed-4f97-8ffc-4f561fac43d0",
+      "company": "Fannie Mae",
+      "title": "Data Science Analyst 3 Intern - Cat J",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/FannieMae1SB/743999731568800",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:c8bf57d8-775c-4186-a07d-1779c7f9ce56",
       "company": "Aramark",
@@ -4914,23 +4931,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
-      "company": "Gitar, Inc.",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2025",
-      "category": "Software",
-      "degrees": [
-        "PhD"
       ]
     },
     {
