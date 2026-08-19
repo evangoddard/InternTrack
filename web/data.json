@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 332,
+    "postings_tracked": 330,
     "sources": 1,
-    "companies": 104,
+    "companies": 102,
     "last_updated": "2026-08-19"
   },
   "postings": [
@@ -1487,23 +1487,6 @@
       ]
     },
     {
-      "id": "simplify:ad5fd9f8-d08a-4e9a-b974-0d1f735dccc7",
-      "company": "AARP",
-      "title": "Data Analyst Intern - Advocacy Data and Technology",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://careers.aarp.org/jobs/7355?icims=1",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:449fbbfa-ffc9-46b4-8983-f3bb67052e03",
       "company": "KPMG",
       "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
@@ -1587,57 +1570,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:d02658b8-38cb-4fc7-9841-62916abfefc2",
-      "company": "Crowe",
-      "title": "Machine Learning Intern",
-      "location": "Lexington, KY +36 more",
-      "locations": [
-        "Lexington, KY",
-        "Boston, MA",
-        "Indianapolis, IN",
-        "Houston, TX",
-        "Louisville, KY",
-        "Knoxville, TN",
-        "Nashville, TN",
-        "Washington, DC",
-        "SF",
-        "Austin, TX",
-        "Cleveland, OH",
-        "LA",
-        "Tampa, FL",
-        "San Jose, CA",
-        "Livingston, NJ",
-        "Grand Rapids, MI",
-        "Miami, FL",
-        "Dallas, TX",
-        "The Woodlands, TX",
-        "Plano, TX",
-        "Chicago, IL",
-        "Tallahassee, FL",
-        "Charlotte, NC",
-        "Fort Lauderdale, FL",
-        "Oakbrook Terrace, IL",
-        "Burlington, VT",
-        "Sacramento, CA",
-        "Columbus, OH",
-        "Hartford, CT",
-        "Springfield, IL",
-        "NYC",
-        "Denver, CO",
-        "Atlanta, GA",
-        "Fort Wayne, IN",
-        "South Bend, IN",
-        "Sarasota, FL",
-        "Costa Mesa, CA"
-      ],
-      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71013",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:ff77e8f4-7829-481b-a954-0fa6b86456dd",
