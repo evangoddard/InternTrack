@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 325,
+    "postings_tracked": 324,
     "sources": 1,
-    "companies": 104,
+    "companies": 103,
     "last_updated": "2026-08-19"
   },
   "postings": [
@@ -603,21 +603,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:c8bf57d8-775c-4186-a07d-1779c7f9ce56",
-      "company": "Aramark",
-      "title": "Sustainability Data Analyst Student Manager - Food Service Operations",
-      "location": "Tempe, AZ",
-      "locations": [
-        "Tempe, AZ"
-      ],
-      "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-Student-Manager-Sustainability-Data-Analysis-Arizona-State-University-AZ-85281/1420184000/?ats=successfactors",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:b5a51123-5f95-4578-b058-795e2b7e4ecb",
