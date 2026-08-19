@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 326,
+    "postings_tracked": 331,
     "sources": 1,
     "companies": 104,
     "last_updated": "2026-08-19"
   },
   "postings": [
+    {
+      "id": "simplify:af0078da-4418-4e04-afb5-17ec87e8381a",
+      "company": "TikTok",
+      "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670875283026053381",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
       "company": "InfiniteQuant",
@@ -1227,29 +1244,48 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
+      "url": "https://higher.gs.com/roles/170675?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": []
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -1259,6 +1295,24 @@
         "PhD",
         "JD",
         "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1569,6 +1623,24 @@
       "season": "Summer 2026",
       "category": "AI/ML/Data",
       "degrees": []
+    },
+    {
+      "id": "simplify:ff77e8f4-7829-481b-a954-0fa6b86456dd",
+      "company": "RTX",
+      "title": "Electrical Engineering Intern",
+      "location": "Tewksbury, MA",
+      "locations": [
+        "Tewksbury, MA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281",
+      "date_posted": "2026-08-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
@@ -4283,6 +4355,31 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Analyst",
+      "location": "Palo Alto, CA +7 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Newark, DE",
+        "Plano, TX",
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
