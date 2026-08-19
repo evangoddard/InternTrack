@@ -1,11 +1,26 @@
 {
   "stats": {
-    "postings_tracked": 331,
+    "postings_tracked": 332,
     "sources": 1,
     "companies": 104,
     "last_updated": "2026-08-19"
   },
   "postings": [
+    {
+      "id": "simplify:c6c14151-e693-4703-a811-df609af2491a",
+      "company": "Zipline",
+      "title": "Hardware Test Intern - Summer 2027",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7903483003",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
     {
       "id": "simplify:af0078da-4418-4e04-afb5-17ec87e8381a",
       "company": "TikTok",
