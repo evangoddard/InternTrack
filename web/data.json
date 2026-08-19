@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 305,
+    "postings_tracked": 306,
     "sources": 1,
     "companies": 101,
     "last_updated": "2026-08-19"
   },
   "postings": [
+    {
+      "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
+      "company": "ByteDance",
+      "title": "Immigration Data Analyst Intern - Hrops",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7675376319236311349/detail",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
       "company": "Space Dynamics Laboratory",
