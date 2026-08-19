@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 309,
+    "postings_tracked": 307,
     "sources": 1,
-    "companies": 103,
+    "companies": 102,
     "last_updated": "2026-08-19"
   },
   "postings": [
@@ -915,41 +915,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
