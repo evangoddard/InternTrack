@@ -1,11 +1,30 @@
 {
   "stats": {
-    "postings_tracked": 324,
+    "postings_tracked": 326,
     "sources": 1,
-    "companies": 103,
+    "companies": 104,
     "last_updated": "2026-08-19"
   },
   "postings": [
+    {
+      "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Internship - Summer 2027",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
@@ -3360,6 +3379,23 @@
         "Louisville, KY"
       ],
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
+      "date_posted": "2026-08-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Aeronautics Systems",
+      "location": "Melbourne, FL",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "date_posted": "2026-08-05",
       "deadline": "",
       "season": "Summer 2027",
