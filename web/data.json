@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 336,
+    "postings_tracked": 337,
     "sources": 1,
-    "companies": 105,
+    "companies": 106,
     "last_updated": "2026-08-20"
   },
   "postings": [
@@ -144,6 +144,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+      "company": "Fifth Third Bank",
+      "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
