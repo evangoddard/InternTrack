@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 333,
+    "postings_tracked": 336,
     "sources": 1,
-    "companies": 105,
+    "companies": 108,
     "last_updated": "2026-08-20"
   },
   "postings": [
+    {
+      "id": "simplify:1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
+      "company": "Zoox",
+      "title": "Data Scientist",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:8569a45d-e504-4cc5-897a-de907ab8e0f7",
       "company": "AbbVie",
@@ -164,6 +182,111 @@
       ]
     },
     {
+      "id": "simplify:2beb3742-f77d-4a70-b6cd-ed3c76034f75",
+      "company": "Centific",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Software-Engineer_JR108257-1",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9316e11a-93d7-473d-96fb-9246383ff169",
+      "company": "Geico",
+      "title": "Technology Development Program Intern - Software Engineer Development Track",
+      "location": "Palo Alto, CA / Bethesda, MD",
+      "locations": [
+        "Palo Alto, CA",
+        "Bethesda, MD"
+      ],
+      "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a379a7a5-753b-4b9d-bc34-7fe34d527f1d",
+      "company": "Sysco",
+      "title": "Data Engineer Intern",
+      "location": "Houston, TX",
+      "locations": [
+        "Houston, TX"
+      ],
+      "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:99fcf5a1-1347-44be-9d63-7e03612f082b",
+      "company": "Devon Energy",
+      "title": "Technology Intern - Data Engineering",
+      "location": "Houston, TX / Oklahoma City, OK",
+      "locations": [
+        "Houston, TX",
+        "Oklahoma City, OK"
+      ],
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f8357202-55a6-44a8-8806-b49f5ebda641",
+      "company": "PIMCO",
+      "title": "Trading Analyst Intern",
+      "location": "Newport Beach, CA",
+      "locations": [
+        "Newport Beach, CA"
+      ],
+      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a717fdef-0f39-4450-ba29-a63aa12f17ba",
+      "company": "RTX",
+      "title": "Systems Technology Intern",
+      "location": "Tucson, AZ",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:c6c14151-e693-4703-a811-df609af2491a",
       "company": "Zipline",
       "title": "Hardware Test Intern - Summer 2027",
@@ -194,39 +317,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - AWM Product Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/182389?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
     },
     {
       "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
@@ -1087,23 +1177,6 @@
       ]
     },
     {
-      "id": "simplify:fc32e743-59bc-46e9-abe8-d2a441c3baa4",
-      "company": "Vanguard",
-      "title": "Data Science Intern - Information Technology",
-      "location": "Malvern, PA",
-      "locations": [
-        "Malvern, PA"
-      ],
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_177680-1",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a3008ed4-1483-4ec4-9ccf-259ac6b6fd86",
       "company": "Vanguard",
       "title": "Data Analyst Intern - College to Corporate IT",
@@ -1412,55 +1485,38 @@
       ]
     },
     {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
