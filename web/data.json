@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 335,
+    "postings_tracked": 334,
     "sources": 1,
     "companies": 106,
     "last_updated": "2026-08-20"
@@ -1101,24 +1101,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c5313a71-4df5-476f-839a-59038fb3d8ec",
-      "company": "Vanguard",
-      "title": "Data Science Intern - College to Corporate IT",
-      "location": "Charlotte, NC",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
