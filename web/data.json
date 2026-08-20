@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 333,
+    "postings_tracked": 332,
     "sources": 1,
     "companies": 104,
     "last_updated": "2026-08-20"
@@ -1638,24 +1638,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ff77e8f4-7829-481b-a954-0fa6b86456dd",
-      "company": "RTX",
-      "title": "Electrical Engineering Intern",
-      "location": "Tewksbury, MA",
-      "locations": [
-        "Tewksbury, MA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
