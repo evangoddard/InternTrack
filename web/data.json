@@ -1,11 +1,65 @@
 {
   "stats": {
-    "postings_tracked": 330,
+    "postings_tracked": 331,
     "sources": 1,
-    "companies": 104,
+    "companies": 103,
     "last_updated": "2026-08-20"
   },
   "postings": [
+    {
+      "id": "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7675159726676101381",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:dcab0a63-0790-4990-ad6c-517c42b6436b",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7672926068681951493",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c2b2c451-d750-4afe-a76b-18cec45fff86",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - TikTok Search Architecture",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7675517686256863541",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:52758ea7-052d-4c85-9fbe-2558a05538f1",
       "company": "General Matter",
@@ -1290,41 +1344,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
