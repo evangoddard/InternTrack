@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 336,
+    "postings_tracked": 337,
     "sources": 1,
-    "companies": 108,
+    "companies": 109,
     "last_updated": "2026-08-20"
   },
   "postings": [
+    {
+      "id": "simplify:f8c3812a-4e5d-48e3-b329-54a28233db3a",
+      "company": "Blue Shield of California",
+      "title": "Data Full Stack Engineer Intern",
+      "location": "Oakland, CA",
+      "locations": [
+        "Oakland, CA"
+      ],
+      "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
       "company": "Zoox",
