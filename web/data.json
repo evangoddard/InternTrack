@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 332,
+    "postings_tracked": 336,
     "sources": 1,
-    "companies": 104,
+    "companies": 105,
     "last_updated": "2026-08-20"
   },
   "postings": [
+    {
+      "id": "simplify:8569a45d-e504-4cc5-897a-de907ab8e0f7",
+      "company": "AbbVie",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+      "location": "North Chicago, IL",
+      "locations": [
+        "North Chicago, IL"
+      ],
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
       "company": "TikTok",
@@ -112,6 +129,24 @@
       ]
     },
     {
+      "id": "simplify:09e061cd-a5e8-4059-bb6d-a0672a475328",
+      "company": "Fannie Mae",
+      "title": "Data Science Intern - Analytics & Modeling Program",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:c6c14151-e693-4703-a811-df609af2491a",
       "company": "Zipline",
       "title": "Hardware Test Intern - Summer 2027",
@@ -142,6 +177,39 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
     },
     {
       "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
@@ -1345,58 +1413,55 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
+      "url": "https://higher.gs.com/roles/170675?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
+        "Bachelor's"
       ]
     },
     {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
