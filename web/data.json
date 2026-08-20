@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 337,
+    "postings_tracked": 336,
     "sources": 1,
     "companies": 106,
     "last_updated": "2026-08-20"
@@ -5558,24 +5558,6 @@
       "deadline": "",
       "season": "Winter 2028 / Spring 2028 / Summer 2028",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:01ae98fa-826d-40b3-990a-3254933cd747",
-      "company": "Axon",
-      "title": "Software Engineering Intern",
-      "location": "Boston, MA / Seattle, WA",
-      "locations": [
-        "Boston, MA",
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
