@@ -7,6 +7,23 @@
   },
   "postings": [
     {
+      "id": "simplify:45b27f18-198a-4ef0-b8f3-abb8018e7c99",
+      "company": "Ambrook",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
       "company": "Zipline",
       "title": "Software Engineer Intern - Summer 2027",
@@ -749,25 +766,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9316e11a-93d7-473d-96fb-9246383ff169",
-      "company": "Geico",
-      "title": "Technology Development Program Intern - Software Engineer Development Track",
-      "location": "Palo Alto, CA / Bethesda, MD",
-      "locations": [
-        "Palo Alto, CA",
-        "Bethesda, MD"
-      ],
-      "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
