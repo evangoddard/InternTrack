@@ -1,11 +1,26 @@
 {
   "stats": {
-    "postings_tracked": 362,
+    "postings_tracked": 363,
     "sources": 1,
     "companies": 113,
     "last_updated": "2026-08-21"
   },
   "postings": [
+    {
+      "id": "simplify:6b73883a-ab74-444e-93ce-5fd790148177",
+      "company": "Zipline",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
     {
       "id": "simplify:590cbdfc-ce9f-4a0b-96e5-ec715e077d97",
       "company": "W.W. Grainger",
