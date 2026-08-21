@@ -1,11 +1,87 @@
 {
   "stats": {
-    "postings_tracked": 359,
+    "postings_tracked": 362,
     "sources": 1,
-    "companies": 110,
+    "companies": 113,
     "last_updated": "2026-08-21"
   },
   "postings": [
+    {
+      "id": "simplify:590cbdfc-ce9f-4a0b-96e5-ec715e077d97",
+      "company": "W.W. Grainger",
+      "title": "Data Science Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Data-Science-IL-60661-4555/1421972400/?ats=successfactors",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7833a92d-102e-4ca4-9a8b-c14f36398bc0",
+      "company": "JP Morgan Chase",
+      "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
+      "location": "Plano, TX +3 more",
+      "locations": [
+        "Plano, TX",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:0d95ff8f-ccaa-4031-8bc2-ecf6014f6be0",
+      "company": "Susquehanna International Group",
+      "title": "Trading Systems Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:78f9e1b5-9870-4a25-816c-c69294b6b6cb",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Strategy Developer Intern",
+      "location": "London, UK / Dublin, Ireland",
+      "locations": [
+        "London, UK",
+        "Dublin, Ireland"
+      ],
+      "url": "https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:2057d1a3-289b-49ae-8328-fa3527c533c5",
       "company": "AMD",
@@ -383,6 +459,74 @@
       ]
     },
     {
+      "id": "simplify:cda123ef-2e15-45a0-8ef1-f1983b6bf58b",
+      "company": "GE Vernova",
+      "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+      "location": "Bellevue, WA",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e557afc8-009d-464e-a765-a92b4a72e18a",
+      "company": "Blackstone",
+      "title": "Data Science Summer Analyst",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:867add8a-591f-4f9c-a4b8-a548a8e7ce89",
+      "company": "Blackstone",
+      "title": "Data Engineer Summer Analyst - Blackstone Technology & Innovations",
+      "location": "Miami, FL",
+      "locations": [
+        "Miami, FL"
+      ],
+      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:230b8412-ca73-4abf-b01d-2013cfc1309b",
+      "company": "Blackstone",
+      "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
+      "location": "Miami, FL",
+      "locations": [
+        "Miami, FL"
+      ],
+      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:f8c3812a-4e5d-48e3-b329-54a28233db3a",
       "company": "Blue Shield of California",
       "title": "Data Full Stack Engineer Intern",
@@ -728,6 +872,39 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
     },
     {
       "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
@@ -1857,113 +2034,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -3169,23 +3239,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:01ba76c4-8637-49c3-a04f-324409838c74",
-      "company": "Trillium",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
