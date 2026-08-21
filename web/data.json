@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 355,
+    "postings_tracked": 354,
     "sources": 1,
-    "companies": 108,
+    "companies": 109,
     "last_updated": "2026-08-21"
   },
   "postings": [
@@ -507,6 +507,23 @@
       ]
     },
     {
+      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
+      "company": "StudyFetch",
+      "title": "AI Research Assistant - Machine Learning & AI",
+      "location": "Beverly Hills, CA",
+      "locations": [
+        "Beverly Hills, CA"
+      ],
+      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
       "company": "Sysco",
       "title": "Software Engineer Intern",
@@ -899,25 +916,6 @@
         "Santa Clara, CA"
       ],
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
-      "company": "NVIDIA",
-      "title": "Hardware Verification Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
       "date_posted": "2026-08-19",
       "deadline": "",
       "season": "Summer 2027",
@@ -1842,21 +1840,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
