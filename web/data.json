@@ -1,11 +1,387 @@
 {
   "stats": {
-    "postings_tracked": 342,
+    "postings_tracked": 352,
     "sources": 1,
-    "companies": 108,
+    "companies": 107,
     "last_updated": "2026-08-21"
   },
   "postings": [
+    {
+      "id": "simplify:2057d1a3-289b-49ae-8328-fa3527c533c5",
+      "company": "AMD",
+      "title": "Software Engineer Intern/Co-op - Masters",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91176?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5ea47a48-bb97-4bea-920e-4f30c64827c8",
+      "company": "AMD",
+      "title": "Research Engineer Intern/Co-op - AMD Research",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90925?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:f7eaba38-fbcf-47fb-88d0-928f5427c0cb",
+      "company": "AMD",
+      "title": "Machine Learning Intern/Co-op - Multiple Teams",
+      "location": "Rochester, NY +5 more",
+      "locations": [
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91170?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c042921c-cebf-43b2-952d-c5484993695b",
+      "company": "AMD",
+      "title": "Hardware Design Verification Engineer Co-op/Intern",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90810?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a5a8ff7e-b250-4699-8d5f-b15adf724936",
+      "company": "AMD",
+      "title": "Firmware Engineer Intern/Co-op",
+      "location": "Secaucus, NJ +6 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Massachusetts"
+      ],
+      "url": "https://careers.amd.com/jobs/90801?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
+      "company": "AMD",
+      "title": "Software Engineer Intern/Co-op",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90891?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3a7a0552-99e6-49df-a934-5f5f8e97109b",
+      "company": "AMD",
+      "title": "Firmware Engineering Intern Co-op - Undergrad",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90807?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:501d315c-b9a3-47c7-b07e-24c99ed76f46",
+      "company": "AMD",
+      "title": "Hardware Design Verification Engineer Intern/Co-op",
+      "location": "Secaucus, NJ +6 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/90813?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0446e9d0-fc91-4c78-970a-fe7b5809cd30",
+      "company": "AMD",
+      "title": "Firmware Engineer Co-op/Intern",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90809?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:646c1eeb-a6b8-40f6-95c7-581780504d2e",
+      "company": "AMD",
+      "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
+      "location": "Rochester, NY +5 more",
+      "locations": [
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91181?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2f20ddf7-c228-470e-9c1f-f35d8a1bfc0a",
+      "company": "AMD",
+      "title": "Hardware Engineer Intern/Co-op",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90894?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:16ab9e56-fd38-43a4-a048-7cca73f13c2d",
+      "company": "AMD",
+      "title": "Hardware Design Verification Engineering Intern/Co-op",
+      "location": "Secaucus, NJ +6 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/90820?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d56dfd5d-55e2-40d6-8702-5198fabd6208",
+      "company": "AMD",
+      "title": "Data Analyst Intern/Co-op",
+      "location": "Rochester, NY +5 more",
+      "locations": [
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91183?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9bb86009-15b1-4f9e-b9ad-f58d7762aebb",
+      "company": "AMD",
+      "title": "Hardware Engineer Intern/Co-op - Hardware Engineering",
+      "location": "Rochester, NY +5 more",
+      "locations": [
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91182?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ec03908e-3e83-4c51-adc1-4f9414e3faef",
+      "company": "AMD",
+      "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91177?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:33e514e4-a58b-48dd-a27c-aed4a3391473",
+      "company": "AMD",
+      "title": "Hardware Engineering Intern/Co-op - Undergrad",
+      "location": "Rochester, NY +5 more",
+      "locations": [
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91173?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b6461f19-ac97-4787-a3e5-e3529e7f1e28",
+      "company": "AMD",
+      "title": "Product Development Engineer Intern/Co-op",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91227?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:286dabc0-b73b-4fa8-a82a-b2a384f8b1d3",
+      "company": "AMD",
+      "title": "Field Applications Engineer Intern - Masters",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91239?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:077623be-fd6b-4225-a9ec-9d56b4c17a64",
+      "company": "AMD",
+      "title": "Product Development Engineering Intern/Co-op",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91228?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f8c3812a-4e5d-48e3-b329-54a28233db3a",
       "company": "Blue Shield of California",
@@ -318,39 +694,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - AWM Product Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/182389?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
     },
     {
       "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
@@ -1445,24 +1788,6 @@
       ]
     },
     {
-      "id": "simplify:df3b11d6-07b6-49f9-a445-97f32c89967e",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Spring 2027",
-      "location": "Melbourne, FL",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
       "company": "Replit",
       "title": "Software Engineer Intern - Summer 2027",
@@ -1498,113 +1823,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
