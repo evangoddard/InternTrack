@@ -3,7 +3,7 @@
     "postings_tracked": 337,
     "sources": 1,
     "companies": 109,
-    "last_updated": "2026-08-20"
+    "last_updated": "2026-08-21"
   },
   "postings": [
     {
@@ -194,23 +194,6 @@
       "date_posted": "2026-08-20",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2beb3742-f77d-4a70-b6cd-ed3c76034f75",
-      "company": "Centific",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Software-Engineer_JR108257-1",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -2751,6 +2734,24 @@
         "NYC"
       ],
       "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
+      "company": "Axon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
       "date_posted": "2026-08-07",
       "deadline": "",
       "season": "Summer 2027",
