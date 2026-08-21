@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 358,
+    "postings_tracked": 355,
     "sources": 1,
     "companies": 108,
     "last_updated": "2026-08-21"
@@ -853,6 +853,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
+      "company": "NVIDIA",
+      "title": "Developer and Performance Technology Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1861,40 +1879,6 @@
       ]
     },
     {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -1912,24 +1896,6 @@
         "PhD",
         "JD",
         "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -4747,31 +4713,6 @@
       "season": "",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:1bf46509-1ef7-44c8-9af8-cbe0dbe392ff",
-      "company": "JP Morgan Chase",
-      "title": "Data Internship - Data & AI Program",
-      "location": "Palo Alto, CA +7 more",
-      "locations": [
-        "Palo Alto, CA",
-        "Newark, DE",
-        "Plano, TX",
-        "Chicago, IL",
-        "Jersey City, NJ",
-        "Columbus, OH",
-        "NYC",
-        "Wilmington, DE"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
