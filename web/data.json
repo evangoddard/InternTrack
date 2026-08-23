@@ -1005,25 +1005,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Developer Internship - Summer 2027",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "locations": [
-        "Dubai - United Arab Emirates",
-        "NYC"
-      ],
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -2428,6 +2409,24 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern - Summer 2027",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
