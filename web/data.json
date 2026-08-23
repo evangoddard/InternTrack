@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 366,
+    "postings_tracked": 365,
     "sources": 1,
-    "companies": 113,
+    "companies": 112,
     "last_updated": "2026-08-23"
   },
   "postings": [
@@ -2337,23 +2337,6 @@
       "date_posted": "2026-08-14",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4970d8e6-5a35-42a8-b190-f87e93fe1d23",
-      "company": "Sensata",
-      "title": "Hardware Engineer Intern - Multiple Teams",
-      "location": "Newtownabbey, UK",
-      "locations": [
-        "Newtownabbey, UK"
-      ],
-      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
