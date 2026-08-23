@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 371,
+    "postings_tracked": 373,
     "sources": 1,
-    "companies": 112,
+    "companies": 113,
     "last_updated": "2026-08-23"
   },
   "postings": [
@@ -785,6 +785,23 @@
       ]
     },
     {
+      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
+      "company": "StudyFetch",
+      "title": "AI Research Assistant - Machine Learning & AI",
+      "location": "Beverly Hills, CA",
+      "locations": [
+        "Beverly Hills, CA"
+      ],
+      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
       "company": "Sysco",
       "title": "Software Engineer Intern",
@@ -1032,6 +1049,23 @@
         "Santa Clara, CA"
       ],
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:31523bd0-3228-448d-b0ce-f99812c17fca",
+      "company": "NVIDIA",
+      "title": "Generative AI Ph.D. Research Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475",
       "date_posted": "2026-08-19",
       "deadline": "",
       "season": "Summer 2027",
