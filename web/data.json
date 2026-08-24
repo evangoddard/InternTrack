@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 369,
+    "postings_tracked": 368,
     "sources": 1,
     "companies": 113,
     "last_updated": "2026-08-24"
@@ -3621,24 +3621,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:aa7eb673-811f-4d32-a109-b840c82a1fab",
-      "company": "ByteDance",
-      "title": "Network Software Engineer Intern - Network Switch",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
