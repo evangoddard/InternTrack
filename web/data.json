@@ -1,11 +1,83 @@
 {
   "stats": {
-    "postings_tracked": 372,
+    "postings_tracked": 387,
     "sources": 1,
-    "companies": 117,
+    "companies": 122,
     "last_updated": "2026-08-24"
   },
   "postings": [
+    {
+      "id": "simplify:a07da328-cad2-4ede-bbbb-87ffe48211e5",
+      "company": "BNY",
+      "title": "Product Management Intern - Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0dd2eafe-8c87-4a6f-8b2e-783fda928c8a",
+      "company": "BNY",
+      "title": "Trading Intern - Trading",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81350",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:afa7917f-eec9-411a-9a5c-e3aad5839ae6",
+      "company": "Garmin",
+      "title": "Software Engineer Intern",
+      "location": "Olathe, KS",
+      "locations": [
+        "Olathe, KS"
+      ],
+      "url": "https://careers.garmin.com/jobs/19693?icims=1",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ba733cd9-7086-4e38-bdec-d13b07b8b1d3",
+      "company": "Apple",
+      "title": "GPU Intern",
+      "location": "London, UK +2 more",
+      "locations": [
+        "London, UK",
+        "Cambridge, UK",
+        "St Albans, UK"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200679650",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Winter 2026 / Spring 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:eb72a87e-f9d7-457b-8448-ae0bcdd0872b",
       "company": "Google",
@@ -144,6 +216,75 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5a24ffd7-21dd-4446-9322-8b43eab99a97",
+      "company": "Freddie Mac",
+      "title": "Software Developer Intern - Single-Family",
+      "location": "McLean, VA",
+      "locations": [
+        "McLean, VA"
+      ],
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:132f1dad-f541-42b4-89ad-3a52d59e0e97",
+      "company": "Procter & Gamble",
+      "title": "IT Project & Product Manager Intern",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4a6c8dec-bbc4-43b8-a768-fbedfacf95d3",
+      "company": "Procter & Gamble",
+      "title": "Data Scientist Intern",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:07fb9dda-5acf-40a0-8daa-9a4ef8e9d7a5",
+      "company": "DuCharme, McMillen & Associates",
+      "title": "Software Developer Intern",
+      "location": "Indianapolis, IN / Fort Wayne, IN",
+      "locations": [
+        "Indianapolis, IN",
+        "Fort Wayne, IN"
+      ],
+      "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1071,6 +1212,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -2182,6 +2341,113 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170675?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
