@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 373,
+    "postings_tracked": 372,
     "sources": 1,
     "companies": 117,
     "last_updated": "2026-08-24"
@@ -1037,23 +1037,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a717fdef-0f39-4450-ba29-a63aa12f17ba",
-      "company": "RTX",
-      "title": "Systems Technology Intern",
-      "location": "Tucson, AZ",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
