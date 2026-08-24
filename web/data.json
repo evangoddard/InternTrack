@@ -1,11 +1,98 @@
 {
   "stats": {
-    "postings_tracked": 366,
+    "postings_tracked": 371,
     "sources": 1,
-    "companies": 113,
+    "companies": 116,
     "last_updated": "2026-08-24"
   },
   "postings": [
+    {
+      "id": "simplify:eb72a87e-f9d7-457b-8448-ae0bcdd0872b",
+      "company": "Google",
+      "title": "Software Developer Intern",
+      "location": "Montreal, QC, Canada +2 more",
+      "locations": [
+        "Montreal, QC, Canada",
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:4c8703e4-e538-4a55-ac8c-5d9b8e0eec12",
+      "company": "BNY",
+      "title": "Software Engineer Intern - Engineering - Developer",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2f4c5900-989e-4b19-afdd-c5d973e9b552",
+      "company": "BNY",
+      "title": "Data Science Intern - Engineering",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c3f214ad-fe6d-4020-9530-249687a4089d",
+      "company": "BNY",
+      "title": "Engineering Intern - Data Science",
+      "location": "Manchester, UK",
+      "locations": [
+        "Manchester, UK"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0d138427-6921-4a12-99e2-30a0b223cef3",
+      "company": "BNY",
+      "title": "Software Developer Intern - Engineering",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:03055ce7-1d96-46c4-861e-8c19404e1767",
       "company": "Gulfstream",
@@ -19,6 +106,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7d622bf2-9241-4e85-b72d-dc305db65752",
+      "company": "Freddie Mac",
+      "title": "Quantitative Risk Management Intern",
+      "location": "McLean, VA",
+      "locations": [
+        "McLean, VA"
+      ],
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -173,27 +277,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:7833a92d-102e-4ca4-9a8b-c14f36398bc0",
-      "company": "JP Morgan Chase",
-      "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
-      "location": "Plano, TX +3 more",
-      "locations": [
-        "Plano, TX",
-        "Columbus, OH",
-        "NYC",
-        "Wilmington, DE"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "MBA"
       ]
     },
     {
