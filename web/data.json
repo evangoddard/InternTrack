@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 368,
+    "postings_tracked": 366,
     "sources": 1,
     "companies": 113,
     "last_updated": "2026-08-24"
   },
   "postings": [
+    {
+      "id": "simplify:03055ce7-1d96-46c4-861e-8c19404e1767",
+      "company": "Gulfstream",
+      "title": "Software Engineer Intern - IEF",
+      "location": "Savannah, GA",
+      "locations": [
+        "Savannah, GA"
+      ],
+      "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
       "company": "Springs Window Fashions",
@@ -2083,73 +2100,6 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170935?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
       "company": "Notion",
       "title": "Software Engineer Intern - Summer 2027",
@@ -3621,6 +3571,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:aa7eb673-811f-4d32-a109-b840c82a1fab",
+      "company": "ByteDance",
+      "title": "Network Software Engineer Intern - Network Switch",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
