@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 422,
+    "postings_tracked": 421,
     "sources": 1,
-    "companies": 128,
+    "companies": 127,
     "last_updated": "2026-08-25"
   },
   "postings": [
@@ -194,26 +194,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
-      "company": "Apex Fintech Solutions",
-      "title": "Technology Fintern - Software Engineering - Product Management",
-      "location": "Austin, TX +3 more",
-      "locations": [
-        "Austin, TX",
-        "Dallas, TX",
-        "Chicago, IL",
-        "NYC"
-      ],
-      "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
