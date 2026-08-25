@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 409,
+    "postings_tracked": 407,
     "sources": 1,
     "companies": 125,
     "last_updated": "2026-08-25"
@@ -457,23 +457,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0d138427-6921-4a12-99e2-30a0b223cef3",
-      "company": "BNY",
-      "title": "Software Developer Intern - Engineering",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -1678,25 +1661,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:03f5f454-515c-41f5-b670-e30a0e59a27e",
-      "company": "NVIDIA",
-      "title": "Hardware ASIC Design Intern - Hardware",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
         "PhD"
       ]
     },
