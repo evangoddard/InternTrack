@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 390,
+    "postings_tracked": 391,
     "sources": 1,
-    "companies": 121,
+    "companies": 123,
     "last_updated": "2026-08-25"
   },
   "postings": [
@@ -901,29 +901,6 @@
       ]
     },
     {
-      "id": "simplify:a5a8ff7e-b250-4699-8d5f-b15adf724936",
-      "company": "AMD",
-      "title": "Firmware Engineer Intern/Co-op",
-      "location": "Secaucus, NJ +6 more",
-      "locations": [
-        "Secaucus, NJ",
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Massachusetts"
-      ],
-      "url": "https://careers.amd.com/jobs/90801?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
       "company": "AMD",
       "title": "Software Engineer Intern/Co-op",
@@ -1352,23 +1329,6 @@
       ]
     },
     {
-      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
-      "company": "StudyFetch",
-      "title": "AI Research Assistant - Machine Learning & AI",
-      "location": "Beverly Hills, CA",
-      "locations": [
-        "Beverly Hills, CA"
-      ],
-      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
       "company": "Sysco",
       "title": "Software Engineer Intern",
@@ -1642,25 +1602,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:26db23e0-d70f-49b8-ab98-f6c54330d92b",
-      "company": "NVIDIA",
-      "title": "Hardware Physical Design / VLSI Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
         "PhD"
       ]
     },
@@ -2131,6 +2072,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:31355168-e211-42dc-a7b5-c84567c929cc",
+      "company": "Datadog",
+      "title": "Product Management Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
@@ -3731,6 +3689,24 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
+      "company": "Axon",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -6809,6 +6785,45 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
+      "company": "Databricks",
+      "title": "Product Management Intern",
+      "location": "SF +2 more",
+      "locations": [
+        "SF",
+        "Bellevue, WA",
+        "Mountain View, CA"
+      ],
+      "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
+      "date_posted": "2026-07-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:56965bf6-c164-4f90-8d38-c6ccc6fdcd9a",
+      "company": "Optiver",
+      "title": "Trading Automation and Operations Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+      "date_posted": "2026-07-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ]
     },
