@@ -1,11 +1,87 @@
 {
   "stats": {
-    "postings_tracked": 397,
+    "postings_tracked": 409,
     "sources": 1,
-    "companies": 124,
+    "companies": 125,
     "last_updated": "2026-08-25"
   },
   "postings": [
+    {
+      "id": "simplify:acff4e3e-72e2-4540-80d6-874ced15ab5a",
+      "company": "Apple",
+      "title": "Design Verification Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200679789",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8d8ee1d2-7639-4b3a-a595-6be2478476c4",
+      "company": "AMD",
+      "title": "ASIC Package Engineer Intern Co-op",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91469?icims=1",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ddae6979-7fcd-4b8d-97c8-36d02bd02f06",
+      "company": "AMD",
+      "title": "ASIC Package Engineering Intern Co-op",
+      "location": "Secaucus, NJ +5 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91466?icims=1",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:06673e9a-5d65-4652-9ea8-f673b24c85a5",
+      "company": "AMD",
+      "title": "ASIC Package Engineering Co-op/Intern",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/91463?icims=1",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:2ad8c3d0-43b7-4038-9ea2-b88e6dda0b9a",
       "company": "John Deere",
@@ -1522,6 +1598,39 @@
       ]
     },
     {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -2592,6 +2701,113 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170675?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
