@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 391,
+    "postings_tracked": 406,
     "sources": 1,
     "companies": 123,
     "last_updated": "2026-08-25"
@@ -392,22 +392,20 @@
       ]
     },
     {
-      "id": "simplify:eb72a87e-f9d7-457b-8448-ae0bcdd0872b",
-      "company": "Google",
-      "title": "Software Developer Intern",
-      "location": "Montreal, QC, Canada +2 more",
+      "id": "simplify:4c8703e4-e538-4a55-ac8c-5d9b8e0eec12",
+      "company": "BNY",
+      "title": "Software Engineer Intern - Engineering - Developer",
+      "location": "Jersey City, NJ",
       "locations": [
-        "Montreal, QC, Canada",
-        "Toronto, ON, Canada",
-        "Waterloo, ON, Canada"
+        "Jersey City, NJ"
       ],
-      "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251",
       "date_posted": "2026-08-24",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
       "degrees": [
-        "PhD"
+        "Bachelor's"
       ]
     },
     {
@@ -667,6 +665,23 @@
       ]
     },
     {
+      "id": "simplify:3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
+      "company": "Springs Window Fashions",
+      "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
+      "location": "Middleton, WI",
+      "locations": [
+        "Middleton, WI"
+      ],
+      "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:1f240169-1dfc-46e6-8e84-6e70ff3d98da",
       "company": "Springs Window Fashions",
       "title": "Product Management Dashboard Analytics Intern",
@@ -861,6 +876,24 @@
       ]
     },
     {
+      "id": "simplify:5ea47a48-bb97-4bea-920e-4f30c64827c8",
+      "company": "AMD",
+      "title": "Research Engineer Intern/Co-op - AMD Research",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90925?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:f7eaba38-fbcf-47fb-88d0-928f5427c0cb",
       "company": "AMD",
       "title": "Machine Learning Intern/Co-op - Multiple Teams",
@@ -901,6 +934,29 @@
       ]
     },
     {
+      "id": "simplify:a5a8ff7e-b250-4699-8d5f-b15adf724936",
+      "company": "AMD",
+      "title": "Firmware Engineer Intern/Co-op",
+      "location": "Secaucus, NJ +6 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Massachusetts"
+      ],
+      "url": "https://careers.amd.com/jobs/90801?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
       "company": "AMD",
       "title": "Software Engineer Intern/Co-op",
@@ -914,6 +970,47 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027 / Fall 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3a7a0552-99e6-49df-a934-5f5f8e97109b",
+      "company": "AMD",
+      "title": "Firmware Engineering Intern Co-op - Undergrad",
+      "location": "San Jose, CA / Santa Clara, CA",
+      "locations": [
+        "San Jose, CA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://careers.amd.com/jobs/90807?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:501d315c-b9a3-47c7-b07e-24c99ed76f46",
+      "company": "AMD",
+      "title": "Hardware Design Verification Engineer Intern/Co-op",
+      "location": "Secaucus, NJ +6 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Rochester, NY",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/90813?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -997,6 +1094,28 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a554688a-fa61-4d32-8d02-a22d0e78ac6a",
+      "company": "AMD",
+      "title": "Research Engineering Intern/Co-op - AMD Research",
+      "location": "Secaucus, NJ +5 more",
+      "locations": [
+        "Secaucus, NJ",
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/90926?icims=1",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
       ]
     },
     {
@@ -1329,6 +1448,23 @@
       ]
     },
     {
+      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
+      "company": "StudyFetch",
+      "title": "AI Research Assistant - Machine Learning & AI",
+      "location": "Beverly Hills, CA",
+      "locations": [
+        "Beverly Hills, CA"
+      ],
+      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
       "company": "Sysco",
       "title": "Software Engineer Intern",
@@ -1465,6 +1601,39 @@
       ]
     },
     {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -1571,6 +1740,23 @@
       ]
     },
     {
+      "id": "simplify:156eeaae-e8ce-4c0c-a47f-6027e39a664c",
+      "company": "NVIDIA",
+      "title": "Large Language Models Intern - Research",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
       "company": "NVIDIA",
       "title": "Developer and Performance Technology Intern",
@@ -1602,6 +1788,25 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:26db23e0-d70f-49b8-ab98-f6c54330d92b",
+      "company": "NVIDIA",
+      "title": "Hardware Physical Design / VLSI Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ]
     },
@@ -1661,6 +1866,23 @@
       ]
     },
     {
+      "id": "simplify:194ec80b-618d-4a9c-a170-c88f9e6fb8ca",
+      "company": "NVIDIA",
+      "title": "Ph.D. Research Hardware Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
       "company": "NVIDIA",
       "title": "Hardware Design for Test Intern - DFT",
@@ -1698,23 +1920,6 @@
       ]
     },
     {
-      "id": "simplify:d8ff5790-a34b-425f-b812-2e10a1350a70",
-      "company": "NVIDIA",
-      "title": "Computer Vision and Deep Learning Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
       "company": "Space Dynamics Laboratory",
       "title": "Web Developer Assistant - Enterprise Application Support",
@@ -1729,6 +1934,24 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d935bae6-e667-4bd1-b10d-4431b5555110",
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -2231,25 +2454,6 @@
       ]
     },
     {
-      "id": "simplify:9a19ddc0-978b-4f92-832f-f0b96df5af93",
-      "company": "Suncor",
-      "title": "Automation Intern - Software or Computer Engineering Student",
-      "location": "Calgary, AB, Canada +2 more",
-      "locations": [
-        "Calgary, AB, Canada",
-        "St. John's, NL, Canada",
-        "Fort McMurray, AB, Canada"
-      ],
-      "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:581f5af8-7fed-4e27-ae5c-5068ec83d4a6",
       "company": "University of Texas at Austin",
       "title": "Graduate Research Assistant - Quantitative and Systems Health Services",
@@ -2297,6 +2501,23 @@
       "deadline": "",
       "season": "",
       "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1babc71b-6886-48e4-9870-7503ec24824f",
+      "company": "Royal Bank of Canada",
+      "title": "Technology & Operations Co-op - Software Developer",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -2450,6 +2671,41 @@
       ]
     },
     {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
       "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
@@ -2464,6 +2720,26 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
