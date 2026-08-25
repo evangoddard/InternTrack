@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 407,
+    "postings_tracked": 408,
     "sources": 1,
     "companies": 123,
     "last_updated": "2026-08-25"
@@ -1811,25 +1811,6 @@
       ]
     },
     {
-      "id": "simplify:60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
-      "company": "NVIDIA",
-      "title": "Hardware Verification Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:3affcaac-d7f9-45d1-8139-19defc762e13",
       "company": "NVIDIA",
       "title": "Deep Learning Computer Architecture Intern",
@@ -2740,6 +2721,23 @@
       ]
     },
     {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -2757,6 +2755,24 @@
         "PhD",
         "JD",
         "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
