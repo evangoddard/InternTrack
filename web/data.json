@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 410,
+    "postings_tracked": 409,
     "sources": 1,
-    "companies": 123,
+    "companies": 122,
     "last_updated": "2026-08-25"
   },
   "postings": [
@@ -150,6 +150,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:008ef8ff-5c16-4e21-b76e-c3556a58708d",
+      "company": "Moog",
+      "title": "Hardware Engineer Intern",
+      "location": "Mineral Wells, TX",
+      "locations": [
+        "Mineral Wells, TX"
+      ],
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -4037,24 +4055,6 @@
       ]
     },
     {
-      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
-      "company": "Axon",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA / Seattle, WA",
-      "locations": [
-        "Boston, MA",
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
       "company": "Epic Games",
       "title": "Machine Learning Intern - Special Projects - Epic Research Group",
@@ -4124,28 +4124,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Seattle, WA +4 more",
-      "locations": [
-        "Seattle, WA",
-        "SF",
-        "LA",
-        "NYC",
-        "Mountain View, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
