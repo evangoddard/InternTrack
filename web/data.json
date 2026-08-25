@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 408,
+    "postings_tracked": 409,
     "sources": 1,
     "companies": 123,
     "last_updated": "2026-08-25"
@@ -117,6 +117,42 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:dbb6251b-a60a-494e-aa2b-3d680b0e0b47",
+      "company": "RTX",
+      "title": "Software Engineer Co-op - Avionics Platform Software",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+      "location": "Huntsville, AL",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1811,6 +1847,25 @@
       ]
     },
     {
+      "id": "simplify:60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
+      "company": "NVIDIA",
+      "title": "Hardware Verification Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:3affcaac-d7f9-45d1-8139-19defc762e13",
       "company": "NVIDIA",
       "title": "Deep Learning Computer Architecture Intern",
@@ -2613,23 +2668,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
-      "company": "Royal Bank of Canada",
-      "title": "Technology and Operations Developer Co-op - Software Developer",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -3885,25 +3923,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Researcher Intern - Summer 2027",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "locations": [
-        "Dubai - United Arab Emirates",
-        "NYC"
-      ],
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
