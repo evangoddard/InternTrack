@@ -1,11 +1,113 @@
 {
   "stats": {
-    "postings_tracked": 408,
+    "postings_tracked": 414,
     "sources": 1,
-    "companies": 124,
+    "companies": 127,
     "last_updated": "2026-08-25"
   },
   "postings": [
+    {
+      "id": "simplify:a767329d-41e2-4902-a15c-d28cb21ad5e1",
+      "company": "The Voleon Group",
+      "title": "Software Engineer Intern",
+      "location": "Berkeley, CA / NYC",
+      "locations": [
+        "Berkeley, CA",
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027 / Winter 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:d449be3f-76e4-4a23-907f-0c7e8bcd8582",
+      "company": "Honeywell",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f68967a4-f885-4449-89e6-b22c60cedbf9",
+      "company": "Honeywell",
+      "title": "Information Systems Intern - IT - Cyber Engineer & Data Science",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f8139c71-b2b0-4405-8d3c-7468022996e2",
+      "company": "Empirical Foods",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Dakota Dunes, SD",
+      "locations": [
+        "Dakota Dunes, SD"
+      ],
+      "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b5558b87-ced5-4750-8c2d-4314921cca90",
+      "company": "Honeywell",
+      "title": "Embedded Engineer Intern",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a273009c-e12a-4932-b782-474b6b498898",
+      "company": "Honeywell",
+      "title": "Information Systems Intern - Multiple Teams",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:99671fe3-39c9-49be-8363-def166f2b883",
       "company": "Nokia",
@@ -332,6 +434,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fe2c156b-32bd-46d5-b724-6b352345c2fb",
+      "company": "BP",
+      "title": "Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -4796,23 +4915,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
-      "company": "GE Appliances",
-      "title": "Software Engineer Co-op - Software Engineering",
-      "location": "Louisville, KY",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
