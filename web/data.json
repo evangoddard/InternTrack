@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 406,
+    "postings_tracked": 407,
     "sources": 1,
     "companies": 123,
     "last_updated": "2026-08-25"
@@ -1916,6 +1916,23 @@
       "degrees": [
         "Bachelor's",
         "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d8ff5790-a34b-425f-b812-2e10a1350a70",
+      "company": "NVIDIA",
+      "title": "Computer Vision and Deep Learning Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
         "PhD"
       ]
     },
