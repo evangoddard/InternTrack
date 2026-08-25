@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 409,
+    "postings_tracked": 410,
     "sources": 1,
     "companies": 123,
     "last_updated": "2026-08-25"
@@ -2668,6 +2668,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
+      "company": "Royal Bank of Canada",
+      "title": "Technology and Operations Developer Co-op - Software Developer",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
