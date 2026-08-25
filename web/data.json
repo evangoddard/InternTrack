@@ -1,11 +1,118 @@
 {
   "stats": {
-    "postings_tracked": 400,
+    "postings_tracked": 405,
     "sources": 1,
-    "companies": 126,
-    "last_updated": "2026-08-24"
+    "companies": 125,
+    "last_updated": "2026-08-25"
   },
   "postings": [
+    {
+      "id": "simplify:2ad8c3d0-43b7-4038-9ea2-b88e6dda0b9a",
+      "company": "John Deere",
+      "title": "Robotics Engineer Intern",
+      "location": "Ames, IA",
+      "locations": [
+        "Ames, IA"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137483008064",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b36d77b3-8f2d-43d7-bf82-ad49189efa02",
+      "company": "John Deere",
+      "title": "Robotics Engineer Part-Time Student - Product Engineering",
+      "location": "Urbandale, IA / Ames, IA",
+      "locations": [
+        "Urbandale, IA",
+        "Ames, IA"
+      ],
+      "url": "https://johndeere.eightfold.ai/careers/job/137482782400",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:63b147f7-67e5-40ea-bf27-906ad1de151c",
+      "company": "TikTok",
+      "title": "Product Operations Intern",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://lifeattiktok.com/search/7673361736079329541",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9461eef2-85ff-4810-8147-6cf294000c7d",
+      "company": "TikTok",
+      "title": "Product Manager Intern - Pgc",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://lifeattiktok.com/search/7673365416605010229",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:cb7c7665-f749-4ac4-82aa-36376548fdc7",
+      "company": "TikTok",
+      "title": "Client Solutions Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7677467052537776437",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e012dfd4-c33a-4639-8ea0-3e6586db2b77",
+      "company": "TikTok",
+      "title": "Client Solutions Intern - Global Business Solutions",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://lifeattiktok.com/search/7677467375486765317",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:d1ce5eca-7313-4eee-b01a-088c01f2a85a",
       "company": "BTI360",
@@ -2499,25 +2606,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
-      "company": "Replit",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Foster City, CA",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
