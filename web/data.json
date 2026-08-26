@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 427,
+    "postings_tracked": 429,
     "sources": 1,
     "companies": 129,
     "last_updated": "2026-08-26"
@@ -2211,6 +2211,23 @@
       ]
     },
     {
+      "id": "simplify:79fa5677-0cf7-4393-b826-2aa0806bbcd9",
+      "company": "NVIDIA",
+      "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:26db23e0-d70f-49b8-ab98-f6c54330d92b",
       "company": "NVIDIA",
       "title": "Hardware Physical Design / VLSI Intern",
@@ -2315,6 +2332,25 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:78faf2f2-9391-4542-b593-468ce69a67b5",
+      "company": "NVIDIA",
+      "title": "Mixed Signal Design Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
         "Master's",
         "PhD"
       ]
