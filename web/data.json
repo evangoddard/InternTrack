@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 425,
+    "postings_tracked": 426,
     "sources": 1,
-    "companies": 131,
+    "companies": 132,
     "last_updated": "2026-08-26"
   },
   "postings": [
@@ -4420,6 +4420,28 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Seattle, WA +4 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "LA",
+        "NYC",
+        "Mountain View, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
