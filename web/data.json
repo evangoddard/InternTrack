@@ -1,11 +1,46 @@
 {
   "stats": {
-    "postings_tracked": 438,
+    "postings_tracked": 445,
     "sources": 1,
-    "companies": 136,
+    "companies": 140,
     "last_updated": "2026-08-26"
   },
   "postings": [
+    {
+      "id": "simplify:2189b93d-1a82-4620-9a31-8afd50579cae",
+      "company": "Vertiv",
+      "title": "Firmware Engineer Intern - Summer 2027",
+      "location": "Delaware, OH",
+      "locations": [
+        "Delaware, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:38a986fa-b190-4465-b469-3c68fa8f62f4",
+      "company": "Elk Valley Resources",
+      "title": "Geographic Information Systems Co-op",
+      "location": "Calgary, AB, Canada",
+      "locations": [
+        "Calgary, AB, Canada"
+      ],
+      "url": "https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:23f42855-d656-4288-b470-cbc2fb8f3bbd",
       "company": "Auto-Owners Insurance",
@@ -235,6 +270,80 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:394e0012-c136-47f1-9d1a-1065be754a84",
+      "company": "The Hartford",
+      "title": "Software Engineer Intern - Technology, Data, AI, and Operations",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:977a8b34-935b-4585-8f24-2475493e9e9f",
+      "company": "CACI",
+      "title": "Software Developer/Data Scientist Intern - Summer 2027",
+      "location": "Sterling, VA +2 more",
+      "locations": [
+        "Sterling, VA",
+        "Denver, CO",
+        "Sarasota, FL"
+      ],
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
+      "company": "Leidos",
+      "title": "Software Engineer Intern - Artificial Intelligence",
+      "location": "Remote in USA +2 more",
+      "locations": [
+        "Remote in USA",
+        "Shiloh, IL",
+        "Odenton, MD"
+      ],
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8aa54564-d34a-4da5-bc95-df2ec5943472",
+      "company": "Alberta Investment Management Corporation",
+      "title": "Quantitative Analytics & Reporting Intern",
+      "location": "Calgary, AB, Canada / Edmonton, AB, Canada",
+      "locations": [
+        "Calgary, AB, Canada",
+        "Edmonton, AB, Canada"
+      ],
+      "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
+      "date_posted": "2026-08-26",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
       ]
     },
     {
@@ -1379,6 +1488,27 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7833a92d-102e-4ca4-9a8b-c14f36398bc0",
+      "company": "JP Morgan Chase",
+      "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
+      "location": "Plano, TX +3 more",
+      "locations": [
+        "Plano, TX",
+        "Columbus, OH",
+        "NYC",
+        "Wilmington, DE"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
+      "date_posted": "2026-08-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "MBA"
       ]
     },
     {
