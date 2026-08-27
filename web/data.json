@@ -1,11 +1,65 @@
 {
   "stats": {
-    "postings_tracked": 445,
+    "postings_tracked": 449,
     "sources": 1,
-    "companies": 140,
-    "last_updated": "2026-08-26"
+    "companies": 141,
+    "last_updated": "2026-08-27"
   },
   "postings": [
+    {
+      "id": "simplify:78fa2a7e-f922-4d62-a833-4d9225cacd2c",
+      "company": "Zipline",
+      "title": "Embedded Systems Intern - Summer 2027",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:89458fa4-671a-4f16-80d0-b17bfb3af74d",
+      "company": "Auto-Owners Insurance",
+      "title": "Software Developer Intern - Summer 2027",
+      "location": "Lansing, MI",
+      "locations": [
+        "Lansing, MI"
+      ],
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:26097b03-bc67-4a75-9a2f-c6281e00319c",
+      "company": "Axon",
+      "title": "Embedded Engineer Intern",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:2189b93d-1a82-4620-9a31-8afd50579cae",
       "company": "Vertiv",
@@ -4689,6 +4743,25 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c89c7602-1daa-44bd-a2e1-6c6fa55deb73",
+      "company": "Axon",
+      "title": "Firmware Engineer Intern - Platform Firmware",
+      "location": "Boston, MA / Seattle, WA",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837246003",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Bootcamp"
       ]
     },
     {
