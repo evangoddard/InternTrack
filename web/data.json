@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 449,
+    "postings_tracked": 450,
     "sources": 1,
-    "companies": 141,
+    "companies": 143,
     "last_updated": "2026-08-27"
   },
   "postings": [
+    {
+      "id": "simplify:a69da076-e18a-42b5-9a88-0838d7941959",
+      "company": "Deloitte",
+      "title": "Software Engineering Summer Scholar Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Software-Engineering/364670",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:52f4413c-7f26-4030-a9c3-cff2b3c6b9dc",
+      "company": "Vertiv",
+      "title": "Services Product Management Intern - Summer 2027",
+      "location": "Westerville, OH",
+      "locations": [
+        "Westerville, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:78fa2a7e-f922-4d62-a833-4d9225cacd2c",
       "company": "Zipline",
@@ -56,6 +90,57 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e7293c88-f396-415f-920c-742686dde2e3",
+      "company": "Booz Allen",
+      "title": "Data Scientist Intern - University",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8a398659-4aa5-4cf4-a9d1-222302c48e50",
+      "company": "Booz Allen",
+      "title": "Software Developer Intern - University",
+      "location": "McLean, VA",
+      "locations": [
+        "McLean, VA"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
+      "company": "Booz Allen",
+      "title": "Software Developer Intern - Summer Games",
+      "location": "El Segundo, CA",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -1222,23 +1307,6 @@
       ]
     },
     {
-      "id": "simplify:7d622bf2-9241-4e85-b72d-dc305db65752",
-      "company": "Freddie Mac",
-      "title": "Quantitative Risk Management Intern",
-      "location": "McLean, VA",
-      "locations": [
-        "McLean, VA"
-      ],
-      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:43314ea5-8533-4883-a5e5-5afdc6cff866",
       "company": "Polaris",
       "title": "Predictive Data Science Intern - Digital & IT",
@@ -2328,39 +2396,6 @@
       ]
     },
     {
-      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - AWM Product Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/182389?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -3415,41 +3450,6 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
       "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
@@ -3492,6 +3492,26 @@
         "London, UK"
       ],
       "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -3881,24 +3901,6 @@
       "season": "",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:dce4abe7-92f7-4e7f-a318-674ebe805bfe",
-      "company": "RRS Group",
-      "title": "Quantitative Analytics Development Program Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000141124349",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:e0791588-2fd5-4867-8c40-2b4af827a16d",
@@ -7246,6 +7248,21 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:b722e715-5a14-4a63-a460-c1e16e834e4e",
+      "company": "Airbus",
+      "title": "Electrical Assembler",
+      "location": "Mirabel, QC, Canada",
+      "locations": [
+        "Mirabel, QC, Canada"
+      ],
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Montreal-Area/Assembleur-se--lectrique-d-avions---Alternance-Travail-tudes--ATE----Airbus-Canada_JR10425810",
+      "date_posted": "2026-07-27",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
     },
     {
       "id": "simplify:4bd46e38-6629-44aa-b557-05c1094d119c",
