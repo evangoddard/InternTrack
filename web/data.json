@@ -248,23 +248,6 @@
       ]
     },
     {
-      "id": "simplify:49e6ace2-42ca-46a7-81f9-59a39844f75f",
-      "company": "Leidos",
-      "title": "Computer Engineering Co-op",
-      "location": "Bethesda, MD",
-      "locations": [
-        "Bethesda, MD"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:caa5d432-7f4d-4c1f-92de-98d8fd87d850",
       "company": "Manulife Financial",
       "title": "Software Engineering Intern",
@@ -1038,24 +1021,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:008ef8ff-5c16-4e21-b76e-c3556a58708d",
-      "company": "Moog",
-      "title": "Hardware Engineer Intern",
-      "location": "Mineral Wells, TX",
-      "locations": [
-        "Mineral Wells, TX"
-      ],
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -3711,6 +3676,26 @@
         "London, UK"
       ],
       "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -8015,6 +8000,23 @@
       "date_posted": "2026-07-20",
       "deadline": "",
       "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:5fc15f21-5b6d-4848-a043-3dceb4bd4592",
+      "company": "Lawrence Berkeley National Laboratory",
+      "title": "DuraMat Degradation Analysis Postdoctoral Fellow - Energy Technologies and Systems",
+      "location": "Berkeley, CA",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107137",
+      "date_posted": "2026-07-18",
+      "deadline": "",
+      "season": "",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
