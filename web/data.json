@@ -1,11 +1,113 @@
 {
   "stats": {
-    "postings_tracked": 450,
+    "postings_tracked": 461,
     "sources": 1,
-    "companies": 143,
-    "last_updated": "2026-08-27"
+    "companies": 149,
+    "last_updated": "2026-08-28"
   },
   "postings": [
+    {
+      "id": "simplify:445f9e1d-29ba-4695-b3b0-60111cfbd03b",
+      "company": "TELUS Digital",
+      "title": "Software Engineer Intern - US - Summer 2027",
+      "location": "Durham, NC +2 more",
+      "locations": [
+        "Durham, NC",
+        "Columbus, OH",
+        "Charlottesville, VA"
+      ],
+      "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:37384e6e-e33d-4d9e-978b-68157cdf4c51",
+      "company": "RJ Lee Group",
+      "title": "Artificial Intelligence Software Modernization Intern",
+      "location": "Pittsburgh, PA",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+      "company": "Tesla",
+      "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
+      "location": "Palo Alto, CA",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.tesla.com/careers/search/job/281097",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:148e3318-5e31-4e70-a0a0-6b779ec4accf",
+      "company": "Jane Street",
+      "title": "Windows Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:896b0108-cef7-4d08-a0b3-a8969f63f4dc",
+      "company": "CesiumAstro",
+      "title": "Software Engineering Intern - Advanced Projects Group",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411/apply",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027 / Spring 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d87e1816-d063-45ca-a689-0c0488e78b91",
+      "company": "CesiumAstro",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7/apply",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:a69da076-e18a-42b5-9a88-0838d7941959",
       "company": "Deloitte",
@@ -141,6 +243,123 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:49e6ace2-42ca-46a7-81f9-59a39844f75f",
+      "company": "Leidos",
+      "title": "Computer Engineering Co-op",
+      "location": "Bethesda, MD",
+      "locations": [
+        "Bethesda, MD"
+      ],
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:caa5d432-7f4d-4c1f-92de-98d8fd87d850",
+      "company": "Manulife Financial",
+      "title": "Software Engineering Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9117ab3a-74f6-45f4-b9df-400221691e60",
+      "company": "Johns Manville",
+      "title": "Product Management Intern",
+      "location": "Denver, CO",
+      "locations": [
+        "Denver, CO"
+      ],
+      "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:dd7b3d30-baf7-40f6-b0f5-46fc35981d6d",
+      "company": "Air Products",
+      "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
+      "location": "Allentown, PA",
+      "locations": [
+        "Allentown, PA"
+      ],
+      "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ca0c5404-ebf7-4cc4-b300-841268447817",
+      "company": "Wells Fargo",
+      "title": "Quantitative Analytics Intern - Applied Computational Intelligence",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-571703",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:13c82543-49b6-4293-ac18-052fd0889c76",
+      "company": "Leidos",
+      "title": "Data Engineering & Analytics Intern",
+      "location": "Shiloh, IL",
+      "locations": [
+        "Shiloh, IL"
+      ],
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:596a789f-9d3f-4275-91f3-da77d86fc246",
+      "company": "Booz Allen",
+      "title": "Data Scientist Intern - University - Summer Games",
+      "location": "El Segundo, CA",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -3504,26 +3723,6 @@
       ]
     },
     {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
       "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
@@ -4836,28 +5035,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Seattle, WA +4 more",
-      "locations": [
-        "Seattle, WA",
-        "SF",
-        "LA",
-        "NYC",
-        "Mountain View, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -7018,6 +7195,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:4eea3ea9-aa50-418f-912f-105c7ecd705a",
+      "company": "CNO Financial Group",
+      "title": "Artificial Intelligence Information Technology Intern - AI",
+      "location": "Carmel, IN",
+      "locations": [
+        "Carmel, IN"
+      ],
+      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:d7896522-5218-4362-8092-60cacc29a642",
       "company": "Two Sigma",
       "title": "Quantitative Researcher Intern",
@@ -7594,23 +7788,6 @@
       "category": "Software",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:47396485-020d-4723-a0eb-84364424bc72",
-      "company": "Onware",
-      "title": "Full Stack Developer-Intern Opportunity",
-      "location": "Edmonton, AB, Canada",
-      "locations": [
-        "Edmonton, AB, Canada"
-      ],
-      "url": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
