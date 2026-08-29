@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 471,
+    "postings_tracked": 470,
     "sources": 1,
     "companies": 156,
     "last_updated": "2026-08-29"
@@ -1245,24 +1245,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
-      "location": "Huntsville, AL",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -2819,39 +2801,6 @@
       ]
     },
     {
-      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - AWM Product Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/182389?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -3906,29 +3855,68 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
+      "url": "https://higher.gs.com/roles/170675?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": []
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
