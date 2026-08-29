@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 470,
+    "postings_tracked": 472,
     "sources": 1,
-    "companies": 156,
+    "companies": 157,
     "last_updated": "2026-08-29"
   },
   "postings": [
@@ -482,6 +482,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:49e6ace2-42ca-46a7-81f9-59a39844f75f",
+      "company": "Leidos",
+      "title": "Computer Engineering Co-op",
+      "location": "Bethesda, MD",
+      "locations": [
+        "Bethesda, MD"
+      ],
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
+      "date_posted": "2026-08-27",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -3635,6 +3652,25 @@
       "category": "Software",
       "degrees": [
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9a19ddc0-978b-4f92-832f-f0b96df5af93",
+      "company": "Suncor",
+      "title": "Automation Intern - Software or Computer Engineering Student",
+      "location": "Calgary, AB, Canada +2 more",
+      "locations": [
+        "Calgary, AB, Canada",
+        "St. John's, NL, Canada",
+        "Fort McMurray, AB, Canada"
+      ],
+      "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
