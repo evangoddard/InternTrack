@@ -1,11 +1,36 @@
 {
   "stats": {
-    "postings_tracked": 482,
+    "postings_tracked": 484,
     "sources": 1,
-    "companies": 157,
+    "companies": 159,
     "last_updated": "2026-08-31"
   },
   "postings": [
+    {
+      "id": "simplify:d2e61e69-8f4f-4006-8163-9aeec299bede",
+      "company": "Exelon",
+      "title": "Data Science Intern - Data Science/Analytics",
+      "location": "Washington, DC +6 more",
+      "locations": [
+        "Washington, DC",
+        "Newark, DE",
+        "Philadelphia, PA",
+        "Chicago, IL",
+        "Oakbrook Terrace, IL",
+        "Hamilton, NJ",
+        "Baltimore, MD"
+      ],
+      "url": "https://careers.comed.com/jobs/30120?icims=1",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ]
+    },
     {
       "id": "simplify:6a910274-8203-4361-9726-d22a315d1644",
       "company": "American Express",
@@ -197,6 +222,123 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d3e9acbe-429c-41ea-ad4b-0536beab6782",
+      "company": "Medline",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "Chicago, IL / Northfield, IL",
+      "locations": [
+        "Chicago, IL",
+        "Northfield, IL"
+      ],
+      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:fd8c8cd3-1a79-472d-8dae-d896f4660ce8",
+      "company": "The Home Depot",
+      "title": "Data Science Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:91cb2b7b-aa32-4e7d-82f1-4d95b00718d3",
+      "company": "The Home Depot",
+      "title": "Product Management Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4060f153-ab15-44d4-9f86-1bf555dbf0f7",
+      "company": "The Home Depot",
+      "title": "Data Science & Analytics Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:344cba34-8972-4eb0-b47d-64f9893987bc",
+      "company": "The Home Depot",
+      "title": "Software Engineer Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e42ba45d-b2f8-4b3e-82ea-a28a0016584f",
+      "company": "Mastercard",
+      "title": "Data Scientist Intern",
+      "location": "O'Fallon, MO",
+      "locations": [
+        "O'Fallon, MO"
+      ],
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fddd1298-503a-4d99-ae93-c080d17df82b",
+      "company": "TD Bank",
+      "title": "Quantitative Associate - Quantitative Rotation Program",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Associate---Quantitative-Rotation-Program_R_1508352",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -1053,25 +1195,6 @@
       ]
     },
     {
-      "id": "simplify:cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
-      "company": "Leidos",
-      "title": "Software Engineer Intern - Artificial Intelligence",
-      "location": "Remote in USA +2 more",
-      "locations": [
-        "Remote in USA",
-        "Shiloh, IL",
-        "Odenton, MD"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
-      "date_posted": "2026-08-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8aa54564-d34a-4da5-bc95-df2ec5943472",
       "company": "Alberta Investment Management Corporation",
       "title": "Quantitative Analytics & Reporting Intern",
@@ -1448,23 +1571,6 @@
       ]
     },
     {
-      "id": "simplify:fe2c156b-32bd-46d5-b724-6b352345c2fb",
-      "company": "BP",
-      "title": "Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5f5acc02-520f-43a0-ab78-35753db6131a",
       "company": "The Hartford",
       "title": "Software Engineer Intern - Technology & Data",
@@ -1610,38 +1716,6 @@
         "Long Island City, Queens, NY"
       ],
       "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:bc4407ea-452d-4ef5-b173-3260a4f7db7b",
-      "company": "Sage",
-      "title": "Software Engineer Intern - Full Stack",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:0aa38a85-7be2-4d60-8ec3-0002a9643512",
-      "company": "Sage",
-      "title": "Software Engineer Intern - Edge - Summer 2027",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
       "date_posted": "2026-08-24",
       "deadline": "",
       "season": "Summer 2027",
@@ -2793,23 +2867,6 @@
       ]
     },
     {
-      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
-      "company": "StudyFetch",
-      "title": "AI Research Assistant - Machine Learning & AI",
-      "location": "Beverly Hills, CA",
-      "locations": [
-        "Beverly Hills, CA"
-      ],
-      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
       "company": "Sysco",
       "title": "Software Engineer Intern",
@@ -2943,24 +3000,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - AWM Product Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/182389?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -4141,23 +4180,21 @@
       ]
     },
     {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
       "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
       "locations": [
-        "Dallas, TX"
+        "West Palm Beach, FL"
       ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
+      "url": "https://higher.gs.com/roles/181628?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
