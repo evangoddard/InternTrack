@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 476,
+    "postings_tracked": 482,
     "sources": 1,
     "companies": 157,
     "last_updated": "2026-08-31"
@@ -165,6 +165,41 @@
       ]
     },
     {
+      "id": "simplify:410fe293-036e-43d5-afdd-1139c15645f6",
+      "company": "Johnson & Johnson",
+      "title": "Quality Data Science Co-op - MD Q&C Digital Solutions",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:cfa55f2b-180a-4aeb-8ec3-92c06d135be7",
+      "company": "BP",
+      "title": "Supply, Trading, & Shipping Intern",
+      "location": "Calgary, AB, Canada",
+      "locations": [
+        "Calgary, AB, Canada"
+      ],
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:9c526e49-d762-4923-802e-2cb13b434fee",
       "company": "GE Vernova",
       "title": "Product Management Intern - Controls Lifecare Services",
@@ -221,31 +256,6 @@
       ]
     },
     {
-      "id": "simplify:1795d6df-fcca-45dc-836d-41a82dc36894",
-      "company": "Intuit",
-      "title": "Software Engineer Intern - Full Stack",
-      "location": "Charlotte, NC +4 more",
-      "locations": [
-        "Charlotte, NC",
-        "NYC",
-        "Mountain View, CA",
-        "Atlanta, GA",
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PhD",
-        "Associate's"
-      ]
-    },
-    {
       "id": "simplify:88ee222e-f092-4c2a-ad37-b63eb0445010",
       "company": "Persona AI",
       "title": "Robotics Software Intern - Manipulation",
@@ -262,47 +272,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
-      "company": "Charles Schwab",
-      "title": "Data Engineering Intern - Data Engineering",
-      "location": "Austin, TX +2 more",
-      "locations": [
-        "Austin, TX",
-        "Westlake, TX",
-        "Southlake, TX"
-      ],
-      "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
-      "company": "Charles Schwab",
-      "title": "Software Engineering Intern - Technology",
-      "location": "Austin, TX +5 more",
-      "locations": [
-        "Austin, TX",
-        "Westlake, TX",
-        "Ann Arbor, MI",
-        "Southlake, TX",
-        "Omaha, NE",
-        "Phoenix, AZ"
-      ],
-      "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -2977,6 +2946,39 @@
       ]
     },
     {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -4050,6 +4052,115 @@
       ]
     },
     {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170675?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
       "company": "Notion",
       "title": "Software Engineer Intern - Summer 2027",
@@ -4409,23 +4520,6 @@
       "season": "",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:e0791588-2fd5-4867-8c40-2b4af827a16d",
-      "company": "RRS Group",
-      "title": "Software Engineer Intern - Placement Year",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
