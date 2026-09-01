@@ -1,11 +1,695 @@
 {
   "stats": {
-    "postings_tracked": 514,
+    "postings_tracked": 557,
     "sources": 1,
-    "companies": 176,
+    "companies": 187,
     "last_updated": "2026-09-01"
   },
   "postings": [
+    {
+      "id": "simplify:b6cba04b-4f5c-4090-9c6a-a30355318e86",
+      "company": "AMD",
+      "title": "Hardware Design Engineer Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/91360?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a130716c-fb2f-4134-9ac5-6e93002f40e0",
+      "company": "AMD",
+      "title": "Hardware Design Engineer Intern/Co-op - Long Term",
+      "location": "Markham, ON, Canada",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/90367?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:59aad3fe-5cae-48ca-9e34-608c664e0090",
+      "company": "AMD",
+      "title": "Graphics Software Engineer Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/90305?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a9bc71c2-1372-4b6c-a7e8-1562c9bbf631",
+      "company": "AMD",
+      "title": "Product Management Intern/Co-op - Multiple Teams",
+      "location": "Calgary, AB, Canada",
+      "locations": [
+        "Calgary, AB, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/90411?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0494b1ec-0437-4a60-92c9-cd379693aae3",
+      "company": "AMD",
+      "title": "Diagnostics Design Engineer Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/90435?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
+      "company": "AMD",
+      "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "locations": [
+        "Markham, ON, Canada"
+      ],
+      "url": "https://careers.amd.com/jobs/91363?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d906473e-9355-4328-8074-8a5479ffac70",
+      "company": "Textron",
+      "title": "Software Engineer Intern",
+      "location": "Waterboro, ME",
+      "locations": [
+        "Waterboro, ME"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:974d081a-6d17-4aab-a42a-e9b35cafde7d",
+      "company": "Textron",
+      "title": "Software Engineer Intern - Electronic Systems",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
+      "company": "Textron",
+      "title": "Software Engineer Intern - Crewed Land",
+      "location": "Slidell, LA",
+      "locations": [
+        "Slidell, LA"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9562e72a-a657-4f9c-9e2e-f8d62e41c42c",
+      "company": "Textron",
+      "title": "Software Engineer Co-op - Uncrewed Land & Air",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6af66330-0329-40f5-abaf-5feaf563f36d",
+      "company": "Textron",
+      "title": "Software Engineer Intern - Sea Systems",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:32f95d4f-27ce-44cc-8f86-0470d50218b4",
+      "company": "Textron",
+      "title": "Firmware Engineer Intern - Weapons",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8b07563a-a076-4b83-b485-3f36db4ae47a",
+      "company": "Maven Securities",
+      "title": "Software Developer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7e914cf5-64bf-41bb-a680-71b7d7df80f6",
+      "company": "Stripe",
+      "title": "Software Engineer Intern - Summer or Winter",
+      "location": "Seattle, WA +2 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "NYC"
+      ],
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026 / Winter 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:23a5a6a6-47fc-41cf-8936-946b702be2cd",
+      "company": "Edison International",
+      "title": "Software/Data Engineering Intern",
+      "location": "Chino, CA",
+      "locations": [
+        "Chino, CA"
+      ],
+      "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7a58365b-0d72-4b0c-8094-fa29ec18b560",
+      "company": "Edison International",
+      "title": "Data Analytics Intern - Data Science - Applied Math",
+      "location": "Pomona, CA / Rosemead, CA",
+      "locations": [
+        "Pomona, CA",
+        "Rosemead, CA"
+      ],
+      "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "MBA",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c40c41e2-e8b4-43fe-96af-aa16d504b5e4",
+      "company": "K2 Space",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:45c52bf1-8ead-4aef-b9c6-9780fb66048e",
+      "company": "Eaton",
+      "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
+      "location": "Moon Twp, PA",
+      "locations": [
+        "Moon Twp, PA"
+      ],
+      "url": "https://eaton.eightfold.ai/careers/job/687238596754",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:aad0cae7-225e-41d2-b416-7d42885da521",
+      "company": "Sierra",
+      "title": "Software Engineer Intern",
+      "location": "SF / NYC",
+      "locations": [
+        "SF",
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:98540e92-9f57-4fcc-9005-6dc6593e8205",
+      "company": "Trane Technologies",
+      "title": "AI Intern - AI Product Management - AI Controls Integration",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7810580c-3236-4806-8d13-fc4032241900",
+      "company": "American Express",
+      "title": "Data Analytics Intern - Enterprise Technology Services",
+      "location": "Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e4b5d322-ba7c-42ec-81ad-95d21c03ae0a",
+      "company": "American Express",
+      "title": "Data Engineer Intern - Enterprise Technology Services",
+      "location": "Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f24bc603-523e-46fb-b6f7-b7ed10094fcd",
+      "company": "American Express",
+      "title": "Data Management Intern - Global Merchant & Network Services",
+      "location": "Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ac037a9c-f763-4262-beaf-c091d10bf894",
+      "company": "American Express",
+      "title": "Data Science Intern - Finance",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b18a5562-25bb-4955-af90-8975c5252b03",
+      "company": "American Express",
+      "title": "Data Analytics Intern - US Consumer Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:8b2dfc2d-bc59-4d1d-bafb-40bdfb0f5e5e",
+      "company": "American Express",
+      "title": "Digital Product Management Intern - Enterprise Technology Services",
+      "location": "Sunrise, FL",
+      "locations": [
+        "Sunrise, FL"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0eacf8cc-6d40-4e01-8d2b-6987687bf843",
+      "company": "American Express",
+      "title": "Product Development Intern - 2027 Product Development - US Consumer Services",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:20c428e3-9aa2-42fa-85df-85b4044d6a18",
+      "company": "JP Morgan Chase",
+      "title": "Summer Analyst Intern - Corporate Functions - Corporate Analyst Development Program",
+      "location": "Bournemouth, UK",
+      "locations": [
+        "Bournemouth, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775228",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f0d5c5b8-9d9e-48ed-82e0-b156b9a7f30b",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d9c3042a-3bd5-4d48-bf69-87f46d9b0d34",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Intern - Risk and Treasury - Off-Cycle",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9be8af81-1b7f-4387-a589-ca5bc165280f",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Intern - Asset Management - Off-Cycle",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fa986d69-a649-42d8-9c29-f5b516626a4a",
+      "company": "JP Morgan Chase",
+      "title": "Product Manager Intern - Chase Digital Development Programme",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7ad48361-649c-4efe-abeb-2c80430792f5",
+      "company": "JP Morgan Chase",
+      "title": "Software Engineer Intern - Immersion Program",
+      "location": "Glasgow, UK",
+      "locations": [
+        "Glasgow, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7b78b68a-dea7-4e76-8753-553fdfda1113",
+      "company": "JP Morgan Chase",
+      "title": "Software Engineer Intern",
+      "location": "London, UK / Glasgow, UK",
+      "locations": [
+        "London, UK",
+        "Glasgow, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:85495d7e-4673-4650-8d26-bbe8301a8736",
+      "company": "JP Morgan Chase",
+      "title": "Software Engineer Intern - Summer Internship",
+      "location": "London, UK / Glasgow, UK",
+      "locations": [
+        "London, UK",
+        "Glasgow, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1698a59d-5825-45cf-9f74-49aad6a83aaf",
+      "company": "JP Morgan Chase",
+      "title": "Data & AI Intern - Data & AI Program",
+      "location": "London, UK / Glasgow, UK",
+      "locations": [
+        "London, UK",
+        "Glasgow, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1039c116-f4d4-4ea6-b62b-f893dd21373b",
+      "company": "Emerson Electric",
+      "title": "Software Engineer Co-op - January 2027 - May 2027",
+      "location": "Shakopee, MN",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea13638b-ec59-42b9-8392-35986da2c5ac",
+      "company": "ISN Software",
+      "title": "Software Developer Intern - Fall 2026",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2cea51eb-48da-45c8-a9e8-7067345c2cae",
+      "company": "Travelers",
+      "title": "Product Management Intern - Pmdp",
+      "location": "Hartford, CT",
+      "locations": [
+        "Hartford, CT"
+      ],
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:56a336eb-1d80-47cd-8cc9-16332d5fdb2d",
       "company": "ByteDance",
@@ -495,23 +1179,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:41cbf8c9-8671-4c27-9e23-4d2a6f578a5a",
-      "company": "BP",
-      "title": "Commercial Intern - Supply, Trading, & Shipping",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -1009,6 +1676,40 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:67c1b95e-7d8e-429c-8252-51543316efbd",
+      "company": "BlueCross BlueShield of Nebraska",
+      "title": "Data Intern - Data Science - Data Analytics",
+      "location": "Omaha, NE",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:081c3f7a-8349-45b9-a41b-8cf97ca466ba",
+      "company": "BlueCross BlueShield of Nebraska",
+      "title": "Digital Experience Information Systems Intern",
+      "location": "Omaha, NE",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101404",
+      "date_posted": "2026-08-31",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -4795,6 +5496,78 @@
       ]
     },
     {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170675?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
       "company": "Notion",
       "title": "Software Engineer Intern - Summer 2027",
@@ -5339,24 +6112,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:34a18efe-cd13-4293-a683-2e44304e1154",
-      "company": "Advanced Energy",
-      "title": "Firmware Engineer Intern - Fall 2026",
-      "location": "Fort Collins, CO",
-      "locations": [
-        "Fort Collins, CO"
-      ],
-      "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Fall-2026-CO-80525/1418389400/?ats=successfactors",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
