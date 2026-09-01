@@ -1,11 +1,193 @@
 {
   "stats": {
-    "postings_tracked": 563,
+    "postings_tracked": 584,
     "sources": 1,
-    "companies": 188,
+    "companies": 192,
     "last_updated": "2026-09-01"
   },
   "postings": [
+    {
+      "id": "simplify:98ba4abf-1726-45e5-a03c-c711dfb81c84",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Relational Database",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e9f9050a-780c-47dd-b98a-17dda2af0453",
+      "company": "AMD",
+      "title": "Compiler Engineer Intern/Co-op",
+      "location": "Austin, TX +4 more",
+      "locations": [
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91864?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c00cea89-6203-42a3-af35-f98efd65e78a",
+      "company": "AMD",
+      "title": "Compiler Engineer Intern/Co-op - Masters",
+      "location": "Austin, TX +4 more",
+      "locations": [
+        "Austin, TX",
+        "Longmont, CO",
+        "Fishkill, NY",
+        "Fort Collins, CO",
+        "Boxborough, MA"
+      ],
+      "url": "https://careers.amd.com/jobs/91867?icims=1",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ba998649-60fe-4182-b874-a218bea7dbce",
+      "company": "Deutsche Bank",
+      "title": "Quantitative Analyst Intern - GSA",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ae872991-273f-487c-a956-d7c6b98f691a",
+      "company": "Deutsche Bank",
+      "title": "Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d12e0bed-e602-4c89-a2a8-e19d90755070",
+      "company": "Deutsche Bank",
+      "title": "Quantitative FIC Intern - Quantitative Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:66d274be-a1a8-4da4-92a0-2cbe5b7198e5",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - AI and ML",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b281f70c-b819-47ce-8df8-cdbc3d567e98",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - AI and ML Projects",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:26fc2a52-b260-4601-a804-43fb299bebf2",
+      "company": "American Express",
+      "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c7bb326d-a5b8-4309-aeeb-22fdd6428e47",
+      "company": "American Express",
+      "title": "Software Engineering Apprentice - Technology",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022281",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
     {
       "id": "simplify:b6cba04b-4f5c-4090-9c6a-a30355318e86",
       "company": "AMD",
@@ -773,6 +955,92 @@
       "category": "Quant",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:0642d879-c974-49a9-908b-7b67451593fb",
+      "company": "Citi",
+      "title": "Markets Analyst Intern - Sales and Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets---Sales-and-Trading--Summer-Analyst--London---United-Kingdom--2027_26987141",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
+      "company": "Citi",
+      "title": "Quantitative Analysis - Off Cycle Placement",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
+      "company": "Booz Allen",
+      "title": "Systems Engineer Intern - Summer Games",
+      "location": "Honolulu, HI",
+      "locations": [
+        "Honolulu, HI"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
+      "company": "Booz Allen",
+      "title": "Systems Engineer Intern - University",
+      "location": "Colorado Springs, CO",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5d230d84-fa4c-431c-9970-e72967e854e5",
+      "company": "First National Bank",
+      "title": "Data Science Intern",
+      "location": "Pittsburgh, PA",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -2952,23 +3220,6 @@
       ]
     },
     {
-      "id": "simplify:2ad8c3d0-43b7-4038-9ea2-b88e6dda0b9a",
-      "company": "John Deere",
-      "title": "Robotics Engineer Intern",
-      "location": "Ames, IA",
-      "locations": [
-        "Ames, IA"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137483008064",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b36d77b3-8f2d-43d7-bf82-ad49189efa02",
       "company": "John Deere",
       "title": "Robotics Engineer Part-Time Student - Product Engineering",
@@ -4544,6 +4795,24 @@
       ]
     },
     {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -5617,20 +5886,113 @@
       ]
     },
     {
-      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/170675?type=students",
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -8287,6 +8649,24 @@
       "season": "",
       "category": "Hardware",
       "degrees": []
+    },
+    {
+      "id": "simplify:9fe00265-7716-44f9-bc43-1017aa863220",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - CoreAI",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:6d7e83bd-6e67-4d8c-919e-862288b8b561",
