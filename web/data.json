@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 642,
+    "postings_tracked": 639,
     "sources": 1,
     "companies": 220,
     "last_updated": "2026-09-02"
@@ -11026,24 +11026,6 @@
       ]
     },
     {
-      "id": "simplify:d0dbf9a8-a0ca-45d2-b171-45c248cd72b6",
-      "company": "Castleton Commodities International",
-      "title": "Front Office Software Engineer Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:6c60c226-bf8b-45f1-b610-d9835abb7ce2",
       "company": "Castleton Commodities International",
       "title": "Commodities Trading Analyst Internship",
@@ -11060,26 +11042,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2c656f83-6247-4e1c-a019-3126608b9e23",
-      "company": "Castleton Commodities International",
-      "title": "Data Science Machine Learning Intern",
-      "location": "Houston, TX / Stamford, CT",
-      "locations": [
-        "Houston, TX",
-        "Stamford, CT"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -11117,22 +11079,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:41018f36-15af-46ed-8719-1fb8d0abe78e",
-      "company": "Castleton Commodities International",
-      "title": "Full-Stack Software Engineer Intern",
-      "location": "Houston, TX / Stamford, CT",
-      "locations": [
-        "Houston, TX",
-        "Stamford, CT"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:9ec52711-cf87-406e-83ad-c5bb73c1e65d",
