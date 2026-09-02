@@ -1,11 +1,99 @@
 {
   "stats": {
-    "postings_tracked": 602,
+    "postings_tracked": 624,
     "sources": 1,
-    "companies": 203,
-    "last_updated": "2026-09-01"
+    "companies": 209,
+    "last_updated": "2026-09-02"
   },
   "postings": [
+    {
+      "id": "simplify:1dbe18fc-509e-4b10-b1b9-61c1a3ef5c04",
+      "company": "Corning",
+      "title": "Artificial Intelligence and Machine Learning Intern",
+      "location": "Wilmington, NC",
+      "locations": [
+        "Wilmington, NC"
+      ],
+      "url": "https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:41911f17-07a7-48d7-851e-c45ea9dc2e89",
+      "company": "TWG Global",
+      "title": "Data Science Intern - MAQR",
+      "location": "Santa Monica, CA",
+      "locations": [
+        "Santa Monica, CA"
+      ],
+      "url": "https://apply.workable.com/twgai/j/AC536E5EE2/apply",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:249dfb65-9e20-4363-a0e2-63f60ee6ee41",
+      "company": "TWG Global",
+      "title": "Data Science Intern - SOLT",
+      "location": "Santa Monica, CA",
+      "locations": [
+        "Santa Monica, CA"
+      ],
+      "url": "https://apply.workable.com/twgai/j/263B34D737/apply",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:af103bac-eb95-46b7-94e6-06439a9bd98c",
+      "company": "Ragle Inc",
+      "title": "Data Engineering Intern",
+      "location": "North Richland Hills, TX",
+      "locations": [
+        "North Richland Hills, TX"
+      ],
+      "url": "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:128a31c3-d894-45ac-91aa-5e9c19b785ef",
+      "company": "General Dynamics UK",
+      "title": "Software Engineering Co-op - 8 Months",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000146822449",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:3553803a-56d9-4ad7-8751-531339bd2644",
       "company": "HP IQ",
@@ -1503,6 +1591,127 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f16e2aa3-1ed7-4c90-b233-9d4aa6ee0b23",
+      "company": "McGill University",
+      "title": "Web Development Intern",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Stewart-Biology-Bldg/Web-Development-Intern--IT-Assistant-C-_JR0000079762",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:14f23b27-94a9-4a14-8b54-c8b22a88277e",
+      "company": "Medline",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Northbrook, IL",
+      "locations": [
+        "Northbrook, IL"
+      ],
+      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Engineering-Intern---Summer-2027_R2617623",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:06382def-71d9-4ad3-92bd-48498ad6d717",
+      "company": "Medline",
+      "title": "Business Systems Intern - Summer 2027",
+      "location": "Northbrook, IL",
+      "locations": [
+        "Northbrook, IL"
+      ],
+      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:48b53b80-88a1-48a0-bb79-81d7488f9e3d",
+      "company": "US Foods",
+      "title": "Software Engineer Intern - Digital Commerce",
+      "location": "Rosemont, IL",
+      "locations": [
+        "Rosemont, IL"
+      ],
+      "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5c7c946a-b323-4e0e-a64c-88c22f40884b",
+      "company": "US Foods",
+      "title": "Software Engineer Intern - Legacy Systems",
+      "location": "Rosemont, IL",
+      "locations": [
+        "Rosemont, IL"
+      ],
+      "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8c6a07c2-8de6-4fb4-b054-b8c3434d5e16",
+      "company": "US Foods",
+      "title": "Data Engineer Intern",
+      "location": "Rosemont, IL",
+      "locations": [
+        "Rosemont, IL"
+      ],
+      "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R282116",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:95096cf8-0105-4f89-ba06-d02cd8927d59",
+      "company": "US Foods",
+      "title": "Data Analyst Intern",
+      "location": "Rosemont, IL",
+      "locations": [
+        "Rosemont, IL"
+      ],
+      "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Analyst--Hybrid--Onsite---Remote-_R282121",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -5260,6 +5469,39 @@
       ]
     },
     {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -6330,6 +6572,133 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1d850622-b67b-4965-a25c-f6872d8a1c79",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170675?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c9f2e98-f998-4541-bd39-aec405d39f11",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170935?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -7709,6 +8078,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2115234d-be28-4c20-b435-cbb15464dda9",
+      "company": "Royal Bank of Canada",
+      "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's",
         "Master's"
