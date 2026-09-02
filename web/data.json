@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 636,
+    "postings_tracked": 642,
     "sources": 1,
-    "companies": 218,
+    "companies": 220,
     "last_updated": "2026-09-02"
   },
   "postings": [
+    {
+      "id": "simplify:af65cbd5-11f8-4a7d-a45a-939597dd3471",
+      "company": "Universal Health Services",
+      "title": "Software Engineer Intern - Data Analytics",
+      "location": "King of Prussia, PA",
+      "locations": [
+        "King of Prussia, PA"
+      ],
+      "url": "https://jobs.uhsinc.com/jobs/367247?icims=1",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f4a9839d-7e82-43ad-a5fe-54f35eba58a1",
+      "company": "Williams Racing",
+      "title": "Data Engineer Intern",
+      "location": "Grove, Wantage, UK",
+      "locations": [
+        "Grove, Wantage, UK"
+      ],
+      "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146954769",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:3f7978bc-c83d-4088-abff-540cb9036839",
       "company": "TikTok",
@@ -4912,6 +4946,23 @@
       ]
     },
     {
+      "id": "simplify:ea42316f-e909-4d3a-90fc-bb203789a6b6",
+      "company": "RTX",
+      "title": "Test Systems Engineer Intern",
+      "location": "Tucson, AZ",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Test-Systems-Engineer-Intern_01868700",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
       "company": "Springs Window Fashions",
       "title": "Data Analyst Intern - Consumer Business Unit",
@@ -5844,6 +5895,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:de048c9f-8cf0-45fe-b307-40b9a04a9416",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - AWM Product Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/182389?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -6911,6 +6980,26 @@
         "London, UK"
       ],
       "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -8389,6 +8478,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fad1406c-cd92-4587-b376-d9839b629e3c",
+      "company": "TikTok",
+      "title": "LLM Post-training Engineer Intern - Research & Product",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670285031018432773",
+      "date_posted": "2026-08-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
