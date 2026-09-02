@@ -1,11 +1,114 @@
 {
   "stats": {
-    "postings_tracked": 630,
+    "postings_tracked": 636,
     "sources": 1,
-    "companies": 216,
+    "companies": 218,
     "last_updated": "2026-09-02"
   },
   "postings": [
+    {
+      "id": "simplify:3f7978bc-c83d-4088-abff-540cb9036839",
+      "company": "TikTok",
+      "title": "Ecosystem Analyst Intern - TikTok LIVE",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://lifeattiktok.com/search/7678985103851407669",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a35fbd54-2c09-4c0e-8677-4b9065708400",
+      "company": "ByteDance",
+      "title": "Research Intern - AI-Native Databases",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2a48e05f-f557-488e-876c-eafef0801099",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Mission Systems Engineering Intern",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/59883?icims=1",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f698851c-ba0f-4e6e-86b2-a408a1ffa46a",
+      "company": "Oppenheimer & Co. Inc.",
+      "title": "Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://opco.hrmdirect.com/employment/job-opening.php?req=3799625",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1660f3b8-719e-4c50-ab5b-b793e4f1da1f",
+      "company": "Boston Scientific",
+      "title": "Research Algorithm & Data Science Intern - Interns/Graduates",
+      "location": "Arden Hills, MN",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483110",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:acda40fc-1690-467d-92ef-f27c904fb1bb",
+      "company": "Atlassian",
+      "title": "Product Management Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:e70a1d3f-de57-4ecd-8e8b-810c43a7f615",
       "company": "Boston Scientific",
@@ -1973,6 +2076,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:23d6cc2e-855b-4458-a689-002cda7f4705",
+      "company": "Michelin",
+      "title": "Data Engineering Intern",
+      "location": "Ardmore, OK",
+      "locations": [
+        "Ardmore, OK"
+      ],
+      "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -5468,6 +5588,23 @@
       ]
     },
     {
+      "id": "simplify:78b93d81-ddbc-4b9f-847f-f352c09c5308",
+      "company": "TikTok",
+      "title": "Data Analyst and Business Projects Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://lifeattiktok.com/search/7676124919956867333",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
       "company": "Zoox",
       "title": "Data Scientist",
@@ -5571,23 +5708,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:179e11a1-a541-4256-a6c3-e36544663802",
-      "company": "StudyFetch",
-      "title": "AI Research Assistant - Machine Learning & AI",
-      "location": "Beverly Hills, CA",
-      "locations": [
-        "Beverly Hills, CA"
-      ],
-      "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -6219,23 +6339,6 @@
       ]
     },
     {
-      "id": "simplify:2a67cef3-5836-4452-832c-ec5b39cff69b",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Intelligent Software & Systems",
-      "location": "Cambridge, MA",
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:7d9ddaa5-9b5b-4251-b733-33ac0902e143",
       "company": "Royal Bank of Canada",
       "title": "Quantitative Technology Services Co-op - Multiple Roles",
@@ -6797,6 +6900,26 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
@@ -8266,24 +8389,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:fad1406c-cd92-4587-b376-d9839b629e3c",
-      "company": "TikTok",
-      "title": "LLM Post-training Engineer Intern - Research & Product",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://lifeattiktok.com/search/7670285031018432773",
-      "date_posted": "2026-08-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
