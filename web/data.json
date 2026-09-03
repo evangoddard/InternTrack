@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 639,
+    "postings_tracked": 634,
     "sources": 1,
-    "companies": 220,
-    "last_updated": "2026-09-02"
+    "companies": 219,
+    "last_updated": "2026-09-03"
   },
   "postings": [
     {
@@ -173,23 +173,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e0ffdbe5-df33-4606-8aff-34eb378a599e",
-      "company": "Panasonic Holdings",
-      "title": "Data Engineering Intern",
-      "location": "Bridgeton, MO",
-      "locations": [
-        "Bridgeton, MO"
-      ],
-      "url": "https://careers.na.panasonic.com/jobs/50772?icims=1",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -845,23 +828,6 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027 / Fall 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d906473e-9355-4328-8074-8a5479ffac70",
-      "company": "Textron",
-      "title": "Software Engineer Intern",
-      "location": "Waterboro, ME",
-      "locations": [
-        "Waterboro, ME"
-      ],
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -1669,23 +1635,6 @@
         "Honolulu, HI"
       ],
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6bc3a8d6-0d8e-4176-8474-a6f1eff9fd6b",
-      "company": "DraftKings",
-      "title": "Data Science Intern - Summer 2027",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
       "date_posted": "2026-09-01",
       "deadline": "",
       "season": "Summer 2027",
@@ -7217,23 +7166,6 @@
       ]
     },
     {
-      "id": "simplify:39be2363-aaad-4bf0-9f3a-19906a6a8182",
-      "company": "RTX",
-      "title": "Electrical Computer-Aided Design Engineer Intern",
-      "location": "Tucson, AZ",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:973baf93-b4d1-46c0-a60c-d4a170c31505",
       "company": "TikTok",
       "title": "Seller Growth Strategy & Analytics Intern - TikTok Shop",
@@ -11039,24 +10971,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ca850495-3c93-4d92-9e87-2385877ea5c5",
-      "company": "Castleton Commodities International",
-      "title": "Data Engineering Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
