@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 676,
+    "postings_tracked": 666,
     "sources": 1,
-    "companies": 237,
+    "companies": 233,
     "last_updated": "2026-09-03"
   },
   "postings": [
@@ -9606,23 +9606,6 @@
       ]
     },
     {
-      "id": "simplify:383ff9e3-5934-474f-973a-d963e059800f",
-      "company": "Daktronics",
-      "title": "Electrical Design Student",
-      "location": "Brookings, SD",
-      "locations": [
-        "Brookings, SD"
-      ],
-      "url": "https://careers-daktronics.icims.com/jobs/7487/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
       "company": "American Express",
       "title": "Product Innovation Intern - Credit & Fraud Risk",
@@ -9870,6 +9853,23 @@
       ]
     },
     {
+      "id": "simplify:14e4b536-7764-4b98-b518-83d0feea8ec0",
+      "company": "ByteDance",
+      "title": "Research Intern - AI Compute Efficiency & Scheduling",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7668804309487749429/detail",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:b59992d0-e14b-4009-9121-ed1172ad9b24",
       "company": "ByteDance",
       "title": "Software Engineer Intern - AI Platform",
@@ -9959,6 +9959,24 @@
       ]
     },
     {
+      "id": "simplify:20754e5e-e165-40e6-b859-c1dca81f7bdf",
+      "company": "TikTok",
+      "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7668881813744191749",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:6fa46b99-9c48-44b2-8d38-e17ef2651837",
       "company": "TikTok",
       "title": "Software Engineer Intern - Ads Interface",
@@ -10010,21 +10028,6 @@
       "degrees": [
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:072800b9-3b80-4a6e-8cb3-e41ea30d9a45",
-      "company": "e-Careers",
-      "title": "Software Developer Trainee",
-      "location": "Blackpool, UK",
-      "locations": [
-        "Blackpool, UK"
-      ],
-      "url": "https://apply.workable.com/ecareers/j/C82B9AD635/apply",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:7aa9448f-c028-4566-8078-45d402ca4ffe",
@@ -10117,21 +10120,6 @@
       ]
     },
     {
-      "id": "simplify:ebd0e25e-fda3-446a-8872-f7292f38d1f7",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Trading and Quantitative Strategy Development",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://careers-sig.icims.com/jobs/11148/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:13222163-c599-401a-9be8-b9bc44dd84ce",
       "company": "Jane Street",
       "title": "Quantitative Researcher",
@@ -10144,21 +10132,6 @@
       "deadline": "",
       "season": "",
       "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:6b833521-4df7-4224-994b-3d4e142cd98a",
-      "company": "Jane Street",
-      "title": "Linux Engineer Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": []
     },
     {
@@ -10298,24 +10271,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:8be053bf-bff7-4984-aef1-e08ad2cff3e3",
-      "company": "Jane Street",
-      "title": "Sales and Trading Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:98829ac8-5a3d-440d-9370-077b910866f2",
       "company": "Jane Street",
       "title": "Hardware Engineer Intern - FPGA/ASIC",
@@ -10416,32 +10371,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:33f7cf59-11b2-4422-b6b4-0d340392d3b9",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern - Software Engineer Program",
-      "location": "Palo Alto, CA +8 more",
-      "locations": [
-        "Palo Alto, CA",
-        "Houston, TX",
-        "Tampa, FL",
-        "Plano, TX",
-        "Chicago, IL",
-        "Jersey City, NJ",
-        "Columbus, OH",
-        "NYC",
-        "Wilmington, DE"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -10877,21 +10806,6 @@
       ]
     },
     {
-      "id": "simplify:c79d5849-c2ac-4ad3-b11e-b6d4bc047abc",
-      "company": "Education Unlimited",
-      "title": "VEX Robotics Instructor",
-      "location": "Palo Alto, CA",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "url": "https://educationunlimited.applytojob.com/apply/dRpm8iWl4c/VEX-Robotics-Instructor-Summer-Camp",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:d7b543a2-bef9-431a-a9cb-81bf06aa067b",
       "company": "TikTok",
       "title": "Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics",
@@ -10926,23 +10840,6 @@
       ]
     },
     {
-      "id": "simplify:bf242ed9-9919-4627-bcd1-35178762d9c5",
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship - Strategy & Analytics - Credit & Fraud Risk",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d1787088-b958-47f6-91df-8bc1262f98bf",
       "company": "American Express",
       "title": "Digital Product Analyst Intern",
@@ -10972,23 +10869,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c06e2ba7-807a-41d2-907c-16ab14e6257d",
-      "company": "American Express",
-      "title": "Undergraduate Intern - Strategy & Analytics",
-      "location": "Phoenix, AZ",
-      "locations": [
-        "Phoenix, AZ"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -11310,6 +11190,23 @@
       ]
     },
     {
+      "id": "simplify:d378c42b-5e79-40b8-91ea-020a28e4bc43",
+      "company": "L3Harris Technologies",
+      "title": "Associate Integration and Test Engineering",
+      "location": "Northampton, MA",
+      "locations": [
+        "Northampton, MA"
+      ],
+      "url": "https://jobs.l3harris.com/job/Northampton-Associate,-Integration-and-Test-Engineering-MA-01060/1412685600/?ats=successfactors",
+      "date_posted": "2026-07-27",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:4bd46e38-6629-44aa-b557-05c1094d119c",
       "company": "BlackEdge Capital",
       "title": "Quantitative Developer Intern",
@@ -11394,6 +11291,24 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:8956fcef-9bc0-4e93-bbc2-2f9165ddc136",
+      "company": "TikTok",
+      "title": "Product Solutions and Operations Project Intern - Ads Interface and Platform Product",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7665080709191108917",
+      "date_posted": "2026-07-24",
+      "deadline": "",
+      "season": "Summer 2026 / Fall 2026",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:31b95070-c5a6-4523-b7d4-54fbaa062677",
@@ -11593,21 +11508,6 @@
       ]
     },
     {
-      "id": "simplify:92ec25b9-67cb-4a92-87d3-379a0012eb5d",
-      "company": "AQR Capital Management",
-      "title": "Trading Analyst Intern",
-      "location": "Greenwich, CT",
-      "locations": [
-        "Greenwich, CT"
-      ],
-      "url": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:3a7da9d0-4f05-439f-bde1-b9fca696577d",
       "company": "BlackEdge Capital",
       "title": "Quantitative Trader Intern",
@@ -11654,58 +11554,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ecde6f88-4359-4032-b78b-4daa63415158",
-      "company": "Deft AI",
-      "title": "Electrical Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Spring 2026 / Summer 2026",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:6c60c226-bf8b-45f1-b610-d9835abb7ce2",
-      "company": "Castleton Commodities International",
-      "title": "Commodities Trading Analyst Internship",
-      "location": "Houston, TX / Stamford, CT",
-      "locations": [
-        "Houston, TX",
-        "Stamford, CT"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:cab3486c-17b7-4cac-ad2b-49f4007f98e4",
-      "company": "Castleton Commodities International",
-      "title": "Commodities Trading Analyst Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -11866,27 +11714,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4f672998-821f-4318-8e79-68a8b7d4734b",
-      "company": "AMD",
-      "title": "Analog/Mixed-Signal Serdes Design Engineer",
-      "location": "Markham, ON, Canada +2 more",
-      "locations": [
-        "Markham, ON, Canada",
-        "Ottawa, ON, Canada",
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://careers.amd.com/jobs/86868?icims=1",
-      "date_posted": "2026-07-16",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's",
