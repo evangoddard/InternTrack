@@ -2,10 +2,61 @@
   "stats": {
     "postings_tracked": 676,
     "sources": 1,
-    "companies": 238,
+    "companies": 237,
     "last_updated": "2026-09-03"
   },
   "postings": [
+    {
+      "id": "simplify:ecc69c92-2354-4bcc-8af5-c5e605953496",
+      "company": "Transcard Payments",
+      "title": "Artificial Intelligence Intern",
+      "location": "Chattanooga, TN",
+      "locations": [
+        "Chattanooga, TN"
+      ],
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f39ef049-309c-48e5-9169-f9eb0d44b087",
+      "company": "Transcard Payments",
+      "title": "Software Engineer Intern",
+      "location": "Chattanooga, TN",
+      "locations": [
+        "Chattanooga, TN"
+      ],
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:773a0053-7c9f-4410-ad10-28e5c8aa0b6d",
+      "company": "Susquehanna International Group",
+      "title": "FPGA Engineer Intern",
+      "location": "Bala Cynwyd, PA",
+      "locations": [
+        "Bala Cynwyd, PA"
+      ],
+      "url": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:f16c4b8c-a66a-4096-b0d8-d0cb78d6664f",
       "company": "AMD",
@@ -734,6 +785,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a2f5245b-818e-4da4-b14b-935303a46f72",
+      "company": "GlobalFoundries",
+      "title": "Silicon Photonics Advanced Packaging Intern",
+      "location": "Malta, NY",
+      "locations": [
+        "Malta, NY"
+      ],
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -7765,23 +7834,6 @@
       ]
     },
     {
-      "id": "simplify:6a458733-cf4b-4877-8ccb-0a7736ea7a50",
-      "company": "Mill",
-      "title": "Electrical Engineer Intern",
-      "location": "San Bruno, CA",
-      "locations": [
-        "San Bruno, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/mill/jobs/4724014005",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:973baf93-b4d1-46c0-a60c-d4a170c31505",
       "company": "TikTok",
       "title": "Seller Growth Strategy & Analytics Intern - TikTok Shop",
@@ -8347,24 +8399,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:05b3995e-c81d-477e-a460-1dcd73950118",
-      "company": "TikTok",
-      "title": "Issue Discovery Operations Intern - Content Ecosystem",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://lifeattiktok.com/search/7667582040108222773",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9693,24 +9727,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8bc8874a-e4e7-4cc8-ba27-aa5854cba4d6",
-      "company": "TikTok",
-      "title": "AI Product Manager Intern - Content Ecosystem",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://lifeattiktok.com/search/7667578131150506293",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -11276,35 +11292,21 @@
       ]
     },
     {
-      "id": "simplify:b71d71f5-3279-48fe-9484-0e2755e9f21b",
-      "company": "Savannah River National Laboratory",
-      "title": "Software Developer Undergraduate Intern",
-      "location": "North Augusta, SC",
+      "id": "simplify:62159d15-bab7-4d5c-87ff-dbfd99f3c357",
+      "company": "TikTok",
+      "title": "Product Solutions and Operations Intern - Ads Interface and Platform Product",
+      "location": "Seattle, WA",
       "locations": [
-        "North Augusta, SC"
+        "Seattle, WA"
       ],
-      "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2164",
+      "url": "https://lifeattiktok.com/search/7665081919226284293",
       "date_posted": "2026-07-28",
       "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:6ffe9360-2d1b-4612-90b5-2b30153fe38c",
-      "company": "General Dynamics Mission Systems",
-      "title": "Embedded Software Engineer - HOH Fellows - Spouseworks Fellows",
-      "location": "Burke, VA",
-      "locations": [
-        "Burke, VA"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/73835/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-07-28",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
+      "season": "Summer 2026 / Fall 2026",
+      "category": "Product",
       "degrees": [
-        "Bachelor's"
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
