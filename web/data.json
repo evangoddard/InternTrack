@@ -1,11 +1,83 @@
 {
   "stats": {
-    "postings_tracked": 722,
+    "postings_tracked": 731,
     "sources": 1,
-    "companies": 260,
+    "companies": 262,
     "last_updated": "2026-09-05"
   },
   "postings": [
+    {
+      "id": "simplify:b408bfd8-c7fe-48da-911e-8eefef6e6abc",
+      "company": "Solidigm",
+      "title": "Software Engineering Intern - Firmware & AI Engineering",
+      "location": "Rancho Cordova, CA",
+      "locations": [
+        "Rancho Cordova, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613769",
+      "date_posted": "2026-09-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:84d1e0e3-7ce0-4a79-9add-40a8b29bf91e",
+      "company": "Solidigm",
+      "title": "Hardware & Product Development Engineering Intern",
+      "location": "Rancho Cordova, CA",
+      "locations": [
+        "Rancho Cordova, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839",
+      "date_posted": "2026-09-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4be7d345-9860-4ea4-ba2c-a6eb60bfd24d",
+      "company": "Solidigm",
+      "title": "Hardware, Electrical Validation and Product Engineering Intern - Validation",
+      "location": "Rancho Cordova, CA",
+      "locations": [
+        "Rancho Cordova, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613779",
+      "date_posted": "2026-09-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:21a22b12-ef2c-4963-9411-cd1ea3e6795d",
+      "company": "Solidigm",
+      "title": "Software Development & Firmware Engineering Intern - Multiple Teams",
+      "location": "Rancho Cordova, CA +2 more",
+      "locations": [
+        "Rancho Cordova, CA",
+        "Longmont, CO",
+        "Sacramento, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613629",
+      "date_posted": "2026-09-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:20aa7ab0-ffba-4efb-abf1-15d3064172be",
       "company": "Schonfeld",
@@ -530,6 +602,42 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:175ef4c9-fecc-47c4-b091-217815858898",
+      "company": "Applied Materials",
+      "title": "Data Analyst Intern - Global Technical Learning Center",
+      "location": "Albany, NY",
+      "locations": [
+        "Albany, NY"
+      ],
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
+      "date_posted": "2026-09-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0a75b69f-fba4-4309-b421-2815efd80e76",
+      "company": "CNA Insurance",
+      "title": "Data Engineering Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Engineering-_R-8129",
+      "date_posted": "2026-09-04",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -3603,6 +3711,23 @@
       ]
     },
     {
+      "id": "simplify:a04221b8-f136-4a5d-beb9-2807f67970c2",
+      "company": "Booz Allen",
+      "title": "Data Scientist Intern - 2027 Summer Games",
+      "location": "Honolulu, HI",
+      "locations": [
+        "Honolulu, HI"
+      ],
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
       "company": "Johnson & Johnson",
       "title": "Data Science Co-op - Summer 2027",
@@ -5022,6 +5147,28 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
+      "company": "Charles Schwab",
+      "title": "Software Engineering Intern - Technology",
+      "location": "Austin, TX +5 more",
+      "locations": [
+        "Austin, TX",
+        "Westlake, TX",
+        "Ann Arbor, MI",
+        "Southlake, TX",
+        "Omaha, NE",
+        "Phoenix, AZ"
+      ],
+      "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -8500,14 +8647,49 @@
       ]
     },
     {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -8517,14 +8699,29 @@
       ]
     },
     {
-      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "location": "Salt Lake City, UT",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
       "locations": [
-        "Salt Lake City, UT"
+        "Dallas, TX"
       ],
-      "url": "https://higher.gs.com/roles/171551?type=students",
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -8534,14 +8731,14 @@
       ]
     },
     {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
       "locations": [
-        "NYC"
+        "West Palm Beach, FL"
       ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
+      "url": "https://higher.gs.com/roles/181628?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -8549,46 +8746,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
