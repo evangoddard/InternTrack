@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 731,
+    "postings_tracked": 728,
     "sources": 1,
     "companies": 262,
     "last_updated": "2026-09-05"
@@ -2046,23 +2046,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1660f3b8-719e-4c50-ab5b-b793e4f1da1f",
-      "company": "Boston Scientific",
-      "title": "Research Algorithm & Data Science Intern - Interns/Graduates",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483110",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -8647,21 +8630,6 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
@@ -8728,24 +8696,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
