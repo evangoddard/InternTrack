@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 731,
+    "postings_tracked": 728,
     "sources": 1,
-    "companies": 262,
+    "companies": 261,
     "last_updated": "2026-09-06"
   },
   "postings": [
@@ -8700,54 +8700,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:59064871-3c04-41bf-8676-945ce2cc7648",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170860?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175426?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
