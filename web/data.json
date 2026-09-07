@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 744,
+    "postings_tracked": 748,
     "sources": 1,
-    "companies": 265,
+    "companies": 267,
     "last_updated": "2026-09-07"
   },
   "postings": [
@@ -335,6 +335,58 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8397cb87-3af2-4163-882e-c53dfaf8c106",
+      "company": "NXP Semiconductors",
+      "title": "Design for Test Engineer Intern - Summer 2027",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
+      "date_posted": "2026-09-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
+      "company": "Blackstone",
+      "title": "Software Engineer Summer Analyst - Technology and Innovations",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "date_posted": "2026-09-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:5e3974fd-50a7-4c68-acb3-5b5dd8ae7d0f",
+      "company": "Brevan Howard",
+      "title": "Trading Intern - Trading",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Trading--New-York_JR101583",
+      "date_posted": "2026-09-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
         "Master's",
         "PhD"
       ]
@@ -960,6 +1012,23 @@
       ]
     },
     {
+      "id": "simplify:54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "date_posted": "2026-09-04",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027 / Winter 2028 / Spring 2028 / Summer 2028",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:bfc80fee-bb28-459a-be87-125a0fef1495",
       "company": "Hy-Vee",
       "title": "Software Engineer Intern",
@@ -1196,6 +1265,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -5483,25 +5570,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
-      "company": "Charles Schwab",
-      "title": "Data Engineering Intern - Data Engineering",
-      "location": "Austin, TX +2 more",
-      "locations": [
-        "Austin, TX",
-        "Westlake, TX",
-        "Southlake, TX"
-      ],
-      "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
