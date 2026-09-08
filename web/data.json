@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 771,
+    "postings_tracked": 770,
     "sources": 1,
-    "companies": 271,
+    "companies": 270,
     "last_updated": "2026-09-08"
   },
   "postings": [
@@ -3092,24 +3092,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3d0e1910-9334-4bac-8624-3ab24c74aee6",
-      "company": "RTX",
-      "title": "Software Engineer Co-op - Summer/Fall 2027",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
         "Master's"
       ]
     },
