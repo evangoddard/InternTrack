@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 817,
+    "postings_tracked": 814,
     "sources": 1,
     "companies": 296,
     "last_updated": "2026-09-09"
@@ -3206,24 +3206,6 @@
       ]
     },
     {
-      "id": "simplify:fa0384db-18b6-4394-a8d1-afd89c2d9fc4",
-      "company": "Shure",
-      "title": "Application Software Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4955/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
       "company": "Shure",
       "title": "Quality Data Engineering Intern",
@@ -3561,25 +3543,6 @@
         "Indianapolis, IN"
       ],
       "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:04fa737d-39fc-4d4c-a941-98752f72b8ec",
-      "company": "Corteva",
-      "title": "Research and Development Intern - Computer and Data Science",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W",
       "date_posted": "2026-09-03",
       "deadline": "",
       "season": "Summer 2026",
@@ -12050,23 +12013,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:cf5af52b-83aa-43da-b187-a24ee19f0533",
-      "company": "John Deere",
-      "title": "Software Engineer Part-Time Student - Technology",
-      "location": "Moline, IL",
-      "locations": [
-        "Moline, IL"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137480957123",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
