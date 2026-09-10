@@ -1,11 +1,272 @@
 {
   "stats": {
-    "postings_tracked": 845,
+    "postings_tracked": 864,
     "sources": 1,
-    "companies": 309,
+    "companies": 313,
     "last_updated": "2026-09-10"
   },
   "postings": [
+    {
+      "id": "simplify:89f3ba9c-ae8d-4200-a7cf-200cae0f7747",
+      "company": "Rocket Lab USA",
+      "title": "Electrical Engineer Intern - Space Systems Division",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:372ea6c8-21fa-43da-a41c-db0182967508",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/59764?icims=1",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:8db6ea78-3c40-41b2-9388-56379c84d193",
+      "company": "Rockefeller Capital Management",
+      "title": "Summer Analyst Intern - Core Platforms",
+      "location": "Hamilton Township, NJ",
+      "locations": [
+        "Hamilton Township, NJ"
+      ],
+      "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:26b76573-439e-42cf-b4a5-f38f8408610c",
+      "company": "Epic Games",
+      "title": "Backend Services Programmer Intern - Epic Games Services",
+      "location": "Cary, NC",
+      "locations": [
+        "Cary, NC"
+      ],
+      "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:cfcf9dcd-330d-431b-8720-ccdbd7192fea",
+      "company": "Tradeweb",
+      "title": "Credit Software Engineer Intern",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301915",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:650452ad-6e0f-4df6-856e-155fc576cd80",
+      "company": "Tradeweb",
+      "title": "Software Developer Intern - STP",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301914",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:11d28ca0-2c46-4a29-b2c1-8a406ffbf8c9",
+      "company": "Tradeweb",
+      "title": "Java Software Engineer Intern",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:54620b79-626d-4450-bffd-b2749d556272",
+      "company": "Tradeweb",
+      "title": "Application Software Engineering Internship - IFI Application",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ff7a5dc0-ac69-4d08-b776-4be6c49870fe",
+      "company": "Tradeweb",
+      "title": "AI Software Engineer Intern",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:16018151-94b6-4172-ab4e-e415056f5970",
+      "company": "Tradeweb",
+      "title": "Data Platform Intern",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301904",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d96d4e29-9756-428f-b59c-e62f8b941911",
+      "company": "Tradeweb",
+      "title": "C++ Distributed Systems Developer Intern - C++ Core Services",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1",
+      "company": "Shield AI",
+      "title": "Software Engineer Intern",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a6063334-5bb1-4e13-b02e-d2d9b9c069fb",
+      "company": "Charles Schwab",
+      "title": "Product Management Intern - Thinkorswim",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:30f6fed1-ce14-40e5-a0b6-c22c7ded3c7d",
+      "company": "Dell Technologies",
+      "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a7fc9580-0361-4ff0-9756-c14ebc75a0de",
+      "company": "Dell Technologies",
+      "title": "Software Engineer Intern - Client Solutions Group Engineering",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:054b254c-cc0b-47dd-a2c2-98cf50c0269f",
       "company": "General Dynamics Mission Systems",
@@ -858,6 +1119,59 @@
       ]
     },
     {
+      "id": "simplify:ca77963d-0044-444d-aeb7-0ac69f78dfe0",
+      "company": "USAA",
+      "title": "Quantitative Risk Analyst Intern",
+      "location": "San Antonio, TX",
+      "locations": [
+        "San Antonio, TX"
+      ],
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753",
+      "date_posted": "2026-09-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d4635072-e119-4baf-b36e-a727b1f20c52",
+      "company": "The Aerospace Corporation",
+      "title": "Machine Learning Engineering Intern",
+      "location": "Colorado Springs, CO / El Segundo, CA",
+      "locations": [
+        "Colorado Springs, CO",
+        "El Segundo, CA"
+      ],
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
+      "date_posted": "2026-09-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:27148df8-804c-4b4c-a33c-a6fc38d4b9a4",
+      "company": "Allegion",
+      "title": "Systems Engineering Intern",
+      "location": "Indianapolis, IN",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Systems-Engineering_JR37479-1",
+      "date_posted": "2026-09-09",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:ef2721e7-d76b-48da-a16f-bbc0ef2757aa",
       "company": "Schonfeld",
       "title": "Quantitative Researcher Intern",
@@ -888,42 +1202,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:836b8117-7d0f-424b-bed5-6f657742f807",
-      "company": "CHAOS Industries",
-      "title": "Electrical Engineer Intern - Summer 2027",
-      "location": "El Segundo, CA",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5cbde73c-a6c2-4f24-b4f4-6e72facd6756",
-      "company": "CHAOS Industries",
-      "title": "Software Engineer Intern",
-      "location": "El Segundo, CA",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -3057,6 +3335,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8a34588c-c5ee-4a8a-a5a6-7002eb677f3f",
+      "company": "Boston Scientific",
+      "title": "R&D Software Engineer Intern",
+      "location": "Arden Hills, MN",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483108",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -7673,23 +7968,6 @@
       ]
     },
     {
-      "id": "simplify:357af7eb-b58a-4328-a47c-e28bb93ccd43",
-      "company": "ABB",
-      "title": "AI Robotics UI/UX Intern",
-      "location": "Milpitas, CA",
-      "locations": [
-        "Milpitas, CA"
-      ],
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:2189b93d-1a82-4620-9a31-8afd50579cae",
       "company": "Vertiv",
       "title": "Firmware Engineer Intern - Summer 2027",
@@ -10675,6 +10953,58 @@
       "degrees": []
     },
     {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
       "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
@@ -10683,6 +11013,23 @@
         "Salt Lake City, UT"
       ],
       "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -11031,24 +11378,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d15c2dd4-7288-4110-bf59-550c753167ab",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Developer Intern - Summer 2027",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "locations": [
-        "Dubai - United Arab Emirates",
-        "NYC"
-      ],
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
