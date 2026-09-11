@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 899,
+    "postings_tracked": 895,
     "sources": 1,
-    "companies": 332,
+    "companies": 331,
     "last_updated": "2026-09-11"
   },
   "postings": [
@@ -826,23 +826,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a7fc9580-0361-4ff0-9756-c14ebc75a0de",
-      "company": "Dell Technologies",
-      "title": "Software Engineer Intern - Client Solutions Group Engineering",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -2349,23 +2332,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3ac62200-3982-43c3-aff6-564b774138d0",
-      "company": "RRS Group",
-      "title": "Data Engineering Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000148188340",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -10674,23 +10640,6 @@
       ]
     },
     {
-      "id": "simplify:790a9545-abe4-4bd0-af4b-55b368673465",
-      "company": "NVIDIA",
-      "title": "Computer Architecture and Systems Intern - Research",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:156eeaae-e8ce-4c0c-a47f-6027e39a664c",
       "company": "NVIDIA",
       "title": "Large Language Models Intern - Research",
@@ -10699,23 +10648,6 @@
         "Santa Clara, CA"
       ],
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:79fa5677-0cf7-4393-b826-2aa0806bbcd9",
-      "company": "NVIDIA",
-      "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835",
       "date_posted": "2026-08-19",
       "deadline": "",
       "season": "Summer 2027",
