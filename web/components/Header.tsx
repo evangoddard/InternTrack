@@ -45,7 +45,7 @@ export default async function Header() {
             </Link>
             <Link
               href="/signup"
-              className="rounded-full bg-accent-fill px-4 py-1.5 font-semibold text-text transition-transform hover:scale-[1.02] active:scale-[0.98]"
+              className="rounded-full bg-accent-fill px-4 py-1.5 font-semibold text-accent-ink transition-transform hover:scale-[1.02] active:scale-[0.98]"
             >
               Sign up
             </Link>
@@ -53,8 +53,10 @@ export default async function Header() {
         )}
       </nav>
 
+      {/* The Header only renders inside the app, so the wordmark goes to the
+          dashboard rather than to `/`, which is the marketing page now. */}
       <Link
-        href="/"
+        href="/dashboard"
         className="font-display mx-auto mt-6 block w-fit text-5xl font-semibold text-text sm:text-6xl"
       >
         InternTrack

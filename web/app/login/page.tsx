@@ -1,5 +1,13 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { signIn } from "@/app/auth/actions";
+
+export const metadata: Metadata = {
+  title: "Sign in",
+  description: "Sign in to InternTrack to see internships ranked against your résumé and track your applications.",
+  alternates: { canonical: "/login" },
+};
+
 
 export default async function LoginPage({
   searchParams,
@@ -49,7 +57,7 @@ export default async function LoginPage({
         </label>
         <button
           type="submit"
-          className="mt-2 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-text shadow-[0_4px_20px_rgba(59,130,246,0.4)] transition-transform hover:scale-[1.02] active:scale-[0.98]"
+          className="mt-2 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-accent-ink shadow-[0_4px_20px_rgba(255,107,74,0.35)] transition-transform hover:scale-[1.02] active:scale-[0.98]"
         >
           Sign in
         </button>
