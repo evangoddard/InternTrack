@@ -1,21 +1,56 @@
 {
   "stats": {
-    "postings_tracked": 875,
+    "postings_tracked": 876,
     "sources": 1,
     "companies": 329,
     "last_updated": "2026-09-11"
   },
   "postings": [
     {
-      "id": "simplify:ccfd0e70-7190-455d-bcb2-c5d80518bad9",
-      "company": "Ridgeline",
-      "title": "Software Engineer Intern",
-      "location": "Reno, NV",
+      "id": "simplify:9cd21651-921e-42a7-a95f-01b1f4bea964",
+      "company": "Tanium",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Emeryville, CA / Durham, NC",
       "locations": [
-        "Reno, NV"
+        "Emeryville, CA",
+        "Durham, NC"
       ],
-      "url": "https://boards.greenhouse.io/ridgeline/jobs/7990742003",
-      "date_posted": "2026-09-10",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:588eebca-a359-4ea4-b1a2-ceec017877dc",
+      "company": "Bedrock Robotics",
+      "title": "Hardware Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fce07d58-8d51-46a0-9ac2-6f8f9be4da7f",
+      "company": "Emerson Electric",
+      "title": "Software Engineer Co-op",
+      "location": "Eden Prairie, MN",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
+      "date_posted": "2026-09-11",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
@@ -11292,21 +11327,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:1e00cd9c-b8ce-439d-a207-03c14e2ac528",
-      "company": "Royal Bank of Canada",
-      "title": "Financial Crimes Quality Assurance Intern - Grm",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-1",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:93d115bb-b27e-478d-9f6e-d757992a8ffe",
