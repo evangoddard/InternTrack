@@ -1,11 +1,88 @@
 {
   "stats": {
-    "postings_tracked": 888,
+    "postings_tracked": 899,
     "sources": 1,
-    "companies": 329,
+    "companies": 332,
     "last_updated": "2026-09-11"
   },
   "postings": [
+    {
+      "id": "simplify:e97a377e-d1c0-4278-86c7-389bacdaa737",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Decision Science Intern - Software Engineer",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60040?icims=1",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:df13ab5f-9eb4-4357-86df-afc457026297",
+      "company": "Citizens Financial Group",
+      "title": "Software Engineer Intern",
+      "location": "Plano, TX +2 more",
+      "locations": [
+        "Plano, TX",
+        "Johnston, RI",
+        "Phoenix, AZ"
+      ],
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5ee99f3c-d337-4cf1-87c9-d734f42a1f3f",
+      "company": "Citizens Financial Group",
+      "title": "Data Analyst Intern - Multiple Teams",
+      "location": "Boston, MA +2 more",
+      "locations": [
+        "Boston, MA",
+        "Johnston, RI",
+        "Columbus, OH"
+      ],
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2bd0a1e0-53b9-4154-a4eb-1c4f5c86e603",
+      "company": "Citizens Financial Group",
+      "title": "Data Science Intern - Multiple Teams",
+      "location": "Boston, MA +2 more",
+      "locations": [
+        "Boston, MA",
+        "Johnston, RI",
+        "Columbus, OH"
+      ],
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:127d20c7-244f-4630-9b44-e23957ff0d16",
       "company": "Wellmark",
@@ -74,6 +151,87 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:b3c2da34-6510-4c41-aa40-26d5b8e94c8a",
+      "company": "The Toro Company",
+      "title": "Robotics Engineer Intern",
+      "location": "Bloomington, MN",
+      "locations": [
+        "Bloomington, MN"
+      ],
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6ae7f97d-8e2f-4e9f-9c30-b5e3f5ca325a",
+      "company": "Evolito",
+      "title": "Software Engineering Industrial Placement",
+      "location": "Bicester, UK",
+      "locations": [
+        "Bicester, UK"
+      ],
+      "url": "https://evolito.wd3.myworkdayjobs.com/Evolito_Career_Site/job/Bicester/Industrial-Placement-Programme---Software-Engineering_JR100197",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:06f8582b-d2e1-4928-8269-999eb07e3aa1",
+      "company": "The Toro Company",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Bloomington, MN",
+      "locations": [
+        "Bloomington, MN"
+      ],
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:689f3f86-89fe-46b9-8d8f-72346df3b0ae",
+      "company": "The Toro Company",
+      "title": "Embedded Software Engineering Intern",
+      "location": "Bloomington, MN",
+      "locations": [
+        "Bloomington, MN"
+      ],
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2d7cf9e5-bb8b-45ac-9e32-aadc612bb2f4",
+      "company": "Ciena",
+      "title": "NPI Hardware Co-op - 8 month",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": []
     },
     {
       "id": "simplify:d5b824b3-f478-49bb-8b20-9c1b283518f4",
@@ -1289,23 +1447,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a5ff80d4-465e-4791-95fa-4e3daa029541",
-      "company": "Allen Control Systems",
-      "title": "Systems Engineering Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -4402,23 +4543,6 @@
       ]
     },
     {
-      "id": "simplify:49a0917b-97ea-4ff8-809e-87ace1070b2f",
-      "company": "Geotab",
-      "title": "Software Developer Intern - Months",
-      "location": "Oakville, ON, Canada",
-      "locations": [
-        "Oakville, ON, Canada"
-      ],
-      "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5389341008",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b72ec140-4c21-4b53-a33b-15a7c285e043",
       "company": "Geotab",
       "title": "Hardware Developer Intern",
@@ -4650,6 +4774,23 @@
       "category": "Software",
       "degrees": [
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5ea0f850-a40e-4b33-8998-b57f63ea8379",
+      "company": "Shure",
+      "title": "Embedded Software Intern",
+      "location": "Niles, IL",
+      "locations": [
+        "Niles, IL"
+      ],
+      "url": "https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -10429,6 +10570,21 @@
       ]
     },
     {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -11560,6 +11716,21 @@
       ]
     },
     {
+      "id": "simplify:59064871-3c04-41bf-8676-945ce2cc7648",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170860?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
       "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
@@ -11576,6 +11747,21 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
