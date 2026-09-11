@@ -1,11 +1,332 @@
 {
   "stats": {
-    "postings_tracked": 855,
+    "postings_tracked": 875,
     "sources": 1,
-    "companies": 317,
-    "last_updated": "2026-09-10"
+    "companies": 329,
+    "last_updated": "2026-09-11"
   },
   "postings": [
+    {
+      "id": "simplify:ccfd0e70-7190-455d-bcb2-c5d80518bad9",
+      "company": "Ridgeline",
+      "title": "Software Engineer Intern",
+      "location": "Reno, NV",
+      "locations": [
+        "Reno, NV"
+      ],
+      "url": "https://boards.greenhouse.io/ridgeline/jobs/7990742003",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d5b824b3-f478-49bb-8b20-9c1b283518f4",
+      "company": "RF-SMART",
+      "title": "Software Developer Intern - Product Engineering",
+      "location": "Jacksonville, FL",
+      "locations": [
+        "Jacksonville, FL"
+      ],
+      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:80e7f0b6-d4e0-42ce-bf04-602d8305702a",
+      "company": "Swarm Aero",
+      "title": "Embedded Software Intern",
+      "location": "Oxnard, CA",
+      "locations": [
+        "Oxnard, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52/application?embed=true",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:dec76f30-791b-4318-8022-f195f9709b43",
+      "company": "Hudl",
+      "title": "Software Engineer Intern",
+      "location": "Lincoln, NE",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7530c688-5657-4159-baad-6d34c53ff482",
+      "company": "Bedrock Robotics",
+      "title": "Onboard Infrastructure Engineer Intern - ML Inference",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:1ba047de-5b1e-41dd-a580-63697fc9688f",
+      "company": "Bedrock Robotics",
+      "title": "Validation & Verification Test Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:66b1fe7b-a6c1-4da5-a7f1-d4789239afce",
+      "company": "Bedrock Robotics",
+      "title": "Behavior Machine Learning Engineer Intern - World Models",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:704919c0-90ff-43e4-8f99-9b3c97e85cb0",
+      "company": "Impulse Space",
+      "title": "RF Test Engineer Intern - Summer 2027",
+      "location": "Redondo Beach, CA",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1e876ae2-39bb-4074-b163-dcb7368e9df3",
+      "company": "Impulse Space",
+      "title": "Flight Software Engineer Intern - Summer 2027",
+      "location": "Redondo Beach, CA",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "url": "https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:076d720b-9cf8-49eb-81c5-35407480a47b",
+      "company": "Impulse Space",
+      "title": "Ground Software Engineering Intern - Summer 2027",
+      "location": "Redondo Beach, CA",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "url": "https://impulsespace.pinpointhq.com/en/postings/56c98c48-25a5-4af7-ab9d-388c28bdbd50?ats=pinpointhq",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ef30e941-c64e-46bc-958c-d29519f7d16d",
+      "company": "Exegy",
+      "title": "Software Engineer Intern",
+      "location": "St. Louis, MO",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "url": "https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application?embed=true",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a4f7639e-dcce-4b8a-9d8a-2459909bd068",
+      "company": "Geneva Trading",
+      "title": "Quantitative Trading Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "AI & Data Science Intern - Analytic Capabilities",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60008?icims=1",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e1ff445a-9dad-4e51-8528-9a0779013170",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/59997?icims=1",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Engineering/Science Intern - Tailored Autonomous Systems",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/59968?icims=1",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:4417e2fa-13a3-4601-ab35-e10e9459ca81",
+      "company": "Microsoft",
+      "title": "Postdoctoral Researcher Intern - Foundational AI: Theory and Architectures",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556991730",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e5d509b4-cf02-4596-b607-048396739370",
+      "company": "State Farm",
+      "title": "Data Science Intern - Magnet Program - Online MS Analytics",
+      "location": "Athens, GA",
+      "locations": [
+        "Athens, GA"
+      ],
+      "url": "https://jobs.statefarm.com/jobs/46057?icims=1",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2fbce9ca-5c19-4daf-a633-47996511fe98",
+      "company": "Epiroc",
+      "title": "Data Analyst Intern - Digital Solutions Division",
+      "location": "Broomfield, CO",
+      "locations": [
+        "Broomfield, CO"
+      ],
+      "url": "https://www.careerprofile.epiroc.com/job/Broomfield-Intern-Data-Analyst-CO-80020/1435969833/?ats=successfactors",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2026 / Spring 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:d3494dea-dbb5-4557-a1f2-4676143b6cd5",
       "company": "Hudl",
@@ -446,6 +767,76 @@
       ]
     },
     {
+      "id": "simplify:8a3a2fbf-c843-4e59-936b-52ef8c326944",
+      "company": "Securian Financial Group",
+      "title": "Data Science and Advanced Analytics Intern - Multiple Teams",
+      "location": "St Paul, MN",
+      "locations": [
+        "St Paul, MN"
+      ],
+      "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:dd44e95b-73ef-4392-8b75-228853ac350e",
+      "company": "Brevan Howard",
+      "title": "Summer Internship Program - Systematic Trading Technology Software Engineer",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:4b7557d9-8b53-4ecd-9f14-686d7936f4bf",
+      "company": "Ketjen",
+      "title": "Data Science Intern",
+      "location": "Houston, TX",
+      "locations": [
+        "Houston, TX"
+      ],
+      "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6677af77-489f-41d2-929e-2962cfe9db42",
+      "company": "Royal Bank of Canada",
+      "title": "Algorithmic Trading Developer - Global Equities - Market Making",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Algorithmic-Trading-Developer---Market-Making--4-Months-_R-0000187478",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:054b254c-cc0b-47dd-a2c2-98cf50c0269f",
       "company": "General Dynamics Mission Systems",
       "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
@@ -584,6 +975,24 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:79fecdd1-595c-4de3-bd5b-1af3c8834b74",
+      "company": "Lexington Medical",
+      "title": "Electrical/Embedded Software Engineer Intern",
+      "location": "Bedford, MA",
+      "locations": [
+        "Bedford, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008",
+      "date_posted": "2026-09-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -2268,24 +2677,6 @@
       ]
     },
     {
-      "id": "simplify:b07b1d56-a83c-4501-bf98-2639b30fced7",
-      "company": "Walmart",
-      "title": "Product Manager 3 Intern - APD",
-      "location": "Bentonville, AR",
-      "locations": [
-        "Bentonville, AR"
-      ],
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-APD-Product-Manager-III_R-2630077",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ea33eef8-2837-4a9b-a3b7-a1c32bc77e06",
       "company": "Applied Materials",
       "title": "Software Engineering Intern - Masters",
@@ -2705,24 +3096,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5fb29a7b-45e4-42fd-8b5d-e87ba55aa181",
-      "company": "Walmart",
-      "title": "Transportation Data Analyst 2 Intern - Intern Conversion",
-      "location": "Bentonville, AR",
-      "locations": [
-        "Bentonville, AR"
-      ],
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Change-Building-AR-Bentonville-Home-Office/XMLNAME-2026-Intern-Conversion--2027-Transportation-Data-Analyst-II_R-2630083",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -3392,24 +3765,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:282fc534-4cf8-4c34-b2b9-92e29bff62ce",
-      "company": "CNA Insurance",
-      "title": "Technology Internship - Software Engineering",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
