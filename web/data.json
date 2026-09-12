@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 923,
+    "postings_tracked": 924,
     "sources": 1,
-    "companies": 343,
+    "companies": 344,
     "last_updated": "2026-09-12"
   },
   "postings": [
+    {
+      "id": "simplify:155087e9-02c4-4e9c-af43-3d7e5a3a6091",
+      "company": "Klaviyo",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+      "date_posted": "2026-09-12",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:f968b448-0edf-43ed-9f4c-8954bef0183b",
       "company": "Axon",
