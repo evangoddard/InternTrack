@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 924,
+    "postings_tracked": 923,
     "sources": 1,
-    "companies": 344,
+    "companies": 343,
     "last_updated": "2026-09-12"
   },
   "postings": [
@@ -5048,24 +5048,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Developer Intern",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "locations": [
-        "Dubai - United Arab Emirates",
-        "NYC"
-      ],
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
