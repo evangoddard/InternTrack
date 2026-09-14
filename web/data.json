@@ -1,11 +1,391 @@
 {
   "stats": {
-    "postings_tracked": 930,
+    "postings_tracked": 964,
     "sources": 1,
-    "companies": 346,
+    "companies": 354,
     "last_updated": "2026-09-14"
   },
   "postings": [
+    {
+      "id": "simplify:62c3b982-db7b-4ad1-a538-560067cf4279",
+      "company": "ExodusPoint",
+      "title": "Quantitative Intern - Credit",
+      "location": "Wynnewood, PA",
+      "locations": [
+        "Wynnewood, PA"
+      ],
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:15390674-0071-4415-afa1-aefebeb40531",
+      "company": "Ulta Beauty",
+      "title": "Digital Product Management Intern",
+      "location": "Bolingbrook, IL",
+      "locations": [
+        "Bolingbrook, IL"
+      ],
+      "url": "https://careers.ulta.com/jobs/423575?icims=1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
+      "company": "Waymo",
+      "title": "Software Engineer Intern - BS/MS",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f6b42284-9795-4e37-9fa2-435b51880db7",
+      "company": "Principal Financial Group",
+      "title": "Data Engineer Intern",
+      "location": "Des Moines, IA",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "url": "https://careers.principal.com/jobs/52561?icims=1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c64a304-96bc-447e-ab18-b8bcf93f937f",
+      "company": "Robinhood",
+      "title": "Software Engineer Intern - iOS - Summer 2027",
+      "location": "Menlo Park, CA / NYC",
+      "locations": [
+        "Menlo Park, CA",
+        "NYC"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fff6e751-d777-477e-aef3-17eb3209eedb",
+      "company": "Robinhood",
+      "title": "Software Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199744",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:73089cf9-d492-4163-9bb1-ebd692bfbd10",
+      "company": "Robinhood",
+      "title": "Software Engineer Intern - Backend",
+      "location": "Menlo Park, CA +2 more",
+      "locations": [
+        "Menlo Park, CA",
+        "NYC",
+        "Bellevue, WA"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8123225",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:648fdae5-8fd2-4e98-a3a7-451746653e9d",
+      "company": "Robinhood",
+      "title": "Software Engineer Intern - Web",
+      "location": "Menlo Park, CA / NYC",
+      "locations": [
+        "Menlo Park, CA",
+        "NYC"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:1db1012e-71c6-49b5-9a0e-3399dce55cea",
+      "company": "Robinhood",
+      "title": "Software Engineer Intern - Android - Summer 2027",
+      "location": "Menlo Park, CA / NYC",
+      "locations": [
+        "Menlo Park, CA",
+        "NYC"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:696584bd-7673-4ec0-a9cd-5a5a62e348f8",
+      "company": "Robinhood",
+      "title": "iOS Software Developer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:56507840-b0ca-4031-86ae-cf5561db3a62",
+      "company": "Dell Technologies",
+      "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
+      "location": "Round Rock, TX / Hopkinton, MA",
+      "locations": [
+        "Round Rock, TX",
+        "Hopkinton, MA"
+      ],
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:35177acb-0ae5-46df-86be-360f6572b2e1",
+      "company": "Dell Technologies",
+      "title": "Software Engineering Intern",
+      "location": "Round Rock, TX / Hopkinton, MA",
+      "locations": [
+        "Round Rock, TX",
+        "Hopkinton, MA"
+      ],
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b7692605-3675-4ede-ac05-2e35ccc95ce8",
+      "company": "SEP",
+      "title": "Software Engineer Intern",
+      "location": "Westfield, IN",
+      "locations": [
+        "Westfield, IN"
+      ],
+      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fb774e53-a201-4b04-93be-3402f9ee69cf",
+      "company": "State Farm",
+      "title": "Software Engineer Intern - Innovation Group",
+      "location": "Tempe, AZ +3 more",
+      "locations": [
+        "Tempe, AZ",
+        "Dunwoody, GA",
+        "Richardson, TX",
+        "Bloomington, IL"
+      ],
+      "url": "https://jobs.statefarm.com/jobs/45838?icims=1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:5071d3bb-61f2-4896-9065-dc7412d4ba00",
+      "company": "State Farm",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "location": "Tempe, AZ +3 more",
+      "locations": [
+        "Tempe, AZ",
+        "Dunwoody, GA",
+        "Richardson, TX",
+        "Bloomington, IL"
+      ],
+      "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:87971fb5-3996-451a-a4b6-bf5d629dd0c4",
+      "company": "State Farm",
+      "title": "Mainframe Software Engineer Intern - Enterprise Technology",
+      "location": "Tempe, AZ +3 more",
+      "locations": [
+        "Tempe, AZ",
+        "Dunwoody, GA",
+        "Richardson, TX",
+        "Bloomington, IL"
+      ],
+      "url": "https://jobs.statefarm.com/jobs/45592?icims=1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:91922350-2fdd-47f4-adfc-5693fb1ea5d5",
+      "company": "URBN",
+      "title": "Data Science Intern",
+      "location": "Philadelphia, PA",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f90f94d5-786f-4736-b98d-933eaa6987ef",
+      "company": "URBN",
+      "title": "Software Engineer Intern",
+      "location": "Philadelphia, PA",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
+      "company": "American Express",
+      "title": "Product Manager Intern - Undergraduate",
+      "location": "Burgess Hill, UK",
+      "locations": [
+        "Burgess Hill, UK"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:40b8274c-c520-4495-8d40-2d974156e76d",
+      "company": "American Express",
+      "title": "Software Engineer Intern - Undergraduate",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:84450d14-3ce4-477d-8045-7422bd8651d7",
+      "company": "American Express",
+      "title": "AI Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:275ffbf9-4e98-440f-92a7-a43740911ff4",
+      "company": "American Express",
+      "title": "AI Engineer Intern - Undergraduate",
+      "location": "Burgess Hill, UK",
+      "locations": [
+        "Burgess Hill, UK"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f9b5578c-e66c-4b11-a0e1-50809d9627eb",
       "company": "Boston Scientific",
@@ -91,6 +471,239 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:6380881f-a45a-4afd-9856-5388dbf633d9",
+      "company": "Johnson & Johnson",
+      "title": "Postdoctoral Scientist - AI/ML",
+      "location": "Cambridge, MA +2 more",
+      "locations": [
+        "Cambridge, MA",
+        "Spring House, PA",
+        "Madrid, Spain"
+      ],
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist---AI-ML_R-098519",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:46ac3778-73cf-49bb-b5b6-0a6209094b11",
+      "company": "Intel",
+      "title": "System Technology Research Engineer Intern - Foundry System Technology",
+      "location": "Austin, TX / Hillsboro, OR",
+      "locations": [
+        "Austin, TX",
+        "Hillsboro, OR"
+      ],
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer_JR0286792",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
+      "company": "Wells Fargo",
+      "title": "Software Engineer Intern - Early Careers - Software Engineering",
+      "location": "Iselin, Woodbridge Township, NJ +5 more",
+      "locations": [
+        "Iselin, Woodbridge Township, NJ",
+        "Charlotte, NC",
+        "St. Louis, MO",
+        "Phoenix, AZ",
+        "Chandler, AZ",
+        "Irving, TX"
+      ],
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:033fb8eb-961d-4cab-88a1-a78b101431ff",
+      "company": "Oshkosh",
+      "title": "Software Engineer Intern",
+      "location": "Huntersville, NC",
+      "locations": [
+        "Huntersville, NC"
+      ],
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:37fad2a5-9f35-4f89-bc19-de6eadc464b7",
+      "company": "AWE",
+      "title": "Data Scientist - Nuclear Threat Reduction",
+      "location": "Aldermaston, Reading, UK",
+      "locations": [
+        "Aldermaston, Reading, UK"
+      ],
+      "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Data-Scientist_R30359",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:14f47481-e076-4f40-8d28-deaccaa6542d",
+      "company": "Wells Fargo",
+      "title": "Software Engineering Intern - Early Careers - Software Engineering",
+      "location": "Concord, CA +2 more",
+      "locations": [
+        "Concord, CA",
+        "SF",
+        "San Leandro, CA"
+      ],
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c27aa2e9-dd87-4f06-91ee-4134e27b2e2d",
+      "company": "Enact Mortgage Insurance",
+      "title": "Software Engineer Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:92303512-b258-4650-9ae4-393106bd571b",
+      "company": "Enact Mortgage Insurance",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:cc8394ac-91b2-4a1a-979d-bfb9f2271caf",
+      "company": "Genworth Financial",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:b5e6a97a-6f1f-44bf-9fbf-61e72278b985",
+      "company": "Genworth Financial",
+      "title": "Software Engineer Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e424769d-79d0-4699-9b2b-74dde7962427",
+      "company": "Brevan Howard",
+      "title": "Quantitative Analyst Intern - AI",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:1152eb49-b54c-4cf5-ac13-01753a599595",
+      "company": "Sun Life",
+      "title": "Software Engineer Co-op",
+      "location": "Waterloo, ON, Canada",
+      "locations": [
+        "Waterloo, ON, Canada"
+      ],
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e9f762bf-84f1-4e68-b35e-5a0d9d22671a",
+      "company": "Dow Jones",
+      "title": "Data Analyst Intern - Internship Program",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55294",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
       "id": "simplify:13c20210-b9de-4f8c-93a7-96ce7766afc3",
@@ -330,21 +943,6 @@
       "deadline": "",
       "season": "",
       "category": "Product",
-      "degrees": []
-    },
-    {
-      "id": "simplify:54eb0c26-8ef9-4cbc-95de-a14051e13044",
-      "company": "Dialogue",
-      "title": "Full Stack Developer Intern - Euse",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://ats.rippling.com/dialogue-fr/jobs/8b2f0f5d-c830-48ab-9b48-14e2bfdb91cd",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": []
     },
     {
@@ -3303,6 +3901,24 @@
       "degrees": []
     },
     {
+      "id": "simplify:3258a84b-63a0-45ec-b97b-ed31556297aa",
+      "company": "RTX",
+      "title": "Electrical Engineer Intern - RDP",
+      "location": "Tewksbury, MA",
+      "locations": [
+        "Tewksbury, MA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:0d9faa74-3c88-4420-95ea-f5e99ae6d84f",
       "company": "Neighbor",
       "title": "Software Engineer Intern",
@@ -3853,24 +4469,6 @@
       ]
     },
     {
-      "id": "simplify:f28ae9aa-51ea-4eed-9d3d-587981e3c6b3",
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c083713f-2297-45fc-a2d7-2bc2fc492057",
       "company": "RTX",
       "title": "FPGA Electrical Design Engineer Intern",
@@ -4184,24 +4782,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:75efacf7-58e1-468e-9621-e23a1444acdf",
-      "company": "ICF International",
-      "title": "Software Developer Intern",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -4822,6 +5402,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
+      "company": "Principal Financial Group",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Charlotte, NC",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "url": "https://careers.principal.com/jobs/52513?icims=1",
+      "date_posted": "2026-09-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -11486,6 +12083,21 @@
       ]
     },
     {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -11668,23 +12280,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
-      "company": "Space Dynamics Laboratory",
-      "title": "Web Developer Assistant - Enterprise Application Support",
-      "location": "North Logan, UT",
-      "locations": [
-        "North Logan, UT"
-      ],
-      "url": "https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
