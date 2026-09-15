@@ -1,22 +1,39 @@
 {
   "stats": {
-    "postings_tracked": 1022,
+    "postings_tracked": 1024,
     "sources": 1,
-    "companies": 370,
+    "companies": 375,
     "last_updated": "2026-09-15"
   },
   "postings": [
     {
-      "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Commercialization",
-      "location": "SF / Mountain View, CA",
+      "id": "simplify:ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
+      "company": "Tighe & Bond",
+      "title": "GIS Intern - Geographic Information Systems",
+      "location": "Worcester, MA",
       "locations": [
-        "SF",
-        "Mountain View, CA"
+        "Worcester, MA"
       ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "date_posted": "2026-09-14",
+      "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:ea0fba80-15e5-4a2e-829e-38a6fde13be8",
+      "company": "DoorDash",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
+      "date_posted": "2026-09-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
@@ -24,6 +41,214 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:26b3de5f-72c0-4567-8e63-fac11ea93bff",
+      "company": "Superhuman",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
+      "company": "DoorDash",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Seattle, WA +4 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "LA",
+        "NYC",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:18052ece-e9bc-41d6-bcd9-f20ab241dcc2",
+      "company": "Superhuman",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Seattle, WA +2 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Computer Engineer Intern - Shipboard Systems Group",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60049?icims=1",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:25a6eaee-a2fc-4abd-871b-c4b5e46eb0b3",
+      "company": "BlackRock",
+      "title": "Quantitative Master's Intern - Investments - Quantitative Investing",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:593f743d-dbf9-4e74-97a9-3e11236aaddd",
+      "company": "CAI",
+      "title": "Software Developer Intern",
+      "location": "Pennsylvania",
+      "locations": [
+        "Pennsylvania"
+      ],
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:52dfae23-fc44-4e68-87db-19547b37d684",
+      "company": "BlackRock",
+      "title": "Quantitative Master\u2019s Intern - Investments - Portfolio Management",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
+      "company": "CAI",
+      "title": "Data Analyst Intern",
+      "location": "Pennsylvania",
+      "locations": [
+        "Pennsylvania"
+      ],
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:013e195a-bff8-4c04-b4dc-7fc663b9a8c1",
+      "company": "BlackRock",
+      "title": "Quantitative Master\u2019s Intern - Investments - Global Capital Markets",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:23dfcee2-d1cc-40dd-bd06-b7a474a437cd",
+      "company": "BlackRock",
+      "title": "Quantitative Masters Intern - Investments - Portfolio Management",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:87b11fea-2c1b-4427-b741-a7acd9fd822b",
+      "company": "BlackRock",
+      "title": "Quantitative Masters Intern - Technology - Analytics & Modeling",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b4c7e3c7-8f68-4c61-80da-98ab3347b7b6",
+      "company": "BlackRock",
+      "title": "Quantitative Master\u2019s Internship - Technology - Analytics & Modeling",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:d5070939-efc6-4e4e-9d94-605bd818eb45",
@@ -1603,6 +1828,60 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
+      "company": "Johnson & Johnson",
+      "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:89e69230-379f-4aee-89b4-80a000e2d655",
+      "company": "Wex",
+      "title": "AI & Data Platform Engineering Intern - Undergraduate",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b2720777-ec3e-4cab-a61d-8437236e8363",
+      "company": "LabCorp",
+      "title": "IT Product Manager Intern - Payer Team",
+      "location": "Durham, NC",
+      "locations": [
+        "Durham, NC"
+      ],
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -12974,21 +13253,6 @@
       ]
     },
     {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -13806,230 +14070,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175421?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171548?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "location": "Salt Lake City, UT",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "url": "https://higher.gs.com/roles/171551?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171532?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:59064871-3c04-41bf-8676-945ce2cc7648",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170860?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175426?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
