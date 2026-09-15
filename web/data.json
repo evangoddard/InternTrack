@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1026,
+    "postings_tracked": 1022,
     "sources": 1,
-    "companies": 371,
-    "last_updated": "2026-09-14"
+    "companies": 370,
+    "last_updated": "2026-09-15"
   },
   "postings": [
     {
@@ -653,24 +653,6 @@
       ]
     },
     {
-      "id": "simplify:62c3b982-db7b-4ad1-a538-560067cf4279",
-      "company": "ExodusPoint",
-      "title": "Quantitative Intern - Credit",
-      "location": "Wynnewood, PA",
-      "locations": [
-        "Wynnewood, PA"
-      ],
-      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:15390674-0071-4415-afa1-aefebeb40531",
       "company": "Ulta Beauty",
       "title": "Digital Product Management Intern",
@@ -1100,24 +1082,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:46ac3778-73cf-49bb-b5b6-0a6209094b11",
-      "company": "Intel",
-      "title": "System Technology Research Engineer Intern - Foundry System Technology",
-      "location": "Austin, TX / Hillsboro, OR",
-      "locations": [
-        "Austin, TX",
-        "Hillsboro, OR"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer_JR0286792",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -2768,27 +2732,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6c92723f-00d1-47ec-952c-a90c737de3a0",
-      "company": "Amgen",
-      "title": "Data Engineer Intern - Technology & Medical Organizations",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PharmD",
-        "PhD"
       ]
     },
     {
@@ -11135,23 +11078,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:13c82543-49b6-4293-ac18-052fd0889c76",
-      "company": "Leidos",
-      "title": "Data Engineering & Analytics Intern",
-      "location": "Shiloh, IL",
-      "locations": [
-        "Shiloh, IL"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00190672-1",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:596a789f-9d3f-4275-91f3-da77d86fc246",
