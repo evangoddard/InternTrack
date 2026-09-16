@@ -1,11 +1,138 @@
 {
   "stats": {
-    "postings_tracked": 1076,
+    "postings_tracked": 1093,
     "sources": 1,
-    "companies": 399,
+    "companies": 400,
     "last_updated": "2026-09-16"
   },
   "postings": [
+    {
+      "id": "simplify:a05d7a49-eb81-476c-8100-ee50da876874",
+      "company": "Enterprise Holdings",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "St. Louis, MO",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Bootcamp"
+      ]
+    },
+    {
+      "id": "simplify:3d2205a0-6089-401d-acc1-cb0542916a3d",
+      "company": "Bedrock Robotics",
+      "title": "Software Engineer Intern - Fleet Platform",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:cdf19c98-c74e-4082-9b37-51fcaaae298d",
+      "company": "Gecko Robotics",
+      "title": "AI/Machine Learning Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8360c3f7-a472-4bfa-9c03-ec28915f1cef",
+      "company": "Gecko Robotics",
+      "title": "Full Stack Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4f347ab5-fa7b-479b-810e-e7a276bc14e8",
+      "company": "Talos",
+      "title": "Software Engineer Intern - Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
+      "company": "General Dynamics",
+      "title": "Information Technology Intern - Software Engineering - Computer Science",
+      "location": "Newport, RI +4 more",
+      "locations": [
+        "Newport, RI",
+        "New London, CT",
+        "North Kingstown, RI",
+        "North Stonington, CT",
+        "Groton, CT"
+      ],
+      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:25e34297-e8b4-4e9c-8141-ab4dfc4fac2c",
+      "company": "V2X",
+      "title": "Artificial Intelligence Intern",
+      "location": "Indianapolis, IN",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "url": "https://careers.gov2x.com/jobs/62843?icims=1",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
     {
       "id": "simplify:59143a12-b5c5-4756-adf5-a3376f4b7296",
       "company": "RAVE Aerospace",
@@ -180,6 +307,39 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:43d3c59e-64e3-4833-bc36-39a62abb1ded",
+      "company": "Jabil",
+      "title": "Server Platform Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:28e7cce7-67d2-4001-b60a-26951a04ee0e",
+      "company": "RTX",
+      "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
+      "location": "Marlborough, MA",
+      "locations": [
+        "Marlborough, MA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027-_01873484",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -845,6 +1005,23 @@
       ]
     },
     {
+      "id": "simplify:593f743d-dbf9-4e74-97a9-3e11236aaddd",
+      "company": "CAI",
+      "title": "Software Developer Intern",
+      "location": "Pennsylvania",
+      "locations": [
+        "Pennsylvania"
+      ],
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:52dfae23-fc44-4e68-87db-19547b37d684",
       "company": "BlackRock",
       "title": "Quantitative Master\u2019s Intern - Investments - Portfolio Management",
@@ -1031,21 +1208,20 @@
       ]
     },
     {
-      "id": "simplify:a355d856-ab26-44de-b9eb-81f9bf8b6de7",
-      "company": "GlobalFoundries",
-      "title": "Systems Engineer Intern",
-      "location": "Richardson, TX",
+      "id": "simplify:769bec28-a1aa-4a21-854c-4dcde8904154",
+      "company": "LexisNexis Legal & Professional",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
       "locations": [
-        "Richardson, TX"
+        "Raleigh, NC"
       ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
       "date_posted": "2026-09-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
-        "Bachelor's",
-        "Master's"
+        "Bachelor's"
       ]
     },
     {
@@ -8870,23 +9046,6 @@
       ]
     },
     {
-      "id": "simplify:f4a9839d-7e82-43ad-a5fe-54f35eba58a1",
-      "company": "Williams Racing",
-      "title": "Data Engineer Intern",
-      "location": "Grove, Wantage, UK",
-      "locations": [
-        "Grove, Wantage, UK"
-      ],
-      "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146954769",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3f7978bc-c83d-4088-abff-540cb9036839",
       "company": "TikTok",
       "title": "Ecosystem Analyst Intern - TikTok LIVE",
@@ -14154,6 +14313,21 @@
       ]
     },
     {
+      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -14956,32 +15130,46 @@
       ]
     },
     {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
       "locations": [
-        "NYC"
+        "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
+      "url": "https://higher.gs.com/roles/175428?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "Bachelor's",
-        "Master's"
+        "Bachelor's"
       ]
     },
     {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
       "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
       "locations": [
-        "Dallas, TX"
+        "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -14994,22 +15182,120 @@
       ]
     },
     {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
       "locations": [
-        "West Palm Beach, FL"
+        "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
+      "url": "https://higher.gs.com/roles/175421?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "Bachelor's",
-        "Master's"
+        "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:59064871-3c04-41bf-8676-945ce2cc7648",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/170860?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
