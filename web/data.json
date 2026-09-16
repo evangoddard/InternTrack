@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1093,
+    "postings_tracked": 1088,
     "sources": 1,
-    "companies": 400,
+    "companies": 396,
     "last_updated": "2026-09-16"
   },
   "postings": [
@@ -1582,23 +1582,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e2f7c0c3-2949-4bbc-bd78-e4cc58de5884",
-      "company": "OpenGov",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -12080,23 +12063,6 @@
       ]
     },
     {
-      "id": "simplify:ade53b06-3917-4447-9f7a-29db35b50253",
-      "company": "Schroders",
-      "title": "Public Markets Quants Intern - Quants (Public Markets)",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
-      "date_posted": "2026-08-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5fb362f5-5857-42ff-923b-348eb5582bc7",
       "company": "TIAA",
       "title": "Investment Infrastructure & Technology Intern - IIT",
@@ -12365,23 +12331,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:49e6ace2-42ca-46a7-81f9-59a39844f75f",
-      "company": "Leidos",
-      "title": "Computer Engineering Co-op",
-      "location": "Bethesda, MD",
-      "locations": [
-        "Bethesda, MD"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -13275,23 +13224,6 @@
         "NYC"
       ],
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:03055ce7-1d96-46c4-861e-8c19404e1767",
-      "company": "Gulfstream",
-      "title": "Software Engineer Intern - IEF",
-      "location": "Savannah, GA",
-      "locations": [
-        "Savannah, GA"
-      ],
-      "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors",
       "date_posted": "2026-08-24",
       "deadline": "",
       "season": "Summer 2027",
@@ -18898,24 +18830,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:96987133-07a3-4c60-9d64-0b2de61ca4e7",
-      "company": "Primetals Technologies",
-      "title": "Data Science Internship - Governance",
-      "location": "Lake Mary, FL",
-      "locations": [
-        "Lake Mary, FL"
-      ],
-      "url": "https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Governance)-FL-32746/1401009733/?ats=successfactors",
-      "date_posted": "2026-07-23",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
