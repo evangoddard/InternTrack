@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1106,
+    "postings_tracked": 1104,
     "sources": 1,
-    "companies": 408,
+    "companies": 407,
     "last_updated": "2026-09-17"
   },
   "postings": [
@@ -96,6 +96,22 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:b61abd66-a7ce-474e-b65b-858c33660c84",
+      "company": "British Columbia Investment",
+      "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+      "location": "Victoria, BC, Canada / Vancouver, BC, Canada",
+      "locations": [
+        "Victoria, BC, Canada",
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:c059887d-a7ce-40a1-bc58-605181078fb9",
@@ -197,24 +213,6 @@
       "season": "Winter 2027 / Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:b3b5a172-409f-4e54-9248-583177d1ac17",
-      "company": "Persona",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
@@ -2950,23 +2948,6 @@
       ]
     },
     {
-      "id": "simplify:f9b5578c-e66c-4b11-a0e1-50809d9627eb",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - Interns/Graduates",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813549535",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027 / Summer 2028",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:dadef677-ca3e-4484-9f78-4a718f8c64f7",
       "company": "Acron Aviation",
       "title": "Software Engineer Intern",
@@ -3246,23 +3227,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1615c77f-0e8b-4592-93bc-c53595abdb2e",
-      "company": "Bank of Montreal",
-      "title": "Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -4706,24 +4670,6 @@
       ]
     },
     {
-      "id": "simplify:698feec2-81e2-41f9-854b-5a57cc104ace",
-      "company": "Amgen",
-      "title": "Data Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5012230e-2a8b-4047-80ec-4b7c9ecbf427",
       "company": "Amgen",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
@@ -6105,23 +6051,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f110d4a7-32ed-49ae-a14e-357e17fe995a",
-      "company": "Marvell",
-      "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-      "location": "Burlington, VT",
-      "locations": [
-        "Burlington, VT"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -15539,6 +15468,44 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
