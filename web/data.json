@@ -1,11 +1,102 @@
 {
   "stats": {
-    "postings_tracked": 1104,
+    "postings_tracked": 1106,
     "sources": 1,
-    "companies": 407,
+    "companies": 408,
     "last_updated": "2026-09-17"
   },
   "postings": [
+    {
+      "id": "simplify:ad26d172-59a3-4f93-9750-94d260cfb4e5",
+      "company": "Waymo",
+      "title": "Software Engineering Intern - Maneuvering Tech",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b0b2555a-638d-48e8-b2ba-b9c70b079360",
+      "company": "Apple",
+      "title": "Module Test Instrumentation & Automation Engineer",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200684185",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:aacdb2a7-7399-4a61-a456-f1b8651ac552",
+      "company": "Smith+Nephew",
+      "title": "Data Science Intern - AI Center of Excellence",
+      "location": "Pittsburgh, PA",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e89448c1-21ee-450a-85e8-84ad429d6f3e",
+      "company": "Smith+Nephew",
+      "title": "Robotics Software Engineer Intern",
+      "location": "Pittsburgh, PA",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c2b22bcb-6acb-4a82-9529-96398b207061",
+      "company": "Visa",
+      "title": "Associate Product Manager Intern - APM",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:c059887d-a7ce-40a1-bc58-605181078fb9",
       "company": "Koch Industries",
@@ -775,6 +866,27 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:4f0081e5-cca3-41af-86ec-243ccb875a25",
+      "company": "Sun Life",
+      "title": "Data Engineer Student",
+      "location": "Montreal, QC, Canada +2 more",
+      "locations": [
+        "Montreal, QC, Canada",
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ]
     },
@@ -9585,24 +9697,6 @@
       ]
     },
     {
-      "id": "simplify:2a80baa6-6f3a-48c3-b88d-7a8e99f8f4b6",
-      "company": "Sun Life",
-      "title": "Associate Front-End Developer",
-      "location": "Toronto, ON, Canada / Waterloo, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada",
-        "Waterloo, ON, Canada"
-      ],
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Winter-2027-_JR00127140",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ca96c441-d218-4a8a-b6f6-a035b101c51b",
       "company": "Intel",
       "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
@@ -15445,62 +15539,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
