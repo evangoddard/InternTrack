@@ -1,11 +1,62 @@
 {
   "stats": {
-    "postings_tracked": 1137,
+    "postings_tracked": 1138,
     "sources": 1,
-    "companies": 416,
+    "companies": 419,
     "last_updated": "2026-09-18"
   },
   "postings": [
+    {
+      "id": "simplify:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
+      "company": "CoBank",
+      "title": "Software Engineer Intern",
+      "location": "Greenwood Village, CO",
+      "locations": [
+        "Greenwood Village, CO"
+      ],
+      "url": "https://careers.cobank.com/jobs/7940?icims=1",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d80fbf0d-db39-4e22-9da4-6b876fadc339",
+      "company": "Phase 2",
+      "title": "Software Engineer Intern",
+      "location": "Oklahoma City, OK",
+      "locations": [
+        "Oklahoma City, OK"
+      ],
+      "url": "http://phase2.applytojob.com/apply/sQXYQC0QJw/Software-Engineer-Intern",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f13e1ec7-0610-4fb7-a7a9-b6fb2017b8e5",
+      "company": "Cogna",
+      "title": "Software Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://apply.workable.com/cogna/j/45A6283F88/apply",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
       "company": "Tesla",
@@ -86,6 +137,61 @@
       "date_posted": "2026-09-18",
       "deadline": "",
       "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:c1ff02ec-5b6a-4913-889d-999c070b5c39",
+      "company": "Sun Life",
+      "title": "Full Stack Developer Intern",
+      "location": "Toronto, ON, Canada / Waterford, Ireland",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterford, Ireland"
+      ],
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:31a0fc19-0802-4ac8-8ade-8e82adc4d1a9",
+      "company": "Cambridge Investment Research",
+      "title": "Data Engineer Intern - Business Intelligence and Insights",
+      "location": "Fairfield, IA / Phoenix, AZ",
+      "locations": [
+        "Fairfield, IA",
+        "Phoenix, AZ"
+      ],
+      "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a85d564c-f039-4ff3-9785-3eb396028885",
+      "company": "Sun Life",
+      "title": "Martech Software Engineer",
+      "location": "Waterloo, ON, Canada",
+      "locations": [
+        "Waterloo, ON, Canada"
+      ],
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's",
@@ -749,21 +855,6 @@
       "degrees": [
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:7ff50704-0421-4973-9c19-514b5d2664ef",
-      "company": "OCC",
-      "title": "Software Engineering Intern - UI/UX",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:ca4cd198-bc37-44f7-b2ea-070baf8df2a2",
@@ -2458,23 +2549,6 @@
       ]
     },
     {
-      "id": "simplify:769bec28-a1aa-4a21-854c-4dcde8904154",
-      "company": "LexisNexis Legal & Professional",
-      "title": "Data Science Intern",
-      "location": "Raleigh, NC",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:72d33ab0-b1cb-4f35-8044-370ecc2c7009",
       "company": "Altar'd State",
       "title": "Store Operations Data Analyst Intern",
@@ -3742,25 +3816,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:033fb8eb-961d-4cab-88a1-a78b101431ff",
-      "company": "Oshkosh",
-      "title": "Software Engineer Intern",
-      "location": "Huntersville, NC",
-      "locations": [
-        "Huntersville, NC"
-      ],
-      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -7278,23 +7333,6 @@
       "date_posted": "2026-09-08",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
-      "company": "Vercel",
-      "title": "Software Engineer Intern - Summer",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -12869,23 +12907,6 @@
       "deadline": "",
       "season": "Spring 2027 / Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2dbb09e5-02ec-468a-89ab-272b35232335",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "title": "Tax Innovation Delivery Experience Intern - Product Management",
-      "location": "Rosemont, IL",
-      "locations": [
-        "Rosemont, IL"
-      ],
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
