@@ -1,8 +1,10 @@
 import { NextResponse } from "next/server";
+import type { User } from "@supabase/supabase-js";
 import { createClient } from "@/lib/supabase/server";
 import { postings } from "@/lib/data";
 import { getQualificationsFor } from "@/lib/qualificationsStore";
 import { checkEligibility, parseResumeProfile } from "@/lib/eligibility";
+import { checkRateLimit, dedupe, tooManyRequests } from "@/lib/rateLimit";
 
 // GET /api/eligibility
 //
@@ -25,6 +27,21 @@ export async function GET() {
     return NextResponse.json({ error: "Sign in first." }, { status: 401 });
   }
 
+  // Charged only after the session is proven, so an unauthenticated flood is
+  // rejected before it can touch the database.
+  const limit = await checkRateLimit("eligibility");
+  if (!limit.allowed) return tooManyRequests("eligibility", limit);
+
+  // This route takes no parameters, so two concurrent requests from one user
+  // are always the same work — a double-clicked filter toggle would
+  // otherwise start two ~200-request ATS fan-outs. Share the first one.
+  return dedupe(`eligibility:${user.id}`, () => build(supabase, user));
+}
+
+async function build(
+  supabase: Awaited<ReturnType<typeof createClient>>,
+  user: User
+) {
   const { data: resumes } = await supabase
     .from("resumes")
     .select("parsed_text")
@@ -60,10 +77,9 @@ export async function GET() {
     if (!verdict.eligible) ineligible += 1;
   }
 
-  return NextResponse.json({
-    profile,
-    verdicts,
-    ineligible,
-    total: postings.length,
-  });
+  return NextResponse.json(
+    { profile, verdicts, ineligible, total: postings.length },
+    // Per-user derived data: never store it in a shared or browser cache.
+    { headers: { "Cache-Control": "no-store" } }
+  );
 }

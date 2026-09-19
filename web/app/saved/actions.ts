@@ -4,6 +4,7 @@ import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { STATUSES, NOT_APPLIED, type SavedStatus } from "@/lib/savedStatus";
+import { overLimit } from "@/lib/rateLimit";
 
 // Saves (or re-saves) a posting for the current user, snapshotting its
 // display fields -- see supabase/schema.sql for why. Signed-out users are
@@ -23,6 +24,7 @@ export async function savePosting(formData: FormData) {
   if (!user) {
     redirect(`/login?message=${encodeURIComponent("Sign in to save postings.")}`);
   }
+  if (await overLimit("write")) return;
 
   const { error } = await supabase.from("saved_postings").upsert(
     {
@@ -71,6 +73,9 @@ export async function saveManyPostings(items: BulkPosting[]) {
   if (!user) {
     redirect(`/login?message=${encodeURIComponent("Sign in to save postings.")}`);
   }
+  // Reports 0 saved rather than throwing: the caller renders this count, and
+  // "saved 0" is the truthful outcome of a throttled bulk save.
+  if (await overLimit("write")) return { saved: 0 };
 
   if (items.length === 0) return { saved: 0 };
 
@@ -110,6 +115,7 @@ export async function unsavePosting(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const id = String(formData.get("id") ?? "");
   const { error } = await supabase
@@ -134,6 +140,7 @@ export async function unsaveByPostingId(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const postingId = String(formData.get("posting_id") ?? "");
   const { error } = await supabase
@@ -158,6 +165,7 @@ export async function dismissPosting(formData: FormData) {
   if (!user) {
     redirect(`/login?message=${encodeURIComponent("Sign in to hide postings.")}`);
   }
+  if (await overLimit("write")) return;
 
   const postingId = String(formData.get("posting_id") ?? "");
   const { error } = await supabase
@@ -176,6 +184,7 @@ export async function undismissPosting(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const postingId = String(formData.get("posting_id") ?? "");
   const { error } = await supabase
@@ -196,6 +205,7 @@ export async function restoreDismissed() {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const { error } = await supabase.from("dismissed_postings").delete().eq("user_id", user.id);
   if (error) console.error("restoreDismissed failed:", error.message);
@@ -209,6 +219,7 @@ export async function updateStatus(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const id = String(formData.get("id") ?? "");
   const status = String(formData.get("status") ?? "");
@@ -260,6 +271,7 @@ export async function updateTrackerField(id: string, field: string, value: strin
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const { error } = await supabase
     .from("saved_postings")
