@@ -1,11 +1,236 @@
 {
   "stats": {
-    "postings_tracked": 1138,
+    "postings_tracked": 1164,
     "sources": 1,
-    "companies": 419,
-    "last_updated": "2026-09-18"
+    "companies": 430,
+    "last_updated": "2026-09-19"
   },
   "postings": [
+    {
+      "id": "simplify:d473bd44-d390-41bc-b173-144940110b9e",
+      "company": "Waymo",
+      "title": "Product Data Science Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:01adde08-7298-47e1-8394-bb946ac7ec13",
+      "company": "MetOx International",
+      "title": "Data Science Intern - Spring 2027",
+      "location": "Houston, TX",
+      "locations": [
+        "Houston, TX"
+      ],
+      "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c813d20a-e18e-44ee-a07c-d6a1851441c9",
+      "company": "Qualcomm",
+      "title": "IP Applications Engineering Intern - Interim Engineering Intern - HW",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721156615",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:62317988-f7af-49cb-9853-8ad936c5a1e1",
+      "company": "Qualcomm",
+      "title": "MSIP Digital Design Verification Engineering Intern - HW",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721156800",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5f07566c-0e24-415a-b3dd-27fd909e50c4",
+      "company": "Qualcomm",
+      "title": "Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721156176",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:781f87eb-1b67-4312-8612-42cf55bf4154",
+      "company": "ASUS USA",
+      "title": "Product Manager Assistant",
+      "location": "City of Industry, CA",
+      "locations": [
+        "City of Industry, CA"
+      ],
+      "url": "https://jobs.jobvite.com/asus/job/oi7PAfwy?nl=1&nl=1&fr=false",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
+      "company": "Together AI",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6a0a4b4b-9d3e-4132-8217-ea3095340856",
+      "company": "Lazard",
+      "title": "Software Engineer Intern - AI & Data Team",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3b1559b0-8937-4979-9507-9155ae62314f",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Engineer/Scientist Intern - Health Systems and Human-Machine Systems",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60054?icims=1",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a4432340-1e42-4079-be3e-d590b4a323ec",
+      "company": "Publicis Groupe",
+      "title": "Product Manager Intern - Class of 2028",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ff92bb19-8b5b-4eaf-8e39-166979cd49fb",
+      "company": "Keysight Technologies",
+      "title": "Embedded Software Intern - R&D",
+      "location": "Colorado Springs, CO",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "url": "https://jobs.keysight.com/jobs/54353?icims=1",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
+      "company": "Klaviyo",
+      "title": "Product Manager Co-op - Spring 2027",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:06ed0ec7-ab3d-4a74-a150-0877d24d3deb",
+      "company": "WTW",
+      "title": "Data Scientist Intern - P&C Insurance",
+      "location": "London, UK / Reigate, UK",
+      "locations": [
+        "London, UK",
+        "Reigate, UK"
+      ],
+      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
       "company": "CoBank",
@@ -196,6 +421,201 @@
       "degrees": [
         "Bachelor's",
         "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:f9a08de0-d633-4b19-b444-8002689fc795",
+      "company": "General Motors",
+      "title": "Product Management Intern - Digital Product",
+      "location": "Austin, TX / Warren, MI",
+      "locations": [
+        "Austin, TX",
+        "Warren, MI"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:bd8058b7-a84d-4dfb-91d8-845c08275253",
+      "company": "RTX",
+      "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e2dab9b3-410e-452f-8887-b5fe754550ad",
+      "company": "Guardian Life",
+      "title": "Summer Intern - Group Benefits Product Management",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:61b9a212-f545-496c-b822-3bae971775e3",
+      "company": "Thrivent",
+      "title": "Associate Software Engineer Intern",
+      "location": "Minnesota",
+      "locations": [
+        "Minnesota"
+      ],
+      "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e4881585-37e6-473f-9176-3a8c751f24ad",
+      "company": "Cigna Group",
+      "title": "Data Scientist Intern",
+      "location": "Austin, TX +2 more",
+      "locations": [
+        "Austin, TX",
+        "Morris Plains, NJ",
+        "St. Louis, MO"
+      ],
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Data-Scientist-Intern--Master-s-Program--Hybrid--NJ--TX--or-MO-_26010876",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:5d469294-b2e6-427c-b2dd-8da3dad68eee",
+      "company": "CME Group",
+      "title": "Software Engineering Intern - Summer 2027",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
+      "company": "CME Group",
+      "title": "Software Engineering Fellow",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:09f40dda-2ded-4174-ba81-78b97c133f7e",
+      "company": "Gordon Food Service",
+      "title": "Software Engineer Intern - Low Code",
+      "location": "Wyoming, MI",
+      "locations": [
+        "Wyoming, MI"
+      ],
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8aed5327-2fc7-4616-9983-929999e4d871",
+      "company": "Athene",
+      "title": "Software Developer Intern",
+      "location": "West Des Moines, IA",
+      "locations": [
+        "West Des Moines, IA"
+      ],
+      "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:058f883b-7a38-49f1-8ad9-45811313157b",
+      "company": "Gordon Food Service",
+      "title": "Software Engineer Intern",
+      "location": "Wyoming, MI",
+      "locations": [
+        "Wyoming, MI"
+      ],
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:174ee6de-f568-46b5-b589-eb54177d211e",
+      "company": "Cambridge Investment Research",
+      "title": "Software Engineer Intern",
+      "location": "West Des Moines, IA +2 more",
+      "locations": [
+        "West Des Moines, IA",
+        "Fairfield, IA",
+        "Phoenix, AZ"
+      ],
+      "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Software-Engineering-Intern_R-2025-219",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1789,24 +2209,6 @@
       ]
     },
     {
-      "id": "simplify:130a4449-838e-48b9-b1b1-826c84e7dbfc",
-      "company": "John Deere",
-      "title": "Analytics Data Engineer Part-Time Student - Data and Analytics",
-      "location": "Moline, IL",
-      "locations": [
-        "Moline, IL"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137483397436",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
       "company": "APEX Analytix",
       "title": "Data Science Intern",
@@ -2544,6 +2946,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:769bec28-a1aa-4a21-854c-4dcde8904154",
+      "company": "LexisNexis Legal & Professional",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -7333,6 +7752,23 @@
       "date_posted": "2026-09-08",
       "deadline": "",
       "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
+      "company": "Vercel",
+      "title": "Software Engineer Intern - Summer",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2026",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -13135,6 +13571,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ade53b06-3917-4447-9f7a-29db35b50253",
+      "company": "Schroders",
+      "title": "Public Markets Quants Intern - Quants (Public Markets)",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "date_posted": "2026-08-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
