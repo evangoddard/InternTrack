@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1179,
+    "postings_tracked": 1167,
     "sources": 1,
     "companies": 431,
     "last_updated": "2026-09-19"
@@ -4012,46 +4012,6 @@
       ]
     },
     {
-      "id": "simplify:5071d3bb-61f2-4896-9065-dc7412d4ba00",
-      "company": "State Farm",
-      "title": "Software Engineer Intern - Multiple Teams",
-      "location": "Tempe, AZ +3 more",
-      "locations": [
-        "Tempe, AZ",
-        "Dunwoody, GA",
-        "Richardson, TX",
-        "Bloomington, IL"
-      ],
-      "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:87971fb5-3996-451a-a4b6-bf5d629dd0c4",
-      "company": "State Farm",
-      "title": "Mainframe Software Engineer Intern - Enterprise Technology",
-      "location": "Tempe, AZ +3 more",
-      "locations": [
-        "Tempe, AZ",
-        "Dunwoody, GA",
-        "Richardson, TX",
-        "Bloomington, IL"
-      ],
-      "url": "https://jobs.statefarm.com/jobs/45592?icims=1",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:91922350-2fdd-47f4-adfc-5693fb1ea5d5",
       "company": "URBN",
       "title": "Data Science Intern",
@@ -4253,25 +4213,6 @@
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:14f47481-e076-4f40-8d28-deaccaa6542d",
-      "company": "Wells Fargo",
-      "title": "Software Engineering Intern - Early Careers - Software Engineering",
-      "location": "Concord, CA +2 more",
-      "locations": [
-        "Concord, CA",
-        "SF",
-        "San Leandro, CA"
-      ],
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -6144,25 +6085,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "AI & Data Science Intern - Analytic Capabilities",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60008?icims=1",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's",
@@ -15802,21 +15724,6 @@
       ]
     },
     {
-      "id": "simplify:aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:4787855b-e024-4938-a00f-7829fac9f8db",
       "company": "ByteDance",
       "title": "Immigration Data Analyst Intern - Hrops",
@@ -16619,58 +16526,6 @@
       ]
     },
     {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
       "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
@@ -16720,23 +16575,6 @@
       ]
     },
     {
-      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171532?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
@@ -16752,26 +16590,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
@@ -16795,21 +16613,6 @@
       ]
     },
     {
-      "id": "simplify:59064871-3c04-41bf-8676-945ce2cc7648",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/170860?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
       "company": "Goldman Sachs",
       "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
@@ -16826,21 +16629,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175426?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
