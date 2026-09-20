@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1166,
+    "postings_tracked": 1165,
     "sources": 1,
     "companies": 432,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-20"
   },
   "postings": [
     {
@@ -7106,23 +7106,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f110d4a7-32ed-49ae-a14e-357e17fe995a",
-      "company": "Marvell",
-      "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-      "location": "Burlington, VT",
-      "locations": [
-        "Burlington, VT"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
