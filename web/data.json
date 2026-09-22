@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1202,
+    "postings_tracked": 1198,
     "sources": 1,
-    "companies": 442,
+    "companies": 440,
     "last_updated": "2026-09-22"
   },
   "postings": [
@@ -6706,21 +6706,6 @@
       ]
     },
     {
-      "id": "simplify:eba00ed8-3e9c-4bab-878a-f40c09762da2",
-      "company": "American University",
-      "title": "Quantitative Support Programmer - Student",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Support-Programmer--Student-_R4952",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:792ba5ee-a91f-4674-a32b-415aec46bf35",
       "company": "Allegion",
       "title": "Hardware Engineer Intern - Product Lifecycle Engineering",
@@ -9925,21 +9910,6 @@
       ]
     },
     {
-      "id": "simplify:d57e49c5-62cc-4766-ab93-65e520c6fb9a",
-      "company": "AltaML",
-      "title": "Associate Product Manager",
-      "location": "Edmonton, AB, Canada",
-      "locations": [
-        "Edmonton, AB, Canada"
-      ],
-      "url": "https://jobs.lever.co/altaml/1b27d80a-ac06-45cd-9335-37d9380226dd/apply",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:4f65c1a2-2842-4064-92f3-14fbb0e9cf06",
       "company": "Ernst & Young",
       "title": "Artificial Intelligence Intern - Tax - Tax Technology and Transformation",
@@ -10561,23 +10531,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8b395263-c215-4129-b6bc-05ce51b926f7",
-      "company": "AltaML",
-      "title": "Associate Software Engineer",
-      "location": "Edmonton, AB, Canada",
-      "locations": [
-        "Edmonton, AB, Canada"
-      ],
-      "url": "https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1/apply",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -19007,23 +18960,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
-      "company": "GE Appliances",
-      "title": "Software Engineer Co-op - Software Engineering",
-      "location": "Louisville, KY",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
