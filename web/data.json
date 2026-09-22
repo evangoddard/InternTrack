@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1209,
+    "postings_tracked": 1201,
     "sources": 1,
-    "companies": 442,
+    "companies": 441,
     "last_updated": "2026-09-22"
   },
   "postings": [
@@ -2292,41 +2292,6 @@
       ]
     },
     {
-      "id": "simplify:ad98d859-afc4-4aef-8db6-408144477bf4",
-      "company": "RTX",
-      "title": "FPGA Design Intern",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:273b5a97-9303-4ce1-b5b0-31f437ccfdc7",
-      "company": "RTX",
-      "title": "Electrical Engineer Co-op - Summer/Fall",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a2aece51-4842-47ed-ae57-24e53d89a054",
       "company": "Axiom Space",
       "title": "Software Engineer Intern",
@@ -3225,25 +3190,6 @@
         "Bachelor's",
         "Master's",
         "PhD",
-        "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:45fec14d-2001-41b9-802c-251d000290e1",
-      "company": "APEX Analytix",
-      "title": "Data Engineering Intern - Summer 2027",
-      "location": "Greensboro, NC",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
         "Associate's"
       ]
     },
@@ -9304,23 +9250,6 @@
       ]
     },
     {
-      "id": "simplify:20329b11-456e-477a-84a1-caec288ed8fe",
-      "company": "Airbus",
-      "title": "Optical and Satellite Communications Software Engineering Placement",
-      "location": "Bristol, UK",
-      "locations": [
-        "Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Optical-and-Satellite-Communications-Software-Engineering-Placement--125-months-_JR10430473",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
       "company": "Airbus",
       "title": "Space Software Engineering Placement - Months",
@@ -13107,23 +13036,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:df045001-6540-4f6a-989a-92d2042973dd",
-      "company": "Newrez",
-      "title": "Software Developer Intern",
-      "location": "Coppell, TX",
-      "locations": [
-        "Coppell, TX"
-      ],
-      "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -17318,59 +17230,6 @@
         "JD",
         "MD"
       ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175426?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
