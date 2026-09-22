@@ -1,11 +1,30 @@
 {
   "stats": {
-    "postings_tracked": 1205,
+    "postings_tracked": 1202,
     "sources": 1,
-    "companies": 441,
+    "companies": 442,
     "last_updated": "2026-09-22"
   },
   "postings": [
+    {
+      "id": "simplify:3a86764d-e47b-4475-98c1-ec31081f9a2f",
+      "company": "Udig",
+      "title": "Software Engineer Intern",
+      "location": "Nashville, TN / Richmond, VA",
+      "locations": [
+        "Nashville, TN",
+        "Richmond, VA"
+      ],
+      "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f2941a36-61c1-486f-bfb9-c38e195ec891",
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -146,6 +165,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:25230324-75c3-45fd-95c9-96e3284c06d4",
+      "company": "GuideStone",
+      "title": "Software Developer Intern - Software Development",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -921,23 +957,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5292f2d8-70e9-44a6-a50e-aea6724dfacd",
-      "company": "Symbotic",
-      "title": "Software Engineer",
-      "location": "Wilmington, MA",
-      "locations": [
-        "Wilmington, MA"
-      ],
-      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -3812,23 +3831,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:5ffd7690-69c5-4eba-894c-c97068ffa45b",
-      "company": "CAI",
-      "title": "Data Engineer Intern",
-      "location": "Pennsylvania",
-      "locations": [
-        "Pennsylvania"
-      ],
-      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3cbfd41b-be44-45bb-b84c-00057b6fe732",
       "company": "Brevan Howard",
       "title": "Quantitative Analyst Intern",
@@ -4135,25 +4137,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Commercialization",
-      "location": "SF / Mountain View, CA",
-      "locations": [
-        "SF",
-        "Mountain View, CA"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9942,23 +9925,6 @@
       ]
     },
     {
-      "id": "simplify:f7b542cb-b7d4-42c0-8fe8-e4e3d9ccadf1",
-      "company": "General Dynamics UK",
-      "title": "Computer Science and Robotics Co-op - Information Technology",
-      "location": "Sherbrooke, QC, Canada",
-      "locations": [
-        "Sherbrooke, QC, Canada"
-      ],
-      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147541849",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d57e49c5-62cc-4766-ab93-65e520c6fb9a",
       "company": "AltaML",
       "title": "Associate Product Manager",
@@ -14357,23 +14323,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ade53b06-3917-4447-9f7a-29db35b50253",
-      "company": "Schroders",
-      "title": "Public Markets Quants Intern - Quants (Public Markets)",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
-      "date_posted": "2026-08-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
