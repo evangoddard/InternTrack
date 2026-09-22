@@ -1,11 +1,67 @@
 {
   "stats": {
-    "postings_tracked": 1201,
+    "postings_tracked": 1205,
     "sources": 1,
     "companies": 441,
     "last_updated": "2026-09-22"
   },
   "postings": [
+    {
+      "id": "simplify:f2941a36-61c1-486f-bfb9-c38e195ec891",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60123?icims=1",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:36fdb948-c215-4a20-afda-958941c4de18",
+      "company": "Google",
+      "title": "Product Manager Intern - Summer 2027",
+      "location": "SF +3 more",
+      "locations": [
+        "SF",
+        "San Bruno, CA",
+        "NYC",
+        "Mountain View, CA"
+      ],
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:89b0b1c4-3e5a-45b1-9a14-c12a48cd273b",
+      "company": "JP Morgan Chase",
+      "title": "Quantitative Research Summer Analyst Internship - Asset Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:e88effb2-7748-41ae-9be2-407af5870c56",
       "company": "Waymo",
@@ -72,6 +128,24 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1970,25 +2044,6 @@
       ]
     },
     {
-      "id": "simplify:b0b2555a-638d-48e8-b2ba-b9c70b079360",
-      "company": "Apple",
-      "title": "Module Test Instrumentation & Automation Engineer",
-      "location": "Sunnyvale, CA",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "url": "https://jobs.apple.com/en-us/details/200684185",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:aacdb2a7-7399-4a61-a456-f1b8651ac552",
       "company": "Smith+Nephew",
       "title": "Data Science Intern - AI Center of Excellence",
@@ -2125,25 +2180,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e3878d12-f4a0-4e39-b2e8-322da6bb1115",
-      "company": "NVIDIA",
-      "title": "Architecture Research Intern - Architecture - 2027",
-      "location": "Seattle, WA +2 more",
-      "locations": [
-        "Seattle, WA",
-        "Santa Clara, CA",
-        "Westford, MA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -3194,6 +3230,25 @@
       ]
     },
     {
+      "id": "simplify:45fec14d-2001-41b9-802c-251d000290e1",
+      "company": "APEX Analytix",
+      "title": "Data Engineering Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/52353bce-cb36-423f-ae0a-f2057ef3b5d9",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ]
+    },
+    {
       "id": "simplify:00026218-6b9b-420f-a490-b3b29742cf17",
       "company": "APEX Analytix",
       "title": "Data Analyst Intern - Summer 2027",
@@ -3291,24 +3346,6 @@
         "Golden, CO"
       ],
       "url": "https://lunaroutpost.bamboohr.com/careers/392/",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ebbd5ceb-60c1-4b21-a374-b64d339e494a",
-      "company": "Lunar Outpost",
-      "title": "Electrical Engineer Intern",
-      "location": "Golden, CO",
-      "locations": [
-        "Golden, CO"
-      ],
-      "url": "https://lunaroutpost.bamboohr.com/careers/396/",
       "date_posted": "2026-09-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -7394,23 +7431,6 @@
       ]
     },
     {
-      "id": "simplify:a023874d-88f4-4e6c-a29a-681d54bc45f9",
-      "company": "Collier Aerospace",
-      "title": "Software Engineer Intern - Web Applications - Summer 2027",
-      "location": "Newport News, VA",
-      "locations": [
-        "Newport News, VA"
-      ],
-      "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
       "company": "Collier Aerospace",
       "title": "Software Engineer Intern",
@@ -9245,6 +9265,23 @@
       "deadline": "",
       "season": "",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:20329b11-456e-477a-84a1-caec288ed8fe",
+      "company": "Airbus",
+      "title": "Optical and Satellite Communications Software Engineering Placement",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Optical-and-Satellite-Communications-Software-Engineering-Placement--125-months-_JR10430473",
+      "date_posted": "2026-09-07",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -13036,6 +13073,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:df045001-6540-4f6a-989a-92d2042973dd",
+      "company": "Newrez",
+      "title": "Software Developer Intern",
+      "location": "Coppell, TX",
+      "locations": [
+        "Coppell, TX"
+      ],
+      "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -17194,24 +17248,6 @@
       ]
     },
     {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -17230,6 +17266,59 @@
         "JD",
         "MD"
       ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
@@ -21004,24 +21093,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:cab3486c-17b7-4cac-ad2b-49f4007f98e4",
-      "company": "Castleton Commodities International",
-      "title": "Commodities Trading Analyst Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's",
         "Master's"
