@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1227,
+    "postings_tracked": 1219,
     "sources": 1,
-    "companies": 445,
+    "companies": 442,
     "last_updated": "2026-09-24"
   },
   "postings": [
@@ -2881,24 +2881,6 @@
       ]
     },
     {
-      "id": "simplify:9ef6dc9e-a7d5-4d20-95db-4fb7e6671641",
-      "company": "JP Morgan Chase",
-      "title": "Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management",
-      "location": "Jersey City, NJ",
-      "locations": [
-        "Jersey City, NJ"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:ec191dc6-7088-46ac-bb3d-1fec1dae6328",
       "company": "Rocket Lab USA",
       "title": "Systems Engineer Intern",
@@ -4638,23 +4620,6 @@
       ]
     },
     {
-      "id": "simplify:593f743d-dbf9-4e74-97a9-3e11236aaddd",
-      "company": "CAI",
-      "title": "Software Developer Intern",
-      "location": "Pennsylvania",
-      "locations": [
-        "Pennsylvania"
-      ],
-      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:52dfae23-fc44-4e68-87db-19547b37d684",
       "company": "BlackRock",
       "title": "Quantitative Master\u2019s Intern - Investments - Portfolio Management",
@@ -4669,23 +4634,6 @@
       "category": "Quant",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
-      "company": "CAI",
-      "title": "Data Analyst Intern",
-      "location": "Pennsylvania",
-      "locations": [
-        "Pennsylvania"
-      ],
-      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R8452",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -4787,23 +4735,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:95c4918c-cb96-4b7c-afa4-cb0f50c7378e",
-      "company": "Hitachi",
-      "title": "Onboard Software Developer Intern",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Onboard-Software-Developer_R0145042",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -9471,23 +9402,6 @@
       ]
     },
     {
-      "id": "simplify:5f032af0-0aa0-447c-9b7e-576e955d9c70",
-      "company": "Merck",
-      "title": "Medical Data Scientist Intern",
-      "location": "North Wales, PA",
-      "locations": [
-        "North Wales, PA"
-      ],
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:43b2eef4-f37f-4fe3-919b-08128239760c",
       "company": "Merck",
       "title": "Data Scientist Intern - Nonclinical Drug Safety",
@@ -13641,23 +13555,6 @@
       ]
     },
     {
-      "id": "simplify:5a144b1c-3ccb-4181-9154-5f01d4375f68",
-      "company": "Stanley Black & Decker",
-      "title": "Embedded Software Engineering Intern",
-      "location": "Towson, MD",
-      "locations": [
-        "Towson, MD"
-      ],
-      "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:613d2234-c5db-4237-b98d-1cca8bafc69d",
       "company": "Blue Origin",
       "title": "Software Developer Intern - Avionics Software",
@@ -15128,24 +15025,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:26097b03-bc67-4a75-9a2f-c6281e00319c",
-      "company": "Axon",
-      "title": "Embedded Engineer Intern",
-      "location": "Boston, MA / Seattle, WA",
-      "locations": [
-        "Boston, MA",
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -18714,23 +18593,6 @@
       "degrees": [
         "Bachelor's",
         "Bootcamp"
-      ]
-    },
-    {
-      "id": "simplify:2fe280fe-5031-4477-ba75-3261ae5e81fe",
-      "company": "Axon",
-      "title": "2027 US Electrical Engineering Internship",
-      "location": "Scottsdale, AZ",
-      "locations": [
-        "Scottsdale, AZ"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
