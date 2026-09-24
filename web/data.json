@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1238,
+    "postings_tracked": 1229,
     "sources": 1,
-    "companies": 448,
+    "companies": 447,
     "last_updated": "2026-09-24"
   },
   "postings": [
@@ -21,23 +21,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
-      "company": "Atlassian",
-      "title": "Data Scientist Intern - Multiple Teams",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -90,6 +73,25 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6b8dd43f-f7c6-40fc-afb7-915318ecdc76",
+      "company": "Cenovus Energy",
+      "title": "Information Technology Student - Data Science and Software",
+      "location": "Calgary, AB, Canada",
+      "locations": [
+        "Calgary, AB, Canada"
+      ],
+      "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -2035,21 +2037,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:05f24370-03fa-4a59-aa66-efbcea018d21",
-      "company": "SOTI",
-      "title": "Software Developer Intern - Back End",
-      "location": "Mississauga, ON, Canada",
-      "locations": [
-        "Mississauga, ON, Canada"
-      ],
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:a3bd1d15-060a-447a-a1fe-ebc41d4f7a50",
@@ -7438,24 +7425,6 @@
       ]
     },
     {
-      "id": "simplify:698feec2-81e2-41f9-854b-5a57cc104ace",
-      "company": "Amgen",
-      "title": "Data Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5012230e-2a8b-4047-80ec-4b7c9ecbf427",
       "company": "Amgen",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
@@ -8109,23 +8078,6 @@
       "date_posted": "2026-09-10",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
-      "company": "Canadian Tire",
-      "title": "Data Analyst Student - Winter Term 2027",
-      "location": "Oakville, ON, Canada",
-      "locations": [
-        "Oakville, ON, Canada"
-      ],
-      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Analyst-Student----4-Months----Winter-Term-2027_JR164861",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -15822,24 +15774,6 @@
       ]
     },
     {
-      "id": "simplify:5f5acc02-520f-43a0-ab78-35753db6131a",
-      "company": "The Hartford",
-      "title": "Software Engineer Intern - Technology & Data",
-      "location": "Columbus, OH",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:87b11195-7636-4d15-98ef-a30cea2dff16",
       "company": "Brunswick",
       "title": "Systems Engineer Co-op - Software Engineering",
@@ -16254,21 +16188,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:82866724-4ab4-4955-9baf-42d63ab200e3",
-      "company": "The Hartford",
-      "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-      "location": "Hartford, CT",
-      "locations": [
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:355a0760-208b-425c-9769-6bd234775cfa",
@@ -17834,6 +17753,24 @@
       ]
     },
     {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -17851,44 +17788,6 @@
         "PhD",
         "JD",
         "MD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -18423,23 +18322,6 @@
       ]
     },
     {
-      "id": "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
-      "company": "Deloitte",
-      "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
       "company": "Deloitte",
       "title": "Software Engineering Analyst Intern - Government & Public Services",
@@ -18613,25 +18495,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e87551ad-e266-4369-aa66-b85287a56ea2",
-      "company": "Deloitte",
-      "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -18850,24 +18713,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
-      "company": "Axon",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA / Seattle, WA",
-      "locations": [
-        "Boston, MA",
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
