@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1229,
+    "postings_tracked": 1227,
     "sources": 1,
-    "companies": 447,
+    "companies": 445,
     "last_updated": "2026-09-24"
   },
   "postings": [
@@ -1049,23 +1049,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:08c5f8b1-d15c-452a-9706-cceb4288ea07",
-      "company": "Leidos",
-      "title": "Software Developer Intern - Cyber & Analytics Business Area",
-      "location": "Annapolis Junction, MD",
-      "locations": [
-        "Annapolis Junction, MD"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -5606,23 +5589,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:7ca96c83-d12e-446b-b67f-462fed03bb0f",
-      "company": "Arconic",
-      "title": "Data Engineering Intern",
-      "location": "New Kensington, PA",
-      "locations": [
-        "New Kensington, PA"
-      ],
-      "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114184",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a9c87258-44b4-479b-b798-056f263de8b8",
       "company": "North Atlantic Industries",
       "title": "Full Stack Software Engineer Intern - Summer 2027",
@@ -7124,6 +7090,25 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
+      "company": "Citizens Financial Group",
+      "title": "Data Engineer Intern - Enterprise Technology & Security",
+      "location": "Plano, TX +2 more",
+      "locations": [
+        "Plano, TX",
+        "Johnston, RI",
+        "Phoenix, AZ"
+      ],
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -15110,23 +15095,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:a69da076-e18a-42b5-9a88-0838d7941959",
-      "company": "Deloitte",
-      "title": "Software Engineering Summer Scholar Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Software-Engineering/364670",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:78fa2a7e-f922-4d62-a833-4d9225cacd2c",
