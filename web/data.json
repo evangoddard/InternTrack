@@ -7,6 +7,41 @@
   },
   "postings": [
     {
+      "id": "simplify:576efb35-6523-4979-8e5d-7188d3bd98b9",
+      "company": "Enterprise Holdings",
+      "title": "Data Engineer Intern - IT",
+      "location": "St. Louis, MO",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Bootcamp"
+      ]
+    },
+    {
+      "id": "simplify:60174f6d-1cb4-49c4-93db-3cf3d5dc9382",
+      "company": "Arconic",
+      "title": "Software Developer Intern",
+      "location": "Davenport, IA",
+      "locations": [
+        "Davenport, IA"
+      ],
+      "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027 / Spring 2028 / Summer 2028 / Spring 2029 / Summer 2029",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:526c5ca9-8840-4cfe-97ac-82375a5deade",
       "company": "ByteDance",
       "title": "Student Researcher Intern - Seed Model - Seed Responsible AI",
@@ -93,6 +128,39 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:c6a44f0e-0232-4a26-ab20-59c15c086e9a",
+      "company": "Brevan Howard",
+      "title": "Systematic Trading Intern - Systematic Trading",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a5543965-f99f-4e02-b07c-19ca612b94e8",
+      "company": "Semtech",
+      "title": "Firmware Intern",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
     },
     {
       "id": "simplify:641e5df2-28c3-4b93-9707-1071b5f603f4",
@@ -2039,6 +2107,21 @@
       ]
     },
     {
+      "id": "simplify:05f24370-03fa-4a59-aa66-efbcea018d21",
+      "company": "SOTI",
+      "title": "Software Developer Intern - Back End",
+      "location": "Mississauga, ON, Canada",
+      "locations": [
+        "Mississauga, ON, Canada"
+      ],
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:a3bd1d15-060a-447a-a1fe-ebc41d4f7a50",
       "company": "Commerce Bank",
       "title": "Data Analyst Intern - Summer 2027",
@@ -3761,23 +3844,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:32923ef5-9813-4720-ba0f-736ed5febb06",
-      "company": "Live Oak Bank",
-      "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
-      "location": "Wilmington, NC",
-      "locations": [
-        "Wilmington, NC"
-      ],
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -10114,24 +10180,6 @@
       ]
     },
     {
-      "id": "simplify:75efacf7-58e1-468e-9621-e23a1444acdf",
-      "company": "ICF International",
-      "title": "Software Developer Intern",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:d8a175dc-dacf-4319-b15b-58365b57fa61",
       "company": "Airbus",
       "title": "Artificial Intelligence Intern",
@@ -14903,25 +14951,6 @@
       ]
     },
     {
-      "id": "simplify:ecdb732a-4566-44b5-bb1e-360045df13d9",
-      "company": "Northwood Space",
-      "title": "Electrical Engineer Intern - Summer Internship",
-      "location": "LA / Torrance, CA",
-      "locations": [
-        "LA",
-        "Torrance, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1795d6df-fcca-45dc-836d-41a82dc36894",
       "company": "Intuit",
       "title": "Software Engineer Intern - Full Stack",
@@ -16169,24 +16198,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:113452f5-8851-4266-8cfa-6e8ba357281e",
-      "company": "The Hartford",
-      "title": "Software Engineer Intern - Tech & Data Program",
-      "location": "Hartford, CT",
-      "locations": [
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -17753,24 +17764,6 @@
       ]
     },
     {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -17788,6 +17781,44 @@
         "PhD",
         "JD",
         "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -18319,23 +18350,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
-      "company": "Deloitte",
-      "title": "Software Engineering Analyst Intern - Government & Public Services",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -21230,26 +21244,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:82a4d731-9bcd-4a93-8dda-6d7af0e3b64c",
-      "company": "Trillium",
-      "title": "Equity Trader Intern",
-      "location": "Miami, FL +2 more",
-      "locations": [
-        "Miami, FL",
-        "Chicago, IL",
-        "NYC"
-      ],
-      "url": "https://www.trlm.com/apply/5076003007?gh_jid=5076003007",
-      "date_posted": "2026-07-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
