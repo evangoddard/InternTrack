@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1230,
+    "postings_tracked": 1224,
     "sources": 1,
-    "companies": 451,
+    "companies": 449,
     "last_updated": "2026-09-25"
   },
   "postings": [
@@ -1452,42 +1452,6 @@
       ]
     },
     {
-      "id": "simplify:bdc9aa7d-8fea-4482-8629-265b77e7818f",
-      "company": "USAA",
-      "title": "AI/ML Engineer Intern",
-      "location": "Plano, TX",
-      "locations": [
-        "Plano, TX"
-      ],
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:c3c60bf7-f580-4aaa-ab45-84224b74cdbb",
-      "company": "USAA",
-      "title": "Data Scientist Intern",
-      "location": "Plano, TX",
-      "locations": [
-        "Plano, TX"
-      ],
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:b90ec8c6-62de-4677-9db4-1799997bef9e",
       "company": "Marvell",
       "title": "Electrical Validation Intern - BS",
@@ -2502,21 +2466,6 @@
       ]
     },
     {
-      "id": "simplify:781f87eb-1b67-4312-8612-42cf55bf4154",
-      "company": "ASUS USA",
-      "title": "Product Manager Assistant",
-      "location": "City of Industry, CA",
-      "locations": [
-        "City of Industry, CA"
-      ],
-      "url": "https://jobs.jobvite.com/asus/job/oi7PAfwy?nl=1&nl=1&fr=false",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:5bd84b46-5f5b-4bd6-acd2-13e9a0918f91",
       "company": "Together AI",
       "title": "Software Engineer Intern",
@@ -2531,24 +2480,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6a0a4b4b-9d3e-4132-8217-ea3095340856",
-      "company": "Lazard",
-      "title": "Software Engineer Intern - AI & Data Team",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9000,24 +8931,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:40461c7f-fc5e-4ce9-b353-ec4eb4746300",
-      "company": "HMH",
-      "title": "Software Engineer Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -18804,26 +18717,6 @@
         "London, UK"
       ],
       "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2026 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9d04080d-0ad1-42fe-b047-599eef0c1fd7",
-      "company": "Epic Games",
-      "title": "Machine Learning Intern",
-      "location": "Canada +2 more",
-      "locations": [
-        "Canada",
-        "United Kingdom",
-        "United States"
-      ],
-      "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
       "date_posted": "2026-08-07",
       "deadline": "",
       "season": "Summer 2026 / Summer 2027",
