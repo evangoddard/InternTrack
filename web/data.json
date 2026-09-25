@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1229,
+    "postings_tracked": 1230,
     "sources": 1,
-    "companies": 452,
+    "companies": 451,
     "last_updated": "2026-09-25"
   },
   "postings": [
@@ -249,6 +249,23 @@
       ]
     },
     {
+      "id": "simplify:9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
+      "company": "Atlassian",
+      "title": "Data Scientist Intern - Multiple Teams",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:c52cc7c0-a4c3-4e69-9a96-3d56b8ddc27a",
       "company": "Astranis",
       "title": "Software Defined Radio Hardware Associate",
@@ -470,6 +487,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:adf0a40d-85b8-4712-bc55-164c7686e667",
+      "company": "Marathon Petroleum",
+      "title": "Geographic Information Systems Intern/Co-op",
+      "location": "Tulsa, OK",
+      "locations": [
+        "Tulsa, OK"
+      ],
+      "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Tulsa-Oklahoma/Intern-Co-op---Midstream-Natural-Gas-and-NGL-Services-Geography-GIS--Summer-2027-_00024411",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -3315,24 +3349,6 @@
       ]
     },
     {
-      "id": "simplify:c2b22bcb-6acb-4a82-9529-96398b207061",
-      "company": "Visa",
-      "title": "Associate Product Manager Intern - APM",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:b61abd66-a7ce-474e-b65b-858c33660c84",
       "company": "British Columbia Investment",
       "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
@@ -5255,23 +5271,6 @@
       ]
     },
     {
-      "id": "simplify:61044b56-5584-4118-b985-879aa9c86501",
-      "company": "PricewaterhouseCoopers (PwC)",
-      "title": "Product Management Intern - Commercial Tech & Innovation",
-      "location": "Rosemont, IL",
-      "locations": [
-        "Rosemont, IL"
-      ],
-      "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:0adb2d84-b56e-47f1-b4ca-f0267547814c",
       "company": "NJM Insurance Group",
       "title": "Data Science Intern",
@@ -6202,23 +6201,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3dbc310b-10e9-42fe-b065-dd74747582e0",
-      "company": "Philips",
-      "title": "Software Engineer Intern",
-      "location": "Plymouth, MN",
-      "locations": [
-        "Plymouth, MN"
-      ],
-      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -10391,24 +10373,6 @@
       ]
     },
     {
-      "id": "simplify:75efacf7-58e1-468e-9621-e23a1444acdf",
-      "company": "ICF International",
-      "title": "Software Developer Intern",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:d8a175dc-dacf-4319-b15b-58365b57fa61",
       "company": "Airbus",
       "title": "Artificial Intelligence Intern",
@@ -13885,6 +13849,40 @@
       ]
     },
     {
+      "id": "simplify:5a144b1c-3ccb-4181-9154-5f01d4375f68",
+      "company": "Stanley Black & Decker",
+      "title": "Embedded Software Engineering Intern",
+      "location": "Towson, MD",
+      "locations": [
+        "Towson, MD"
+      ],
+      "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:bfc7d59a-2729-48fa-8c25-a3278920ef67",
+      "company": "DraftKings",
+      "title": "Data Science Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:613d2234-c5db-4237-b98d-1cca8bafc69d",
       "company": "Blue Origin",
       "title": "Software Developer Intern - Avionics Software",
@@ -15651,24 +15649,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:394e0012-c136-47f1-9d1a-1065be754a84",
-      "company": "The Hartford",
-      "title": "Software Engineer Intern - Technology, Data, AI, and Operations",
-      "location": "Charlotte, NC",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
-      "date_posted": "2026-08-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -17872,6 +17852,39 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
