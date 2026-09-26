@@ -13,6 +13,10 @@ config.yaml
 # permission settings) -- machine-specific, not something to share.
 .claude/
 
+# MCP server config for local agent tooling. Machine-specific, and it embeds
+# the Supabase project ref -- not a secret, but not the repo's business.
+.mcp.json
+
 # interntrack.db is intentionally tracked -- it's the shared history state
 # that GitHub Actions commits back after every scan, and what a local run
 # should `git pull` before starting so both stay in sync.
