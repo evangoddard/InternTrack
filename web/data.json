@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1237,
+    "postings_tracked": 1219,
     "sources": 1,
-    "companies": 460,
+    "companies": 457,
     "last_updated": "2026-09-26"
   },
   "postings": [
@@ -273,24 +273,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ee8ed5ad-3be9-407e-8020-0d9a037d60be",
-      "company": "Barrios",
-      "title": "Data and Computer Engineering/Computer Science Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -2461,24 +2443,6 @@
       ]
     },
     {
-      "id": "simplify:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
-      "company": "NVIDIA",
-      "title": "Research Intern - Robotics",
-      "location": "Seattle, WA / Santa Clara, CA",
-      "locations": [
-        "Seattle, WA",
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:7d669b5f-60d8-41f2-8c63-353b9b7240a7",
       "company": "GE Healthcare",
       "title": "Software Engineer Intern",
@@ -2702,23 +2666,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0a5aaa9d-f7d9-4898-8c8b-5f43d72e316f",
-      "company": "NVIDIA",
-      "title": "Networking Research Intern - Networking",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -3688,24 +3635,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:386a0851-1bfc-40ed-94c2-db33224d056d",
-      "company": "Visa",
-      "title": "Software Engineer Intern - Sophomore Internship Program",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:cf283809-6474-4e9c-ba5c-e9e82ef23ce2",
       "company": "Northrop Grumman",
       "title": "Software Engineering Industrial Placement",
@@ -3734,23 +3663,6 @@
       "date_posted": "2026-09-17",
       "deadline": "",
       "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
-      "company": "Marvell",
-      "title": "SRAM Software Engineer Intern",
-      "location": "Burlington, VT",
-      "locations": [
-        "Burlington, VT"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Fall 2027 / Summer 2028",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -4393,26 +4305,6 @@
       ]
     },
     {
-      "id": "simplify:097e4adf-07db-4666-8e68-29b3364bc0eb",
-      "company": "Citadel",
-      "title": "Quantitative Researcher Post-Doctoral Intern",
-      "location": "Greenwich, CT +3 more",
-      "locations": [
-        "Greenwich, CT",
-        "Houston, TX",
-        "Miami, FL",
-        "NYC"
-      ],
-      "url": "https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:5d9f6eaa-a78b-4ea6-adcb-8168b145206f",
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "title": "Data Science Undergraduate Student Intern - Summer 2027",
@@ -4585,23 +4477,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4491adcd-bda4-4c6d-89e8-f5df9b5a197a",
-      "company": "NVIDIA",
-      "title": "Quantum and Chemistry Research Intern - Quantum and AI for Chemistry",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -5331,24 +5206,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
-      "company": "NVIDIA",
-      "title": "Physical Design and Timing Engineer Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
         "Master's",
         "PhD"
       ]
@@ -8534,21 +8391,6 @@
       ]
     },
     {
-      "id": "simplify:2a1bc16a-fdaf-4a6c-b4c7-61479a915a58",
-      "company": "Barclays",
-      "title": "Technology Analyst Apprentice - AI and Data Science",
-      "location": "Glasgow, UK",
-      "locations": [
-        "Glasgow, UK"
-      ],
-      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-AI-and-Data-Science-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129128",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
       "company": "Insulet",
       "title": "Life Cycle Engineering Co-op - Electrical",
@@ -9913,23 +9755,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:192e2d14-66ec-4599-b333-b1f244469d60",
-      "company": "TD Bank",
-      "title": "Summer Analyst - Software Engineering Rotational Program",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:43b2eef4-f37f-4fe3-919b-08128239760c",
@@ -13783,77 +13608,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f0d5c5b8-9d9e-48ed-82e0-b156b9a7f30b",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d9c3042a-3bd5-4d48-bf69-87f46d9b0d34",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Risk and Treasury - Off-Cycle",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:7ad48361-649c-4efe-abeb-2c80430792f5",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern - Immersion Program",
-      "location": "Glasgow, UK",
-      "locations": [
-        "Glasgow, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:7b78b68a-dea7-4e76-8753-553fdfda1113",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern",
-      "location": "London, UK / Glasgow, UK",
-      "locations": [
-        "London, UK",
-        "Glasgow, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
         "Master's"
       ]
     },
@@ -18042,23 +17796,21 @@
       ]
     },
     {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
       "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
       "locations": [
-        "Dallas, TX"
+        "NYC"
       ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
+      "url": "https://higher.gs.com/roles/171547?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -18737,23 +18489,6 @@
       ]
     },
     {
-      "id": "simplify:de926b0a-99e7-4dbd-94cd-334ec565be9f",
-      "company": "Citadel",
-      "title": "Sector Data Scientist Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
       "company": "ByteDance",
       "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
@@ -18952,24 +18687,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8d32ce9d-b2f0-4126-8727-69bbd17e3c2e",
-      "company": "Epic Games",
-      "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2026 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -20528,49 +20245,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:c603c749-ab7d-489e-a4f7-a962ea05b835",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Markets - Analyst",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:98635871-6276-41e4-ad95-172485704a2c",
-      "company": "JP Morgan Chase",
-      "title": "Data & AI Intern - Analyst",
-      "location": "Palo Alto, CA +7 more",
-      "locations": [
-        "Palo Alto, CA",
-        "Newark, DE",
-        "Plano, TX",
-        "Chicago, IL",
-        "Jersey City, NJ",
-        "Columbus, OH",
-        "NYC",
-        "Wilmington, DE"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
