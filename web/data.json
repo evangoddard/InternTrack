@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1239,
+    "postings_tracked": 1237,
     "sources": 1,
     "companies": 460,
     "last_updated": "2026-09-26"
@@ -492,6 +492,56 @@
       ]
     },
     {
+      "id": "simplify:6db9023a-15b9-4dfa-a544-4779d19c4277",
+      "company": "The Aerospace Corporation",
+      "title": "Software Systems Engineer Intern - Acquisition",
+      "location": "Chantilly, VA / El Segundo, CA",
+      "locations": [
+        "Chantilly, VA",
+        "El Segundo, CA"
+      ],
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2c831f83-ca5c-44e8-b6b8-dce99992900e",
+      "company": "Philips",
+      "title": "Electrical Engineer Intern",
+      "location": "Cambridge, MA",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d46941ee-3f12-4840-b86c-0b2125dfc557",
+      "company": "Florida Atlantic University",
+      "title": "Student Web Developer - Research Computing Systems Administration",
+      "location": "Boca Raton, FL",
+      "locations": [
+        "Boca Raton, FL"
+      ],
+      "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/SSERCA-Student-Web-Developer_REQ22952",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:e4654e28-bb64-4c28-b1f3-c86baeabe85a",
       "company": "Major League Baseball",
       "title": "Software Engineer Intern - Baseball Systems",
@@ -503,41 +553,6 @@
       "date_posted": "2026-09-24",
       "deadline": "",
       "season": "Summer 2026",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:0f94776b-245c-41ce-8533-969cf33af5d9",
-      "company": "Genesis Molecular AI",
-      "title": "Machine Learning Research Intern",
-      "location": "SF / NYC",
-      "locations": [
-        "SF",
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:80a7e2c3-ed7c-41dc-92a7-85bf12db37f5",
-      "company": "Genesis Molecular AI",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA / NYC",
-      "locations": [
-        "San Mateo, CA",
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Software",
       "degrees": []
     },
@@ -9136,23 +9151,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:88ab01bc-6442-47f8-bb39-cba06ee06918",
-      "company": "SECURE",
-      "title": "Software Developer Intern",
-      "location": "Calgary, AB, Canada",
-      "locations": [
-        "Calgary, AB, Canada"
-      ],
-      "url": "https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a705c90c-60e8-4a32-b729-336fdecb5d82",
       "company": "Samsung",
       "title": "Product Management Placement",
@@ -10608,24 +10606,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:75efacf7-58e1-468e-9621-e23a1444acdf",
-      "company": "ICF International",
-      "title": "Software Developer Intern",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -15462,6 +15442,28 @@
       ]
     },
     {
+      "id": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
+      "company": "Charles Schwab",
+      "title": "Software Engineering Intern - Technology",
+      "location": "Austin, TX +5 more",
+      "locations": [
+        "Austin, TX",
+        "Westlake, TX",
+        "Ann Arbor, MI",
+        "Southlake, TX",
+        "Omaha, NE",
+        "Phoenix, AZ"
+      ],
+      "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-08-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:8e8b0332-f404-4e9c-9a58-ec44adc3f4fd",
       "company": "V2X",
       "title": "Electrical Engineer Intern - Hardware Engineering",
@@ -15887,25 +15889,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:977a8b34-935b-4585-8f24-2475493e9e9f",
-      "company": "CACI",
-      "title": "Software Developer/Data Scientist Intern - Summer 2027",
-      "location": "Sterling, VA +2 more",
-      "locations": [
-        "Sterling, VA",
-        "Denver, CO",
-        "Sarasota, FL"
-      ],
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
-      "date_posted": "2026-08-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -17756,23 +17739,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7d9ddaa5-9b5b-4251-b733-33ac0902e143",
-      "company": "Royal Bank of Canada",
-      "title": "Quantitative Technology Services Co-op - Multiple Roles",
-      "location": "Bedford, NS, Canada",
-      "locations": [
-        "Bedford, NS, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
