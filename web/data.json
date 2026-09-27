@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1218,
+    "postings_tracked": 1211,
     "sources": 1,
-    "companies": 458,
+    "companies": 456,
     "last_updated": "2026-09-27"
   },
   "postings": [
@@ -3562,23 +3562,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:57ded721-ead9-440b-999c-b6f3861f72ed",
-      "company": "Howmet Aerospace",
-      "title": "Artificial Intelligence Intern - AI",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -10300,74 +10283,6 @@
       ]
     },
     {
-      "id": "simplify:618df15b-bf4c-4cb9-a2a0-1e57c7e7ef9e",
-      "company": "Airbus",
-      "title": "Airframe Data Scientist Placement",
-      "location": "Filton, Bristol, UK",
-      "locations": [
-        "Filton, Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Airframe-Data-Scientist-Placement--125-months-_JR10427455",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:bd80c89b-42e4-4c23-a52a-2dd6ab1d67d8",
-      "company": "Airbus",
-      "title": "Software Engineering Intern",
-      "location": "Filton, Bristol, UK",
-      "locations": [
-        "Filton, Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Software-Engineering-Placement--125-months-_JR10429196",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
-      "company": "Airbus",
-      "title": "Space Software Engineering Placement - Months",
-      "location": "Stevenage, UK",
-      "locations": [
-        "Stevenage, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Space-Software-Engineering-Placement--12-months-_JR10425567",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8a15fdc7-b6bd-4b91-8caa-888e24387090",
-      "company": "Airbus",
-      "title": "Software Developer Placement",
-      "location": "Stevenage, UK",
-      "locations": [
-        "Stevenage, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Software-Developer-Placement--13-months-_JR10425651",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f5a5f110-364b-4641-acea-76c3e5e6e58b",
       "company": "Xcel Energy",
       "title": "Data Science Intern",
@@ -10415,23 +10330,6 @@
       "date_posted": "2026-09-07",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d8a175dc-dacf-4319-b15b-58365b57fa61",
-      "company": "Airbus",
-      "title": "Artificial Intelligence Intern",
-      "location": "Filton, Bristol, UK",
-      "locations": [
-        "Filton, Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Artificial-Intelligence-Placement--125-months-_JR10424830",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
@@ -10579,23 +10477,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:4dc86313-ac1f-4d5e-a766-6c8629caffcf",
-      "company": "Airbus",
-      "title": "Satellite Digital Systems",
-      "location": "Stevenage, UK",
-      "locations": [
-        "Stevenage, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Satellite-Digital-Systems-Placement--12-months-_JR10426316",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
