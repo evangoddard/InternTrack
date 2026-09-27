@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1211,
+    "postings_tracked": 1206,
     "sources": 1,
-    "companies": 456,
+    "companies": 453,
     "last_updated": "2026-09-27"
   },
   "postings": [
@@ -539,24 +539,6 @@
       ]
     },
     {
-      "id": "simplify:521a56a4-f683-4861-8565-e081a72736c1",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - R&D",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1ac553bb-ffc0-4a7f-8b30-56dc1a3d8f8a",
       "company": "GM financial",
       "title": "Data Engineer Intern",
@@ -1005,24 +987,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5a8c9cf7-3eab-4d5e-91c3-eb63a3cb103d",
-      "company": "Boston Scientific",
-      "title": "Data Science Engineering Intern",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813638090",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -1807,23 +1771,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:143cb976-5cd1-40e5-bc6a-0f7216e58ec1",
-      "company": "F5",
-      "title": "Software Engineer Intern - Digital",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-II_RP1038826",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -5209,24 +5156,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:83a6fa1e-2e59-414e-9c23-5b68b7d11e8a",
-      "company": "NVIDIA",
-      "title": "Physical Design and Timing Engineer Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
         "Master's",
         "PhD"
       ]
@@ -17661,24 +17590,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
