@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1222,
+    "postings_tracked": 1218,
     "sources": 1,
     "companies": 458,
-    "last_updated": "2026-09-26"
+    "last_updated": "2026-09-27"
   },
   "postings": [
     {
@@ -256,23 +256,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:074a0da6-73e2-402d-90a7-ca4bf302d862",
-      "company": "First Citizens BancShares",
-      "title": "IT Intern - Software Developer",
-      "location": "Raleigh, NC",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -10334,23 +10317,6 @@
       ]
     },
     {
-      "id": "simplify:0af1cc0e-a58e-4da3-ba05-773b55177492",
-      "company": "Airbus",
-      "title": "Full-Stack Software Developer Intern",
-      "location": "Portsmouth, UK",
-      "locations": [
-        "Portsmouth, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Software-Developer--Full-Stack--Placement--13-months-_JR10426667",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:bd80c89b-42e4-4c23-a52a-2dd6ab1d67d8",
       "company": "Airbus",
       "title": "Software Engineering Intern",
@@ -10363,23 +10329,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:20329b11-456e-477a-84a1-caec288ed8fe",
-      "company": "Airbus",
-      "title": "Optical and Satellite Communications Software Engineering Placement",
-      "location": "Bristol, UK",
-      "locations": [
-        "Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Optical-and-Satellite-Communications-Software-Engineering-Placement--125-months-_JR10430473",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -10414,23 +10363,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f6adfce9-f40a-4ce0-b9bc-d3df07a52328",
-      "company": "Airbus",
-      "title": "Flight Physics Data Science Engineer",
-      "location": "Filton, Bristol, UK",
-      "locations": [
-        "Filton, Bristol, UK"
-      ],
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Flight-Physics-Data-Science-Engineer-Placement--125-months-_JR10430147",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
