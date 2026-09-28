@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1196,
+    "postings_tracked": 1183,
     "sources": 1,
-    "companies": 453,
+    "companies": 446,
     "last_updated": "2026-09-28"
   },
   "postings": [
@@ -200,23 +200,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d750fe7b-cab1-448d-87f7-d9cc9f2ad969",
-      "company": "RRS Group",
-      "title": "Associate Software Engineer Intern - Sophomore Only",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -1317,23 +1300,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:3260a093-278c-48cc-90a4-1e13d6c9d177",
-      "company": "NVIDIA",
-      "title": "Research Intern - Electronic Design Automation",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:aea50023-bfc4-4203-a4d7-f3decbe8ebd6",
       "company": "Saab",
       "title": "Electrical Engineering Co-op",
@@ -1385,23 +1351,6 @@
         "Bachelor's",
         "Master's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:7e861bb5-2026-4aad-aab9-7d36ce34fb11",
-      "company": "Hudson River Trading",
-      "title": "Data Scientist Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -1751,24 +1700,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e85fe564-c92c-4c56-b2ce-41f4ca778811",
-      "company": "RTX",
-      "title": "Operations Software Engineering Intern - Summer 2027",
-      "location": "Burnsville, MN",
-      "locations": [
-        "Burnsville, MN"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2143,21 +2074,6 @@
       ]
     },
     {
-      "id": "simplify:3950ec12-b960-4a36-b3d6-f1c4799d409a",
-      "company": "First Citizens BancShares",
-      "title": "Quantitative Analysis Intern - Quantitative Analysis",
-      "location": "Raleigh, NC",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:2e8bb17d-0726-4482-af62-5f868bede92c",
       "company": "AutoZone",
       "title": "Data Science Intern",
@@ -2403,24 +2319,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c5d275f-2e6f-4188-8951-f122d59a4f77",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -3250,6 +3148,24 @@
       ]
     },
     {
+      "id": "simplify:30a813fa-60dd-46e6-b380-c00124f3422a",
+      "company": "Boston Scientific",
+      "title": "Data Science Co-op",
+      "location": "Maple Grove, MN",
+      "locations": [
+        "Maple Grove, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027 / Spring 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
       "company": "REV Robotics",
       "title": "Software Engineer Intern",
@@ -3384,23 +3300,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
-      "company": "Rothesay",
-      "title": "Quantitative Strategist Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -4319,27 +4218,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4f0081e5-cca3-41af-86ec-243ccb875a25",
-      "company": "Sun Life",
-      "title": "Data Engineer Student",
-      "location": "Montreal, QC, Canada +2 more",
-      "locations": [
-        "Montreal, QC, Canada",
-        "Toronto, ON, Canada",
-        "Waterloo, ON, Canada"
-      ],
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -8095,21 +7973,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
-      "company": "Planview",
-      "title": "Software Engineer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://careers.planview.com/jobs/5128?icims=1",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:89f3ba9c-ae8d-4200-a7cf-200cae0f7747",
@@ -14031,70 +13894,6 @@
       ]
     },
     {
-      "id": "simplify:956086a7-d67a-4072-93ae-47bf3687b548",
-      "company": "Google",
-      "title": "Software Engineer Intern - Multiple Teams",
-      "location": "Palo Alto, CA +29 more",
-      "locations": [
-        "Palo Alto, CA",
-        "Cambridge, MA",
-        "Madison, WI",
-        "Seattle, WA",
-        "Houston, TX",
-        "SF",
-        "Austin, TX",
-        "LA",
-        "San Jose, CA",
-        "Irvine, CA",
-        "South SF",
-        "Redwood City, CA",
-        "Raleigh, NC",
-        "San Bruno, CA",
-        "Redmond, WA",
-        "Durham, NC",
-        "Santa Cruz, CA",
-        "Chicago, IL",
-        "Goleta, CA",
-        "Pittsburgh, PA",
-        "Kirkland, WA",
-        "Reston, VA",
-        "NYC",
-        "Bellevue, WA",
-        "Sunnyvale, CA",
-        "Mountain View, CA",
-        "Portland, OR",
-        "Boulder, CO",
-        "Atlanta, GA",
-        "San Diego, CA"
-      ],
-      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a0a64d1a-c888-4d3a-9dec-d6314036d16f",
-      "company": "Hudson River Trading",
-      "title": "Hardware Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
       "company": "Epic Games",
       "title": "Frontend Programmer Intern",
@@ -14829,47 +14628,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
-      "company": "Charles Schwab",
-      "title": "Data Engineering Intern - Data Engineering",
-      "location": "Austin, TX +2 more",
-      "locations": [
-        "Austin, TX",
-        "Westlake, TX",
-        "Southlake, TX"
-      ],
-      "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
-      "company": "Charles Schwab",
-      "title": "Software Engineering Intern - Technology",
-      "location": "Austin, TX +5 more",
-      "locations": [
-        "Austin, TX",
-        "Westlake, TX",
-        "Ann Arbor, MI",
-        "Southlake, TX",
-        "Omaha, NE",
-        "Phoenix, AZ"
-      ],
-      "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -20776,24 +20534,6 @@
       "deadline": "",
       "season": "Summer 2026 / Fall 2026",
       "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:31b95070-c5a6-4523-b7d4-54fbaa062677",
-      "company": "Appian",
-      "title": "Software Engineer Intern",
-      "location": "McLean, VA",
-      "locations": [
-        "McLean, VA"
-      ],
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-      "date_posted": "2026-07-23",
-      "deadline": "",
-      "season": "Summer 2026 / Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
