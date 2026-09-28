@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1183,
+    "postings_tracked": 1180,
     "sources": 1,
-    "companies": 446,
+    "companies": 444,
     "last_updated": "2026-09-28"
   },
   "postings": [
@@ -830,23 +830,6 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:544076ef-ca22-485c-8793-4770c7d30023",
-      "company": "Radiance Technologies",
-      "title": "Software Engineer Intern",
-      "location": "Dayton, OH",
-      "locations": [
-        "Dayton, OH"
-      ],
-      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -2894,23 +2877,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:61b9a212-f545-496c-b822-3bae971775e3",
-      "company": "Thrivent",
-      "title": "Associate Software Engineer Intern",
-      "location": "Minnesota",
-      "locations": [
-        "Minnesota"
-      ],
-      "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:e4881585-37e6-473f-9176-3a8c751f24ad",
@@ -6625,24 +6591,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
-      "company": "Cozey",
-      "title": "Data Science Intern",
-      "location": "Mount Royal, QC, Canada",
-      "locations": [
-        "Mount Royal, QC, Canada"
-      ],
-      "url": "https://ats.rippling.com/cozey-internships/jobs/d19a9f0b-e828-436b-890f-a6f2216c6888",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
