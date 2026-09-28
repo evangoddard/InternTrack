@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1206,
+    "postings_tracked": 1196,
     "sources": 1,
     "companies": 453,
     "last_updated": "2026-09-28"
@@ -1317,23 +1317,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:d0e04d2e-32c8-45f4-8b27-b9d28326a191",
-      "company": "Royal Bank of Canada",
-      "title": "Software Developer Co-op - Technology and Operations",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-3",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3260a093-278c-48cc-90a4-1e13d6c9d177",
       "company": "NVIDIA",
       "title": "Research Intern - Electronic Design Automation",
@@ -1916,6 +1899,24 @@
       ]
     },
     {
+      "id": "simplify:1a872d07-40d8-4b98-8f0f-15127543ae64",
+      "company": "Boston Scientific",
+      "title": "Data Engineer Intern",
+      "location": "Maple Grove, MN",
+      "locations": [
+        "Maple Grove, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
       "company": "Zimmer Biomet Holdings",
       "title": "Product Management Intern - Artificial Intelligence Product Management",
@@ -2226,25 +2227,6 @@
       ]
     },
     {
-      "id": "simplify:329555bd-4a7e-4ef4-abf7-73122cec8112",
-      "company": "Mastercard",
-      "title": "Product Management Intern",
-      "location": "Harrison, NY / Arlington County, Arlington, VA",
-      "locations": [
-        "Harrison, NY",
-        "Arlington County, Arlington, VA"
-      ],
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ee7c7524-9f03-4556-a197-bdf877a10f55",
       "company": "General Motors",
       "title": "Embedded and Systems Engineering Intern - Digital Product",
@@ -2424,25 +2406,6 @@
       ]
     },
     {
-      "id": "simplify:dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Analyst Intern - Fixed Income Team",
-      "location": "Boston, MA / Merrimack, NH",
-      "locations": [
-        "Boston, MA",
-        "Merrimack, NH"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:1c5d275f-2e6f-4188-8951-f122d59a4f77",
       "company": "Fidelity Investments",
       "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
@@ -2451,77 +2414,6 @@
         "Boston, MA"
       ],
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:695c330c-a16f-4490-93fc-2f34b8d874ce",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern - Multi-Asset Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6177e762-3444-42f7-97c6-b94abf15c039",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:580bd080-8355-4c59-a6d5-f4d6cc61be55",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "MBA",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3ffeeada-412b-4314-ad45-08e3e40c327f",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern - Strategic Advisers",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370",
       "date_posted": "2026-09-21",
       "deadline": "",
       "season": "Summer 2027",
@@ -5259,23 +5151,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4b579ae8-08ea-43d6-88a2-1703bf6853ee",
-      "company": "Buildertrend",
-      "title": "Data Engineer Intern",
-      "location": "Omaha, NE",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Data-Engineering-Intern_JR-000472",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -9907,23 +9782,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c2c6db10-5836-4c07-a30a-b82ff757db89",
-      "company": "Buildertrend",
-      "title": "Software Engineer Intern",
-      "location": "Omaha, NE",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -16730,38 +16588,6 @@
       "category": "Hardware",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:867add8a-591f-4f9c-a4b8-a548a8e7ce89",
-      "company": "Blackstone",
-      "title": "Data Engineer Summer Analyst - Blackstone Technology & Innovations",
-      "location": "Miami, FL",
-      "locations": [
-        "Miami, FL"
-      ],
-      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:230b8412-ca73-4abf-b01d-2013cfc1309b",
-      "company": "Blackstone",
-      "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
-      "location": "Miami, FL",
-      "locations": [
-        "Miami, FL"
-      ],
-      "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
