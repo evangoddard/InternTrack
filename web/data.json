@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1181,
+    "postings_tracked": 1190,
     "sources": 1,
-    "companies": 444,
+    "companies": 446,
     "last_updated": "2026-09-29"
   },
   "postings": [
@@ -76,6 +76,58 @@
       ]
     },
     {
+      "id": "simplify:6bc1c873-c812-4770-8e16-7e18397b1432",
+      "company": "RTX",
+      "title": "Display Systems Engineering Co-op",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
+      "company": "Verizon Communications",
+      "title": "Data Scientist Intern - Fiber Engineering & Operations",
+      "location": "Irving, TX",
+      "locations": [
+        "Irving, TX"
+      ],
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4d75efc0-61e0-48f4-955d-15ea4c188bae",
+      "company": "Verizon Communications",
+      "title": "Data Science Intern - Network and Technology",
+      "location": "Irving, TX",
+      "locations": [
+        "Irving, TX"
+      ],
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:d48c80c4-64ef-42c6-b309-34cb2efa3de1",
       "company": "The Aerospace Corporation",
       "title": "Software Engineering Intern",
@@ -91,6 +143,23 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:57bebd99-f029-4628-b0dc-3532c4f03181",
+      "company": "The Aerospace Corporation",
+      "title": "Software Engineering Intern - Software Tools and Assurance",
+      "location": "El Segundo, CA",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
       ]
     },
     {
@@ -1900,24 +1969,6 @@
       ]
     },
     {
-      "id": "simplify:1a872d07-40d8-4b98-8f0f-15127543ae64",
-      "company": "Boston Scientific",
-      "title": "Data Engineer Intern",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
       "company": "Zimmer Biomet Holdings",
       "title": "Product Management Intern - Artificial Intelligence Product Management",
@@ -2500,24 +2551,6 @@
       ]
     },
     {
-      "id": "simplify:bc4117e4-8373-4215-901c-689e3476cdfb",
-      "company": "Live Oak Bank",
-      "title": "Software Engineering Intern - Summer Internship Program",
-      "location": "Wilmington, NC",
-      "locations": [
-        "Wilmington, NC"
-      ],
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:d776dc7e-67b7-4245-b891-fab6aa5edfae",
       "company": "Live Oak Bank",
       "title": "Data Engineer Intern - Multiple Teams",
@@ -2531,23 +2564,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:3ffcd0e4-1c94-4df2-ae83-88132a1a017e",
-      "company": "Live Oak Bank",
-      "title": "Data Science Intern",
-      "location": "Wilmington, NC",
-      "locations": [
-        "Wilmington, NC"
-      ],
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:9cb80a43-fcfd-473d-8145-5aba8bb71782",
@@ -3001,24 +3017,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a85d564c-f039-4ff3-9785-3eb396028885",
-      "company": "Sun Life",
-      "title": "Martech Software Engineer",
-      "location": "Waterloo, ON, Canada",
-      "locations": [
-        "Waterloo, ON, Canada"
-      ],
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ]
     },
     {
@@ -6390,23 +6388,6 @@
       ]
     },
     {
-      "id": "simplify:43942487-1905-4f16-b4f3-82eafb81e332",
-      "company": "CIBC",
-      "title": "Global Markets Analyst - Electronic Trading",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Global-Markets--Electronic-Trading---Summer-2027-Analyst--4-months-_2618801",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f58db82d-9113-411b-97bb-b0f24752115a",
       "company": "AtkinsR\u00e9alis",
       "title": "Data Scientist Intern - Summer 2027",
@@ -8516,24 +8497,6 @@
         "Bachelor's",
         "Master's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:ad3bdd89-905d-467f-a04f-55d5e7b18954",
-      "company": "Gallup",
-      "title": "Data Science Intern - Summer 2027",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -17168,6 +17131,215 @@
       ]
     },
     {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
       "company": "Notion",
       "title": "Software Engineer Intern - Summer 2027",
@@ -17268,23 +17440,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203",
-      "company": "TikTok",
-      "title": "Mobile Software Engineer Intern - Global E-Commerce",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://lifeattiktok.com/search/7673663349758675205",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
