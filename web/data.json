@@ -1,11 +1,98 @@
 {
   "stats": {
-    "postings_tracked": 1180,
+    "postings_tracked": 1181,
     "sources": 1,
     "companies": 444,
-    "last_updated": "2026-09-28"
+    "last_updated": "2026-09-29"
   },
   "postings": [
+    {
+      "id": "simplify:59c13592-23da-4c96-8a2d-f4639cfe1e1e",
+      "company": "Boston Scientific",
+      "title": "R&D Firmware Engineer Intern",
+      "location": "Arden Hills, MN",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1116d102-56c1-4175-a460-5d3fc735c763",
+      "company": "Electronic Arts",
+      "title": "AI Engineer Intern - AI Platform",
+      "location": "Vancouver, BC, Canada",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:574c67ce-ff4f-4f56-825d-6e6dc66172f6",
+      "company": "H&R Block",
+      "title": "Machine Learning Intern",
+      "location": "Kansas City, MO",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6eff6a24-903f-4e0d-9c37-9391aca12788",
+      "company": "TikTok",
+      "title": "Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7689010193607051525",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d48c80c4-64ef-42c6-b309-34cb2efa3de1",
+      "company": "The Aerospace Corporation",
+      "title": "Software Engineering Intern",
+      "location": "Chantilly, VA / El Segundo, CA",
+      "locations": [
+        "Chantilly, VA",
+        "El Segundo, CA"
+      ],
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:b63c229a-b9e1-411a-b923-cf39ce987d7b",
       "company": "Efficient Computer",
@@ -2302,6 +2389,97 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
+      "company": "Fidelity Investments",
+      "title": "Quantitative Analyst Intern - Fixed Income Team",
+      "location": "Boston, MA / Merrimack, NH",
+      "locations": [
+        "Boston, MA",
+        "Merrimack, NH"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:1c5d275f-2e6f-4188-8951-f122d59a4f77",
+      "company": "Fidelity Investments",
+      "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:695c330c-a16f-4490-93fc-2f34b8d874ce",
+      "company": "Fidelity Investments",
+      "title": "Quantitative Research Intern - Multi-Asset Research Team",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:580bd080-8355-4c59-a6d5-f4d6cc61be55",
+      "company": "Fidelity Investments",
+      "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "MBA",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:3ffeeada-412b-4314-ad45-08e3e40c327f",
+      "company": "Fidelity Investments",
+      "title": "Quantitative Research Intern - Strategic Advisers",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -5766,109 +5944,6 @@
       ]
     },
     {
-      "id": "simplify:1c64a304-96bc-447e-ab18-b8bcf93f937f",
-      "company": "Robinhood",
-      "title": "Software Engineer Intern - iOS - Summer 2027",
-      "location": "Menlo Park, CA / NYC",
-      "locations": [
-        "Menlo Park, CA",
-        "NYC"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142959",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fff6e751-d777-477e-aef3-17eb3209eedb",
-      "company": "Robinhood",
-      "title": "Software Developer Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8199744",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:73089cf9-d492-4163-9bb1-ebd692bfbd10",
-      "company": "Robinhood",
-      "title": "Software Engineer Intern - Backend",
-      "location": "Menlo Park, CA +2 more",
-      "locations": [
-        "Menlo Park, CA",
-        "NYC",
-        "Bellevue, WA"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8123225",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:648fdae5-8fd2-4e98-a3a7-451746653e9d",
-      "company": "Robinhood",
-      "title": "Software Engineer Intern - Web",
-      "location": "Menlo Park, CA / NYC",
-      "locations": [
-        "Menlo Park, CA",
-        "NYC"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142963",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:1db1012e-71c6-49b5-9a0e-3399dce55cea",
-      "company": "Robinhood",
-      "title": "Software Engineer Intern - Android - Summer 2027",
-      "location": "Menlo Park, CA / NYC",
-      "locations": [
-        "Menlo Park, CA",
-        "NYC"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142961",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:696584bd-7673-4ec0-a9cd-5a5a62e348f8",
-      "company": "Robinhood",
-      "title": "iOS Software Developer Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8199729",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:56507840-b0ca-4031-86ae-cf5561db3a62",
       "company": "Dell Technologies",
       "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
@@ -6484,23 +6559,6 @@
       "date_posted": "2026-09-12",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f968b448-0edf-43ed-9f4c-8954bef0183b",
-      "company": "Axon",
-      "title": "Software Engineer Intern - R&D Program",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003",
-      "date_posted": "2026-09-12",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -8042,21 +8100,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:5f786704-9f4e-4137-8947-80614fba3b53",
-      "company": "Walmart",
-      "title": "Data Science Intern 3",
-      "location": "Bentonville, AR",
-      "locations": [
-        "Bentonville, AR"
-      ],
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:b7359908-b1b9-4e89-befe-99ce05f4df7f",
@@ -20481,24 +20524,6 @@
       "date_posted": "2026-07-24",
       "deadline": "",
       "season": "Summer 2026 / Fall 2026",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f4b6208a-2701-4f97-bf10-b54704e67c32",
-      "company": "Appian",
-      "title": "Product Manager Intern",
-      "location": "McLean, VA",
-      "locations": [
-        "McLean, VA"
-      ],
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
-      "date_posted": "2026-07-23",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Product",
       "degrees": [
         "Bachelor's",
