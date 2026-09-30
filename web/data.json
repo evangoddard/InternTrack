@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1192,
+    "postings_tracked": 1185,
     "sources": 1,
     "companies": 444,
     "last_updated": "2026-09-30"
@@ -612,6 +612,23 @@
       ]
     },
     {
+      "id": "simplify:f478095f-4d9f-407a-8d22-d320f0186e98",
+      "company": "Qualcomm",
+      "title": "Soft IP ASIC Engineer Intern",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721302471",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:6acc24ca-3ff2-4d56-a40c-e531d2a57522",
       "company": "Waymo",
       "title": "Machine Learning Research Intern - Planning/Prediction",
@@ -626,6 +643,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
+      "company": "UL Solutions",
+      "title": "Product Management Intern",
+      "location": "Northbrook, IL / Chicago, IL",
+      "locations": [
+        "Northbrook, IL",
+        "Chicago, IL"
+      ],
+      "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -679,6 +714,41 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1c05aeb6-1548-460d-ac98-cca04204d3a7",
+      "company": "POET",
+      "title": "Data Engineer Intern",
+      "location": "Sioux Falls, SD",
+      "locations": [
+        "Sioux Falls, SD"
+      ],
+      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:cfd65384-8de0-4673-9086-3e19b4843b5e",
+      "company": "POET",
+      "title": "Software Developer Intern",
+      "location": "Sioux Falls, SD",
+      "locations": [
+        "Sioux Falls, SD"
+      ],
+      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -3061,6 +3131,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:864cc8b9-b420-476e-a6a6-b9bb048c678d",
+      "company": "GE Healthcare",
+      "title": "Systems Engineer Intern",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Systems-Engineering-Internship_R4046627-1",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -6860,21 +6947,6 @@
       ]
     },
     {
-      "id": "simplify:d7f0c23e-9959-43e2-8078-887a76fc2142",
-      "company": "Cozey",
-      "title": "Product Management Intern",
-      "location": "Mount Royal, QC, Canada",
-      "locations": [
-        "Mount Royal, QC, Canada"
-      ],
-      "url": "https://ats.rippling.com/cozey-internships/jobs/2b4bb455-c5c3-41ee-9bc8-b9fd889d35ea",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:b1d0db5d-2ecc-4ad8-8fdd-ad33cabd3059",
       "company": "DV Trading",
       "title": "Software Developer Intern",
@@ -8984,24 +9056,6 @@
       ]
     },
     {
-      "id": "simplify:c1c9e27d-7a15-4243-bdbe-34a2bc4aa3da",
-      "company": "GE Vernova",
-      "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:d96e9b38-f776-431d-9b9c-d75fa74ab6a8",
       "company": "Kensho",
       "title": "Software Engineer Intern - Summer 2027",
@@ -9102,25 +9156,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d4635072-e119-4baf-b36e-a727b1f20c52",
-      "company": "The Aerospace Corporation",
-      "title": "Machine Learning Engineering Intern",
-      "location": "Colorado Springs, CO / El Segundo, CA",
-      "locations": [
-        "Colorado Springs, CO",
-        "El Segundo, CA"
-      ],
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -10878,23 +10913,6 @@
       ]
     },
     {
-      "id": "simplify:54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
-      "company": "Marvell",
-      "title": "Firmware Engineer Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027 / Winter 2028 / Spring 2028 / Summer 2028",
-      "category": "Hardware",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:bfc80fee-bb28-459a-be87-125a0fef1495",
       "company": "Hy-Vee",
       "title": "Software Engineer Intern",
@@ -11793,23 +11811,6 @@
       ]
     },
     {
-      "id": "simplify:adc00b6f-fe39-46b8-a7d1-0f4ea72504eb",
-      "company": "GE Vernova",
-      "title": "CIC Systems Engineer Co-op",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4209c5e8-720b-4527-aed6-1d5b57782d05",
       "company": "GE Vernova",
       "title": "Hardware Engineer Co-op - Critical Infrastructure Communications",
@@ -11822,24 +11823,6 @@
       "deadline": "",
       "season": "Summer 2027 / Fall 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:90873fc6-265d-4b32-9cdf-b4ce1e206cca",
-      "company": "GE Vernova",
-      "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -11946,23 +11929,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e2be6625-d7ef-4d57-849c-79d9b8f382c0",
-      "company": "RTX",
-      "title": "Production Hardware Electrical Engineer Intern",
-      "location": "Tucson, AZ",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -15823,21 +15789,6 @@
       ]
     },
     {
-      "id": "simplify:82866724-4ab4-4955-9baf-42d63ab200e3",
-      "company": "The Hartford",
-      "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-      "location": "Hartford, CT",
-      "locations": [
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:355a0760-208b-425c-9769-6bd234775cfa",
       "company": "Procter & Gamble",
       "title": "IT Engineering Internship - Software, Platform, Network",
@@ -17313,24 +17264,6 @@
       ]
     },
     {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
@@ -17348,44 +17281,6 @@
         "PhD",
         "JD",
         "MD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -19074,23 +18969,6 @@
       ]
     },
     {
-      "id": "simplify:b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
-      "company": "American Express",
-      "title": "Product Innovation Intern - Credit & Fraud Risk",
-      "location": "Phoenix, AZ",
-      "locations": [
-        "Phoenix, AZ"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:14af9b4a-6b3e-473b-844f-542a89afb184",
       "company": "TikTok",
       "title": "Recommendation Product Manager Intern - Content Ecosystem",
@@ -20755,6 +20633,24 @@
       ]
     },
     {
+      "id": "simplify:ff38f8af-bafd-4a27-b65d-e65d625efe50",
+      "company": "G-Research",
+      "title": "Machine Learning Research Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682",
+      "date_posted": "2026-07-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:7b2e0135-b620-4edc-9812-0722d67b163f",
       "company": "G-Research",
       "title": "Quantitative Research Internship",
@@ -20873,23 +20769,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
-      "company": "Gitar, Inc.",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://ats.rippling.com/gitar-careers/jobs/76868d2c-10f0-4c43-8f47-c541f1d41e49",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2025",
-      "category": "Software",
-      "degrees": [
-        "PhD"
       ]
     },
     {
