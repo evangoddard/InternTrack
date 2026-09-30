@@ -1,11 +1,100 @@
 {
   "stats": {
-    "postings_tracked": 1200,
+    "postings_tracked": 1192,
     "sources": 1,
-    "companies": 447,
+    "companies": 444,
     "last_updated": "2026-09-30"
   },
   "postings": [
+    {
+      "id": "simplify:6795e080-5626-469b-a609-48988a09eab1",
+      "company": "Apple",
+      "title": "Data Scientist Co-op - Sales Business Analytics",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200686205",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
+      "company": "AMCA",
+      "title": "Software Engineer Intern",
+      "location": "El Segundo, CA",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
+      "company": "Robinhood",
+      "title": "Data Science Intern",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8241738",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7e4c5c71-f008-4439-8ae7-145e2b6cb5d9",
+      "company": "Apple",
+      "title": "Design Verification Engineer",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200686449",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:af7b23f4-17a4-4d21-9099-a8afec173586",
+      "company": "Northrop Grumman",
+      "title": "Hardware Electronics Engineer Intern",
+      "location": "Rolling Meadows, IL",
+      "locations": [
+        "Rolling Meadows, IL"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:282a057f-48f4-4133-a52c-2261299e04a8",
       "company": "Enova",
@@ -571,6 +660,24 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1e39ef9b-ab50-405f-808e-28002f4fc72f",
+      "company": "Itron",
+      "title": "Data Science Intern - Distributed Intelligence",
+      "location": "Liberty Lake, WA",
+      "locations": [
+        "Liberty Lake, WA"
+      ],
+      "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
         "Master's"
       ]
     },
@@ -1330,23 +1437,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:bb6f4712-73ed-42a3-b9d0-121502853653",
-      "company": "Wex",
-      "title": "Software Engineer Intern - Enterprise Data & Systems - Salesforce & Snowflake",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
         "Master's"
       ]
     },
@@ -3148,24 +3238,6 @@
       ]
     },
     {
-      "id": "simplify:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
-      "company": "CoBank",
-      "title": "Software Engineer Intern",
-      "location": "Greenwood Village, CO",
-      "locations": [
-        "Greenwood Village, CO"
-      ],
-      "url": "https://careers.cobank.com/jobs/7940?icims=1",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f13e1ec7-0610-4fb7-a7a9-b6fb2017b8e5",
       "company": "Cogna",
       "title": "Software Engineer Intern",
@@ -4880,26 +4952,6 @@
       ]
     },
     {
-      "id": "simplify:575cff72-551d-4520-b574-ee32f9252195",
-      "company": "Elire",
-      "title": "AI Software Developer Intern - Multiple Teams",
-      "location": "Remote in USA / Minneapolis, MN",
-      "locations": [
-        "Remote in USA",
-        "Minneapolis, MN"
-      ],
-      "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:f74bc55b-29bc-4d06-9433-426a6fc434e0",
       "company": "Gecko Robotics",
       "title": "Embedded Software Engineer Intern - RoboSPLAT - Field Infra",
@@ -5506,23 +5558,6 @@
       ]
     },
     {
-      "id": "simplify:ce049c8e-cbb5-4b0e-b4e2-4f3706fcf0b7",
-      "company": "The Aerospace Corporation",
-      "title": "Aerospace Software Engineer Intern",
-      "location": "El Segundo, CA",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:139c5ee4-482e-40f4-9946-3027f84308e3",
       "company": "RTX",
       "title": "Test Engineering Intern",
@@ -5642,23 +5677,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e2f7c0c3-2949-4bbc-bd78-e4cc58de5884",
-      "company": "OpenGov",
-      "title": "Software Engineer Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -6351,25 +6369,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:6380881f-a45a-4afd-9856-5388dbf633d9",
-      "company": "Johnson & Johnson",
-      "title": "Postdoctoral Scientist - AI/ML",
-      "location": "Cambridge, MA +2 more",
-      "locations": [
-        "Cambridge, MA",
-        "Spring House, PA",
-        "Madrid, Spain"
-      ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Scientist---AI-ML_R-098519",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
     },
     {
       "id": "simplify:1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
@@ -9003,23 +9002,6 @@
       ]
     },
     {
-      "id": "simplify:15a70935-29b0-4bac-a7eb-3475f8522af0",
-      "company": "GE Vernova",
-      "title": "Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Summer-Fall-2027_R5051790-2",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d96e9b38-f776-431d-9b9c-d75fa74ab6a8",
       "company": "Kensho",
       "title": "Software Engineer Intern - Summer 2027",
@@ -11052,23 +11034,6 @@
       ]
     },
     {
-      "id": "simplify:b439166e-c153-454d-b66a-94e95f6ca947",
-      "company": "AltaML",
-      "title": "Associate Software Developer - Multiple Teams",
-      "location": "Calgary, AB, Canada",
-      "locations": [
-        "Calgary, AB, Canada"
-      ],
-      "url": "https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91/apply",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:27f622fc-a5e9-4b35-bfb1-ac371473556a",
       "company": "Waymo",
       "title": "Software Engineering Intern - Behavior Test - MS",
@@ -11828,24 +11793,6 @@
       ]
     },
     {
-      "id": "simplify:9d136976-01e5-4307-a617-04d2b97abacb",
-      "company": "GE Vernova",
-      "title": "Software Engineer Co-op - Critical Infrastructure Communication",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:adc00b6f-fe39-46b8-a7d1-0f4ea72504eb",
       "company": "GE Vernova",
       "title": "CIC Systems Engineer Co-op",
@@ -11874,24 +11821,6 @@
       "date_posted": "2026-09-03",
       "deadline": "",
       "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:124b21b2-cf3e-4f05-b00b-9a085a704bbe",
-      "company": "GE Vernova",
-      "title": "Hardware Engineer Intern - Critical Infrastructure Communications",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -13863,42 +13792,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e0ea3957-0ec4-4d2d-acf0-7890b8d86a00",
-      "company": "Northern Trust",
-      "title": "Technology Intern - Software Engineering",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:718e86ed-b134-4e25-90b7-974bd8a5d12b",
-      "company": "Northern Trust",
-      "title": "Technology Intern - Data Science and Analytics",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Data-Science-and-Analytics_R160865-1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -15927,24 +15820,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:113452f5-8851-4266-8cfa-6e8ba357281e",
-      "company": "The Hartford",
-      "title": "Software Engineer Intern - Tech & Data Program",
-      "location": "Hartford, CT",
-      "locations": [
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -20416,23 +20291,6 @@
         "NYC"
       ],
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:05ab114c-f9d4-45b3-ac84-20227b44db3f",
-      "company": "American Express",
-      "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
