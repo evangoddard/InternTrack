@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1176,
+    "postings_tracked": 1173,
     "sources": 1,
-    "companies": 449,
+    "companies": 447,
     "last_updated": "2026-10-02"
   },
   "postings": [
+    {
+      "id": "simplify:75c9bd55-d962-405d-8b35-8302935fa982",
+      "company": "Google",
+      "title": "Associate Product Manager Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:e01e0224-e425-4bc7-b957-ae573fcd0993",
       "company": "Symphony",
@@ -73,6 +91,43 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ec2c0694-e2d1-4b6f-a0d8-8246515195c7",
+      "company": "American Bankers Association",
+      "title": "Quantitative Research Intern",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9bb48f7f-80ad-4eca-8055-cc250ab3295f",
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT",
+      "location": "Tarrytown, NY",
+      "locations": [
+        "Tarrytown, NY"
+      ],
+      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -610,6 +665,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
+      "company": "General Motors",
+      "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
       ]
     },
     {
@@ -3635,25 +3707,6 @@
       ]
     },
     {
-      "id": "simplify:dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Analyst Intern - Fixed Income Team",
-      "location": "Boston, MA / Merrimack, NH",
-      "locations": [
-        "Boston, MA",
-        "Merrimack, NH"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:1c5d275f-2e6f-4188-8951-f122d59a4f77",
       "company": "Fidelity Investments",
       "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
@@ -3686,25 +3739,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:580bd080-8355-4c59-a6d5-f4d6cc61be55",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "MBA",
-        "PhD"
       ]
     },
     {
@@ -7269,24 +7303,6 @@
       ]
     },
     {
-      "id": "simplify:f58db82d-9113-411b-97bb-b0f24752115a",
-      "company": "AtkinsR\u00e9alis",
-      "title": "Data Scientist Intern - Summer 2027",
-      "location": "Tempe, AZ",
-      "locations": [
-        "Tempe, AZ"
-      ],
-      "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:183a7c4c-19d3-4b57-85de-1ae125ee8aee",
       "company": "Johnson & Johnson",
       "title": "Electrical Engineer Intern - Robotics R&D",
@@ -8227,23 +8243,6 @@
       ]
     },
     {
-      "id": "simplify:e70c7072-27b1-4eb9-af34-c97970e09bcb",
-      "company": "Alcoa",
-      "title": "Computer Science or Software Engineering or Computer Engineering Intern - Carbon",
-      "location": "B\u00e9cancour, QC, Canada",
-      "locations": [
-        "B\u00e9cancour, QC, Canada"
-      ],
-      "url": "https://alcoa.wd5.myworkdayjobs.com/Careers/job/Canada-QC-Bcancour/Stagiaire-en-informatique-ou-gnie-logiciel-ou-informatique---Carbone--Hiver-2027-_Req-39195",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:97071ed7-a906-402b-b755-8a9a9f9968c7",
       "company": "Amgen",
       "title": "Machine Learning Engineer Intern",
@@ -8420,21 +8419,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:80ed798a-4740-4572-bb0b-e99439246dcf",
-      "company": "EMC Insurance",
-      "title": "Data Science Intern",
-      "location": "Iowa",
-      "locations": [
-        "Iowa"
-      ],
-      "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:8b696511-3eb6-46d7-bd8a-1a07e56a2349",
@@ -10540,24 +10524,6 @@
       ]
     },
     {
-      "id": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
-      "company": "Dropbox",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8106224",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f5a5f110-364b-4641-acea-76c3e5e6e58b",
       "company": "Xcel Energy",
       "title": "Data Science Intern",
@@ -11610,42 +11576,6 @@
       "season": "",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:e534eafc-22e9-4880-a6af-3884c72ecd2e",
-      "company": "Deutsche Bank",
-      "title": "Quantitative Trading Intern - Fixed Income & Currencies",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9c6268c8-21a5-4c50-b4cd-d027da19170d",
-      "company": "Deutsche Bank",
-      "title": "Quant Intern - Strategic Analytics",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
     },
     {
       "id": "simplify:23f69fe4-0c26-4065-97b0-4c06e0de21aa",
@@ -16763,6 +16693,25 @@
       ]
     },
     {
+      "id": "simplify:78faf2f2-9391-4542-b593-468ce69a67b5",
+      "company": "NVIDIA",
+      "title": "Mixed Signal Design Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:51a4a857-a381-433e-a84a-c418a90df692",
       "company": "NVIDIA",
       "title": "Digital Circuit Design Intern",
@@ -17147,26 +17096,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
@@ -17633,6 +17562,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
+      "company": "Deloitte",
+      "title": "Software Engineering Analyst Intern - Government & Public Services",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
+      "date_posted": "2026-08-11",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
