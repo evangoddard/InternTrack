@@ -1,11 +1,43 @@
 {
   "stats": {
-    "postings_tracked": 1191,
+    "postings_tracked": 1176,
     "sources": 1,
-    "companies": 454,
+    "companies": 449,
     "last_updated": "2026-10-02"
   },
   "postings": [
+    {
+      "id": "simplify:e01e0224-e425-4bc7-b957-ae573fcd0993",
+      "company": "Symphony",
+      "title": "Software Developer Intern",
+      "location": "Belfast, UK",
+      "locations": [
+        "Belfast, UK"
+      ],
+      "url": "https://symphony.com/company/apply?gh_jid=8121113",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:96268a8b-5041-4571-913d-7a04ae9c4c50",
+      "company": "Mindex",
+      "title": "Software Engineer Co-op",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://apply.workable.com/mindex/j/84B10DB922/apply",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "Winter 2027 / Spring 2027 / Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
     {
       "id": "simplify:947e0edf-c842-4a59-b67c-747847abf090",
       "company": "Range",
@@ -563,6 +595,42 @@
       ]
     },
     {
+      "id": "simplify:827ccc8c-5daf-4ca9-90a9-badca54261a8",
+      "company": "General Motors",
+      "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5c721084-2430-498d-ae4c-d36aeaee8fac",
+      "company": "General Motors",
+      "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:7f191783-2ab3-4626-a830-2072091a9f5a",
       "company": "Dandy",
       "title": "Software Engineering Intern",
@@ -1065,24 +1133,6 @@
       ]
     },
     {
-      "id": "simplify:59c13592-23da-4c96-8a2d-f4639cfe1e1e",
-      "company": "Boston Scientific",
-      "title": "R&D Firmware Engineer Intern",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1116d102-56c1-4175-a460-5d3fc735c763",
       "company": "Electronic Arts",
       "title": "AI Engineer Intern - AI Platform",
@@ -1261,24 +1311,6 @@
       "date_posted": "2026-09-29",
       "deadline": "",
       "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e8dce61d-65f5-408f-9f0d-061871375cae",
-      "company": "Northrop Grumman",
-      "title": "Test Engineer Intern",
-      "location": "Vandenberg Space Force Base, CA",
-      "locations": [
-        "Vandenberg Space Force Base, CA"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -1746,23 +1778,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d37558d5-18db-46de-a3b9-2e33b19e8b91",
-      "company": "Northwestern Mutual",
-      "title": "Actuarial Systems Intern",
-      "location": "Milwaukee, WI",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -3180,24 +3195,6 @@
       ]
     },
     {
-      "id": "simplify:1a872d07-40d8-4b98-8f0f-15127543ae64",
-      "company": "Boston Scientific",
-      "title": "Data Engineer Intern",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813501949",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
       "company": "Zimmer Biomet Holdings",
       "title": "Product Management Intern - Artificial Intelligence Product Management",
@@ -3441,24 +3438,6 @@
       ]
     },
     {
-      "id": "simplify:08b81f58-c3c3-4212-a0ac-e8bc42112895",
-      "company": "Acima",
-      "title": "Software Engineer Intern",
-      "location": "Draper, UT",
-      "locations": [
-        "Draper, UT"
-      ],
-      "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:510dff44-a111-4a88-8662-b07d88568e6a",
       "company": "G-Research",
       "title": "Software Engineer Intern",
@@ -3467,23 +3446,6 @@
         "London, UK"
       ],
       "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7e9e1d77-26aa-43b1-b980-8af6e516c6c4",
-      "company": "Upbound Group",
-      "title": "Software Engineer Intern",
-      "location": "Plano, TX",
-      "locations": [
-        "Plano, TX"
-      ],
-      "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
       "date_posted": "2026-09-21",
       "deadline": "",
       "season": "Summer 2027",
@@ -4501,24 +4463,6 @@
       ]
     },
     {
-      "id": "simplify:30a813fa-60dd-46e6-b380-c00124f3422a",
-      "company": "Boston Scientific",
-      "title": "Data Science Co-op",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600487",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027 / Spring 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
       "company": "REV Robotics",
       "title": "Software Engineer Intern",
@@ -4673,22 +4617,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:b61abd66-a7ce-474e-b65b-858c33660c84",
-      "company": "British Columbia Investment",
-      "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
-      "location": "Victoria, BC, Canada / Vancouver, BC, Canada",
-      "locations": [
-        "Victoria, BC, Canada",
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:cf283809-6474-4e9c-ba5c-e9e82ef23ce2",
@@ -8316,24 +8244,6 @@
       ]
     },
     {
-      "id": "simplify:e57aab56-00e6-429f-97dd-f700979fecd6",
-      "company": "NXP Semiconductors",
-      "title": "Test Engineer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:97071ed7-a906-402b-b755-8a9a9f9968c7",
       "company": "Amgen",
       "title": "Machine Learning Engineer Intern",
@@ -8844,23 +8754,6 @@
       "deadline": "",
       "season": "Summer 2026 / Spring 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d3494dea-dbb5-4557-a1f2-4676143b6cd5",
-      "company": "Hudl",
-      "title": "Product Management Intern",
-      "location": "Lincoln, NE",
-      "locations": [
-        "Lincoln, NE"
-      ],
-      "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
@@ -9729,23 +9622,6 @@
       ]
     },
     {
-      "id": "simplify:ca77963d-0044-444d-aeb7-0ac69f78dfe0",
-      "company": "USAA",
-      "title": "Quantitative Risk Analyst Intern",
-      "location": "San Antonio, TX",
-      "locations": [
-        "San Antonio, TX"
-      ],
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:27148df8-804c-4b4c-a33c-a6fc38d4b9a4",
       "company": "Allegion",
       "title": "Systems Engineering Intern",
@@ -10379,24 +10255,6 @@
       ]
     },
     {
-      "id": "simplify:f67af8f4-d7ea-45af-a003-dc1b2e31c82e",
-      "company": "U.S. Bank",
-      "title": "Quantitative Modeling Intern",
-      "location": "Charlotte, NC",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:2339b28c-2c1e-486e-a448-13adc31b9ad2",
       "company": "Dimensional Fund Advisors",
       "title": "Software Engineer Intern",
@@ -10807,59 +10665,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5c47dfa0-2340-4231-a8bc-20e900f594c7",
-      "company": "NXP Semiconductors",
-      "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3f0e549f-ef89-4f97-ac81-4a1e62d26df8",
-      "company": "NXP Semiconductors",
-      "title": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8397cb87-3af2-4163-882e-c53dfaf8c106",
-      "company": "NXP Semiconductors",
-      "title": "Design for Test Engineer Intern - Summer 2027",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -11547,23 +11352,6 @@
       "date_posted": "2026-09-03",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2067b1aa-897b-44a4-9358-1cdc8aefc9ef",
-      "company": "Symphony",
-      "title": "Software Developer Placement",
-      "location": "Belfast, UK",
-      "locations": [
-        "Belfast, UK"
-      ],
-      "url": "https://symphony.com/company/apply?gh_jid=8121112",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -14586,23 +14374,6 @@
       ]
     },
     {
-      "id": "simplify:6113dc2e-a00a-40c7-b161-6f52493ddb5d",
-      "company": "Stryten",
-      "title": "Electrical Engineer Intern",
-      "location": "Alpharetta, GA",
-      "locations": [
-        "Alpharetta, GA"
-      ],
-      "url": "https://jobs.stryten.com/jobs/5800?icims=1",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8254bef8-0753-4347-9bd2-47e5536eab40",
       "company": "Stryker",
       "title": "Software Engineering Intern - Software Engineering",
@@ -16515,29 +16286,6 @@
       ]
     },
     {
-      "id": "simplify:501d315c-b9a3-47c7-b07e-24c99ed76f46",
-      "company": "AMD",
-      "title": "Hardware Design Verification Engineer Intern/Co-op",
-      "location": "Secaucus, NJ +6 more",
-      "locations": [
-        "Secaucus, NJ",
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Boxborough, MA"
-      ],
-      "url": "https://careers.amd.com/jobs/90813?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:0446e9d0-fc91-4c78-970a-fe7b5809cd30",
       "company": "AMD",
       "title": "Firmware Engineer Co-op/Intern",
@@ -16636,28 +16384,6 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027 / Fall 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9bb86009-15b1-4f9e-b9ad-f58d7762aebb",
-      "company": "AMD",
-      "title": "Hardware Engineer Intern/Co-op - Hardware Engineering",
-      "location": "Rochester, NY +5 more",
-      "locations": [
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Boxborough, MA"
-      ],
-      "url": "https://careers.amd.com/jobs/91182?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027 / Fall 2027",
-      "category": "Hardware",
       "degrees": [
         "Master's"
       ]
@@ -17032,25 +16758,6 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:78faf2f2-9391-4542-b593-468ce69a67b5",
-      "company": "NVIDIA",
-      "title": "Mixed Signal Design Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
         "Master's",
         "PhD"
       ]
@@ -17440,6 +17147,26 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
