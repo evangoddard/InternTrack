@@ -15,7 +15,9 @@ export async function signIn(formData: FormData) {
   }
 
   revalidatePath("/", "layout");
-  redirect("/");
+  // Straight into the app. `/` would bounce here anyway now that it is the
+  // marketing page, but going direct saves a redirect hop.
+  redirect("/dashboard");
 }
 
 export async function signUp(formData: FormData) {
@@ -29,12 +31,10 @@ export async function signUp(formData: FormData) {
   }
 
   // New Supabase projects default to requiring email confirmation before
-  // sign-in works, so this can't just log the user in immediately.
-  redirect(
-    `/login?message=${encodeURIComponent(
-      "Check your email to confirm your account, then sign in."
-    )}`
-  );
+  // sign-in works, so this can't just log the user in immediately. The flow
+  // pauses here while the user goes to their inbox, which is why it lands on a
+  // page that explains that rather than on the sign-in form with a banner.
+  redirect("/signup/check-email");
 }
 
 export async function signOut() {
