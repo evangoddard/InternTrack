@@ -1,11 +1,76 @@
 {
   "stats": {
-    "postings_tracked": 1187,
+    "postings_tracked": 1181,
     "sources": 1,
     "companies": 456,
     "last_updated": "2026-10-05"
   },
   "postings": [
+    {
+      "id": "simplify:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
+      "company": "Mohawk",
+      "title": "Product Management Intern",
+      "location": "Calhoun, GA",
+      "locations": [
+        "Calhoun, GA"
+      ],
+      "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:29a143c0-c9f0-47c9-a9d7-fbce82ca89c9",
+      "company": "Thales",
+      "title": "Software Engineering Apprentice",
+      "location": "Cheadle, UK",
+      "locations": [
+        "Cheadle, UK"
+      ],
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:9a86cc73-6443-4f50-850e-597980caa699",
+      "company": "Airbus",
+      "title": "Hardware Engineering Apprentice",
+      "location": "Newport, UK",
+      "locations": [
+        "Newport, UK"
+      ],
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Hardware-Engineering---Electronics-Degree-Apprenticeship_JR10433054",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:db82b403-fb19-409c-bf56-457fd28a9c63",
+      "company": "Airbus",
+      "title": "Software Engineer Intern Apprentice",
+      "location": "Newport, UK",
+      "locations": [
+        "Newport, UK"
+      ],
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
     {
       "id": "simplify:3318c591-4135-42fd-aee3-50ae988fc30f",
       "company": "Keysight Technologies",
@@ -2682,23 +2747,6 @@
       ]
     },
     {
-      "id": "simplify:5de70651-7d69-4108-95c3-555e83062f78",
-      "company": "Manulife Financial",
-      "title": "Product Management & Risk Technology Co-op",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a2e915b7-cd1b-4137-9c87-a2707b3de604",
       "company": "ABB",
       "title": "Product Management Intern",
@@ -3095,21 +3143,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:8fb8da69-0fc8-4982-b79c-f2c3bd7b24b5",
-      "company": "Royal Bank of Canada",
-      "title": "Data Engineer Co-op",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Data-Engineer--8-months-_R-0000188584",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:aea50023-bfc4-4203-a4d7-f3decbe8ebd6",
@@ -7555,24 +7588,6 @@
       ]
     },
     {
-      "id": "simplify:b2720777-ec3e-4cab-a61d-8437236e8363",
-      "company": "LabCorp",
-      "title": "IT Product Manager Intern - Payer Team",
-      "location": "Durham, NC",
-      "locations": [
-        "Durham, NC"
-      ],
-      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:16d72e19-4fbb-4539-842e-ab1c221c3562",
       "company": "Rolls-Royce",
       "title": "Junior Machine Learning Engineer Intern",
@@ -7623,6 +7638,40 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:580171f7-4613-4a78-b99a-3b85b469f5d0",
+      "company": "TD Bank",
+      "title": "Software Engineer Intern - Global Technology & Solutions",
+      "location": "Mt Laurel Township, NJ",
+      "locations": [
+        "Mt Laurel Township, NJ"
+      ],
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
+      "date_posted": "2026-09-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
+      "company": "TD Bank",
+      "title": "Data Engineer Intern - Global Technology & Solutions",
+      "location": "Mt Laurel Township, NJ",
+      "locations": [
+        "Mt Laurel Township, NJ"
+      ],
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+      "date_posted": "2026-09-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -7979,23 +8028,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:1de3a007-a2fa-4dda-9ba0-055c6f70c3d4",
-      "company": "The Friedkin Group",
-      "title": "IT Data Analytics Intern - Business Systems & AI",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -10867,44 +10899,6 @@
       ]
     },
     {
-      "id": "simplify:ce256f4f-ba4c-4eca-8f2a-42872413fa6f",
-      "company": "Royal Bank of Canada",
-      "title": "Data Engineer - RBC Amplify",
-      "location": "Halifax Regional Municipality, NS, Canada",
-      "locations": [
-        "Halifax Regional Municipality, NS, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000187117",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:73ffef1b-8361-47db-a713-1364328aa70c",
-      "company": "Royal Bank of Canada",
-      "title": "Data Engineer - RBC Amplify 2027",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000187113",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:26b899cd-fb20-45b5-b6b5-8dd3ad3e54c8",
       "company": "Blackstone",
       "title": "Software Engineer Summer Analyst - Technology and Innovations",
@@ -12460,23 +12454,6 @@
       ]
     },
     {
-      "id": "simplify:09cac698-c1c9-40d2-92e8-212671869939",
-      "company": "HD Supply",
-      "title": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:41911f17-07a7-48d7-851e-c45ea9dc2e89",
       "company": "TWG Global",
       "title": "Data Science Intern - MAQR",
@@ -12576,24 +12553,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6de536a3-1aec-4953-91d2-43e21e6062ef",
-      "company": "Post Holdings",
-      "title": "Data Science Intern - Summer 2027",
-      "location": "Lakeville, MN",
-      "locations": [
-        "Lakeville, MN"
-      ],
-      "url": "https://jobs.postholdings.com/jobs/31961?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -14630,23 +14589,6 @@
       ]
     },
     {
-      "id": "simplify:78fab1c2-9f47-412d-8659-873843843c0a",
-      "company": "Manulife Financial",
-      "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
       "company": "Adobe",
       "title": "Machine Learning Engineer Intern",
@@ -15079,23 +15021,6 @@
         "El Segundo, CA"
       ],
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:caa5d432-7f4d-4c1f-92de-98d8fd87d850",
-      "company": "Manulife Financial",
-      "title": "Software Engineering Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680",
       "date_posted": "2026-08-27",
       "deadline": "",
       "season": "Summer 2027",
@@ -17182,44 +17107,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
