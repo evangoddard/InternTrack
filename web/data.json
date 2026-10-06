@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1248,
+    "postings_tracked": 1246,
     "sources": 1,
-    "companies": 483,
+    "companies": 481,
     "last_updated": "2026-10-06"
   },
   "postings": [
@@ -3458,27 +3458,6 @@
       "date_posted": "2026-09-28",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0c9a496a-20f1-4b3e-bdde-ccc6fe56f70d",
-      "company": "CVS Health",
-      "title": "Software Engineer Intern",
-      "location": "Hartford, CT +4 more",
-      "locations": [
-        "Hartford, CT",
-        "NYC",
-        "Woonsocket, RI",
-        "Irving, TX",
-        "Wellesley, MA"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---UG-Intern-Conversion_R1055246",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -6993,21 +6972,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:2655bb99-a78d-4a0c-9a3f-947a9579f7bf",
-      "company": "Nasdaq",
-      "title": "Software Developer/Engineer Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:674b6824-6b78-406d-80dc-1f26ba47bbd1",
