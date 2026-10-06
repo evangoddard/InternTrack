@@ -1,11 +1,82 @@
 {
   "stats": {
-    "postings_tracked": 1245,
+    "postings_tracked": 1248,
     "sources": 1,
-    "companies": 482,
+    "companies": 483,
     "last_updated": "2026-10-06"
   },
   "postings": [
+    {
+      "id": "simplify:b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
+      "company": "Space Dynamics Laboratory",
+      "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+      "location": "North Logan, UT",
+      "locations": [
+        "North Logan, UT"
+      ],
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2e5df730-d9a8-47e0-aac3-c386a7274276",
+      "company": "Space Dynamics Laboratory",
+      "title": "Software Engineer Intern - AI Enabled Software Development",
+      "location": "North Logan, UT",
+      "locations": [
+        "North Logan, UT"
+      ],
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e6f9e297-654b-4ab5-a79f-6d9f4d7f38dc",
+      "company": "Tenstorrent",
+      "title": "Hardware Intern - AI HW & System on a Chip",
+      "location": "Toronto, ON, Canada / Ottawa, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:50597a72-b855-4e2f-a7fe-130439c9ff69",
+      "company": "KKR",
+      "title": "Summer Analyst Intern - Insurance Risk - Data Science",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:8a42bb1e-8594-4567-9b1b-3293a2451a1f",
       "company": "Judi Health",
@@ -551,6 +622,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5fdf7b23-cdb5-4291-bf68-d6e4d8443b70",
+      "company": "Allegion",
+      "title": "Product Management Intern",
+      "location": "Carmel, IN",
+      "locations": [
+        "Carmel, IN"
+      ],
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
@@ -4227,23 +4315,6 @@
       ]
     },
     {
-      "id": "simplify:8e1d2d44-a43d-4241-9e7d-fc23ed939862",
-      "company": "AMD",
-      "title": "ML Systems Research Engineering Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://careers.amd.com/jobs/90993?icims=1",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:195612f9-142a-49fb-9059-cfc4fe8c83de",
       "company": "Klaviyo",
       "title": "Machine Learning Engineer Intern",
@@ -4449,24 +4520,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:fe98fa31-597a-4003-89f0-89fa37a7c563",
-      "company": "Jabil",
-      "title": "Data Engineer Intern",
-      "location": "Tampa, FL / St. Petersburg, FL",
-      "locations": [
-        "Tampa, FL",
-        "St. Petersburg, FL"
-      ],
-      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -6292,6 +6345,23 @@
       ]
     },
     {
+      "id": "simplify:42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
+      "company": "Marvell",
+      "title": "SRAM Software Engineer Intern",
+      "location": "Burlington, VT",
+      "locations": [
+        "Burlington, VT"
+      ],
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Fall 2027 / Summer 2028",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
       "company": "Gordon Food Service",
       "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
@@ -6923,21 +6993,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:43d3c59e-64e3-4833-bc36-39a62abb1ded",
-      "company": "Jabil",
-      "title": "Server Platform Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Server-Platform-Intern_J2464685",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": []
     },
     {
       "id": "simplify:2655bb99-a78d-4a0c-9a3f-947a9579f7bf",
@@ -7990,21 +8045,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:f7628ce8-6895-4567-b889-509bb8769f10",
-      "company": "Space Dynamics Laboratory",
-      "title": "Web Developer Assistant - Enterprise Application Support Team",
-      "location": "North Logan, UT",
-      "locations": [
-        "North Logan, UT"
-      ],
-      "url": "https://spacedynamicslaboratory.applytojob.com/apply/nWr4gII3yE/Student-Web-Developer-Assistant",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:99be0eea-8a7f-4470-894d-d0dcc34dc9c7",
@@ -14534,6 +14574,23 @@
       ]
     },
     {
+      "id": "simplify:98540e92-9f57-4fcc-9005-6dc6593e8205",
+      "company": "Trane Technologies",
+      "title": "AI Intern - AI Product Management - AI Controls Integration",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:f24bc603-523e-46fb-b6f7-b7ed10094fcd",
       "company": "American Express",
       "title": "Data Management Intern - Global Merchant & Network Services",
@@ -17540,24 +17597,6 @@
       ]
     },
     {
-      "id": "simplify:b6461f19-ac97-4787-a3e5-e3529e7f1e28",
-      "company": "AMD",
-      "title": "Product Development Engineer Intern/Co-op",
-      "location": "San Jose, CA / Santa Clara, CA",
-      "locations": [
-        "San Jose, CA",
-        "Santa Clara, CA"
-      ],
-      "url": "https://careers.amd.com/jobs/91227?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:077623be-fd6b-4225-a9ec-9d56b4c17a64",
       "company": "AMD",
       "title": "Product Development Engineering Intern/Co-op",
@@ -18242,29 +18281,14 @@
       ]
     },
     {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
+      "url": "https://higher.gs.com/roles/175423?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -18277,14 +18301,48 @@
       ]
     },
     {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
       "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
       "locations": [
-        "West Palm Beach, FL"
+        "Salt Lake City, UT"
       ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -19129,6 +19187,23 @@
       ]
     },
     {
+      "id": "simplify:8fdae942-cdba-4211-9277-dd563870610d",
+      "company": "Vertiv",
+      "title": "Software Engineer Intern",
+      "location": "Delaware, OH",
+      "locations": [
+        "Delaware, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777",
+      "date_posted": "2026-08-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:e5dfef91-5533-406d-a42a-fab2b837638b",
       "company": "Chamberlain Group",
       "title": "Community Product Management Intern - Summer 2027",
@@ -19949,23 +20024,6 @@
         "Louisville, KY"
       ],
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern - Aeronautics Systems",
-      "location": "Melbourne, FL",
-      "locations": [
-        "Melbourne, FL"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "date_posted": "2026-08-05",
       "deadline": "",
       "season": "Summer 2027",
