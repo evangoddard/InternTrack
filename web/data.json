@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1277,
+    "postings_tracked": 1270,
     "sources": 1,
-    "companies": 499,
+    "companies": 493,
     "last_updated": "2026-10-07"
   },
   "postings": [
@@ -2167,23 +2167,6 @@
       ]
     },
     {
-      "id": "simplify:6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0",
-      "company": "GoTo Group",
-      "title": "Software Developer Intern - Contacts",
-      "location": "Remote in Canada",
-      "locations": [
-        "Remote in Canada"
-      ],
-      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:eaae45a5-af50-478c-8625-bd6b63b17181",
       "company": "NVIDIA",
       "title": "Research Intern - Efficient Deep Learning",
@@ -4161,28 +4144,6 @@
       ]
     },
     {
-      "id": "simplify:b63c229a-b9e1-411a-b923-cf39ce987d7b",
-      "company": "Efficient Computer",
-      "title": "Hardware/Silicon Intern",
-      "location": "SF +3 more",
-      "locations": [
-        "SF",
-        "Austin, TX",
-        "San Jose, CA",
-        "Pittsburgh, PA"
-      ],
-      "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:1f8a0413-c78d-4d89-a614-ceba126efdf8",
       "company": "Red Ventures",
       "title": "Data Science Intern - Launch Program",
@@ -5490,26 +5451,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:36fdb948-c215-4a20-afda-958941c4de18",
-      "company": "Google",
-      "title": "Product Manager Intern - Summer 2027",
-      "location": "SF +3 more",
-      "locations": [
-        "SF",
-        "San Bruno, CA",
-        "NYC",
-        "Mountain View, CA"
-      ],
-      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -9605,25 +9546,6 @@
       ]
     },
     {
-      "id": "simplify:16d72e19-4fbb-4539-842e-ab1c221c3562",
-      "company": "Rolls-Royce",
-      "title": "Junior Machine Learning Engineer Intern",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:ce4dc56d-2150-4131-9240-f6bbbc7072c6",
       "company": "Northrop Grumman",
       "title": "Engineering Technician Intern - Electrical Ground Support Equipment",
@@ -10685,21 +10607,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:d5b824b3-f478-49bb-8b20-9c1b283518f4",
-      "company": "RF-SMART",
-      "title": "Software Developer Intern - Product Engineering",
-      "location": "Jacksonville, FL",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:80e7f0b6-d4e0-42ce-bf04-602d8305702a",
@@ -15404,24 +15311,6 @@
       ]
     },
     {
-      "id": "simplify:a8fdee84-6f33-45c4-ba6b-61bc65d9fe5a",
-      "company": "Citi",
-      "title": "Quantitative Analysis - Off Cycle Placement",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
       "company": "Booz Allen",
       "title": "Systems Engineer Intern - Summer Games",
@@ -18997,21 +18886,6 @@
       "date_posted": "2026-08-14",
       "deadline": "",
       "season": "",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:db7ca646-e2f6-4a10-bc6b-1d67f5ffcddf",
-      "company": "Barclays",
-      "title": "Quantitative Finance Associate Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Quant",
       "degrees": []
     },
