@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1293,
+    "postings_tracked": 1280,
     "sources": 1,
-    "companies": 500,
+    "companies": 495,
     "last_updated": "2026-10-08"
   },
   "postings": [
@@ -525,24 +525,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f8f58448-a30c-4f0b-bd35-a8b3aee51172",
-      "company": "HCSC",
-      "title": "Enterprise Data Analyst Intern",
-      "location": "Chicago, IL / Richardson, TX",
-      "locations": [
-        "Chicago, IL",
-        "Richardson, TX"
-      ],
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -1119,24 +1101,6 @@
       ]
     },
     {
-      "id": "simplify:2310df58-69a1-4c21-bf0c-0ab23ab3e493",
-      "company": "Chenega",
-      "title": "Software Developer Intern",
-      "location": "Virginia",
-      "locations": [
-        "Virginia"
-      ],
-      "url": "https://careers.chenega.com/jobs/42444?icims=1",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
-      ]
-    },
-    {
       "id": "simplify:390b577f-8b47-4020-9b35-f850536b8fa2",
       "company": "JP Morgan Chase",
       "title": "Consumer & Community Banking Internship - Risk Modeling Associate Program",
@@ -1190,24 +1154,6 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f4c1cbda-bcc6-4e43-ab84-01f468e54479",
-      "company": "First Citizens BancShares",
-      "title": "Summer Intern - Card Product Management - Business to Business Payments",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://firstcitizens.jibeapply.com/jobs/35886?icims=1",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
         "Master's"
       ]
     },
@@ -1843,25 +1789,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:2b94f977-4dc4-418e-8e20-7004a6af1a13",
-      "company": "American Family Insurance Group",
-      "title": "Backend Digital Sales Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern--Backend-Digital-Sales_R39517",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
     },
     {
       "id": "simplify:724bc530-f375-4c7d-8605-6ece1804c72a",
@@ -3871,23 +3798,6 @@
       ]
     },
     {
-      "id": "simplify:bdbe894f-7bb6-4c44-89a5-a1fe503a66ba",
-      "company": "Philips",
-      "title": "Systems Test Engineering Intern",
-      "location": "New Kensington, PA",
-      "locations": [
-        "New Kensington, PA"
-      ],
-      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Test-Engineering---New-Kensington--PA---Summer-2027_591469",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:827ccc8c-5daf-4ca9-90a9-badca54261a8",
       "company": "General Motors",
       "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
@@ -4671,23 +4581,6 @@
       "degrees": [
         "Bachelor's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:cfd65384-8de0-4673-9086-3e19b4843b5e",
-      "company": "POET",
-      "title": "Software Developer Intern",
-      "location": "Sioux Falls, SD",
-      "locations": [
-        "Sioux Falls, SD"
-      ],
-      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -9920,23 +9813,6 @@
       ]
     },
     {
-      "id": "simplify:5088fa08-1fde-498a-b509-50c003c17fa5",
-      "company": "MBDA",
-      "title": "Software Engineer",
-      "location": "Stevenage, UK",
-      "locations": [
-        "Stevenage, UK"
-      ],
-      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d",
       "company": "Wex",
       "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
@@ -11947,24 +11823,6 @@
       ]
     },
     {
-      "id": "simplify:6ec4dc7c-08c6-44e6-9c5b-c979a4e6c33c",
-      "company": "Gallup",
-      "title": "Artificial Intelligence/Machine Learning Research Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/gallup/jobs/4395921009",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
       "company": "Coinbase",
       "title": "Software Engineer Intern",
@@ -12133,25 +11991,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:69b00435-ded2-4b2b-b17c-8301a26ab57e",
-      "company": "Tokyo Electron",
-      "title": "Software Engineer Intern - AI Research",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -13926,23 +13765,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:773a0053-7c9f-4410-ad10-28e5c8aa0b6d",
-      "company": "Susquehanna International Group",
-      "title": "FPGA Engineer Intern",
-      "location": "Bala Cynwyd, PA",
-      "locations": [
-        "Bala Cynwyd, PA"
-      ],
-      "url": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -17945,23 +17767,6 @@
       ]
     },
     {
-      "id": "simplify:28a744e2-2ac1-4370-ae97-b7520c9897dd",
-      "company": "Daktronics",
-      "title": "Hardware Design Co-op Intern - Firmware",
-      "location": "Brookings, SD",
-      "locations": [
-        "Brookings, SD"
-      ],
-      "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:afa7917f-eec9-411a-9a5c-e3aad5839ae6",
       "company": "Garmin",
       "title": "Software Engineer Intern",
@@ -18661,24 +18466,6 @@
       ]
     },
     {
-      "id": "simplify:09e061cd-a5e8-4059-bb6d-a0672a475328",
-      "company": "Fannie Mae",
-      "title": "Data Science Intern - Analytics & Modeling Program",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:a379a7a5-753b-4b9d-bc34-7fe34d527f1d",
       "company": "Sysco",
       "title": "Data Engineer Intern",
@@ -19041,23 +18828,6 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2d5652ce-87cd-41ef-8453-45d2959aa511",
-      "company": "Daktronics",
-      "title": "Firmware/Hardware Design Student",
-      "location": "Brookings, SD",
-      "locations": [
-        "Brookings, SD"
-      ],
-      "url": "https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
