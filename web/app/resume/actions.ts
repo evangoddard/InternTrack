@@ -5,6 +5,7 @@ import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { extractResumeText } from "@/lib/parseResume";
+import { overLimit } from "@/lib/rateLimit";
 
 export async function uploadResume(formData: FormData) {
   const supabase = await createClient();
@@ -12,6 +13,12 @@ export async function uploadResume(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+
+  // Document parsing is CPU-bound on an attacker-controlled payload, so
+  // uploads sit in the EXPENSIVE band rather than the WRITE one.
+  if (await overLimit("resumeUpload")) {
+    redirect(`/resume?error=${encodeURIComponent("Too many uploads just now. Wait a minute and try again.")}`);
+  }
 
   const file = formData.get("file");
   if (!(file instanceof File) || file.size === 0) {
@@ -61,6 +68,7 @@ export async function deleteResume(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) return;
 
   const id = String(formData.get("id") ?? "");
   const storagePath = String(formData.get("storage_path") ?? "");
