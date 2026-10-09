@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1307,
+    "postings_tracked": 1295,
     "sources": 1,
-    "companies": 508,
+    "companies": 503,
     "last_updated": "2026-10-09"
   },
   "postings": [
@@ -754,23 +754,6 @@
       ]
     },
     {
-      "id": "simplify:db2eb29a-0c4b-4164-a226-eb8dbfc81719",
-      "company": "Arizona State University",
-      "title": "Student Web Developer and Content Specialist Intern",
-      "location": "Tempe, AZ",
-      "locations": [
-        "Tempe, AZ"
-      ],
-      "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1544",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:0f9f1d1f-b0cd-4b74-b678-41c0646bb6dc",
       "company": "Sierra Nevada Corporation",
       "title": "Test Engineer 1 Intern",
@@ -1230,24 +1213,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:118adc1e-4c91-45e1-8654-5297c47e9a9c",
-      "company": "HCSC",
-      "title": "Systems Analyst Intern",
-      "location": "Chicago, IL / Richardson, TX",
-      "locations": [
-        "Chicago, IL",
-        "Richardson, TX"
-      ],
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -2031,24 +1996,6 @@
       "season": "",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:bc23c1eb-3ab0-4b67-a4a5-290a31053a40",
-      "company": "Astera Labs",
-      "title": "Firmware Engineer Intern - Retimer",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731593005",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:50499486-6332-4938-96b5-b56eb16e464d",
@@ -4389,23 +4336,6 @@
       "deadline": "",
       "season": "",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:363f7dd7-e0e6-4d7c-ac40-d5bd75bc50e3",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer Intern",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -7625,23 +7555,6 @@
       ]
     },
     {
-      "id": "simplify:058f883b-7a38-49f1-8ad9-45811313157b",
-      "company": "Gordon Food Service",
-      "title": "Software Engineer Intern",
-      "location": "Wyoming, MI",
-      "locations": [
-        "Wyoming, MI"
-      ],
-      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:174ee6de-f568-46b5-b589-eb54177d211e",
       "company": "Cambridge Investment Research",
       "title": "Software Engineer Intern",
@@ -9031,24 +8944,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ebbe3e8b-62a0-49ff-9ee8-7c72fc088c36",
-      "company": "Tighe & Bond",
-      "title": "GIS Intern - Geographic Information Systems",
-      "location": "Worcester, MA",
-      "locations": [
-        "Worcester, MA"
-      ],
-      "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ]
     },
     {
@@ -11079,24 +10974,6 @@
       ]
     },
     {
-      "id": "simplify:e97a377e-d1c0-4278-86c7-389bacdaa737",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Decision Science Intern - Software Engineer",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60040?icims=1",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:df13ab5f-9eb4-4357-86df-afc457026297",
       "company": "Citizens Financial Group",
       "title": "Software Engineer Intern",
@@ -11868,23 +11745,6 @@
       ]
     },
     {
-      "id": "simplify:8db6ea78-3c40-41b2-9388-56379c84d193",
-      "company": "Rockefeller Capital Management",
-      "title": "Summer Analyst Intern - Core Platforms",
-      "location": "Hamilton Township, NJ",
-      "locations": [
-        "Hamilton Township, NJ"
-      ],
-      "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:26b76573-439e-42cf-b4a5-f38f8408610c",
       "company": "Epic Games",
       "title": "Backend Services Programmer Intern - Epic Games Services",
@@ -12362,23 +12222,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:0601574e-b3fe-447e-b449-99a6e8022d37",
-      "company": "Coinbase",
-      "title": "Product Manager Intern - HR Technology",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8175504",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:8c38dae4-969d-4c95-83c5-685fd048d556",
@@ -15301,23 +15144,6 @@
         "Cincinnati, OH"
       ],
       "url": "https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f33a9b6b-aaf2-4d1c-b524-ceb79605cae0",
-      "company": "Dev Technology Group",
-      "title": "Microsoft Power Platform & AI Intern - Summer 2027",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002",
       "date_posted": "2026-09-01",
       "deadline": "",
       "season": "Summer 2027",
@@ -18919,40 +18745,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
-      "company": "Sysco",
-      "title": "Software Engineer Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a379a7a5-753b-4b9d-bc34-7fe34d527f1d",
-      "company": "Sysco",
-      "title": "Data Engineer Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R263666",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
