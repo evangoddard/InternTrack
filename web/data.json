@@ -1,11 +1,370 @@
 {
   "stats": {
-    "postings_tracked": 1295,
+    "postings_tracked": 1324,
     "sources": 1,
-    "companies": 503,
-    "last_updated": "2026-10-09"
+    "companies": 511,
+    "last_updated": "2026-10-10"
   },
   "postings": [
+    {
+      "id": "simplify:04abf4d8-48c2-4b8e-8ba1-c572d1072c66",
+      "company": "Meter",
+      "title": "Hardware Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
+      "date_posted": "2026-10-10",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c1bfc677-4730-4b31-93f8-ba0df7d7bea1",
+      "company": "Zipline",
+      "title": "Firmware Engineer Intern",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
+      "date_posted": "2026-10-10",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f9331c57-9f2e-4121-826e-ffb2283c7dac",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Conversational AI",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://lifeattiktok.com/search/7670689681491364101",
+      "date_posted": "2026-10-10",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2388f5c0-f4ed-4f97-a130-7d2b82020b8f",
+      "company": "Microsoft",
+      "title": "Research Intern - Document Intelligence and Content Understanding",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d5b1be21-ea3d-442a-ac92-5df1ec91238c",
+      "company": "Electronic Arts",
+      "title": "Software Engineer Co-op",
+      "location": "Vancouver, BC, Canada",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c150fc14-14cb-445f-b7a5-4f8d6b827ffc",
+      "company": "Electronic Arts",
+      "title": "Gameplay Software Engineer Co-op",
+      "location": "Vancouver, BC, Canada",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3fee6412-b96e-41cf-a210-558b2b32773d",
+      "company": "Arcesium",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:dd2973ae-073f-4dfb-a211-94b50b8b7a19",
+      "company": "GCM Grosvenor",
+      "title": "Software Engineer Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b5bd0081-1033-4882-b221-b3f4cc06d1ec",
+      "company": "TikTok",
+      "title": "Creative Product Manager Intern - Multiple Teams",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7693732178706974981",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ffaf0532-3d86-47e9-913d-f140b9704039",
+      "company": "TikTok",
+      "title": "Creative Product Operations Intern - Multiple Teams",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7693727532178229509",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b17cd560-c6e3-41da-9178-9503bee4c38f",
+      "company": "AMD",
+      "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+      "location": "Orlando, FL",
+      "locations": [
+        "Orlando, FL"
+      ],
+      "url": "https://careers.amd.com/jobs/91341?icims=1",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:87c12d78-b4ea-404f-bbdb-ed520fbd0363",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1674394627579563",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bb10a312-e126-437d-8d52-a7ac6bf0b6e0",
+      "company": "Meta",
+      "title": "ASIC Engineer Intern - Architecture",
+      "location": "Austin, TX / Sunnyvale, CA",
+      "locations": [
+        "Austin, TX",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1096213456288397",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:3e1a9b0c-a147-4224-97ba-2a5ca77abd2f",
+      "company": "Meta",
+      "title": "Production Systems Engineer Intern",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1772445513807075",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:8581d540-5c15-4927-a31a-03e9b87aee0b",
+      "company": "SageSure",
+      "title": "Software Product Management Intern",
+      "location": "Chicago, IL +2 more",
+      "locations": [
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Mountain View, CA"
+      ],
+      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:377048f7-30b7-4b39-9f96-8465dcf9369b",
+      "company": "SageSure",
+      "title": "Data Scientist Intern",
+      "location": "Jersey City, NJ / Cheshire, CT",
+      "locations": [
+        "Jersey City, NJ",
+        "Cheshire, CT"
+      ],
+      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719514006",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:88b628fa-9041-4dbf-8ac0-1d6f9c9d6f13",
+      "company": "SageSure",
+      "title": "Data Science Intern",
+      "location": "Jersey City, NJ",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719539006",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7c5bf4c8-4460-4368-ae88-3abf181dd598",
+      "company": "SageSure",
+      "title": "Software Engineer Intern",
+      "location": "Chicago, IL +2 more",
+      "locations": [
+        "Chicago, IL",
+        "Jersey City, NJ",
+        "Mountain View, CA"
+      ],
+      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:35aa37ee-4d30-400a-9cda-51c1ab96d32a",
+      "company": "Vertiv",
+      "title": "Energy Storage Product Management Intern",
+      "location": "Delaware, OH",
+      "locations": [
+        "Delaware, OH"
+      ],
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "MBA"
+      ]
+    },
+    {
+      "id": "simplify:16b61d0f-fc3f-4be6-91dc-7dbdb0ba1a21",
+      "company": "Bosch Home Comfort",
+      "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154759734",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:71e07142-eba9-4f0e-b4b8-57bd2f823ffc",
+      "company": "Loram",
+      "title": "Machine Learning / Artificial Intelligence Intern - AI",
+      "location": "Hamel, Medina, MN",
+      "locations": [
+        "Hamel, Medina, MN"
+      ],
+      "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:18bad5bf-089e-4921-991f-09e20254da1d",
       "company": "John Deere",
@@ -91,23 +450,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:56567a1f-dbe4-43c3-9d87-2fb28cca1801",
-      "company": "AMD",
-      "title": "Undergrad Validation/Debug Co-op",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://careers.amd.com/jobs/90719?icims=1",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -262,6 +604,185 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1b33c845-07cb-4af5-b2c6-61e8d9510af2",
+      "company": "Daimler Truck",
+      "title": "Data Science Intern",
+      "location": "Portland, OR",
+      "locations": [
+        "Portland, OR"
+      ],
+      "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Data-Science-Intern_DT-20166-1",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:03eb8bf0-819f-42fb-9468-e63bf47f7af3",
+      "company": "BorgWarner",
+      "title": "Systems Integration Engineer Intern",
+      "location": "Kokomo, IN",
+      "locations": [
+        "Kokomo, IN"
+      ],
+      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/System-Integration-Intern_R2026-4042",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5fb4d896-a9c6-45e7-86c0-d27e03d7d551",
+      "company": "Applied Materials",
+      "title": "Software Engineer Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:dcc47656-238c-4190-a9a0-2dba499a3a07",
+      "company": "NVIDIA",
+      "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:5bf92a94-5d4b-4a85-a6c6-ede434a4e74b",
+      "company": "Applied Materials",
+      "title": "Electrical Engineer Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2be561b9-160a-48ef-bd5b-6428e001f402",
+      "company": "GlobalFoundries",
+      "title": "Software Engineer Intern",
+      "location": "Austin, TX / Santa Clara, CA",
+      "locations": [
+        "Austin, TX",
+        "Santa Clara, CA"
+      ],
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ffc142d8-54ce-4628-b359-7770b0566d0e",
+      "company": "Itron",
+      "title": "HR AI Data Science Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
+      "company": "Workday",
+      "title": "Product Manager Intern",
+      "location": "Vancouver, BC, Canada",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
+      "company": "Workday",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
+      "company": "Workday",
+      "title": "Software Engineer Intern",
+      "location": "Pleasanton, CA",
+      "locations": [
+        "Pleasanton, CA"
+      ],
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -8077,24 +8598,6 @@
       ]
     },
     {
-      "id": "simplify:7be2e4ed-d0ba-4c23-b8da-b92cee3f07f1",
-      "company": "Ragle Inc",
-      "title": "Software Engineer Intern",
-      "location": "North Richland Hills, TX",
-      "locations": [
-        "North Richland Hills, TX"
-      ],
-      "url": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:eb82ac41-1fb4-421d-8394-eb85b32a2c8a",
       "company": "GM financial",
       "title": "Data Science Intern",
@@ -9001,25 +9504,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:18052ece-e9bc-41d6-bcd9-f20ab241dcc2",
-      "company": "Superhuman",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Seattle, WA +2 more",
-      "locations": [
-        "Seattle, WA",
-        "SF",
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -11745,6 +12229,23 @@
       ]
     },
     {
+      "id": "simplify:8db6ea78-3c40-41b2-9388-56379c84d193",
+      "company": "Rockefeller Capital Management",
+      "title": "Summer Analyst Intern - Core Platforms",
+      "location": "Hamilton Township, NJ",
+      "locations": [
+        "Hamilton Township, NJ"
+      ],
+      "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-09-10",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:26b76573-439e-42cf-b4a5-f38f8408610c",
       "company": "Epic Games",
       "title": "Backend Services Programmer Intern - Epic Games Services",
@@ -13031,6 +13532,23 @@
       ]
     },
     {
+      "id": "simplify:c2c6db10-5836-4c07-a30a-b82ff757db89",
+      "company": "Buildertrend",
+      "title": "Software Engineer Intern",
+      "location": "Omaha, NE",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:2339b28c-2c1e-486e-a448-13adc31b9ad2",
       "company": "Dimensional Fund Advisors",
       "title": "Software Engineer Intern",
@@ -13166,6 +13684,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:107f6694-f8a2-45ff-bb58-e77552dc317c",
+      "company": "RTX",
+      "title": "Software Engineer Co-op",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027",
+      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -14993,24 +15529,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:af103bac-eb95-46b7-94e6-06439a9bd98c",
-      "company": "Ragle Inc",
-      "title": "Data Engineering Intern",
-      "location": "North Richland Hills, TX",
-      "locations": [
-        "North Richland Hills, TX"
-      ],
-      "url": "https://ragleinc.applytojob.com/apply/bOx8uiciOs/Data-Engineering-Intern-Summer-2027",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -20900,24 +21418,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:14af9b4a-6b3e-473b-844f-542a89afb184",
-      "company": "TikTok",
-      "title": "Recommendation Product Manager Intern - Content Ecosystem",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://lifeattiktok.com/search/7667874197682899205",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
