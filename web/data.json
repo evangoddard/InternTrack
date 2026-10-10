@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1321,
+    "postings_tracked": 1323,
     "sources": 1,
-    "companies": 510,
+    "companies": 511,
     "last_updated": "2026-10-10"
   },
   "postings": [
@@ -3674,6 +3674,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a251a7a4-2be2-4567-8c27-fe56f705f40e",
+      "company": "General Motors",
+      "title": "Machine Learning Intern - Autonomous Vehicles - Software Validation",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
       ]
     },
     {
@@ -22705,6 +22722,44 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:43929c26-d19b-4057-9543-bf087c4bbf62",
+      "company": "Medtronic",
+      "title": "Software Engineer Intern",
+      "location": "Boston, MA +20 more",
+      "locations": [
+        "Boston, MA",
+        "Santa Ana, CA",
+        "Fridley, MN",
+        "Santa Rosa, CA",
+        "Irvine, CA",
+        "Mansfield, MA",
+        "Mounds View, MN",
+        "Tempe, AZ",
+        "Memphis, TN",
+        "Brooklyn Center, MN",
+        "Plymouth, MN",
+        "Brooklyn Park, MN",
+        "Fort Worth, TX",
+        "Dexter, MI",
+        "North Haven, CT",
+        "Lafayette, CO",
+        "Minneapolis, MN",
+        "Newton, MA",
+        "Jacksonville, FL",
+        "Eatontown, NJ",
+        "Boulder, CO"
+      ],
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
+      "date_posted": "2026-08-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
