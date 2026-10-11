@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1325,
+    "postings_tracked": 1324,
     "sources": 1,
     "companies": 510,
     "last_updated": "2026-10-11"
@@ -11860,24 +11860,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:704919c0-90ff-43e4-8f99-9b3c97e85cb0",
-      "company": "Impulse Space",
-      "title": "RF Test Engineer Intern - Summer 2027",
-      "location": "Redondo Beach, CA",
-      "locations": [
-        "Redondo Beach, CA"
-      ],
-      "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
