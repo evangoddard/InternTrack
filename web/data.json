@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1330,
+    "postings_tracked": 1326,
     "sources": 1,
     "companies": 512,
-    "last_updated": "2026-10-10"
+    "last_updated": "2026-10-11"
   },
   "postings": [
     {
@@ -12084,25 +12084,6 @@
       ]
     },
     {
-      "id": "simplify:e1ff445a-9dad-4e51-8528-9a0779013170",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/59997?icims=1",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:0c28ec70-1138-4464-8cfe-9732f94e0dbd",
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Engineering/Science Intern - Tailored Autonomous Systems",
@@ -12736,25 +12717,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:dfb380dd-b7ba-430b-adc2-601ea8844847",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Optical Engineer Intern - Imaging Systems",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/59996?icims=1",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
     },
     {
       "id": "simplify:f110d4a7-32ed-49ae-a14e-357e17fe995a",
@@ -19753,14 +19715,14 @@
       ]
     },
     {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
-      "location": "London, UK",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
       "locations": [
-        "London, UK"
+        "Salt Lake City, UT"
       ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
+      "url": "https://higher.gs.com/roles/171551?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -19770,14 +19732,32 @@
       ]
     },
     {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
       "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "location": "London, UK",
       "locations": [
         "London, UK"
       ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
+      "url": "https://higher.gs.com/roles/175427?type=students",
       "date_posted": "2026-08-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -19787,55 +19767,6 @@
         "PhD",
         "JD",
         "MD"
-      ]
-    },
-    {
-      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175421?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171548?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171532?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
