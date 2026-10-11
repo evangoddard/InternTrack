@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1326,
+    "postings_tracked": 1319,
     "sources": 1,
-    "companies": 512,
+    "companies": 509,
     "last_updated": "2026-10-11"
   },
   "postings": [
@@ -7917,6 +7917,24 @@
       ]
     },
     {
+      "id": "simplify:31a0fc19-0802-4ac8-8ade-8e82adc4d1a9",
+      "company": "Cambridge Investment Research",
+      "title": "Data Engineer Intern - Business Intelligence and Insights",
+      "location": "Fairfield, IA / Phoenix, AZ",
+      "locations": [
+        "Fairfield, IA",
+        "Phoenix, AZ"
+      ],
+      "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Phoenix-AZ/Data-Engineering-Intern_R-2025-221",
+      "date_posted": "2026-09-18",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:f9a08de0-d633-4b19-b444-8002689fc795",
       "company": "General Motors",
       "title": "Product Management Intern - Digital Product",
@@ -8577,6 +8595,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a713c0fc-8fe6-4def-ab15-d55db5742ac4",
+      "company": "Mercor",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application?embed=true",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -10924,40 +10959,6 @@
       ]
     },
     {
-      "id": "simplify:580171f7-4613-4a78-b99a-3b85b469f5d0",
-      "company": "TD Bank",
-      "title": "Software Engineer Intern - Global Technology & Solutions",
-      "location": "Mt Laurel Township, NJ",
-      "locations": [
-        "Mt Laurel Township, NJ"
-      ],
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
-      "date_posted": "2026-09-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
-      "company": "TD Bank",
-      "title": "Data Engineer Intern - Global Technology & Solutions",
-      "location": "Mt Laurel Township, NJ",
-      "locations": [
-        "Mt Laurel Township, NJ"
-      ],
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
-      "date_posted": "2026-09-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:155087e9-02c4-4e9c-af43-3d7e5a3a6091",
       "company": "Klaviyo",
       "title": "Software Engineer Intern - Summer 2027",
@@ -13221,23 +13222,6 @@
       ]
     },
     {
-      "id": "simplify:a86d976f-a45c-46f8-8e48-98b4b743b137",
-      "company": "Fervo Energy",
-      "title": "Data Science & AI Engineering Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482829",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4bcd5c66-dd7f-4827-9604-aaf0042ab85a",
       "company": "Apple",
       "title": "GPU Intern - Multiple Teams",
@@ -13987,41 +13971,6 @@
       ]
     },
     {
-      "id": "simplify:d6503624-fb81-47da-989b-44e46b1bd144",
-      "company": "Fervo Energy",
-      "title": "Data Science Intern",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482813",
-      "date_posted": "2026-09-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5956d989-9997-4320-aaf9-1af66a816991",
-      "company": "Fervo Energy",
-      "title": "Software Engineering Intern - IT",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482857",
-      "date_posted": "2026-09-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b408bfd8-c7fe-48da-911e-8eefef6e6abc",
       "company": "Solidigm",
       "title": "Software Engineering Intern - Firmware & AI Engineering",
@@ -14123,23 +14072,6 @@
       "date_posted": "2026-09-04",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:232ef965-ae5a-429d-99d3-cba2eca04afe",
-      "company": "Fervo Energy",
-      "title": "Software Engineer Intern - Strategy",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482043",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "Summer 2026",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -19712,61 +19644,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "location": "Salt Lake City, UT",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "url": "https://higher.gs.com/roles/171551?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
