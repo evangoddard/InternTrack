@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1319,
+    "postings_tracked": 1317,
     "sources": 1,
-    "companies": 510,
+    "companies": 509,
     "last_updated": "2026-10-12"
   },
   "postings": [
+    {
+      "id": "simplify:ba7ed36a-7da0-4b9e-bed8-8f369041684d",
+      "company": "Bosch Home Comfort",
+      "title": "Robotics Research Intern",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
+      "date_posted": "2026-10-12",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:bb47dc93-f16f-46a0-b000-c7c3f10499df",
       "company": "C&S Wholesale Grocers",
@@ -5050,23 +5068,6 @@
       ]
     },
     {
-      "id": "simplify:c436ae49-cb5b-447d-9947-7f790cb0c8d9",
-      "company": "Robinhood",
-      "title": "Data Science Intern",
-      "location": "Menlo Park, CA",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8241738",
-      "date_posted": "2026-09-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
       "company": "Marvell",
       "title": "Test Engineer Intern",
@@ -7537,23 +7538,6 @@
       ]
     },
     {
-      "id": "simplify:7291b6ac-970f-4f7b-bbd8-67141ae89009",
-      "company": "GE Healthcare",
-      "title": "Data Analytics Intern",
-      "location": "Salt Lake City, UT",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Data-Analytics-Intern_R4046487-1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c191a9d6-9b36-4a73-8c8d-003126f28df7",
       "company": "Commerce Bank",
       "title": "Data Science Intern",
@@ -8198,24 +8182,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3c391a7a-0e89-4595-aa24-49015b1cf973",
-      "company": "bioM\u00e9rieux",
-      "title": "Systems Engineering Co-op",
-      "location": "Hazelwood, MO",
-      "locations": [
-        "Hazelwood, MO"
-      ],
-      "url": "https://jobs.jobvite.com/biofiredx/job/oY7OAfwd?nl=1&nl=1&fr=false",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
