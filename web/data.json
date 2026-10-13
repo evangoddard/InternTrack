@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1335,
+    "postings_tracked": 1339,
     "sources": 1,
     "companies": 510,
     "last_updated": "2026-10-13"
@@ -1043,25 +1043,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2bc31101-6642-4ce8-9de0-bd8422a0ea1e",
-      "company": "Schonfeld",
-      "title": "Quantitative Developer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -3573,6 +3554,26 @@
       ]
     },
     {
+      "id": "simplify:a5225dca-6c4a-48c9-880a-02b636fa5c57",
+      "company": "American Family Insurance Group",
+      "title": "Front End Developer Intern - Digital Sales",
+      "location": "Madison, WI / Boston, MA",
+      "locations": [
+        "Madison, WI",
+        "Boston, MA"
+      ],
+      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:b1048256-c61c-403f-80b6-70efb51fdd0e",
       "company": "Khan Academy",
       "title": "Software Engineer Intern",
@@ -5293,6 +5294,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
+      "company": "Marvell",
+      "title": "Firmware Engineer Intern - MS - Summer 2027",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:89b1d0e6-d40e-4e29-857a-17f380391687",
       "company": "CoStar Group",
       "title": "Embedded Software Engineer Intern",
@@ -6187,6 +6205,25 @@
       ]
     },
     {
+      "id": "simplify:7d75bd70-f568-420d-985e-c8ccd2632c8f",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60084?icims=1",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:4305964e-67a9-4802-9788-7885664c1c5c",
       "company": "Acuity",
       "title": "Firmware Development Intern",
@@ -6751,23 +6788,6 @@
       ]
     },
     {
-      "id": "simplify:bb6f4712-73ed-42a3-b9d0-121502853653",
-      "company": "Wex",
-      "title": "Software Engineer Intern - Enterprise Data & Systems - Salesforce & Snowflake",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:a2e915b7-cd1b-4137-9c87-a2707b3de604",
       "company": "ABB",
       "title": "Product Management Intern",
@@ -7088,23 +7108,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:aea50023-bfc4-4203-a4d7-f3decbe8ebd6",
-      "company": "Saab",
-      "title": "Electrical Engineering Co-op",
-      "location": "East Syracuse, NY",
-      "locations": [
-        "East Syracuse, NY"
-      ],
-      "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -7634,24 +7637,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0b484034-4163-4031-b4af-9bc1e7cf3b73",
-      "company": "Lazard",
-      "title": "Data Scientist Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6604",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -8244,23 +8229,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:fe4fdd20-3b89-49f6-9ae2-83e3a3305efd",
-      "company": "Klaviyo",
-      "title": "Product Manager Co-op - Spring 2027",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -11230,23 +11198,6 @@
       ]
     },
     {
-      "id": "simplify:89e69230-379f-4aee-89b4-80a000e2d655",
-      "company": "Wex",
-      "title": "AI & Data Platform Engineering Intern - Undergraduate",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ce4dc56d-2150-4131-9240-f6bbbc7072c6",
       "company": "Northrop Grumman",
       "title": "Engineering Technician Intern - Electrical Ground Support Equipment",
@@ -12223,14 +12174,14 @@
       ]
     },
     {
-      "id": "simplify:1ba047de-5b1e-41dd-a580-63697fc9688f",
+      "id": "simplify:76b40102-6b34-41c3-bb59-e6a394efa19f",
       "company": "Bedrock Robotics",
-      "title": "Validation & Verification Test Engineer Intern",
+      "title": "Sensor Systems Engineer Intern",
       "location": "SF",
       "locations": [
         "SF"
       ],
-      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
       "date_posted": "2026-09-10",
       "deadline": "",
       "season": "Summer 2027",
@@ -14410,24 +14361,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:7f24593d-1433-4515-9bd7-2e99e1078d7d",
-      "company": "Zoox",
-      "title": "Autonomy Safety Data Engineer",
-      "location": "Foster City, CA",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:ea127849-c2ce-48a3-8ef5-8024831dc02e",
@@ -19454,6 +19387,25 @@
       ]
     },
     {
+      "id": "simplify:26db23e0-d70f-49b8-ab98-f6c54330d92b",
+      "company": "NVIDIA",
+      "title": "Hardware Physical Design / VLSI Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:2698abcf-1f94-40b6-9881-1b14c416262f",
       "company": "NVIDIA",
       "title": "Computer Architecture Intern",
@@ -19840,6 +19792,167 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
@@ -21508,23 +21621,6 @@
       ]
     },
     {
-      "id": "simplify:79560962-eb14-4db4-8a83-ee23d27019aa",
-      "company": "Contoro",
-      "title": "Robotics Test & Validation Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true",
-      "date_posted": "2026-08-04",
-      "deadline": "",
-      "season": "Spring 2026 / Summer 2026 / Fall 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:14be19fd-d9b5-4218-9a72-21ca5a1b73da",
       "company": "American Express",
       "title": "Product Development Intern - US Consumer Services",
@@ -22905,21 +23001,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:3b3051e7-b37c-4a35-8381-355808d79aff",
-      "company": "Maven Securities",
-      "title": "Quant Trader Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552",
-      "date_posted": "2026-07-31",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:7e585c29-ea99-4f9f-8a51-a5c662d2c404",
