@@ -1,11 +1,343 @@
 {
   "stats": {
-    "postings_tracked": 1339,
+    "postings_tracked": 1355,
     "sources": 1,
-    "companies": 510,
+    "companies": 518,
     "last_updated": "2026-10-13"
   },
   "postings": [
+    {
+      "id": "simplify:2da5da2b-d4bb-411a-9edc-521c81a36a7a",
+      "company": "Pebl",
+      "title": "Software Engineering Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:26e816da-9dba-4778-81d4-c9a9d4b0fb1d",
+      "company": "Amazon",
+      "title": "Hardware Development Engineer Intern Co-op - Robotics",
+      "location": "North Reading, MA / Westborough, MA",
+      "locations": [
+        "North Reading, MA",
+        "Westborough, MA"
+      ],
+      "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:4cd89228-5cf0-4015-8a13-f56507d88e39",
+      "company": "Skydio",
+      "title": "Embedded Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:74893cea-eee0-4585-b084-f9d4652bc4ee",
+      "company": "Carbon Robotics",
+      "title": "Engineering Intern - Hardware & Software",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fa621e40-4b60-4912-8246-670d0d5554a6",
+      "company": "Netflix",
+      "title": "Software Engineer Intern",
+      "location": "LA / Los Gatos, CA",
+      "locations": [
+        "LA",
+        "Los Gatos, CA"
+      ],
+      "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:efd2f9e3-b980-4849-8985-5bf81191291e",
+      "company": "Keysight Technologies",
+      "title": "R&D Hardware Engineer Intern",
+      "location": "Santa Rosa, CA",
+      "locations": [
+        "Santa Rosa, CA"
+      ],
+      "url": "https://jobs.keysight.com/jobs/54670?icims=1",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
+      "company": "Rhombus",
+      "title": "Software Engineer Intern",
+      "location": "Sacramento, CA",
+      "locations": [
+        "Sacramento, CA"
+      ],
+      "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:aa14d682-dee4-485b-afd9-989398c047be",
+      "company": "Microsoft",
+      "title": "Research Intern - Agentic Data Memory",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:88c5a395-c548-42ca-a91a-698827c2c32c",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning for Biology and Healthcare",
+      "location": "Cambridge, MA",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:342edb51-b682-4daa-80fd-21c355143f3e",
+      "company": "Waymo",
+      "title": "Machine Learning Intern - Planning/Prediction",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e7154c19-1906-4634-9226-1da16eb77416",
+      "company": "ServiceNow",
+      "title": "AI Engineering Associate Software Engineer Intern",
+      "location": "Santa Clara, CA +3 more",
+      "locations": [
+        "Santa Clara, CA",
+        "West Palm Beach, FL",
+        "Kirkland, WA",
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a",
+      "company": "ServiceNow",
+      "title": "Software Engineer Intern",
+      "location": "Santa Clara, CA +3 more",
+      "locations": [
+        "Santa Clara, CA",
+        "West Palm Beach, FL",
+        "Kirkland, WA",
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d6a59007-c376-4c64-b058-0ba8d130fb04",
+      "company": "Meta",
+      "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI",
+      "location": "Burlingame, CA +2 more",
+      "locations": [
+        "Burlingame, CA",
+        "Redmond, WA",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1839680137188723",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:7084a49e-3850-40ca-983c-00543e76c91a",
+      "company": "Meta",
+      "title": "Research Scientist Intern - VLM and Omni Model Post-Training",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/2988199118196184",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:16f3944c-2006-402c-b670-5e04679732c3",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Egocentric Vision-Language Models",
+      "location": "Redmond, WA / Sunnyvale, CA",
+      "locations": [
+        "Redmond, WA",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/2067000203934229",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f891cd20-6938-4a8d-8079-4f5f42c0048e",
+      "company": "Meta",
+      "title": "Research Scientist Intern - AI & System Co-Design",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1062032900196411",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:074d9b09-f0c7-418f-b609-8f4b443a2fea",
+      "company": "Meta",
+      "title": "Research Scientist Intern - AI & Compute Foundation",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1866761794487684",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:8f0d6c7d-782e-4a89-ac98-ead97c6d0633",
+      "company": "Acadian Asset Management",
+      "title": "Quantitative Investment Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
+      "company": "Gallup",
+      "title": "Data Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ]
+    },
     {
       "id": "simplify:4f41f3de-17ab-49df-b857-cb501dbde8e5",
       "company": "Meta",
@@ -74,6 +406,219 @@
         "Bachelor's",
         "Master's",
         "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:a6857214-22fd-466c-b0e6-cfacc0ffaf82",
+      "company": "Northrop Grumman",
+      "title": "Computer Engineer Intern",
+      "location": "Manhattan Beach, CA",
+      "locations": [
+        "Manhattan Beach, CA"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:da7d3279-c791-439f-9eef-0970e4a0d0cb",
+      "company": "KLA",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Milpitas, CA",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/ML-Engineer-Intern_2641872",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:f25ac517-b641-4c69-87e1-685fcf4b4dbc",
+      "company": "KLA",
+      "title": "Software Engineer Intern - AI",
+      "location": "Ann Arbor, MI",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d9e4a180-0f27-4270-88cd-ec0195cdb5f3",
+      "company": "Prologis",
+      "title": "AI Product Management Intern",
+      "location": "Denver, CO",
+      "locations": [
+        "Denver, CO"
+      ],
+      "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bb94a732-f483-4037-8b53-5bc77b5cb33f",
+      "company": "Rolls-Royce",
+      "title": "Integrated Control Systems Engineer Intern - Software",
+      "location": "Indianapolis, IN",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d9d5f709-5391-48fe-9c5f-be8123c85772",
+      "company": "Jain Global",
+      "title": "Quant Research Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:10418cfa-4ae1-4f7a-8a52-bb2d1772ad29",
+      "company": "Unity",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Washington / Mountain View, CA",
+      "locations": [
+        "Washington",
+        "Mountain View, CA"
+      ],
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c61201f4-b86e-4bb7-b84f-193387bd5c65",
+      "company": "Motorola",
+      "title": "Software Engineering Co-op Intern",
+      "location": "Chicago, IL +2 more",
+      "locations": [
+        "Chicago, IL",
+        "Schaumburg, IL",
+        "Illinois"
+      ],
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:deb1de17-cf94-47bb-aaa5-ca71226b8f72",
+      "company": "Motorola",
+      "title": "Electrical Engineer / PCB Designer Intern",
+      "location": "Plantation, FL",
+      "locations": [
+        "Plantation, FL"
+      ],
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:41449f01-bdeb-458c-9422-d62de8a1f245",
+      "company": "NVIDIA",
+      "title": "Sparse Linear Algebra Libraries Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8eebdfbb-7dbb-49ee-9d30-efd2ef2c3c36",
+      "company": "MarketStar",
+      "title": "Data Engineering and Analytics Intern",
+      "location": "Massachusetts",
+      "locations": [
+        "Massachusetts"
+      ],
+      "url": "https://wasatchproperty.wd1.myworkdayjobs.com/en-US/MarketStarCareers/job/MarketStar-Massachusetts/Data-Engineering-and-Analytics-Intern_R22577",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:602db96f-f754-408e-b396-d3bdadbc3dac",
+      "company": "Jain Global",
+      "title": "Quantitative Developer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -1410,23 +1955,6 @@
       ]
     },
     {
-      "id": "simplify:d09259a7-0192-472c-a240-c348186c241d",
-      "company": "Walgreens",
-      "title": "Data Science Intern",
-      "location": "Deerfield, IL",
-      "locations": [
-        "Deerfield, IL"
-      ],
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:40023184-e683-401b-8f3c-c48358d79459",
       "company": "Westinghouse Electric Company",
       "title": "Fuel Engineering Data Analyst Intern",
@@ -1918,24 +2446,6 @@
       ]
     },
     {
-      "id": "simplify:813721e4-50a0-4bf9-baed-49735d2940d4",
-      "company": "7-Eleven",
-      "title": "Digital Product Manager Intern",
-      "location": "Irving, TX",
-      "locations": [
-        "Irving, TX"
-      ],
-      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:9336555d-472f-4804-b5f7-a1e52e004ac6",
       "company": "General Motors",
       "title": "Autonomous Driving Software Engineer Intern",
@@ -2088,6 +2598,24 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d9aac9f7-0c18-43c3-a877-644cfdbdb57a",
+      "company": "State Affairs",
+      "title": "Software Engineer Intern",
+      "location": "Washington, DC",
+      "locations": [
+        "Washington, DC"
+      ],
+      "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
+      "date_posted": "2026-10-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -2575,24 +3103,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:462322f2-1beb-463a-a5a1-44f7d36723a7",
-      "company": "Rivet Industries",
-      "title": "Software Engineer Intern",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914/application?embed=true",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -3554,26 +4064,6 @@
       ]
     },
     {
-      "id": "simplify:a5225dca-6c4a-48c9-880a-02b636fa5c57",
-      "company": "American Family Insurance Group",
-      "title": "Front End Developer Intern - Digital Sales",
-      "location": "Madison, WI / Boston, MA",
-      "locations": [
-        "Madison, WI",
-        "Boston, MA"
-      ],
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern--Digital-Sales_R39491",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:b1048256-c61c-403f-80b6-70efb51fdd0e",
       "company": "Khan Academy",
       "title": "Software Engineer Intern",
@@ -4320,6 +4810,23 @@
         "Richmond, BC, Canada"
       ],
       "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0",
+      "company": "GoTo Group",
+      "title": "Software Developer Intern - Contacts",
+      "location": "Remote in Canada",
+      "locations": [
+        "Remote in Canada"
+      ],
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
       "date_posted": "2026-10-05",
       "deadline": "",
       "season": "",
@@ -5928,23 +6435,6 @@
       ]
     },
     {
-      "id": "simplify:3ff46e87-4650-4945-9789-59d5f0457e04",
-      "company": "Leidos",
-      "title": "Electrical Hardware Design Engineer Intern",
-      "location": "Huntsville, AL",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4ef4ca83-8d9c-4cd1-8e29-f387730d3a3b",
       "company": "Xcel Energy",
       "title": "Computer Information Systems Intern",
@@ -6026,6 +6516,40 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c952a747-7189-4687-a073-04347d98d705",
+      "company": "H&R Block",
+      "title": "Product Management Intern - S",
+      "location": "Kansas City, MO",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "url": "https://careers.hrblock.com/jobs/76986?icims=1",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cb062e22-3c1a-451f-a4b8-bcb8167ea270",
+      "company": "H&R Block",
+      "title": "Software Engineer Intern",
+      "location": "Kansas City, MO",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "url": "https://careers.hrblock.com/jobs/76987?icims=1",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -6116,6 +6640,22 @@
         "Bachelor's",
         "Associate's"
       ]
+    },
+    {
+      "id": "simplify:348b5edc-892b-42e5-8da3-5eaf1dc12c7a",
+      "company": "DataRobot",
+      "title": "Deep Learning Research Engineer Intern",
+      "location": "Boston, MA / Massachusetts",
+      "locations": [
+        "Boston, MA",
+        "Massachusetts"
+      ],
+      "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Deep-Learning-Research-Engineer-Intern_R-102754",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
     },
     {
       "id": "simplify:63fae893-cd8b-4a05-b724-2e6878fb2308",
@@ -6542,6 +7082,24 @@
       "season": "Summer 2027 / Spring 2028 / Summer 2028 / Fall 2028 / Spring 2029",
       "category": "AI/ML/Data",
       "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:521a56a4-f683-4861-8565-e081a72736c1",
+      "company": "Boston Scientific",
+      "title": "Software Engineer Intern - R&D",
+      "location": "Arden Hills, MN",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
         "Master's"
       ]
     },
@@ -11059,40 +11617,6 @@
       ]
     },
     {
-      "id": "simplify:f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d",
-      "company": "Wex",
-      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d6dfcbeb-4029-4aad-bf63-959fcd1680cd",
-      "company": "Wex",
-      "title": "Full-Stack Software Engineer Intern - Undergraduate",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8d2559c4-15a3-4d4b-8b6c-541fcaab8354",
       "company": "Wex",
       "title": "Backend Software Engineer Intern - Java & AI - Master's",
@@ -11101,23 +11625,6 @@
         "Remote in USA"
       ],
       "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3f5cab3c-532c-4b28-ab03-48e5cd935bb0",
-      "company": "Wex",
-      "title": "Software Engineer Intern - AI & Cloud",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
       "date_posted": "2026-09-14",
       "deadline": "",
       "season": "Summer 2027",
@@ -11138,23 +11645,6 @@
       "date_posted": "2026-09-14",
       "deadline": "",
       "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
-      "company": "Wex",
-      "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -11243,6 +11733,23 @@
       "date_posted": "2026-09-12",
       "deadline": "",
       "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f968b448-0edf-43ed-9f4c-8954bef0183b",
+      "company": "Axon",
+      "title": "Software Engineer Intern - R&D Program",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003",
+      "date_posted": "2026-09-12",
+      "deadline": "",
+      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -12328,24 +12835,6 @@
         "Torrance, CA"
       ],
       "url": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application?embed=true",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:372ea6c8-21fa-43da-a41c-db0182967508",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/59764?icims=1",
       "date_posted": "2026-09-10",
       "deadline": "",
       "season": "Summer 2027",
@@ -15994,23 +16483,6 @@
       ]
     },
     {
-      "id": "simplify:974d081a-6d17-4aab-a42a-e9b35cafde7d",
-      "company": "Textron",
-      "title": "Software Engineer Intern - Electronic Systems",
-      "location": "Hunt Valley, Cockeysville, MD",
-      "locations": [
-        "Hunt Valley, Cockeysville, MD"
-      ],
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
       "company": "Textron",
       "title": "Software Engineer Intern - Crewed Land",
@@ -17423,23 +17895,6 @@
       ]
     },
     {
-      "id": "simplify:b5ff83aa-5027-4db1-8977-d9432d6e0795",
-      "company": "Oshkosh",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Dodge Center, MN",
-      "locations": [
-        "Dodge Center, MN"
-      ],
-      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5f0b34c1-fcc7-46c2-9772-8e8ce4bd4f5f",
       "company": "Oshkosh",
       "title": "Product Management Intern",
@@ -18764,25 +19219,6 @@
       ]
     },
     {
-      "id": "simplify:43314ea5-8533-4883-a5e5-5afdc6cff866",
-      "company": "Polaris",
-      "title": "Predictive Data Science Intern - Digital & IT",
-      "location": "Medina, MN / Plymouth, MN",
-      "locations": [
-        "Medina, MN",
-        "Plymouth, MN"
-      ],
-      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5a24ffd7-21dd-4446-9322-8b43eab99a97",
       "company": "Freddie Mac",
       "title": "Software Developer Intern - Single-Family",
@@ -19480,23 +19916,6 @@
       ]
     },
     {
-      "id": "simplify:1474720a-8c92-4fe6-adc2-0373d1b2fa67",
-      "company": "Zipline",
-      "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
-      "location": "South SF",
-      "locations": [
-        "South SF"
-      ],
-      "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:eeb5660e-5241-42ab-8b48-af7b01b81087",
       "company": "Garmin",
       "title": "Electrical Design Engineer Intern",
@@ -19792,167 +20211,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175421?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171548?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "location": "Salt Lake City, UT",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "url": "https://higher.gs.com/roles/171551?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171532?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175427?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
       ]
     },
     {
@@ -20915,6 +21173,28 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
+      "company": "Atoms",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Seattle, WA +4 more",
+      "locations": [
+        "Seattle, WA",
+        "SF",
+        "LA",
+        "NYC",
+        "Mountain View, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+      "date_posted": "2026-08-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
