@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1353,
+    "postings_tracked": 1343,
     "sources": 1,
-    "companies": 516,
+    "companies": 511,
     "last_updated": "2026-10-14"
   },
   "postings": [
@@ -831,21 +831,6 @@
       ]
     },
     {
-      "id": "simplify:155c8d93-ccf5-40ce-a59e-5011b213e79f",
-      "company": "Ascension",
-      "title": "Data Science Intern",
-      "location": "St. Louis, MO",
-      "locations": [
-        "St. Louis, MO"
-      ],
-      "url": "https://jobs.ascension.org/us/en/job/2026-465186",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:6329e45c-ea0a-4d61-960c-0235ebded567",
       "company": "Arcesium",
       "title": "Product Management Intern",
@@ -1296,25 +1281,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:27c7b2da-9496-41b2-9789-0dbc38114638",
-      "company": "General Dynamics Information Technology",
-      "title": "Defense Agencies Intern - AI/ML",
-      "location": "Falls Church, VA",
-      "locations": [
-        "Falls Church, VA"
-      ],
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "Associate's"
       ]
     },
     {
@@ -4501,24 +4467,6 @@
       ]
     },
     {
-      "id": "simplify:31cc6d53-82a9-4c54-b9da-84406b320237",
-      "company": "Rheem",
-      "title": "Electronics Hardware Systems Engineer Co-op",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:44534005-1a4b-4053-b1f5-4569f5b355ce",
       "company": "Corning",
       "title": "Engineering Data Analyst Intern",
@@ -7608,26 +7556,6 @@
       ]
     },
     {
-      "id": "simplify:d824265f-dd15-4d91-8ad3-661f123098c7",
-      "company": "State Farm",
-      "title": "Software Developer Intern - HR&D",
-      "location": "Tempe, AZ +3 more",
-      "locations": [
-        "Tempe, AZ",
-        "Dunwoody, GA",
-        "Richardson, TX",
-        "Bloomington, IL"
-      ],
-      "url": "https://jobs.statefarm.com/jobs/45689?icims=1",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:25f578d9-1330-4ae5-9608-a7740ea38a81",
       "company": "Astranis",
       "title": "Electrical Engineer Intern",
@@ -7715,28 +7643,6 @@
       "category": "Hardware",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:56176872-3480-423d-9dd5-9d705a881462",
-      "company": "Excellus BCBS",
-      "title": "College Intern - Mobile Software Engineering Team",
-      "location": "Rochester, NY +5 more",
-      "locations": [
-        "Rochester, NY",
-        "De Witt, NY",
-        "Utica, NY",
-        "Albany, NY",
-        "Binghamton, NY",
-        "Buffalo, NY"
-      ],
-      "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8577,23 +8483,6 @@
         "Montreal, QC, Canada"
       ],
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:05c29d98-1be6-40fd-a754-fa374b2a3774",
-      "company": "CAE",
-      "title": "C++ Backend Developer Intern - Image Generator",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-925---Dveloppeur-se--C-----Back-end--_123655",
       "date_posted": "2026-09-21",
       "deadline": "",
       "season": "",
@@ -13933,21 +13822,6 @@
       ]
     },
     {
-      "id": "simplify:97899cd4-de4e-4a30-88bb-d77f77c316cb",
-      "company": "Cox",
-      "title": "Data Scientist Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
       "company": "Dick's Sporting Goods",
       "title": "Product Management Intern - Corporate Internship",
@@ -18580,24 +18454,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a9b6e0e0-7d76-45b2-8d3b-c8a40a8342cd",
-      "company": "Maximor AI",
-      "title": "Software Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true",
-      "date_posted": "2026-08-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -23391,21 +23247,6 @@
       ]
     },
     {
-      "id": "simplify:42ac32cf-f533-4b2a-ba45-60441a95cdda",
-      "company": "TechInsights",
-      "title": "Software Developer Co-op",
-      "location": "Ottawa, ON, Canada",
-      "locations": [
-        "Ottawa, ON, Canada"
-      ],
-      "url": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026",
-      "date_posted": "2026-07-24",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:7e5feb76-9fea-420d-a0ea-32c19e256975",
       "company": "PDT Partners",
       "title": "Software Engineer Intern",
@@ -23582,21 +23423,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:92ec25b9-67cb-4a92-87d3-379a0012eb5d",
-      "company": "AQR Capital Management",
-      "title": "Trading Analyst Intern",
-      "location": "Greenwich, CT",
-      "locations": [
-        "Greenwich, CT"
-      ],
-      "url": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:29572b77-0c6f-4521-84e8-0931fe20e8e4",
