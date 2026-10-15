@@ -1,11 +1,82 @@
 {
   "stats": {
-    "postings_tracked": 1381,
+    "postings_tracked": 1379,
     "sources": 1,
-    "companies": 523,
+    "companies": 521,
     "last_updated": "2026-10-15"
   },
   "postings": [
+    {
+      "id": "simplify:c7140eb5-2f19-4542-98fb-6bc55aa74e46",
+      "company": "JP Morgan Chase",
+      "title": "AI Research Associate Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
+      "company": "Microsoft",
+      "title": "Researcher Intern - Coreai",
+      "location": "Redmond, WA / Mountain View, CA",
+      "locations": [
+        "Redmond, WA",
+        "Mountain View, CA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:22f472db-a55d-48cd-92a5-2f2073b6e594",
+      "company": "Microsoft",
+      "title": "Applied Sciences Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a0a19e3f-13fd-418d-ac34-dabe9b73c200",
+      "company": "PA Consulting",
+      "title": "Software and AI Systems Intern",
+      "location": "Melbourn, Royston, UK",
+      "locations": [
+        "Melbourn, Royston, UK"
+      ],
+      "url": "https://jobs.smartrecruiters.com/PAConsulting/744000155685700",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
       "company": "Tessera Labs",
@@ -2936,23 +3007,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
-      "company": "Cox",
-      "title": "Data Scientist Co-op",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -7629,24 +7683,6 @@
       ]
     },
     {
-      "id": "simplify:521a56a4-f683-4861-8565-e081a72736c1",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - R&D",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1ac553bb-ffc0-4a7f-8b30-56dc1a3d8f8a",
       "company": "GM financial",
       "title": "Data Engineer Intern",
@@ -9031,24 +9067,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1c5d275f-2e6f-4188-8951-f122d59a4f77",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -11403,56 +11421,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:99be0eea-8a7f-4470-894d-d0dcc34dc9c7",
-      "company": "Intuit",
-      "title": "Mobile Software Engineer Intern - iOS",
-      "location": "Charlotte, NC +4 more",
-      "locations": [
-        "Charlotte, NC",
-        "NYC",
-        "Mountain View, CA",
-        "Atlanta, GA",
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PhD",
-        "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7",
-      "company": "Intuit",
-      "title": "Mobile Software Engineer Intern - Android",
-      "location": "Charlotte, NC +4 more",
-      "locations": [
-        "Charlotte, NC",
-        "NYC",
-        "Mountain View, CA",
-        "Atlanta, GA",
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PhD",
-        "Associate's"
       ]
     },
     {
@@ -14224,23 +14192,6 @@
       ]
     },
     {
-      "id": "simplify:4dd3e095-652b-420e-ac75-fd7089db30f1",
-      "company": "ID.me",
-      "title": "Associate Product Manager New Grad",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:e6dbbc55-6f12-4929-aae1-6c7b7e14a24b",
       "company": "United Launch Alliance",
       "title": "Software Engineer Intern",
@@ -16187,25 +16138,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:68fd631c-5292-47c7-80c1-b9f1acb63be3",
-      "company": "Royal Bank of Canada",
-      "title": "Quantitative Analyst Summer Associate - Quantitative Technology Services",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-1",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -19210,6 +19142,23 @@
       "date_posted": "2026-08-25",
       "deadline": "",
       "season": "Winter 2027 / Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5083f980-f378-47f2-9737-61eb9fbeeac0",
+      "company": "Brunswick",
+      "title": "G3 Software Engineer Intern",
+      "location": "Oshkosh, WI",
+      "locations": [
+        "Oshkosh, WI"
+      ],
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+      "date_posted": "2026-08-25",
+      "deadline": "",
+      "season": "Summer 2027",
       "category": "Software",
       "degrees": [
         "Bachelor's"
