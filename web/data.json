@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1360,
+    "postings_tracked": 1348,
     "sources": 1,
-    "companies": 517,
+    "companies": 510,
     "last_updated": "2026-10-15"
   },
   "postings": [
@@ -934,24 +934,6 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:74893cea-eee0-4585-b084-f9d4652bc4ee",
-      "company": "Carbon Robotics",
-      "title": "Engineering Intern - Hardware & Software",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:fa621e40-4b60-4912-8246-670d0d5554a6",
@@ -2307,24 +2289,6 @@
       ]
     },
     {
-      "id": "simplify:71e07142-eba9-4f0e-b4b8-57bd2f823ffc",
-      "company": "Loram",
-      "title": "Machine Learning / Artificial Intelligence Intern - AI",
-      "location": "Hamel, Medina, MN",
-      "locations": [
-        "Hamel, Medina, MN"
-      ],
-      "url": "https://jobs.smartrecruiters.com/Loram1/3743990016031492",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1564dff4-1455-4c39-8484-e1940718b5df",
       "company": "WTW",
       "title": "Software Developer Intern",
@@ -2887,21 +2851,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:8c2db8ba-8874-4c57-8689-34298f844251",
-      "company": "Meta",
-      "title": "Manufacturing Test Engineer Intern",
-      "location": "Sunnyvale, CA",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1866862250969693",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:f17be7f7-aa03-46fd-b07c-3e0f4355223c",
@@ -4319,24 +4268,6 @@
       "season": "",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:c7cc5ef1-9657-4ceb-8d67-f66cb04835a4",
-      "company": "Astera Labs",
-      "title": "Data Analyst Intern",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731996005",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:2246afaa-4221-4709-9120-48185cedb105",
@@ -7559,23 +7490,6 @@
       ]
     },
     {
-      "id": "simplify:099a34f8-de36-4008-b851-c1546eb7f942",
-      "company": "American Century Investments",
-      "title": "Software Developer Intern",
-      "location": "Kansas City, MO",
-      "locations": [
-        "Kansas City, MO"
-      ],
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:897cf111-754d-4f14-9819-92f0de243bae",
       "company": "Zurn Elkay Water Solutions",
       "title": "Embedded Firmware Intern - Summer 2027",
@@ -9436,21 +9350,6 @@
       ]
     },
     {
-      "id": "simplify:e2dab9b3-410e-452f-8887-b5fe754550ad",
-      "company": "Guardian Life",
-      "title": "Summer Intern - Group Benefits Product Management",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:e4881585-37e6-473f-9176-3a8c751f24ad",
       "company": "Cigna Group",
       "title": "Data Scientist Intern",
@@ -9496,23 +9395,6 @@
         "Wyoming, MI"
       ],
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8aed5327-2fc7-4616-9983-929999e4d871",
-      "company": "Athene",
-      "title": "Software Developer Intern",
-      "location": "West Des Moines, IA",
-      "locations": [
-        "West Des Moines, IA"
-      ],
-      "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125",
       "date_posted": "2026-09-18",
       "deadline": "",
       "season": "Summer 2027",
@@ -10982,24 +10864,6 @@
         "Sunnyvale, CA"
       ],
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Computer Engineer Intern - Shipboard Systems Group",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60049?icims=1",
       "date_posted": "2026-09-15",
       "deadline": "",
       "season": "Summer 2027",
@@ -13891,23 +13755,6 @@
       ]
     },
     {
-      "id": "simplify:57114f9d-d821-430f-ac60-02a5e53ef385",
-      "company": "ONE Finance",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3bf3d7c6-3d8d-41c3-98eb-a48df978d6e4",
       "company": "Two Sigma",
       "title": "Software Engineering Intern - Summer 2027",
@@ -15358,21 +15205,6 @@
       ]
     },
     {
-      "id": "simplify:ce1d2fc4-9efe-4f1c-8d00-8c6c23b607f0",
-      "company": "Mirego",
-      "title": "Software Developer Intern",
-      "location": "Qu\u00e9bec City, QC, Canada",
-      "locations": [
-        "Qu\u00e9bec City, QC, Canada"
-      ],
-      "url": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:23f69fe4-0c26-4065-97b0-4c06e0de21aa",
       "company": "AMD",
       "title": "ASIC Verification Engineer Intern/Co-op",
@@ -15802,24 +15634,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4209c5e8-720b-4527-aed6-1d5b57782d05",
-      "company": "GE Vernova",
-      "title": "Hardware Engineer Co-op - Critical Infrastructure Communications",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Co-op--Critical-Infrastructure-Communications----Summar-Fall-2027_R5051649-1",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -17912,22 +17726,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:d3e9acbe-429c-41ea-ad4b-0536beab6782",
-      "company": "Medline",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Chicago, IL / Northfield, IL",
-      "locations": [
-        "Chicago, IL",
-        "Northfield, IL"
-      ],
-      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
     },
     {
       "id": "simplify:fd8c8cd3-1a79-472d-8dae-d896f4660ce8",
