@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1377,
+    "postings_tracked": 1374,
     "sources": 1,
-    "companies": 519,
+    "companies": 518,
     "last_updated": "2026-10-16"
   },
   "postings": [
@@ -9244,24 +9244,6 @@
       ]
     },
     {
-      "id": "simplify:3ffeeada-412b-4314-ad45-08e3e40c327f",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Intern - Strategic Advisers",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:5292f2d8-70e9-44a6-a50e-aea6724dfacd",
       "company": "Symbotic",
       "title": "Software Engineer",
@@ -15197,24 +15179,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:175ef4c9-fecc-47c4-b091-217815858898",
-      "company": "Applied Materials",
-      "title": "Data Analyst Intern - Global Technical Learning Center",
-      "location": "Albany, NY",
-      "locations": [
-        "Albany, NY"
-      ],
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
-      "date_posted": "2026-09-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -21605,28 +21569,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Seattle, WA +4 more",
-      "locations": [
-        "Seattle, WA",
-        "SF",
-        "LA",
-        "NYC",
-        "Mountain View, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
