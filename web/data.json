@@ -1,11 +1,100 @@
 {
   "stats": {
-    "postings_tracked": 1348,
+    "postings_tracked": 1365,
     "sources": 1,
-    "companies": 510,
-    "last_updated": "2026-10-15"
+    "companies": 519,
+    "last_updated": "2026-10-16"
   },
   "postings": [
+    {
+      "id": "simplify:1a27a280-38f3-4db8-a51f-1be2dfd0f0f5",
+      "company": "Texas Instruments",
+      "title": "Device Reliability Engineer Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9d5c24d2-d38e-446d-adc3-1ec433cda69c",
+      "company": "Tower Research Capital",
+      "title": "Machine Learning Intern",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ddc91917-fa3a-4a9f-96c8-8b662e27d6c7",
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "title": "Critical Infrastructure Analysis Intern",
+      "location": "Livermore, CA",
+      "locations": [
+        "Livermore, CA"
+      ],
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016165496",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f3fe5670-e9b7-400c-b35b-2d10dd196257",
+      "company": "Muon Space",
+      "title": "Ground Software Engineer Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:880d606f-ddcd-46d5-afb3-f856298f18f6",
+      "company": "Duolingo",
+      "title": "Data Scientist Intern",
+      "location": "Pittsburgh, PA / NYC",
+      "locations": [
+        "Pittsburgh, PA",
+        "NYC"
+      ],
+      "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:c7140eb5-2f19-4542-98fb-6bc55aa74e46",
       "company": "JP Morgan Chase",
@@ -127,6 +216,109 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:da454250-765f-4b44-b25d-f4f5492cb3ec",
+      "company": "Centene",
+      "title": "AI Software Developer Intern",
+      "location": "Missouri",
+      "locations": [
+        "Missouri"
+      ],
+      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:b07a5da6-2c9f-4bf1-bf90-18ffff8232ae",
+      "company": "National Laboratory of the Rockies",
+      "title": "AI/ML for Cybersecurity Intern",
+      "location": "Golden, CO",
+      "locations": [
+        "Golden, CO"
+      ],
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d22f3e14-e4d1-4fff-9e8a-373760835d7d",
+      "company": "Leidos",
+      "title": "Performance Enablement AI/ML Intern",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6be326d4-b4e5-4d1a-9440-abd55d5a377d",
+      "company": "General Motors",
+      "title": "AI/ML Engineer Intern - Mapping - Masters",
+      "location": "Warren, MI",
+      "locations": [
+        "Warren, MI"
+      ],
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:81329086-6e0a-4f35-bef0-6e7e49507034",
+      "company": "Carrier Global",
+      "title": "Software Engineer Intern",
+      "location": "East Syracuse, NY",
+      "locations": [
+        "East Syracuse, NY"
+      ],
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1574e15c-77ef-47fe-b378-57f7771e9990",
+      "company": "ROCKWOOL Group",
+      "title": "Associate Product Management Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1425,6 +1617,23 @@
       ]
     },
     {
+      "id": "simplify:18e3866d-2742-4686-b497-2f6ec0eaa835",
+      "company": "KLA",
+      "title": "Research Scientist Intern - Plasma Light Source Characterization",
+      "location": "Ann Arbor, MI",
+      "locations": [
+        "Ann Arbor, MI"
+      ],
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:6329e45c-ea0a-4d61-960c-0235ebded567",
       "company": "Arcesium",
       "title": "Product Management Intern",
@@ -1960,23 +2169,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:04abf4d8-48c2-4b8e-8ba1-c572d1072c66",
-      "company": "Meter",
-      "title": "Hardware Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
-      "date_posted": "2026-10-10",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -7487,6 +7679,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:099a34f8-de36-4008-b851-c1546eb7f942",
+      "company": "American Century Investments",
+      "title": "Software Developer Intern",
+      "location": "Kansas City, MO",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -14133,6 +14342,23 @@
       ]
     },
     {
+      "id": "simplify:391c6a07-d7ad-4fb2-acb2-cffeb02a8a12",
+      "company": "C.H. Robinson",
+      "title": "Software Engineer Intern",
+      "location": "Eden Prairie, MN",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:2339b28c-2c1e-486e-a448-13adc31b9ad2",
       "company": "Dimensional Fund Advisors",
       "title": "Software Engineer Intern",
@@ -15637,6 +15863,24 @@
       ]
     },
     {
+      "id": "simplify:124b21b2-cf3e-4f05-b00b-9a085a704bbe",
+      "company": "GE Vernova",
+      "title": "Hardware Engineer Intern - Critical Infrastructure Communications",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Solutions---Hardware-Engineering-Intern--Critical-Infrastructure-Communications----Spring-Summer-2027_R5051647-1",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:f455fc61-2abc-42c1-96e2-b19e6f175508",
       "company": "Sierra Nevada Corporation",
       "title": "Software Engineer Intern",
@@ -15846,6 +16090,23 @@
       ]
     },
     {
+      "id": "simplify:d466fdad-f557-4135-b159-963583eb27df",
+      "company": "Genuine Parts Company",
+      "title": "Web Developer Intern",
+      "location": "Birmingham, AL",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:ee4b10f5-1464-463a-b28a-9020824aa805",
       "company": "McKesson",
       "title": "Software Engineer Intern",
@@ -15902,6 +16163,23 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:b1b8e29b-5511-480f-81c2-be6ceb87b8cf",
+      "company": "Allied Solutions",
+      "title": "Product Management Intern - Risk Management",
+      "location": "St Paul, MN",
+      "locations": [
+        "St Paul, MN"
+      ],
+      "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
+      "date_posted": "2026-09-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -23715,6 +23993,21 @@
       "deadline": "",
       "season": "",
       "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:219daf1b-8dbb-4edb-ac96-3946967faf83",
+      "company": "Bree",
+      "title": "Machine Learning Engineering Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true",
+      "date_posted": "2026-07-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
       "degrees": []
     },
     {
