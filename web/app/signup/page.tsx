@@ -1,5 +1,13 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { signUp } from "@/app/auth/actions";
+
+export const metadata: Metadata = {
+  title: "Create your account",
+  description: "Create a free InternTrack account, upload a résumé, and see which internships you actually match.",
+  alternates: { canonical: "/signup" },
+};
+
 
 export default async function SignupPage({
   searchParams,
@@ -45,7 +53,7 @@ export default async function SignupPage({
         </label>
         <button
           type="submit"
-          className="mt-2 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-text shadow-[0_4px_20px_rgba(59,130,246,0.4)] transition-transform hover:scale-[1.02] active:scale-[0.98]"
+          className="mt-2 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-accent-ink shadow-[0_4px_20px_rgba(255,107,74,0.35)] transition-transform hover:scale-[1.02] active:scale-[0.98]"
         >
           Sign up
         </button>

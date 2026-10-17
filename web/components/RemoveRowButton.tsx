@@ -21,9 +21,19 @@ export default function RemoveRowButton({ id, company }: { id: string; company: 
         type="submit"
         aria-label={`Remove ${company}`}
         title="Remove from tracker"
-        className="px-1 text-xs text-text-faint transition-colors hover:text-red-400"
+        className="px-1 text-text-muted transition-colors hover:text-red-400"
       >
-        ✕
+        {/* An icon, not a character: "✕" renders in whatever the system font
+            picks and sits on a different baseline to the rest of the row. */}
+        <svg viewBox="0 0 16 16" width="13" height="13" aria-hidden focusable="false">
+          <path
+            d="m4 4 8 8M12 4l-8 8"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.6"
+            strokeLinecap="round"
+          />
+        </svg>
       </button>
     </form>
   );

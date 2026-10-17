@@ -2,6 +2,7 @@ import ExcelJS from "exceljs";
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 import { statusLabel } from "@/lib/savedStatus";
+import { checkRateLimit, tooManyRequests } from "@/lib/rateLimit";
 
 // GET /tracker/export -- downloads the signed-in user's application tracker
 // as a real .xlsx file (open it in Excel, Numbers, Google Sheets, or
@@ -17,9 +18,18 @@ export async function GET() {
     return NextResponse.json({ error: "Sign in first." }, { status: 401 });
   }
 
+  const limit = await checkRateLimit("export");
+  if (!limit.allowed) return tooManyRequests("export", limit);
+
+  // RLS already restricts this to the caller's rows. The explicit user_id
+  // filter is defence in depth: it keeps the query correct on its own terms
+  // rather than depending on a policy staying in place, and it means a
+  // future migration that loosens a policy cannot silently turn this route
+  // into a full-table export.
   const { data: rows, error } = await supabase
     .from("saved_postings")
     .select("*")
+    .eq("user_id", user.id)
     .order("created_at", { ascending: false });
 
   if (error) {
@@ -33,12 +43,9 @@ export async function GET() {
   sheet.columns = [
     { header: "Company", key: "company", width: 26 },
     { header: "Role", key: "title", width: 42 },
-    { header: "Resume Used", key: "resume_used", width: 20 },
-    { header: "Cover Letter", key: "cover_letter", width: 20 },
     { header: "Location", key: "location", width: 20 },
     { header: "Date Applied", key: "applied_at", width: 14 },
     { header: "Status/Interview Stage", key: "status", width: 18 },
-    { header: "Salary", key: "salary", width: 16 },
     { header: "Offer", key: "offer", width: 16 },
     { header: "Link", key: "url", width: 46 },
   ];
@@ -50,12 +57,9 @@ export async function GET() {
     sheet.addRow({
       company: row.company,
       title: row.title,
-      resume_used: row.resume_used,
-      cover_letter: row.cover_letter,
       location: row.location,
       applied_at: dateOnly(row.applied_at),
       status: statusLabel(row.status),
-      salary: row.salary,
       offer: row.offer,
       url: row.url,
     });
@@ -68,6 +72,7 @@ export async function GET() {
     headers: {
       "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "Content-Disposition": `attachment; filename="${fileName}"`,
+      "Cache-Control": "no-store, private",
     },
   });
 }
