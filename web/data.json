@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1385,
+    "postings_tracked": 1381,
     "sources": 1,
-    "companies": 513,
+    "companies": 512,
     "last_updated": "2026-10-17"
   },
   "postings": [
@@ -17413,23 +17413,6 @@
       ]
     },
     {
-      "id": "simplify:5d230d84-fa4c-431c-9970-e72967e854e5",
-      "company": "First National Bank",
-      "title": "Data Science Intern",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5a144b1c-3ccb-4181-9154-5f01d4375f68",
       "company": "Stanley Black & Decker",
       "title": "Embedded Software Engineering Intern",
@@ -17603,57 +17586,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:97668103-86e8-41b6-b716-68da7bbab832",
-      "company": "First National Bank",
-      "title": "AI/Machine Learning Modeler Intern",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:f18879c8-741c-4bb0-a152-89ea9d98844e",
-      "company": "First National Bank",
-      "title": "Data Engineer Intern",
-      "location": "Pittsburgh, PA / Hermitage, PA",
-      "locations": [
-        "Pittsburgh, PA",
-        "Hermitage, PA"
-      ],
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01714",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d26e9ab4-44ab-46c9-86f1-d24c92ae631a",
-      "company": "First National Bank",
-      "title": "Data Engineering Intern",
-      "location": "Pittsburgh, PA / Hermitage, PA",
-      "locations": [
-        "Pittsburgh, PA",
-        "Hermitage, PA"
-      ],
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Summer-2027-Data-Engineering-Intern_2026-01713",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:a2379b29-b59b-4caf-b306-c75979e0bc9e",
