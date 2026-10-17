@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1386,
+    "postings_tracked": 1377,
     "sources": 1,
-    "companies": 519,
+    "companies": 514,
     "last_updated": "2026-10-17"
   },
   "postings": [
@@ -1382,24 +1382,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:785bc0ed-564f-4e73-bdae-30e780d1629b",
-      "company": "Northrop Grumman",
-      "title": "Software Embedded Engineer Intern",
-      "location": "Annapolis, MD",
-      "locations": [
-        "Annapolis, MD"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5436,24 +5418,6 @@
       ]
     },
     {
-      "id": "simplify:b1048256-c61c-403f-80b6-70efb51fdd0e",
-      "company": "Khan Academy",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA / Remote in Canada",
-      "locations": [
-        "Remote in USA",
-        "Remote in Canada"
-      ],
-      "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:41056107-e942-4486-b971-bd3f27fbf814",
       "company": "Mercor",
       "title": "Research Scientist Intern",
@@ -6430,21 +6394,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:96268a8b-5041-4571-913d-7a04ae9c4c50",
-      "company": "Mindex",
-      "title": "Software Engineer Co-op",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://apply.workable.com/mindex/j/84B10DB922/apply",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:947e0edf-c842-4a59-b67c-747847abf090",
@@ -8926,24 +8875,6 @@
       ]
     },
     {
-      "id": "simplify:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
-      "company": "Rippling",
-      "title": "Machine Learning Software Engineer Intern - Summer 2027",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:7d13cca3-9bb7-4870-9711-350dc2d4a39e",
       "company": "Two Sigma",
       "title": "Hardware Engineering Intern",
@@ -10194,23 +10125,6 @@
       ]
     },
     {
-      "id": "simplify:2569d7a8-a0c6-49dc-b828-f9c792898c61",
-      "company": "Javelin Global Commodities",
-      "title": "Software Engineering Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/apply",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:e0d217d6-7946-42a6-965f-7094154504c3",
       "company": "Honeywell",
       "title": "Software Engineer Co-op",
@@ -10244,24 +10158,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3aafe9c0-e14d-4259-82c1-58a96d23552b",
-      "company": "GM financial",
-      "title": "Software Engineer Intern",
-      "location": "Arlington, TX",
-      "locations": [
-        "Arlington, TX"
-      ],
-      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -10451,26 +10347,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:612d47bb-ecd4-42e3-8669-3af521907136",
-      "company": "The Hartford",
-      "title": "Data Science Intern - Summer 2027",
-      "location": "Chicago, IL +2 more",
-      "locations": [
-        "Chicago, IL",
-        "Charlotte, NC",
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -14968,24 +14844,6 @@
       ]
     },
     {
-      "id": "simplify:0e443d9f-684b-4ad6-9e92-c3345bc5332d",
-      "company": "Meijer",
-      "title": "Data Science Intern",
-      "location": "Grand Rapids, MI",
-      "locations": [
-        "Grand Rapids, MI"
-      ],
-      "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ea33eef8-2837-4a9b-a3b7-a1c32bc77e06",
       "company": "Applied Materials",
       "title": "Software Engineering Intern - Masters",
@@ -17313,23 +17171,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:98540e92-9f57-4fcc-9005-6dc6593e8205",
-      "company": "Trane Technologies",
-      "title": "AI Intern - AI Product Management - AI Controls Integration",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
