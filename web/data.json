@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1389,
+    "postings_tracked": 1385,
     "sources": 1,
-    "companies": 515,
+    "companies": 513,
     "last_updated": "2026-10-17"
   },
   "postings": [
@@ -12361,24 +12361,6 @@
       ]
     },
     {
-      "id": "simplify:183a7c4c-19d3-4b57-85de-1ae125ee8aee",
-      "company": "Johnson & Johnson",
-      "title": "Electrical Engineer Intern - Robotics R&D",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:13c20210-b9de-4f8c-93a7-96ce7766afc3",
       "company": "NVIDIA",
       "title": "Research Intern",
@@ -13053,21 +13035,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:2d7cf9e5-bb8b-45ac-9e32-aadc612bb2f4",
-      "company": "Ciena",
-      "title": "NPI Hardware Co-op - 8 month",
-      "location": "Ottawa, ON, Canada",
-      "locations": [
-        "Ottawa, ON, Canada"
-      ],
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": []
     },
     {
       "id": "simplify:9ff89600-1ebc-46c4-a1af-887c05a633b9",
@@ -14939,23 +14906,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0049eda1-f2e8-424b-bab5-4e0ef74ca654",
-      "company": "Xcel Energy",
-      "title": "Data Analyst Intern",
-      "location": "Denver, CO",
-      "locations": [
-        "Denver, CO"
-      ],
-      "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833",
-      "date_posted": "2026-09-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -18466,25 +18416,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3170bd08-be46-4758-93fa-a6d1157147c3",
-      "company": "RTX",
-      "title": "Electrical Production Support Engineer Intern - Summer 2027",
-      "location": "Tucson, AZ",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
