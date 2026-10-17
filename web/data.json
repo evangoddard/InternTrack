@@ -6396,6 +6396,21 @@
       ]
     },
     {
+      "id": "simplify:96268a8b-5041-4571-913d-7a04ae9c4c50",
+      "company": "Mindex",
+      "title": "Software Engineer Co-op",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://apply.workable.com/mindex/j/84B10DB922/apply",
+      "date_posted": "2026-10-02",
+      "deadline": "",
+      "season": "Winter 2027 / Spring 2027 / Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:947e0edf-c842-4a59-b67c-747847abf090",
       "company": "Range",
       "title": "Software Engineer Intern",
@@ -7646,6 +7661,23 @@
       ]
     },
     {
+      "id": "simplify:ff723fb0-8021-476f-94d8-a14675f7883f",
+      "company": "The Focusrite Group",
+      "title": "Production Systems Developer Intern",
+      "location": "High Wycombe, UK",
+      "locations": [
+        "High Wycombe, UK"
+      ],
+      "url": "https://apply.workable.com/focusrite/j/EB05509AE0/apply",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
       "company": "The Focusrite Group",
       "title": "Embedded Software Placement Intern",
@@ -7654,6 +7686,21 @@
         "High Wycombe, UK"
       ],
       "url": "https://apply.workable.com/focusrite/j/6520BBBFF1/apply",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f940f70a-cfb4-4dbb-bb7a-154fb8d11427",
+      "company": "The Focusrite Group",
+      "title": "Hardware \u2013 Electronics and Firmware Intern",
+      "location": "High Wycombe, UK",
+      "locations": [
+        "High Wycombe, UK"
+      ],
+      "url": "https://apply.workable.com/focusrite/j/4296FAD493/apply",
       "date_posted": "2026-09-28",
       "deadline": "",
       "season": "",
@@ -7727,24 +7774,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d1dc4ba6-e31d-45f7-951e-0d48b6d86048",
-      "company": "Boston Scientific",
-      "title": "R&D Research Data Science Intern",
-      "location": "United States",
-      "locations": [
-        "United States"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813667382",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -8872,6 +8901,24 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
+      "company": "Rippling",
+      "title": "Machine Learning Software Engineer Intern - Summer 2027",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "date_posted": "2026-09-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -11511,25 +11558,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
-      "company": "Johnson & Johnson",
-      "title": "Software Engineer Intern - Robotics R&D",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:da019f62-73d5-4a2c-8601-9b62b96f300c",
       "company": "Q2",
       "title": "Data Science Intern",
@@ -12348,25 +12376,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
-      "company": "Johnson & Johnson",
-      "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -14487,21 +14496,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:97899cd4-de4e-4a30-88bb-d77f77c316cb",
-      "company": "Cox",
-      "title": "Data Scientist Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:1ab411c4-7013-4eeb-8835-d8bb9baa3f39",
@@ -17174,6 +17168,23 @@
       ]
     },
     {
+      "id": "simplify:98540e92-9f57-4fcc-9005-6dc6593e8205",
+      "company": "Trane Technologies",
+      "title": "AI Intern - AI Product Management - AI Controls Integration",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:f24bc603-523e-46fb-b6f7-b7ed10094fcd",
       "company": "American Express",
       "title": "Data Management Intern - Global Merchant & Network Services",
@@ -19650,23 +19661,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7d622bf2-9241-4e85-b72d-dc305db65752",
-      "company": "Freddie Mac",
-      "title": "Quantitative Risk Management Intern",
-      "location": "McLean, VA",
-      "locations": [
-        "McLean, VA"
-      ],
-      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Risk-Management-Graduate-Intern---Quantitative-Summer-2027_JR17553",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
