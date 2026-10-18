@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1375,
+    "postings_tracked": 1373,
     "sources": 1,
     "companies": 511,
     "last_updated": "2026-10-18"
@@ -3642,23 +3642,6 @@
       "date_posted": "2026-10-08",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5816604a-fdad-469c-b01d-7ee4621ca78e",
-      "company": "DocuSign",
-      "title": "Software Engineer Intern - Observability - Platform",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://careers.docusign.com/jobs/30510?icims=1",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -7368,23 +7351,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
-      "company": "Marvell",
-      "title": "Test Engineer Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
-      "date_posted": "2026-09-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
         "Master's"
       ]
     },
