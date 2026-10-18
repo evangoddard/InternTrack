@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1373,
+    "postings_tracked": 1376,
     "sources": 1,
-    "companies": 511,
+    "companies": 512,
     "last_updated": "2026-10-18"
   },
   "postings": [
@@ -138,6 +138,24 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3d0329e2-14b0-446f-859e-a1dea8bb23a0",
+      "company": "Northrop Grumman",
+      "title": "Electrical Engineer 1 Intern",
+      "location": "Chandler, AZ",
+      "locations": [
+        "Chandler, AZ"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
+      "date_posted": "2026-10-18",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Incomplete"
       ]
     },
     {
@@ -5894,6 +5912,23 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": []
+    },
+    {
+      "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
       "id": "simplify:4c9b657c-308b-428a-b374-4960e3b7e09f",
@@ -12102,6 +12137,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:62c3b982-db7b-4ad1-a538-560067cf4279",
+      "company": "ExodusPoint",
+      "title": "Quantitative Intern - Credit",
+      "location": "Wynnewood, PA",
+      "locations": [
+        "Wynnewood, PA"
+      ],
+      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
+      "date_posted": "2026-09-14",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Quant",
       "degrees": [
         "Bachelor's",
         "Master's"
