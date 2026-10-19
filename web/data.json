@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1381,
+    "postings_tracked": 1374,
     "sources": 1,
-    "companies": 515,
+    "companies": 513,
     "last_updated": "2026-10-19"
   },
   "postings": [
@@ -2085,25 +2085,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:efd2f9e3-b980-4849-8985-5bf81191291e",
-      "company": "Keysight Technologies",
-      "title": "R&D Hardware Engineer Intern",
-      "location": "Santa Rosa, CA",
-      "locations": [
-        "Santa Rosa, CA"
-      ],
-      "url": "https://jobs.keysight.com/jobs/54670?icims=1",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -5895,25 +5876,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:be056302-3c1c-46fb-bc09-8cdd5ae403cb",
-      "company": "Atoms",
-      "title": "Machine Learning Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869106002",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -9961,24 +9923,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:01adde08-7298-47e1-8394-bb946ac7ec13",
-      "company": "MetOx International",
-      "title": "Data Science Intern - Spring 2027",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -14848,23 +14792,6 @@
       ]
     },
     {
-      "id": "simplify:78e370bf-8119-430e-aa86-804f2ba76bb5",
-      "company": "Allegion",
-      "title": "Firmware Engineer Intern",
-      "location": "Farmington, CT",
-      "locations": [
-        "Farmington, CT"
-      ],
-      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:540be744-5142-43c3-a54c-2bc3785a0d2c",
       "company": "Allegion",
       "title": "Firmware Engineer Intern - Advanced Development",
@@ -16279,23 +16206,6 @@
       ]
     },
     {
-      "id": "simplify:2bf1eede-29f5-47d4-9b3e-66bd4aa8cdcd",
-      "company": "Sierra Nevada Corporation",
-      "title": "Test Engineer Intern - Summer 2027",
-      "location": "Hagerstown, MD",
-      "locations": [
-        "Hagerstown, MD"
-      ],
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:db1e4fb4-a7e7-4c57-ae1c-7ffdab053208",
       "company": "DriveTime",
       "title": "Software Engineer Intern - Summer 2027",
@@ -17187,23 +17097,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6af66330-0329-40f5-abaf-5feaf563f36d",
-      "company": "Textron",
-      "title": "Software Engineer Intern - Sea Systems",
-      "location": "Hunt Valley, Cockeysville, MD",
-      "locations": [
-        "Hunt Valley, Cockeysville, MD"
-      ],
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -24203,24 +24096,6 @@
       "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026 / Winter 2027 / Spring 2027 / Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105",
-      "company": "Old Mission",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
-      "date_posted": "2026-07-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:043d70c3-4576-4f40-bc1f-08885ba8ebc8",
