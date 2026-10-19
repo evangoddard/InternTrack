@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1387,
+    "postings_tracked": 1385,
     "sources": 1,
     "companies": 512,
     "last_updated": "2026-10-19"
   },
   "postings": [
+    {
+      "id": "simplify:c9f2736c-ca54-46f8-98a1-81570a3bd159",
+      "company": "Johnson & Johnson",
+      "title": "Quality Data Science Co-op",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+      "date_posted": "2026-10-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f7ddc24e-9ad6-4585-adc7-36f377e3194b",
       "company": "Leonardo",
@@ -1432,23 +1450,6 @@
       ]
     },
     {
-      "id": "simplify:468b0b25-a717-4435-bfd6-105806b9b5e4",
-      "company": "L3Harris Technologies",
-      "title": "Associate Software Engineering Intern",
-      "location": "Chantilly, VA",
-      "locations": [
-        "Chantilly, VA"
-      ],
-      "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439514100/?ats=successfactors",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a1c55b73-73c9-45c2-955d-be598673876c",
       "company": "Microsoft",
       "title": "Research Intern - Machine Learning and Statistics",
@@ -1620,24 +1621,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:46b35ec8-88e8-4800-ad1a-d17665e52fa1",
-      "company": "RTX",
-      "title": "Electro-Optics Systems Engineer Intern",
-      "location": "Goleta, CA",
-      "locations": [
-        "Goleta, CA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electro-Optics-Systems-Engineer-Intern--Summer-2027-_01880960",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5912,23 +5895,6 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:4c9b657c-308b-428a-b374-4960e3b7e09f",
