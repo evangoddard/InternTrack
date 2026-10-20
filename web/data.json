@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1419,
+    "postings_tracked": 1409,
     "sources": 1,
-    "companies": 527,
+    "companies": 524,
     "last_updated": "2026-10-20"
   },
   "postings": [
@@ -7481,26 +7481,6 @@
       ]
     },
     {
-      "id": "simplify:76c67bd8-fe68-4164-844f-a009b786af36",
-      "company": "American Family Insurance Group",
-      "title": "GenAI/ML Intern",
-      "location": "Madison, WI / Boston, MA",
-      "locations": [
-        "Madison, WI",
-        "Boston, MA"
-      ],
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:d9f6166b-f239-4844-9e1a-42616d92df8b",
       "company": "Allegion",
       "title": "Hardware Engineering Intern - Hardware Engineering",
@@ -9111,24 +9091,6 @@
       ]
     },
     {
-      "id": "simplify:521a56a4-f683-4861-8565-e081a72736c1",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - R&D",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1ac553bb-ffc0-4a7f-8b30-56dc1a3d8f8a",
       "company": "GM financial",
       "title": "Data Engineer Intern",
@@ -10145,42 +10107,6 @@
       ]
     },
     {
-      "id": "simplify:3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
-      "company": "Zimmer Biomet Holdings",
-      "title": "Product Management Intern - Artificial Intelligence Product Management",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://careers.zimmerbiomet.com/us/en/job/12745",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:052eb803-66af-435a-9f6d-069e2aa8d052",
-      "company": "Zimmer Biomet Holdings",
-      "title": "Summer Intern - Data Mesh Platform",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://careers.zimmerbiomet.com/us/en/job/12688",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:bc661e4d-29a0-4de4-bbeb-52f943d960c8",
       "company": "Grow Financial Federal Credit Union",
       "title": "Systems Analyst Intern",
@@ -10464,23 +10390,6 @@
       ]
     },
     {
-      "id": "simplify:5df90885-2894-464a-824b-03588fbc5d62",
-      "company": "CAE",
-      "title": "Software Developer Intern - Software",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:876c3f6f-84b9-4e5d-a61c-3f403eeed9bb",
       "company": "NVIDIA",
       "title": "Research Intern - Robotics",
@@ -10496,23 +10405,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:7d669b5f-60d8-41f2-8c63-353b9b7240a7",
-      "company": "GE Healthcare",
-      "title": "Software Engineer Intern",
-      "location": "Salt Lake City, UT",
-      "locations": [
-        "Salt Lake City, UT"
-      ],
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -10558,23 +10450,6 @@
         "Wilmington, MA"
       ],
       "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R7976",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3fbac32a-0281-41ae-95c5-95556d462395",
-      "company": "Symbotic",
-      "title": "Hardware Engineer Intern - Hardware Engineering",
-      "location": "Wilmington, MA",
-      "locations": [
-        "Wilmington, MA"
-      ],
-      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101",
       "date_posted": "2026-09-21",
       "deadline": "",
       "season": "",
@@ -10862,23 +10737,6 @@
         "Bachelor's",
         "Master's",
         "MBA"
-      ]
-    },
-    {
-      "id": "simplify:26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
-      "company": "CME Group",
-      "title": "Software Engineering Fellow",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -14229,25 +14087,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "AI & Data Science Intern - Analytic Capabilities",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60008?icims=1",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's",
@@ -21017,23 +20856,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:efcdcda1-4aa4-492b-a092-21d30c45cee1",
-      "company": "Continental Resources",
-      "title": "Data Analyst Intern",
-      "location": "Oklahoma City, OK",
-      "locations": [
-        "Oklahoma City, OK"
-      ],
-      "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
