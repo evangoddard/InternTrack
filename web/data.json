@@ -1,11 +1,188 @@
 {
   "stats": {
-    "postings_tracked": 1412,
+    "postings_tracked": 1419,
     "sources": 1,
-    "companies": 525,
+    "companies": 527,
     "last_updated": "2026-10-20"
   },
   "postings": [
+    {
+      "id": "simplify:2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
+      "company": "Texas Instruments",
+      "title": "Software Engineer Intern - Compiler",
+      "location": "Sugar Land, TX / United States",
+      "locations": [
+        "Sugar Land, TX",
+        "United States"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:a3402104-9822-4ba3-8b75-e30551bc1b32",
+      "company": "Graphcore",
+      "title": "Software Engineer Intern - Drivers and Utilities",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5d44526a-f8fc-4069-b5c4-3c14ef37ef6d",
+      "company": "Graphcore",
+      "title": "Silicon Intern",
+      "location": "Bristol, UK / Cambridge, UK",
+      "locations": [
+        "Bristol, UK",
+        "Cambridge, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8879329002",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:269f1429-7b09-4c8c-958f-36696b091490",
+      "company": "Graphcore",
+      "title": "Software Engineer Intern - AI Compute Libraries & Performance",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:1485ec07-2c14-4ae8-a084-e66e813ed92a",
+      "company": "Graphcore",
+      "title": "Hardware Intern",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894753002",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2daa0935-6cda-4a8e-abbb-535d071cc192",
+      "company": "Graphcore",
+      "title": "Firmware Intern",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894770002",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a60efa9b-43c1-4b1c-bc8f-a61640fe4c3d",
+      "company": "Textron",
+      "title": "Industrial Software Engineer Intern",
+      "location": "Williamsport, PA",
+      "locations": [
+        "Williamsport, PA"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345735",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:135b8fde-7c9d-4852-a29b-385efc07e7b4",
+      "company": "Steel",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e63307f6-52eb-4edb-a2ea-1448402f84ef",
+      "company": "GeoSpectrum Technologies",
+      "title": "Software Developer Co-op",
+      "location": "Dartmouth, NS, Canada",
+      "locations": [
+        "Dartmouth, NS, Canada"
+      ],
+      "url": "https://geospectrum.bamboohr.com/careers/286/",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:adea30a6-775b-4c81-ae92-6ed234b64e3b",
+      "company": "Redgate",
+      "title": "Software Engineer Intern",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:807bcae2-3ba9-4165-9819-a41fe28c13c3",
       "company": "Parallel Wireless",
@@ -1850,24 +2027,6 @@
       ]
     },
     {
-      "id": "simplify:a4a4b9ce-2dc8-4dbf-9f01-4db345c9fcd7",
-      "company": "LSEG",
-      "title": "Quant Analyst Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Quant-Analyst_R0123224",
-      "date_posted": "2026-10-15",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:b07a5da6-2c9f-4bf1-bf90-18ffff8232ae",
       "company": "National Laboratory of the Rockies",
       "title": "AI/ML for Cybersecurity Intern",
@@ -2930,25 +3089,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
-      "company": "Gallup",
-      "title": "Data Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "Associate's"
       ]
     },
     {
@@ -6598,6 +6738,23 @@
       ]
     },
     {
+      "id": "simplify:fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
+      "company": "Intel",
+      "title": "AI Solution Architect Graduate Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:e01d674b-7369-4b64-8785-fba7bb59da13",
       "company": "Expedia Group",
       "title": "Mobile Engineer Intern",
@@ -7432,23 +7589,6 @@
       ]
     },
     {
-      "id": "simplify:cf1edda6-e0d1-4bfc-a49a-c1dc5458e558",
-      "company": "John Deere",
-      "title": "IT Software Engineer Part-Time Student - Technology",
-      "location": "Moline, IL",
-      "locations": [
-        "Moline, IL"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137483700388",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f42402c6-a3a3-4d0e-bebd-ba0e257a821c",
       "company": "SeatGeek",
       "title": "Data Analyst Intern",
@@ -8243,6 +8383,24 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6bc1c873-c812-4770-8e16-7e18397b1432",
+      "company": "RTX",
+      "title": "Display Systems Engineering Co-op",
+      "location": "Cedar Rapids, IA",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
+      "date_posted": "2026-09-29",
+      "deadline": "",
+      "season": "Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -10868,23 +11026,6 @@
       ]
     },
     {
-      "id": "simplify:294d72a8-7250-41fe-bd01-3c9b0ba1996e",
-      "company": "Honeywell",
-      "title": "Data Science Co-op",
-      "location": "Pittsford, NY",
-      "locations": [
-        "Pittsford, NY"
-      ],
-      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157903",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:895534e7-93b3-4f74-a9d4-5ed7e45671f7",
       "company": "W.R. Berkley",
       "title": "Product Management Analyst Intern - Claims",
@@ -11071,6 +11212,26 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:612d47bb-ecd4-42e3-8669-3af521907136",
+      "company": "The Hartford",
+      "title": "Data Science Intern - Summer 2027",
+      "location": "Chicago, IL +2 more",
+      "locations": [
+        "Chicago, IL",
+        "Charlotte, NC",
+        "Hartford, CT"
+      ],
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -13855,23 +14016,6 @@
       ]
     },
     {
-      "id": "simplify:69f5edde-2904-4610-a7eb-8132ce17ead9",
-      "company": "Booz Allen",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Fayetteville, NC",
-      "locations": [
-        "Fayetteville, NC"
-      ],
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5012230e-2a8b-4047-80ec-4b7c9ecbf427",
       "company": "Amgen",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
@@ -14607,24 +14751,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
-      "company": "Gallup",
-      "title": "Data Engineering Intern",
-      "location": "Omaha, NE",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
-      ]
     },
     {
       "id": "simplify:52c6c00b-0538-4eae-ba83-7a32198496a7",
@@ -18906,23 +19032,6 @@
       ]
     },
     {
-      "id": "simplify:fe7f1e7d-e361-4660-92ac-f496c022b980",
-      "company": "Nike",
-      "title": "Machine Learning Engineering Undergraduate Intern - Artificial Intelligence - Data",
-      "location": "Beaverton, OR",
-      "locations": [
-        "Beaverton, OR"
-      ],
-      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5b170a7d-3303-481f-8fa2-580c9e7274b4",
       "company": "CACI",
       "title": "Software Engineer Co-op - Summer & Fall 2027",
@@ -23012,6 +23121,24 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:14af9b4a-6b3e-473b-844f-542a89afb184",
+      "company": "TikTok",
+      "title": "Recommendation Product Manager Intern - Content Ecosystem",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7667874197682899205",
+      "date_posted": "2026-08-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
