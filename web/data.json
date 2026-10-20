@@ -1,11 +1,46 @@
 {
   "stats": {
-    "postings_tracked": 1418,
+    "postings_tracked": 1412,
     "sources": 1,
-    "companies": 527,
+    "companies": 525,
     "last_updated": "2026-10-20"
   },
   "postings": [
+    {
+      "id": "simplify:807bcae2-3ba9-4165-9819-a41fe28c13c3",
+      "company": "Parallel Wireless",
+      "title": "PHY Software Engineer Intern",
+      "location": "Bristol, UK",
+      "locations": [
+        "Bristol, UK"
+      ],
+      "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f9299641-0cec-447d-8ed6-26445441d4ec",
+      "company": "JP Morgan Chase",
+      "title": "Machine Learning Summer Associate Intern - NLP",
+      "location": "Palo Alto, CA +2 more",
+      "locations": [
+        "Palo Alto, CA",
+        "Seattle, WA",
+        "NYC"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:90b26c34-8b2a-4e81-aff8-b07e14249a73",
       "company": "Palantir",
@@ -23,6 +58,23 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b",
+      "company": "Verizon Communications",
+      "title": "Data Science Intern",
+      "location": "Basking Ridge, Bernards, NJ",
+      "locations": [
+        "Basking Ridge, Bernards, NJ"
+      ],
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1583,25 +1635,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:db3236dd-b511-42c0-8fb7-2cc562c92c0f",
-      "company": "General Dynamics Information Technology",
-      "title": "Quality Assurance Associate Intern",
-      "location": "Falls Church, VA",
-      "locations": [
-        "Falls Church, VA"
-      ],
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Quality-Assurance-Associate--Intern_RQ230538",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "Associate's"
       ]
     },
     {
@@ -5086,24 +5119,6 @@
       ]
     },
     {
-      "id": "simplify:f8f58448-a30c-4f0b-bd35-a8b3aee51172",
-      "company": "HCSC",
-      "title": "Enterprise Data Analyst Intern",
-      "location": "Chicago, IL / Richardson, TX",
-      "locations": [
-        "Chicago, IL",
-        "Richardson, TX"
-      ],
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:db1e9518-ba7e-4cdc-8914-5ec391f9a78d",
       "company": "SailPoint",
       "title": "Software Engineer Intern - Platform Engines",
@@ -5119,24 +5134,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:118adc1e-4c91-45e1-8654-5297c47e9a9c",
-      "company": "HCSC",
-      "title": "Systems Analyst Intern",
-      "location": "Chicago, IL / Richardson, TX",
-      "locations": [
-        "Chicago, IL",
-        "Richardson, TX"
-      ],
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -5390,24 +5387,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8db764f7-caf2-46e5-88d8-976776e63ec3",
-      "company": "Niantic Spatial",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd/application?embed=true",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -6208,24 +6187,6 @@
       ]
     },
     {
-      "id": "simplify:2aca0513-4399-42cb-9896-91871273e679",
-      "company": "Moog",
-      "title": "Electrical Engineer Intern",
-      "location": "Torrance, CA",
-      "locations": [
-        "Torrance, CA"
-      ],
-      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1fd32548-9b70-43de-815b-740a8ac20359",
       "company": "F5",
       "title": "Software Developer Intern",
@@ -6634,23 +6595,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:fa6b1c85-77ab-4c0f-abf9-2175172bb65b",
-      "company": "Intel",
-      "title": "AI Solution Architect Graduate Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -8299,24 +8243,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6bc1c873-c812-4770-8e16-7e18397b1432",
-      "company": "RTX",
-      "title": "Display Systems Engineering Co-op",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -16938,23 +16864,6 @@
       ]
     },
     {
-      "id": "simplify:0854004d-3797-4a41-92c7-8b23ea92f186",
-      "company": "Axos Bank",
-      "title": "Data Analyst 1 Intern",
-      "location": "Omaha, NE",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:af65cbd5-11f8-4a7d-a45a-939597dd3471",
       "company": "Universal Health Services",
       "title": "Software Engineer Intern - Data Analytics",
@@ -19014,23 +18923,6 @@
       ]
     },
     {
-      "id": "simplify:1d9f2320-07f1-4deb-bce1-02d20684e4e9",
-      "company": "Nike",
-      "title": "Software Engineer Intern",
-      "location": "Beaverton, OR",
-      "locations": [
-        "Beaverton, OR"
-      ],
-      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5b170a7d-3303-481f-8fa2-580c9e7274b4",
       "company": "CACI",
       "title": "Software Engineer Co-op - Summer & Fall 2027",
@@ -20786,21 +20678,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:872bbfa9-fd11-4368-812e-cf3fd7a1bcb1",
-      "company": "Zipline",
-      "title": "Electrical Engineer Intern - Summer 2027",
-      "location": "South SF",
-      "locations": [
-        "South SF"
-      ],
-      "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
       "id": "simplify:af0078da-4418-4e04-afb5-17ec87e8381a",
       "company": "TikTok",
       "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
@@ -20944,6 +20821,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:a1cb0fe2-664f-4b1e-910d-9ec9f155faa1",
+      "company": "Zipline",
+      "title": "Long Range Platform Hardware Engineering Intern",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+      "date_posted": "2026-08-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
