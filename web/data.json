@@ -1,11 +1,44 @@
 {
   "stats": {
-    "postings_tracked": 1426,
+    "postings_tracked": 1414,
     "sources": 1,
-    "companies": 532,
+    "companies": 527,
     "last_updated": "2026-10-21"
   },
   "postings": [
+    {
+      "id": "simplify:2649142c-09b6-4a9e-84cd-10f97d29c2c1",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Robotics - World Models & Embodied AI",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://www.metacareers.com/jobs/2281070982817094",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:fc7e57ed-e4b3-4658-b094-842e4a64636a",
+      "company": "Apple",
+      "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200690125",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:b3c0d835-cfc4-48e9-8841-d656e80fb21c",
       "company": "Rhoda AI",
@@ -76,6 +109,59 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e8c2c05e-b1c6-4cd0-abd2-6957ccda9ab8",
+      "company": "Fidelity Investments",
+      "title": "Machine Learning Co-op",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135960",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ae9b02e7-d087-43fd-aea6-d8e99a8307aa",
+      "company": "Expedia Group",
+      "title": "Software Developer 1 Intern",
+      "location": "Springfield, MO",
+      "locations": [
+        "Springfield, MO"
+      ],
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:23198c94-9b16-48f0-9708-09ccb2a77fa9",
+      "company": "Marvell",
+      "title": "Silicon Validation Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -467,23 +553,6 @@
       "date_posted": "2026-10-20",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e63307f6-52eb-4edb-a2ea-1448402f84ef",
-      "company": "GeoSpectrum Technologies",
-      "title": "Software Developer Co-op",
-      "location": "Dartmouth, NS, Canada",
-      "locations": [
-        "Dartmouth, NS, Canada"
-      ],
-      "url": "https://geospectrum.bamboohr.com/careers/286/",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -8846,23 +8915,6 @@
       ]
     },
     {
-      "id": "simplify:574c67ce-ff4f-4f56-825d-6e6dc66172f6",
-      "company": "H&R Block",
-      "title": "Machine Learning Intern",
-      "location": "Kansas City, MO",
-      "locations": [
-        "Kansas City, MO"
-      ],
-      "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:6eff6a24-903f-4e0d-9c37-9391aca12788",
       "company": "TikTok",
       "title": "Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product",
@@ -9071,23 +9123,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c952a747-7189-4687-a073-04347d98d705",
-      "company": "H&R Block",
-      "title": "Product Management Intern - S",
-      "location": "Kansas City, MO",
-      "locations": [
-        "Kansas City, MO"
-      ],
-      "url": "https://careers.hrblock.com/jobs/76986?icims=1",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -12045,26 +12080,6 @@
       ]
     },
     {
-      "id": "simplify:097e4adf-07db-4666-8e68-29b3364bc0eb",
-      "company": "Citadel",
-      "title": "Quantitative Researcher Post-Doctoral Intern",
-      "location": "Greenwich, CT +3 more",
-      "locations": [
-        "Greenwich, CT",
-        "Houston, TX",
-        "Miami, FL",
-        "NYC"
-      ],
-      "url": "https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:5d9f6eaa-a78b-4ea6-adcb-8168b145206f",
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "title": "Data Science Undergraduate Student Intern - Summer 2027",
@@ -12317,24 +12332,6 @@
       ]
     },
     {
-      "id": "simplify:0c7e299c-ffc6-40e5-8fd6-e8e2e744740a",
-      "company": "Lunar Outpost",
-      "title": "Embedded Software Engineer Intern - Summer 2027",
-      "location": "Golden, CO",
-      "locations": [
-        "Golden, CO"
-      ],
-      "url": "https://lunaroutpost.bamboohr.com/careers/392/",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f74bc55b-29bc-4d06-9433-426a6fc434e0",
       "company": "Gecko Robotics",
       "title": "Embedded Software Engineer Intern - RoboSPLAT - Field Infra",
@@ -12367,24 +12364,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:25dd4ce6-5b41-41fb-9f9c-dabce0749a16",
-      "company": "Citadel Securities",
-      "title": "Quantitative Researcher Intern - US",
-      "location": "Miami, FL / NYC",
-      "locations": [
-        "Miami, FL",
-        "NYC"
-      ],
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -14034,26 +14013,6 @@
       ]
     },
     {
-      "id": "simplify:5ee99f3c-d337-4cf1-87c9-d734f42a1f3f",
-      "company": "Citizens Financial Group",
-      "title": "Data Analyst Intern - Multiple Teams",
-      "location": "Boston, MA +2 more",
-      "locations": [
-        "Boston, MA",
-        "Johnston, RI",
-        "Columbus, OH"
-      ],
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
       "company": "Citizens Financial Group",
       "title": "Data Engineer Intern - Enterprise Technology & Security",
@@ -14070,26 +14029,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2bd0a1e0-53b9-4154-a4eb-1c4f5c86e603",
-      "company": "Citizens Financial Group",
-      "title": "Data Science Intern - Multiple Teams",
-      "location": "Boston, MA +2 more",
-      "locations": [
-        "Boston, MA",
-        "Johnston, RI",
-        "Columbus, OH"
-      ],
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -21440,146 +21379,6 @@
       ]
     },
     {
-      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Investment Banking",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175428?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175424?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175423?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
-      "company": "Goldman Sachs",
-      "title": "Quantitative Strategist Intern - Americas",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171532?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://higher.gs.com/roles/171547?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
-      "company": "Goldman Sachs",
-      "title": "Associate Intern - The Core Quantitative Strats",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://higher.gs.com/roles/171546?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "MBA",
-        "PhD",
-        "JD",
-        "MD"
-      ]
-    },
-    {
-      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-      "location": "West Palm Beach, FL",
-      "locations": [
-        "West Palm Beach, FL"
-      ],
-      "url": "https://higher.gs.com/roles/181628?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
-      "company": "Goldman Sachs",
-      "title": "Summer Analyst Intern - The Core Quantitative Strats",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://higher.gs.com/roles/175426?type=students",
-      "date_posted": "2026-08-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
-    },
-    {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
       "company": "Notion",
       "title": "Software Engineer Intern - Summer 2027",
@@ -21816,24 +21615,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3bb608c1-4704-4fe1-a877-eaf540f90cc1",
-      "company": "Specter Aerospace",
-      "title": "Full Stack Developer Co-op",
-      "location": "Boston, MA / Peabody, MA",
-      "locations": [
-        "Boston, MA",
-        "Peabody, MA"
-      ],
-      "url": "https://specteraerospace.bamboohr.com/careers/122/",
-      "date_posted": "2026-08-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
