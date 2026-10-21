@@ -1,11 +1,48 @@
 {
   "stats": {
-    "postings_tracked": 1427,
+    "postings_tracked": 1425,
     "sources": 1,
-    "companies": 533,
+    "companies": 532,
     "last_updated": "2026-10-21"
   },
   "postings": [
+    {
+      "id": "simplify:b3c0d835-cfc4-48e9-8841-d656e80fb21c",
+      "company": "Rhoda AI",
+      "title": "Software Engineer Intern - Inference",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c57abcec-5e89-47ba-b6c2-a19d6a94917b",
+      "company": "Shield AI",
+      "title": "Data Science Intern",
+      "location": "San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:5635b14b-45dd-4bb0-925f-0231622eb338",
       "company": "LinkedIn",
@@ -776,6 +813,96 @@
       "degrees": []
     },
     {
+      "id": "simplify:274daa15-b592-485a-8d98-cc56d12ebdca",
+      "company": "Toyota",
+      "title": "Data Science Intern",
+      "location": "Plano, TX",
+      "locations": [
+        "Plano, TX"
+      ],
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:33d259a8-0a0b-4a4c-9875-dd5206ee2317",
+      "company": "Micron Technology",
+      "title": "Machine Learning Engineering Intern",
+      "location": "Richardson, TX",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:6e49745f-bd43-4f9c-86b7-ac3cd8172873",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Embedded Software Engineer Intern",
+      "location": "Roseville, CA",
+      "locations": [
+        "Roseville, CA"
+      ],
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:66380619-8481-4fe4-947a-26176558c345",
+      "company": "NVIDIA",
+      "title": "Systems Software Intern - Aerial PHY",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:12d5d73d-0f5a-459e-aede-1f15093ed6ed",
+      "company": "NVIDIA",
+      "title": "Applied Research Intern - Integrated Sensing and Communications",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:3fbf45ce-c71e-429a-a73a-65f345515651",
       "company": "Ursa Major",
       "title": "Avionics Electrical Engineer Intern",
@@ -1300,40 +1427,6 @@
       ]
     },
     {
-      "id": "simplify:9b53f089-b4bf-4541-b4fe-50a181bb2f8c",
-      "company": "Autodesk",
-      "title": "Software Engineer Intern",
-      "location": "Cambridge, UK",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:e833887c-581f-413b-a51e-ce5f540cdda1",
-      "company": "Autodesk",
-      "title": "Research Intern - Context and Knowledge Systems for AI",
-      "location": "Remote in UK",
-      "locations": [
-        "Remote in UK"
-      ],
-      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:e3203be3-937d-47e4-b14c-f375df2d2fa8",
       "company": "Analog Devices",
       "title": "Analog/Mixed Signal Design Intern",
@@ -1537,23 +1630,6 @@
       ]
     },
     {
-      "id": "simplify:f69b1fe1-5609-456a-a106-4867c3437ee0",
-      "company": "Associated Bank",
-      "title": "Corporate Intern - Digital Delivery - Artificial Intelligence",
-      "location": "Milwaukee, WI",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Digital-Delivery--Artificial-Intelligence-_JR106639",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9f100b0b-5ea2-4aea-b312-c15d32e8e8c8",
       "company": "Carrier Global",
       "title": "Test Engineer Intern",
@@ -1566,23 +1642,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d7a85e33-f117-40b4-a249-aec08587e7cf",
-      "company": "Associated Bank",
-      "title": "Corporate Internship - Artificial Intelligence - Corp. & Commercial Banking",
-      "location": "Minneapolis, MN",
-      "locations": [
-        "Minneapolis, MN"
-      ],
-      "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Minneapolis-80-8th-43rd-Floor/XMLNAME-2027-Corporate-Internship---Artificial-Intelligence--Corp---Commercial-Banking-_JR106672",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -1843,24 +1902,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:732644b7-8839-4c00-a810-134934432245",
-      "company": "Boston Scientific",
-      "title": "AI/Data Science Intern",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5316,23 +5357,6 @@
       ]
     },
     {
-      "id": "simplify:da22274c-bfe9-4435-a733-dece55964a5a",
-      "company": "American Electric Power",
-      "title": "Data Scientist Intern",
-      "location": "Columbus, OH",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:0f9f1d1f-b0cd-4b74-b678-41c0646bb6dc",
       "company": "Sierra Nevada Corporation",
       "title": "Test Engineer 1 Intern",
@@ -6862,21 +6886,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:a39bccf1-e48c-4ff3-a2da-21fb34a10641",
-      "company": "CAE",
-      "title": "Software Developer Co-op",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:1ed211df-94af-49fb-adc6-90893c7879b2",
@@ -14614,25 +14623,6 @@
       ]
     },
     {
-      "id": "simplify:a4f7639e-dcce-4b8a-9d8a-2459909bd068",
-      "company": "Geneva Trading",
-      "title": "Quantitative Trading Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:2fbce9ca-5c19-4daf-a633-47996511fe98",
       "company": "Epiroc",
       "title": "Data Analyst Intern - Digital Solutions Division",
@@ -19523,25 +19513,6 @@
         "Torrance, CA"
       ],
       "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ecdb732a-4566-44b5-bb1e-360045df13d9",
-      "company": "Northwood Space",
-      "title": "Electrical Engineer Intern - Summer Internship",
-      "location": "LA / Torrance, CA",
-      "locations": [
-        "LA",
-        "Torrance, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
       "date_posted": "2026-08-29",
       "deadline": "",
       "season": "Summer 2027",
