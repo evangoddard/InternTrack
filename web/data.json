@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1414,
+    "postings_tracked": 1405,
     "sources": 1,
-    "companies": 527,
+    "companies": 524,
     "last_updated": "2026-10-21"
   },
   "postings": [
@@ -1972,24 +1972,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5ac49c65-b333-4d62-9699-e77087c7e349",
-      "company": "Boston Scientific",
-      "title": "Electrical Hardware Engineer Intern",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563527",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9011,23 +8993,6 @@
       ]
     },
     {
-      "id": "simplify:53e9821c-e362-46ec-9a93-16d9dae05ce4",
-      "company": "RTX",
-      "title": "Electrical Design Engineer Intern",
-      "location": "Windsor Locks, CT",
-      "locations": [
-        "Windsor Locks, CT"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8a325190-3cfd-424c-8cba-97023be4c1ce",
       "company": "Hewlett Packard Enterprise",
       "title": "Electrical Hardware Engineer Intern",
@@ -9259,23 +9224,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:44631389-4603-4cbc-bb24-596433854282",
-      "company": "Waymo",
-      "title": "Software Engineer Intern - Driver Refinement Foundations",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -10465,24 +10413,6 @@
       ]
     },
     {
-      "id": "simplify:28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
-      "company": "Waymo",
-      "title": "Embedded Intern - Software Engineer",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c6ad75c6-e86c-4602-8344-eb52b14bb37e",
       "company": "Epic Games",
       "title": "Data Science Intern",
@@ -11023,21 +10953,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:05f24370-03fa-4a59-aa66-efbcea018d21",
-      "company": "SOTI",
-      "title": "Software Developer Intern - Back End",
-      "location": "Mississauga, ON, Canada",
-      "locations": [
-        "Mississauga, ON, Canada"
-      ],
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:159f82a2-c7ed-4eee-8157-6d300f593c83",
@@ -13923,24 +13838,6 @@
       ]
     },
     {
-      "id": "simplify:071e1ee1-8695-49cf-91ac-316a4d241cda",
-      "company": "Lyft",
-      "title": "Data Analyst Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c66b6cc2-a45f-46b5-b66a-8a96899a61ff",
       "company": "Lyft",
       "title": "Data Science Intern - Algorithms",
@@ -14604,23 +14501,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8a3a2fbf-c843-4e59-936b-52ef8c326944",
-      "company": "Securian Financial Group",
-      "title": "Data Science and Advanced Analytics Intern - Multiple Teams",
-      "location": "St Paul, MN",
-      "locations": [
-        "St Paul, MN"
-      ],
-      "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18093,23 +17973,6 @@
       ]
     },
     {
-      "id": "simplify:98540e92-9f57-4fcc-9005-6dc6593e8205",
-      "company": "Trane Technologies",
-      "title": "AI Intern - AI Product Management - AI Controls Integration",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f24bc603-523e-46fb-b6f7-b7ed10094fcd",
       "company": "American Express",
       "title": "Data Management Intern - Global Merchant & Network Services",
@@ -19398,23 +19261,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:8e8b0332-f404-4e9c-9a58-ec44adc3f4fd",
-      "company": "V2X",
-      "title": "Electrical Engineer Intern - Hardware Engineering",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://careers.gov2x.com/jobs/62685?icims=1",
-      "date_posted": "2026-08-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
