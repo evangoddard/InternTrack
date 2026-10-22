@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1436,
+    "postings_tracked": 1446,
     "sources": 1,
-    "companies": 535,
+    "companies": 536,
     "last_updated": "2026-10-22"
   },
   "postings": [
@@ -58,41 +58,6 @@
       ]
     },
     {
-      "id": "simplify:92137443-d00e-4f65-8dae-89ee6c4dc0af",
-      "company": "Qualcomm",
-      "title": "Camera Design Implementation Intern",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721664170",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:58d62252-3525-471b-8267-bdac7ba2d764",
-      "company": "Qualcomm",
-      "title": "Applied AI Engineer Intern",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:9cb6b50a-7e6d-4b91-8ef9-070a5fd9004f",
       "company": "TikTok",
       "title": "Product-Led-Growth Product Manager Project Intern",
@@ -124,6 +89,23 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": []
+    },
+    {
+      "id": "simplify:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
+      "company": "LexisNexis Risk Solutions",
+      "title": "Data Science & Fraud Analytics Placement Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888",
+      "date_posted": "2026-10-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
     },
     {
       "id": "simplify:502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1",
@@ -7084,6 +7066,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:93293229-4e3a-48c9-8204-6108c3325ea7",
+      "company": "Astera Labs",
+      "title": "Data Analyst New Grad",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:2246afaa-4221-4709-9120-48185cedb105",
       "company": "Astera Labs",
       "title": "Applied AI Engineer Intern - Silicon Engineering",
@@ -9103,6 +9102,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0f1bea68-104b-4a4a-b7e1-562e9c4a1b50",
+      "company": "CoStar Group",
+      "title": "Associate Embedded Software Engineer Intern",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -11346,23 +11363,6 @@
         "Montreal, QC, Canada"
       ],
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:60dc162c-a256-4cc0-bc15-a69b8366e773",
-      "company": "CAE",
-      "title": "Software Developer Intern - Immersive",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
       "date_posted": "2026-09-21",
       "deadline": "",
       "season": "",
@@ -18367,6 +18367,25 @@
       ]
     },
     {
+      "id": "simplify:de308300-adab-4771-916f-fb126c60ad40",
+      "company": "Textron",
+      "title": "Autonomy Engineer Intern - Air Systems",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
       "company": "Textron",
       "title": "Software Engineer Intern - Crewed Land",
@@ -21505,6 +21524,23 @@
       ]
     },
     {
+      "id": "simplify:b5a51123-5f95-4578-b058-795e2b7e4ecb",
+      "company": "DV Trading",
+      "title": "Trading Intern - Summer 2027 - DV Commodities",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
+      "date_posted": "2026-08-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:336b94ac-b891-4459-bd54-23d89446c8e2",
       "company": "GE Aerospace",
       "title": "Engines Engineering Intern - Computer or Software Engineering",
@@ -21714,6 +21750,146 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
