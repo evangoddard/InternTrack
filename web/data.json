@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1499,
+    "postings_tracked": 1489,
     "sources": 1,
-    "companies": 540,
+    "companies": 538,
     "last_updated": "2026-10-23"
   },
   "postings": [
@@ -3324,24 +3324,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3d0329e2-14b0-446f-859e-a1dea8bb23a0",
-      "company": "Northrop Grumman",
-      "title": "Electrical Engineer 1 Intern",
-      "location": "Chandler, AZ",
-      "locations": [
-        "Chandler, AZ"
-      ],
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539",
-      "date_posted": "2026-10-18",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Incomplete"
       ]
     },
     {
@@ -7985,21 +7967,6 @@
       ]
     },
     {
-      "id": "simplify:82c7882b-dc50-4738-b410-17d8fadcd128",
-      "company": "IEX",
-      "title": "Data Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8210998",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:b0deb0f8-293e-4d40-add9-69e719586391",
       "company": "Liberty Mutual",
       "title": "Data Science Intern",
@@ -8427,42 +8394,6 @@
       "date_posted": "2026-10-05",
       "deadline": "",
       "season": "Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:005abe0f-5c5a-4363-bfc4-bbff60db6d64",
-      "company": "Cirrus Logic",
-      "title": "Embedded Firmware Engineer Intern",
-      "location": "Phoenix, AZ",
-      "locations": [
-        "Phoenix, AZ"
-      ],
-      "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e915a1c9-d59b-4f53-a81f-e7864f68f430",
-      "company": "Cirrus Logic",
-      "title": "Embedded Software Engineer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jobs.eu.lever.co/cirrus/f8d30ab0-8c95-4c83-8188-fb45a2cfc9ec/apply",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
@@ -11896,24 +11827,6 @@
       ]
     },
     {
-      "id": "simplify:f2941a36-61c1-486f-bfb9-c38e195ec891",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60123?icims=1",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:89b0b1c4-3e5a-45b1-9a14-c12a48cd273b",
       "company": "JP Morgan Chase",
       "title": "Quantitative Research Summer Analyst Internship - Asset Management",
@@ -13465,25 +13378,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:e594a5ce-1e2e-4e72-97df-2dfbaee88a0e",
-      "company": "CesiumAstro",
-      "title": "Electrical Engineer Intern - Hardware",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:097e4adf-07db-4666-8e68-29b3364bc0eb",
       "company": "Citadel",
       "title": "Quantitative Researcher Post-Doctoral Intern",
@@ -14340,24 +14234,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:057dd9da-1280-4dab-a6a2-a29c81fedad0",
-      "company": "Cyvl",
-      "title": "Hardware Engineer Intern",
-      "location": "Boston, MA / Somerville, MA",
-      "locations": [
-        "Boston, MA",
-        "Somerville, MA"
-      ],
-      "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application?embed=true",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -16462,22 +16338,6 @@
       ]
     },
     {
-      "id": "simplify:b93e1e71-e120-4e6d-8deb-aff1ce68d3f1",
-      "company": "S&P Global",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Cambridge, MA / NYC",
-      "locations": [
-        "Cambridge, MA",
-        "NYC"
-      ],
-      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:85526fc6-8bae-4c87-9ad5-ddef62ac39df",
       "company": "Brevan Howard",
       "title": "Systematic Trading Intern",
@@ -16493,23 +16353,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:bf4ff037-a559-4845-9678-eb93cb17a890",
-      "company": "Booz Allen",
-      "title": "Quantum Computing Research Intern",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -23837,21 +23680,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": []
-    },
-    {
-      "id": "simplify:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
-      "company": "Belvedere Trading",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
-      "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": []
     },
     {
