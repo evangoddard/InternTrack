@@ -35,6 +35,20 @@ export interface Qualifications {
   source: string;
 }
 
+/**
+ * Is `host` the allowlisted domain, or a subdomain of it?
+ *
+ * The check this replaces was `host.endsWith(domain)`, with no dot. That
+ * also matched anything merely *ending in* those characters -- a registered
+ * `evillifeattiktok.com` satisfied `endsWith("lifeattiktok.com")` and, since
+ * tiktok()/workday()/oracle() fetch the supplied host directly, the server
+ * would have fetched an attacker's URL and returned its body to the caller.
+ * Requiring a dot boundary (or an exact match) closes that.
+ */
+function isHost(host: string, domain: string): boolean {
+  return host === domain || host.endsWith(`.${domain}`);
+}
+
 async function get(url: string, accept = "text/html,application/json"): Promise<Response | null> {
   try {
     const res = await fetch(url, {
@@ -338,19 +352,24 @@ export async function fetchQualifications(rawUrl: string): Promise<Qualification
   } catch {
     return null;
   }
-  if (u.protocol !== "https:" && u.protocol !== "http:") return null;
+  // https only. Some of the strategies below fetch the supplied host
+  // directly, so a plaintext hop would expose the request to anyone on the
+  // path -- and nothing in the allowlist is http-only.
+  if (u.protocol !== "https:") return null;
 
   const host = u.hostname;
 
   try {
-    if (host.endsWith("myworkdayjobs.com")) return await workday(u);
-    if (host.endsWith("oraclecloud.com")) return await oracle(u);
-    if (host.endsWith("lifeattiktok.com")) return await tiktok(u);
-    if (host.endsWith("ashbyhq.com")) return await ashby(u);
-    if (host.endsWith("lever.co")) return await lever(u);
+    if (isHost(host, "myworkdayjobs.com")) return await workday(u);
+    if (isHost(host, "oraclecloud.com")) return await oracle(u);
+    if (isHost(host, "lifeattiktok.com")) return await tiktok(u);
+    if (isHost(host, "ashbyhq.com")) return await ashby(u);
+    if (isHost(host, "lever.co")) return await lever(u);
     // Greenhouse last: it also matches company-hosted pages via ?gh_jid=,
-    // so anything with that param gets a shot regardless of domain.
-    if (host.endsWith("greenhouse.io") || u.searchParams.get("gh_jid")) {
+    // so anything with that param gets a shot regardless of domain. That is
+    // safe because greenhouse() never fetches the supplied host -- it reads
+    // an id out of the URL and calls boards-api.greenhouse.io itself.
+    if (isHost(host, "greenhouse.io") || u.searchParams.get("gh_jid")) {
       return await greenhouse(u);
     }
   } catch {
