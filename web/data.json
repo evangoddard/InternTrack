@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1519,
+    "postings_tracked": 1520,
     "sources": 1,
-    "companies": 544,
+    "companies": 545,
     "last_updated": "2026-10-24"
   },
   "postings": [
@@ -17408,6 +17408,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fcc141fb-8cec-4631-8613-5c6dc6231e0c",
+      "company": "Cox",
+      "title": "Product Management Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
