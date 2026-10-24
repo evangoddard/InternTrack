@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1520,
+    "postings_tracked": 1458,
     "sources": 1,
-    "companies": 545,
+    "companies": 521,
     "last_updated": "2026-10-24"
   },
   "postings": [
@@ -6906,23 +6906,6 @@
       ]
     },
     {
-      "id": "simplify:e149e65e-265d-4273-bc2c-9fe3740f6c41",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software/Systems Engineering Intern",
-      "location": "Middletown, RI",
-      "locations": [
-        "Middletown, RI"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b058e4f4-66d1-4259-8983-1c888392410d",
       "company": "Viget",
       "title": "Software Developer Intern",
@@ -7322,23 +7305,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",
-      "company": "Werfen",
-      "title": "Acute Care Hardware Systems Engineer Co-op",
-      "location": "Bedford, MA",
-      "locations": [
-        "Bedford, MA"
-      ],
-      "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -7835,21 +7801,6 @@
       ]
     },
     {
-      "id": "simplify:ca1c343b-c596-426d-b7d7-4f8ee16d5b4a",
-      "company": "Cook Group",
-      "title": "Applied AI & Full Stack Development Intern",
-      "location": "Bloomington, IN",
-      "locations": [
-        "Bloomington, IN"
-      ],
-      "url": "https://americas-cookmedical.icims.com/jobs/19550/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:c3e62dce-3096-481b-97f4-55b95eb49b14",
       "company": "Arcfield",
       "title": "Software Engineer-On Call Intern",
@@ -7956,23 +7907,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:f465e7dc-6075-4d52-aa52-c4c142f3401b",
-      "company": "Alliance Laundry Systems",
-      "title": "Embedded Firmware Co-op",
-      "location": "Ripon, WI",
-      "locations": [
-        "Ripon, WI"
-      ],
-      "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8343,42 +8277,6 @@
       ]
     },
     {
-      "id": "simplify:b0deb0f8-293e-4d40-add9-69e719586391",
-      "company": "Liberty Mutual",
-      "title": "Data Science Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:632599d0-d99c-438f-a65e-0d843831bd0e",
-      "company": "Liberty Mutual",
-      "title": "Data Science Co-op",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:97fe6a41-dd50-4193-84c4-3bb8640b1710",
       "company": "Magnite",
       "title": "Software Engineer Intern",
@@ -8690,23 +8588,6 @@
       ]
     },
     {
-      "id": "simplify:60ab7a67-de85-40c1-889d-104e6d6019cd",
-      "company": "IDEMIA",
-      "title": "Software Engineer Intern",
-      "location": "Reston, VA",
-      "locations": [
-        "Reston, VA"
-      ],
-      "url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:339959f8-3cdc-4c3f-bd22-07c25e9b0ab0",
       "company": "Atoms",
       "title": "Electrical Engineer Intern",
@@ -8722,23 +8603,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:aa739d1b-e0d2-4ce1-bb8a-be88fe2687f1",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer Intern - CWL",
-      "location": "Manassas, VA",
-      "locations": [
-        "Manassas, VA"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8776,23 +8640,6 @@
       ]
     },
     {
-      "id": "simplify:2d3cd1b8-063f-41a1-a9ba-c834e3114c68",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
       "company": "Quantum Signal AI",
       "title": "Software Engineer Intern - Tools and Prototypes",
@@ -8808,23 +8655,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:e6b611b1-56cf-4323-bd4d-9566f7d450d5",
-      "company": "Cook Group",
-      "title": "Statistics & Data Science Intern",
-      "location": "Spencer, IN +2 more",
-      "locations": [
-        "Spencer, IN",
-        "Ellettsville, IN",
-        "Bloomington, IN"
-      ],
-      "url": "https://americas-cookmedical.icims.com/jobs/19412/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
@@ -9822,23 +9652,6 @@
       ]
     },
     {
-      "id": "simplify:214f7fa6-b2de-4a0b-9ccd-29c3c807ebd7",
-      "company": "Cook Group",
-      "title": "Information Technology Intern - Artificial Intelligence",
-      "location": "Spencer, IN +2 more",
-      "locations": [
-        "Spencer, IN",
-        "Ellettsville, IN",
-        "Bloomington, IN"
-      ],
-      "url": "https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:150975a3-5da9-4ebe-8e99-a6efe8822741",
       "company": "Principal Financial Group",
       "title": "Quantitative Analyst Intern - Quantitative Research",
@@ -9943,23 +9756,6 @@
       "date_posted": "2026-10-01",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:280d6126-f176-44b7-9781-fc2dc2d8d099",
-      "company": "General Dynamics Mission Systems",
-      "title": "Integration and Test Engineer Intern",
-      "location": "Canonsburg, PA",
-      "locations": [
-        "Canonsburg, PA"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2026",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
@@ -10220,23 +10016,6 @@
       ]
     },
     {
-      "id": "simplify:f3437876-fa5c-490c-a81a-74af68437738",
-      "company": "Peraton",
-      "title": "Software Engineering Co-op",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-30",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:aa9bd6f2-fc80-4c29-8eb6-486d2a116c7b",
       "company": "Muon Space",
       "title": "Flight Software Engineer Intern",
@@ -10449,24 +10228,6 @@
         "United States"
       ],
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
-      "company": "Iridium Communications",
-      "title": "Software Engineering Intern",
-      "location": "Tempe, AZ / McLean, VA",
-      "locations": [
-        "Tempe, AZ",
-        "McLean, VA"
-      ],
-      "url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false",
       "date_posted": "2026-09-29",
       "deadline": "",
       "season": "Summer 2027",
@@ -11145,40 +10906,6 @@
       ]
     },
     {
-      "id": "simplify:799d62f1-1dde-4bfb-83e1-3f4c656bf2d8",
-      "company": "Atlassian",
-      "title": "Data Scientist Intern",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://campus-americas.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ecf69fe8-18e5-435b-a559-125a4c1928e5",
-      "company": "W.R. Berkley",
-      "title": "Product Management Analyst Intern",
-      "location": "Urbandale, IA",
-      "locations": [
-        "Urbandale, IA"
-      ],
-      "url": "https://careers-berkley.icims.com/jobs/14461/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:0cd0d31f-f4ae-4e6c-aa40-826253f51cf4",
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Space Exploration Software Engineer Intern - Embedded Applications",
@@ -11505,24 +11232,6 @@
       ]
     },
     {
-      "id": "simplify:576efb35-6523-4979-8e5d-7188d3bd98b9",
-      "company": "Enterprise Holdings",
-      "title": "Data Engineer Intern - IT",
-      "location": "St. Louis, MO",
-      "locations": [
-        "St. Louis, MO"
-      ],
-      "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Bootcamp"
-      ]
-    },
-    {
       "id": "simplify:60174f6d-1cb4-49c4-93db-3cf3d5dc9382",
       "company": "Arconic",
       "title": "Software Developer Intern",
@@ -11795,24 +11504,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:3ef4e51d-c8f0-4792-b2b3-bca136dbe3bb",
-      "company": "West Bend Insurance",
-      "title": "Data Scientist Intern",
-      "location": "Madison, WI / West Bend, WI",
-      "locations": [
-        "Madison, WI",
-        "West Bend, WI"
-      ],
-      "url": "https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -12137,22 +11828,6 @@
       ]
     },
     {
-      "id": "simplify:5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
-      "company": "West Bend Insurance",
-      "title": "IT Data Engineer Intern",
-      "location": "Madison, WI / West Bend, WI",
-      "locations": [
-        "Madison, WI",
-        "West Bend, WI"
-      ],
-      "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:3a86764d-e47b-4475-98c1-ec31081f9a2f",
       "company": "Udig",
       "title": "Software Engineer Intern",
@@ -12381,23 +12056,6 @@
       ]
     },
     {
-      "id": "simplify:bc661e4d-29a0-4de4-bbeb-52f943d960c8",
-      "company": "Grow Financial Federal Credit Union",
-      "title": "Systems Analyst Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ba651fee-6104-46f7-820b-85c639594cb3",
       "company": "Qorvo",
       "title": "Digital Systems Engineer Intern",
@@ -12431,24 +12089,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9a33b73a-0e3a-42d3-a81a-ac9a4f99a22c",
-      "company": "Atlassian",
-      "title": "Machine Learning Intern",
-      "location": "Seattle, WA / SF",
-      "locations": [
-        "Seattle, WA",
-        "SF"
-      ],
-      "url": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -13145,38 +12785,6 @@
       ]
     },
     {
-      "id": "simplify:895534e7-93b3-4f74-a9d4-5ed7e45671f7",
-      "company": "W.R. Berkley",
-      "title": "Product Management Analyst Intern - Claims",
-      "location": "Manassas, VA",
-      "locations": [
-        "Manassas, VA"
-      ],
-      "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
-      "id": "simplify:bf48dd2b-e7b1-4338-a911-cb29771f7cce",
-      "company": "W.R. Berkley",
-      "title": "Software Developer Intern - Java",
-      "location": "Urbandale, IA",
-      "locations": [
-        "Urbandale, IA"
-      ],
-      "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
       "company": "Rothesay",
       "title": "Quantitative Strategist Intern",
@@ -13526,24 +13134,6 @@
       ]
     },
     {
-      "id": "simplify:a05d7a49-eb81-476c-8100-ee50da876874",
-      "company": "Enterprise Holdings",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "St. Louis, MO",
-      "locations": [
-        "St. Louis, MO"
-      ],
-      "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Bootcamp"
-      ]
-    },
-    {
       "id": "simplify:3d2205a0-6089-401d-acc1-cb0542916a3d",
       "company": "Bedrock Robotics",
       "title": "Software Engineer Intern - Fleet Platform",
@@ -13613,28 +13203,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
-      "company": "General Dynamics",
-      "title": "Information Technology Intern - Software Engineering - Computer Science",
-      "location": "Newport, RI +4 more",
-      "locations": [
-        "Newport, RI",
-        "New London, CT",
-        "North Kingstown, RI",
-        "North Stonington, CT",
-        "Groton, CT"
-      ],
-      "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -14912,36 +14480,6 @@
       ]
     },
     {
-      "id": "simplify:91922350-2fdd-47f4-adfc-5693fb1ea5d5",
-      "company": "URBN",
-      "title": "Data Science Intern",
-      "location": "Philadelphia, PA",
-      "locations": [
-        "Philadelphia, PA"
-      ],
-      "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f90f94d5-786f-4736-b98d-933eaa6987ef",
-      "company": "URBN",
-      "title": "Software Engineer Intern",
-      "location": "Philadelphia, PA",
-      "locations": [
-        "Philadelphia, PA"
-      ],
-      "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:52d30fe4-44b1-4d5c-bda2-2cbb4610f317",
       "company": "Acron Aviation",
       "title": "Electrical Engineer Intern - Multiple Teams",
@@ -16120,23 +15658,6 @@
       ]
     },
     {
-      "id": "simplify:8db6ea78-3c40-41b2-9388-56379c84d193",
-      "company": "Rockefeller Capital Management",
-      "title": "Summer Analyst Intern - Core Platforms",
-      "location": "Hamilton Township, NJ",
-      "locations": [
-        "Hamilton Township, NJ"
-      ],
-      "url": "https://careers-rcm.icims.com/jobs/5574/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1",
       "company": "Shield AI",
       "title": "Software Engineer Intern",
@@ -16273,24 +15794,6 @@
       ]
     },
     {
-      "id": "simplify:054b254c-cc0b-47dd-a2c2-98cf50c0269f",
-      "company": "General Dynamics Mission Systems",
-      "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
-      "location": "Middletown, RI / Manassas, VA",
-      "locations": [
-        "Middletown, RI",
-        "Manassas, VA"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a023874d-88f4-4e6c-a29a-681d54bc45f9",
       "company": "Collier Aerospace",
       "title": "Software Engineer Intern - Web Applications - Summer 2027",
@@ -16380,23 +15883,6 @@
       ]
     },
     {
-      "id": "simplify:a6d9fcc3-2f85-4609-9b2d-2ed435325914",
-      "company": "ITT",
-      "title": "Product Management Co-op - Spring/Summer 2027",
-      "location": "Seneca Falls, NY",
-      "locations": [
-        "Seneca Falls, NY"
-      ],
-      "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ef40c957-572d-4f46-9bab-b7378678804d",
       "company": "Publicis Groupe",
       "title": "Software Engineer Intern",
@@ -16432,23 +15918,6 @@
       ]
     },
     {
-      "id": "simplify:42986ac3-5294-4881-b427-474d53f9bf74",
-      "company": "Hexagon AB",
-      "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-      "location": "Calgary, AB, Canada",
-      "locations": [
-        "Calgary, AB, Canada"
-      ],
-      "url": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c7dca39a-27ef-4e1d-a94e-b69ede82a562",
       "company": "Domino Data Lab",
       "title": "Software Engineer Intern",
@@ -16479,24 +15948,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a3c8fc71-5658-4914-be57-ce61c100da82",
-      "company": "Peraton",
-      "title": "Data Science Intern",
-      "location": "Blacksburg, VA / Herndon, VA",
-      "locations": [
-        "Blacksburg, VA",
-        "Herndon, VA"
-      ],
-      "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18255,272 +17706,6 @@
       ]
     },
     {
-      "id": "simplify:de7763b4-1647-4cc9-8b46-9c559a58c510",
-      "company": "Shure",
-      "title": "Automated Test Engineer Intern - Hardware",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:eb02dd97-b6c6-4dbc-94d3-d7db278bf381",
-      "company": "Shure",
-      "title": "Artificial Intelligence Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
-      "company": "Shure",
-      "title": "Quality Data Engineering Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4995/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a9bdae72-25d0-4ecf-a42a-689ddfd7294f",
-      "company": "Shure",
-      "title": "Electrical Engineer Intern - Digital Circuitry & Test Automation",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5028/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:72b5a18b-7e85-4712-9ddd-9562a091e25f",
-      "company": "Shure",
-      "title": "FPGA Development Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:62b070f3-36f8-45af-8694-3c1417f363aa",
-      "company": "Shure",
-      "title": "Data Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:30c22ab2-c292-4f03-b2d9-800af01e875b",
-      "company": "Shure",
-      "title": "Global Product Management Intern - Conferencing",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
-      "id": "simplify:10891019-b6b2-42dd-acd2-980b3b6cd2dc",
-      "company": "Shure",
-      "title": "Audio Test Engineering Intern",
-      "location": "Skokie, IL",
-      "locations": [
-        "Skokie, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4973/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:052aae75-1cb8-41e7-9062-f49eac2a2fd6",
-      "company": "Shure",
-      "title": "Automated Test Software Engineering Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6d54d38d-e5ea-4b4e-8d05-dbea32923015",
-      "company": "Shure",
-      "title": "Application Systems Development Intern - Motive Mix",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5021/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:d9dfbdc8-c094-4676-99ce-4f1cb9346b62",
-      "company": "Shure",
-      "title": "Cloud Software Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:80bc2f39-e660-4691-aa38-68acbd7b9e84",
-      "company": "Shure",
-      "title": "Software Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5ea0f850-a40e-4b33-8998-b57f63ea8379",
-      "company": "Shure",
-      "title": "Embedded Software Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:645b61ea-3bc4-432f-86af-7f6909ed5656",
-      "company": "Shure",
-      "title": "Global Product Management Data Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:27e893cb-896a-4fd1-805b-a43fbb5f89f9",
-      "company": "Shure",
-      "title": "Electrical Engineer Intern - Pro Audio Circuitry",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:b645d72b-c6ef-4d01-9338-2730eccd3665",
-      "company": "Shure",
-      "title": "Electrical Engineering Intern - Digital Circuitry",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
       "id": "simplify:48c0bb4b-9270-49f7-8ef8-72f592c37b0a",
       "company": "Momentive",
       "title": "Data Science Intern - Enterprise Reporting & Analytics",
@@ -18791,23 +17976,6 @@
       "category": "Software",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:acda40fc-1690-467d-92ef-f27c904fb1bb",
-      "company": "Atlassian",
-      "title": "Product Management Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -19084,25 +18252,6 @@
       ]
     },
     {
-      "id": "simplify:dab6f443-d39a-4bca-acad-451c8b347549",
-      "company": "Atlassian",
-      "title": "Software Engineer Intern",
-      "location": "Seattle, WA / SF",
-      "locations": [
-        "Seattle, WA",
-        "SF"
-      ],
-      "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:3f0954b3-4e14-4815-bc41-777fce0a87f4",
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
@@ -19137,23 +18286,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ae8f1ba1-981a-4a92-8400-ce447d413343",
-      "company": "Western & Southern Financial Group",
-      "title": "Data Engineering and Analytics Intern - Summer 2027",
-      "location": "Cincinnati, OH",
-      "locations": [
-        "Cincinnati, OH"
-      ],
-      "url": "https://careers-westernsouthern.icims.com/jobs/25207/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -19322,23 +18454,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:efa5d293-2ac9-4834-ab66-383fe4779246",
-      "company": "Western & Southern Financial Group",
-      "title": "Software Engineer Intern",
-      "location": "Cincinnati, OH",
-      "locations": [
-        "Cincinnati, OH"
-      ],
-      "url": "https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -20597,23 +19712,6 @@
       ]
     },
     {
-      "id": "simplify:2062e78d-248e-498f-8e1d-23d521e29d51",
-      "company": "Blackhawk Network Holdings",
-      "title": "Product Management Intern",
-      "location": "Coppell, TX",
-      "locations": [
-        "Coppell, TX"
-      ],
-      "url": "https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:6def32a2-38d9-47cf-8a10-2e7a23785b01",
       "company": "Robert Bosch Venture Capital",
       "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
@@ -21454,23 +20552,6 @@
       ]
     },
     {
-      "id": "simplify:f8139c71-b2b0-4405-8d3c-7468022996e2",
-      "company": "Empirical Foods",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Dakota Dunes, SD",
-      "locations": [
-        "Dakota Dunes, SD"
-      ],
-      "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b5558b87-ced5-4750-8c2d-4314921cca90",
       "company": "Honeywell",
       "title": "Embedded Engineer Intern",
@@ -21795,23 +20876,6 @@
       ]
     },
     {
-      "id": "simplify:cb063395-698b-47f5-9fe1-4b86a1b0dee5",
-      "company": "Springs Window Fashions",
-      "title": "Software Engineering Intern - Summer 2027",
-      "location": "Long Island City, Queens, NY",
-      "locations": [
-        "Long Island City, Queens, NY"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:bc4407ea-452d-4ef5-b173-3260a4f7db7b",
       "company": "Sage",
       "title": "Software Engineer Intern - Full Stack",
@@ -22088,74 +21152,6 @@
       ]
     },
     {
-      "id": "simplify:b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
-      "company": "Springs Window Fashions",
-      "title": "Data Analyst Intern - Consumer Business Unit",
-      "location": "Middleton, WI",
-      "locations": [
-        "Middleton, WI"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3ba0ee0f-9499-46e0-a269-8b7c01b0adf3",
-      "company": "Springs Window Fashions",
-      "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
-      "location": "Middleton, WI",
-      "locations": [
-        "Middleton, WI"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1f240169-1dfc-46e6-8e84-6e70ff3d98da",
-      "company": "Springs Window Fashions",
-      "title": "Product Management Dashboard Analytics Intern",
-      "location": "Middleton, WI",
-      "locations": [
-        "Middleton, WI"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
-      "company": "Springs Window Fashions",
-      "title": "Product Management Intern",
-      "location": "Long Island City, Queens, NY",
-      "locations": [
-        "Long Island City, Queens, NY"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
       "company": "TikTok",
       "title": "AI Product Manager Intern - Product Social",
@@ -22233,25 +21229,6 @@
         "London, UK"
       ],
       "url": "https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:78f9e1b5-9870-4a25-816c-c69294b6b6cb",
-      "company": "Susquehanna International Group",
-      "title": "Quantitative Strategy Developer Intern",
-      "location": "London, UK / Dublin, Ireland",
-      "locations": [
-        "London, UK",
-        "Dublin, Ireland"
-      ],
-      "url": "https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false",
       "date_posted": "2026-08-21",
       "deadline": "",
       "season": "Summer 2027",
@@ -23328,23 +22305,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fc428819-fa67-4635-beea-612c5eec041c",
-      "company": "Rockefeller Capital Management",
-      "title": "Analyst Intern - Core Platforms",
-      "location": "Hamilton Township, NJ",
-      "locations": [
-        "Hamilton Township, NJ"
-      ],
-      "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -26735,21 +25695,6 @@
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:55c03818-d743-45eb-bb1d-d9d6f3cdcc5b",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Quantitative Trading Internship",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://careers-sig.icims.com/jobs/11005/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-07-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": []
     },
     {
