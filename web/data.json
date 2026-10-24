@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1522,
+    "postings_tracked": 1519,
     "sources": 1,
-    "companies": 546,
+    "companies": 544,
     "last_updated": "2026-10-24"
   },
   "postings": [
@@ -2894,6 +2894,23 @@
       ]
     },
     {
+      "id": "simplify:a6a45fbf-b6a2-4f6b-8387-744c60b29d18",
+      "company": "Microsoft",
+      "title": "Research Intern - Extended Perception, Interaction & Cognition",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+      "date_posted": "2026-10-19",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:64a04930-5ef0-4b6e-a89b-0ef7d8a6cf17",
       "company": "Waymo",
       "title": "Machine Learning Intern - Simulation & Closed-Loop Training",
@@ -5230,23 +5247,6 @@
       ]
     },
     {
-      "id": "simplify:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
-      "company": "Rhombus",
-      "title": "Software Engineer Intern",
-      "location": "Sacramento, CA",
-      "locations": [
-        "Sacramento, CA"
-      ],
-      "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:aa14d682-dee4-485b-afd9-989398c047be",
       "company": "Microsoft",
       "title": "Research Intern - Agentic Data Memory",
@@ -7037,6 +7037,21 @@
       ]
     },
     {
+      "id": "simplify:560fbfa2-951c-4d72-adc2-93abc85d1a5b",
+      "company": "StudyFetch",
+      "title": "Robotics Intern - Learning Kits & Curriculum",
+      "location": "Beverly Hills, CA",
+      "locations": [
+        "Beverly Hills, CA"
+      ],
+      "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
       "id": "simplify:8b0296b6-e7e6-41b4-a423-68e926dd861f",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
@@ -7121,21 +7136,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:64ffe791-24fc-4b7a-b06b-90a8bc63b978",
-      "company": "Badger Meter",
-      "title": "Software Engineering Intern",
-      "location": "Escondido, CA",
-      "locations": [
-        "Escondido, CA"
-      ],
-      "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:9513d076-0116-4b22-94c4-85a429e7e9de",
@@ -7439,24 +7439,6 @@
       ]
     },
     {
-      "id": "simplify:c977c519-0e77-41fa-bc32-6ae73ce0cf85",
-      "company": "L3Harris Technologies",
-      "title": "Associate Integration & Test Engineer Intern",
-      "location": "Clinton, MD / Clifton, NJ",
-      "locations": [
-        "Clinton, MD",
-        "Clifton, NJ"
-      ],
-      "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1437605100/?ats=successfactors",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
       "company": "Akuna Capital",
       "title": "Entry-Level C++ Software Engineer Intern",
@@ -7582,24 +7564,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:118adc1e-4c91-45e1-8654-5297c47e9a9c",
-      "company": "HCSC",
-      "title": "Systems Analyst Intern",
-      "location": "Chicago, IL / Richardson, TX",
-      "locations": [
-        "Chicago, IL",
-        "Richardson, TX"
-      ],
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8140,24 +8104,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:532045a4-58bc-4fef-8105-cae7f1bdcccc",
-      "company": "Boston Scientific",
-      "title": "Equipment Engineering Software Engineer Intern",
-      "location": "Maple Grove, MN",
-      "locations": [
-        "Maple Grove, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -10809,23 +10755,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:cb062e22-3c1a-451f-a4b8-bcb8167ea270",
-      "company": "H&R Block",
-      "title": "Software Engineer Intern",
-      "location": "Kansas City, MO",
-      "locations": [
-        "Kansas City, MO"
-      ],
-      "url": "https://careers.hrblock.com/jobs/76987?icims=1",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -14046,6 +13975,24 @@
         "Bachelor's",
         "Master's",
         "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:00026218-6b9b-420f-a490-b3b29742cf17",
+      "company": "APEX Analytix",
+      "title": "Data Analyst Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
