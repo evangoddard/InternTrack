@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 1484,
+    "postings_tracked": 1483,
     "sources": 1,
     "companies": 517,
     "last_updated": "2026-10-27"
   },
   "postings": [
+    {
+      "id": "simplify:78b657c3-9149-493f-b46d-abe43d480e0a",
+      "company": "Dominion Energy",
+      "title": "Power Systems Time-Series Analytics Intern",
+      "location": "Glen Allen, VA",
+      "locations": [
+        "Glen Allen, VA"
+      ],
+      "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:1def6b3e-6143-4509-9f6c-ca677a3669ec",
       "company": "Sherwin-Williams",
@@ -173,6 +190,45 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "company": "Visa",
+      "title": "Sophomore Program Software Engineer Intern",
+      "location": "Ashburn, VA",
+      "locations": [
+        "Ashburn, VA"
+      ],
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:07c7ac36-a6b7-4d9a-a42c-4243b95697ae",
+      "company": "NVIDIA",
+      "title": "Software Engineer Intern - AI Agents and Backend Infrastructure",
+      "location": "Bristol, UK +3 more",
+      "locations": [
+        "Bristol, UK",
+        "Belfast, UK",
+        "Remote in UK",
+        "Reading, UK"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2734,21 +2790,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:df6e4384-38fb-46ab-b6b9-bf5cb52126e0",
-      "company": "Brunswick Group",
-      "title": "BI Data Analyst Apprentice",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://job-boards.greenhouse.io/brunswickgroup/jobs/8905242002",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": []
     },
     {
@@ -8155,23 +8196,6 @@
       ]
     },
     {
-      "id": "simplify:b2c03613-aaeb-429e-86b1-34d237dfe4c0",
-      "company": "General Motors",
-      "title": "Fleet Reliability and Test Engineering Intern",
-      "location": "Milford, MI",
-      "locations": [
-        "Milford, MI"
-      ],
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Fleet-Reliability---Test-Engineering--ASD_JR-202622071",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a8655c72-8299-4087-b0ad-d93807cef979",
       "company": "Illinois Tool Works",
       "title": "Software Engineer Intern - Application Software",
@@ -9605,6 +9629,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
+      "company": "Fresenius Medical Care",
+      "title": "Software Engineering Co-op",
+      "location": "Lawrence, MA",
+      "locations": [
+        "Lawrence, MA"
+      ],
+      "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:4c9b657c-308b-428a-b374-4960e3b7e09f",
       "company": "BorgWarner",
       "title": "Electronics Hardware Design Intern",
@@ -10924,23 +10965,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0150e350-a32f-4473-a4ee-93b1e1b1ea7e",
-      "company": "John Deere",
-      "title": "Software Engineer Part-Time Student",
-      "location": "Champaign, IL",
-      "locations": [
-        "Champaign, IL"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137483583981",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -16310,23 +16334,6 @@
       ]
     },
     {
-      "id": "simplify:ef30e941-c64e-46bc-958c-d29519f7d16d",
-      "company": "Exegy",
-      "title": "Software Engineer Intern",
-      "location": "St. Louis, MO",
-      "locations": [
-        "St. Louis, MO"
-      ],
-      "url": "https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application?embed=true",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
       "company": "Perpay",
       "title": "Software Engineer Intern",
@@ -21340,26 +21347,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:b36d77b3-8f2d-43d7-bf82-ad49189efa02",
-      "company": "John Deere",
-      "title": "Robotics Engineer Part-Time Student - Product Engineering",
-      "location": "Urbandale, IA / Ames, IA",
-      "locations": [
-        "Urbandale, IA",
-        "Ames, IA"
-      ],
-      "url": "https://johndeere.eightfold.ai/careers/job/137482782400",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
