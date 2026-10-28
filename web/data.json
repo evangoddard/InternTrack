@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1498,
+    "postings_tracked": 1496,
     "sources": 1,
-    "companies": 530,
+    "companies": 534,
     "last_updated": "2026-10-28"
   },
   "postings": [
+    {
+      "id": "simplify:f7843e36-e0e4-4531-866f-60aa4149321f",
+      "company": "Certa",
+      "title": "Frontend Engineer Intern",
+      "location": "London, UK +3 more",
+      "locations": [
+        "London, UK",
+        "Remote in India",
+        "SF",
+        "Jaipur, Rajasthan, India"
+      ],
+      "url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
     {
       "id": "simplify:3ca07823-9706-45cc-8542-c0aa2140bda4",
       "company": "Meta",
@@ -53,6 +71,36 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:178d0613-9e8b-480c-b35e-f7b89b94e02e",
+      "company": "VSP Vision",
+      "title": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
+      "company": "VSP Vision",
+      "title": "Software Engineer Intern - Technology Innovation",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:9857a37f-ddfe-474b-877b-894f4761b0d3",
@@ -307,23 +355,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d6d3b025-0991-4f92-ba7a-a3fb13c696fd",
-      "company": "HP IQ",
-      "title": "Wireless Automation and Test Engineer Intern - Wireless Automation and Test",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114741004",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -2159,27 +2190,6 @@
       ]
     },
     {
-      "id": "simplify:b528e2b6-04c3-46be-bd21-cac3f2e018bb",
-      "company": "Amazon",
-      "title": "Systems Development Engineer Intern",
-      "location": "Bellevue, WA",
-      "locations": [
-        "Bellevue, WA"
-      ],
-      "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
-      "date_posted": "2026-10-23",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA",
-        "PharmD",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:5dcd55ac-c7f2-47c8-9bb8-4b2a6c16a6b9",
       "company": "Amazon",
       "title": "Product Manager Intern - ALA",
@@ -2227,21 +2237,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:df65c239-9fbb-4b32-a88e-fd7e66234cc4",
-      "company": "Paccar",
-      "title": "Aftersales Data Analyst Intern",
-      "location": "Kirkland, WA",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
-      "date_posted": "2026-10-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:d8b9f547-837d-4189-801a-d05610addf86",
@@ -2515,6 +2510,25 @@
       ]
     },
     {
+      "id": "simplify:7d4422bd-d3e5-46bf-aab9-1aa024e2e435",
+      "company": "Quadric",
+      "title": "Deep Learning Compiler Intern",
+      "location": "Burlingame, CA",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true",
+      "date_posted": "2026-10-23",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:e3e90086-74af-4597-8e04-73d96261bd06",
       "company": "Peak Energy",
       "title": "Systems Integration and Test Engineer Intern",
@@ -2697,22 +2711,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:b997ca1f-399c-40bb-88af-2a86fe6e7f98",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Fair - Video Generation",
-      "location": "Seattle, WA / Menlo Park, CA",
-      "locations": [
-        "Seattle, WA",
-        "Menlo Park, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/3549654831867862",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:fe6e8418-4f04-486e-a068-b40390792ac4",
@@ -3247,6 +3245,21 @@
       ]
     },
     {
+      "id": "simplify:c8065191-fc0d-4846-9c05-5736286153db",
+      "company": "Ixian Robotics",
+      "title": "Hardware Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/ixianrobotics/f974d07a-0186-4cc9-8c63-ef962dd06f0b/application?embed=true",
+      "date_posted": "2026-10-22",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
       "id": "simplify:502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1",
       "company": "Walrus",
       "title": "Full Stack Developer Intern",
@@ -3342,21 +3355,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:cfaefc82-5787-4e0b-8091-f6b29bce3bda",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Foundational Models for Robotics Research",
-      "location": "Menlo Park, CA",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1078644001656413",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": []
     },
     {
@@ -3681,23 +3679,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:352ca30a-f20a-448d-8092-68c1f8720f68",
-      "company": "Paccar",
-      "title": "Field Service Data Analyst Intern",
-      "location": "Kirkland, WA",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -4149,24 +4130,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1b127c4c-2a7e-4f0d-86c3-6fe63558f83f",
-      "company": "American Family Insurance Group",
-      "title": "Data Engineer Intern",
-      "location": "Madison, WI",
-      "locations": [
-        "Madison, WI"
-      ],
-      "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Intern---Data-Engineering_R39426",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -4678,24 +4641,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9f87174c-3de3-4a2b-a443-5cf09d0aadce",
-      "company": "Paccar",
-      "title": "Warranty Data Analyst Intern",
-      "location": "Kirkland, WA",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5853,6 +5798,21 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:c06039c4-ba75-429d-bdd0-6d8a878845ee",
+      "company": "General Magic",
+      "title": "Backend Engineer Co-op",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true",
+      "date_posted": "2026-10-16",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:9d5c24d2-d38e-446d-adc3-1ec433cda69c",
@@ -8885,25 +8845,6 @@
       ]
     },
     {
-      "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
-      "company": "Akuna Capital",
-      "title": "Entry-Level C++ Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:b29f7462-630f-4a75-8dca-924bcd83bd11",
       "company": "Sigma Computing",
       "title": "Software Engineer Intern - Summer 2027",
@@ -11358,6 +11299,24 @@
       ]
     },
     {
+      "id": "simplify:365794f9-57cb-460f-a01a-ff545f9d0cc9",
+      "company": "Aurora Innovation",
+      "title": "LiDAR Systems Intern",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:aa9bd6f2-fc80-4c29-8eb6-486d2a116c7b",
       "company": "Muon Space",
       "title": "Flight Software Engineer Intern",
@@ -12376,6 +12335,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:0de47efa-a533-4274-81c4-2a570d4489ce",
+      "company": "Shield AI",
+      "title": "Electrical Engineer Intern - Hardware Test",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -23530,23 +23506,6 @@
       ]
     },
     {
-      "id": "simplify:ab415b2f-4b79-4996-a204-a63273564c89",
-      "company": "Deloitte",
-      "title": "Software Engineering Analyst Intern - Government & Public Services",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Software-Engineering/362448",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c0bc8e2c-204a-461b-bd1b-7d720fbcbd77",
       "company": "Quantbot Technologies",
       "title": "Quantitative Developer Intern",
@@ -24197,24 +24156,6 @@
       ],
       "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
       "date_posted": "2026-08-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
-      "company": "ByteDance",
-      "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
-      "date_posted": "2026-08-06",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
@@ -26150,6 +26091,25 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3d47d098-864b-4807-8862-799cd08354db",
+      "company": "One Robot",
+      "title": "Machine Learning Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/onerobot/12fc1098-421d-4068-9879-e1737fb91571/application?embed=true",
+      "date_posted": "2026-07-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
       ]
     },
     {
