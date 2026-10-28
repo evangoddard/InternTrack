@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1512,
+    "postings_tracked": 1496,
     "sources": 1,
-    "companies": 537,
+    "companies": 531,
     "last_updated": "2026-10-28"
   },
   "postings": [
@@ -266,23 +266,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:7cf9e6f3-53d7-436f-8cfb-de413386333b",
-      "company": "Nomad GCS",
-      "title": "Software Engineer Intern",
-      "location": "Columbia Falls, MT",
-      "locations": [
-        "Columbia Falls, MT"
-      ],
-      "url": "https://nomadgcs.bamboohr.com/careers/506/",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -1156,24 +1139,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:de7fa612-c692-41df-bee6-384a28885a20",
-      "company": "Renesas Electronics",
-      "title": "Digital Design Electrical Engineer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -2980,24 +2945,6 @@
       ]
     },
     {
-      "id": "simplify:8af9387e-120b-4e72-bafe-1c85ff072299",
-      "company": "Ursa Major",
-      "title": "Embedded Flight Software Intern",
-      "location": "Longmont, CO",
-      "locations": [
-        "Longmont, CO"
-      ],
-      "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:6f2b4d23-50f1-4385-a940-5a3daf9cd7b4",
       "company": "Apple",
       "title": "Software Engineer Intern - iCloud Platform",
@@ -3269,26 +3216,6 @@
       ]
     },
     {
-      "id": "simplify:4da3ddc6-8559-489a-b239-8d419ece6bad",
-      "company": "CVS Health",
-      "title": "Software Engineer Intern - Platform & Applications",
-      "location": "Dallas, TX +3 more",
-      "locations": [
-        "Dallas, TX",
-        "Scottsdale, AZ",
-        "Hartford, CT",
-        "Woonsocket, RI"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4ba872b4-8b90-4582-957d-659c7dbefe2f",
       "company": "CVS Health",
       "title": "Innovation & Technology Data Engineering Intern",
@@ -3306,24 +3233,6 @@
       ]
     },
     {
-      "id": "simplify:3f06de58-bfa6-4e51-8270-e63a13d7367b",
-      "company": "Leidos",
-      "title": "AI/ML Intern",
-      "location": "Huntsville, AL",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:752e7b9a-ef6d-4bb0-883b-ec5cc4e3207c",
       "company": "CVS Health",
       "title": "Innovation & Technology Data Science Intern",
@@ -3338,26 +3247,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:63e6ac11-18af-4a74-b78e-fb596834ab90",
-      "company": "CVS Health",
-      "title": "Innovation & Technology Software Engineering: Platform & Applications Intern",
-      "location": "Dallas, TX +3 more",
-      "locations": [
-        "Dallas, TX",
-        "Scottsdale, AZ",
-        "Hartford, CT",
-        "Woonsocket, RI"
-      ],
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -4531,21 +4420,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:3fbf45ce-c71e-429a-a73a-65f345515651",
-      "company": "Ursa Major",
-      "title": "Avionics Electrical Engineer Intern",
-      "location": "Berthoud, CO",
-      "locations": [
-        "Berthoud, CO"
-      ],
-      "url": "https://ursamajor.com/careers/?gh_jid=4745125005",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": []
     },
     {
@@ -9986,24 +9860,6 @@
       ]
     },
     {
-      "id": "simplify:1ed211df-94af-49fb-adc6-90893c7879b2",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Electrical Engineer Intern",
-      "location": "Spring, TX",
-      "locations": [
-        "Spring, TX"
-      ],
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:41056107-e942-4486-b971-bd3f27fbf814",
       "company": "Mercor",
       "title": "Research Scientist Intern",
@@ -13440,24 +13296,6 @@
       ]
     },
     {
-      "id": "simplify:da61d135-a599-4c02-89dc-afe22196934e",
-      "company": "Lazard",
-      "title": "Data Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:2e8bb17d-0726-4482-af62-5f868bede92c",
       "company": "AutoZone",
       "title": "Data Science Intern",
@@ -14043,23 +13881,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2569d7a8-a0c6-49dc-b828-f9c792898c61",
-      "company": "Javelin Global Commodities",
-      "title": "Software Engineering Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://apply.workable.com/javelin-global-commodities/j/C2B7BC10AD/apply",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -16626,96 +16447,6 @@
       ]
     },
     {
-      "id": "simplify:97071ed7-a906-402b-b755-8a9a9f9968c7",
-      "company": "Amgen",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "MBA",
-        "PharmD",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:dc2aebf1-8c3c-4139-937e-f31dfd69950e",
-      "company": "Amgen",
-      "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9eef895c-2727-4ebb-92bc-fda2b10c3d34",
-      "company": "Amgen",
-      "title": "Data Scientist Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:811210da-553e-4d37-b262-9897450dc43d",
-      "company": "Amgen",
-      "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5012230e-2a8b-4047-80ec-4b7c9ecbf427",
-      "company": "Amgen",
-      "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:cd3e7aeb-84d9-4069-aa81-e1afa527a3d0",
       "company": "Motorola",
       "title": "Digital Signal Processing Software Engineering Intern - Digital Signal Processing",
@@ -16961,23 +16692,6 @@
       "date_posted": "2026-09-10",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
-      "company": "Insulet",
-      "title": "Life Cycle Engineering Co-op - Electrical",
-      "location": "Acton, MA",
-      "locations": [
-        "Acton, MA"
-      ],
-      "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
