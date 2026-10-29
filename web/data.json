@@ -1,11 +1,94 @@
 {
   "stats": {
-    "postings_tracked": 1525,
+    "postings_tracked": 1561,
     "sources": 1,
-    "companies": 551,
+    "companies": 570,
     "last_updated": "2026-10-29"
   },
   "postings": [
+    {
+      "id": "simplify:9e19ac06-ed59-4535-aae4-93a0f5ca7293",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Intelligence",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050083",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bfa01257-724c-4c7e-9a32-1bd1a99d9b9e",
+      "company": "Two Six Technologies",
+      "title": "Systems Software Engineer Intern",
+      "location": "Arlington County, Arlington, VA",
+      "locations": [
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f0720d7f-0077-43cf-959f-4ac76d40e302",
+      "company": "Syngenta Group",
+      "title": "Data Scientist Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:92028585-06ce-429a-8702-8cc1d5ce13f5",
+      "company": "Tesla",
+      "title": "Data Engineer Intern - Energy",
+      "location": "Palo Alto, CA",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.tesla.com/careers/search/job/287982",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:89b4d48a-3689-4e23-8350-566ba889a659",
+      "company": "SCM",
+      "title": "Quantitative Research Analyst Intern",
+      "location": "Radnor, PA",
+      "locations": [
+        "Radnor, PA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scmaea/jobs/998317",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:502cc8d5-9ab0-45f7-8d62-eb6c9c030d91",
       "company": "USAFacts",
@@ -19,6 +102,187 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c7550b04-9751-4a51-b27b-24ab209dcc1a",
+      "company": "Altera",
+      "title": "FPGA Software Design Engineer Intern",
+      "location": "Marlow, UK",
+      "locations": [
+        "Marlow, UK"
+      ],
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/Internship---FPGA-Software-Design-Engineer_R02749",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c24dc4cf-1483-4344-a627-727c9a26aeb3",
+      "company": "Sallie Mae",
+      "title": "Data Science and Engineering Intern",
+      "location": "Newark, DE / Arlington County, Arlington, VA",
+      "locations": [
+        "Newark, DE",
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:d4989aa8-ab4d-4bc5-bb75-d9deaead306c",
+      "company": "CACI",
+      "title": "Systems Engineering Co-op Intern",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ffc6266f-4786-4043-b824-c50c2f564d80",
+      "company": "JM Family",
+      "title": "Customer Experience Data Analyst Intern",
+      "location": "Deerfield Beach, FL",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:abaefc1d-50b7-4172-a329-4fc9c7667dbd",
+      "company": "Bank of Montreal",
+      "title": "Quantitative Trading Analyst Co-op",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
+      "company": "JM Family",
+      "title": "Software Engineer Intern",
+      "location": "Deerfield Beach, FL",
+      "locations": [
+        "Deerfield Beach, FL"
+      ],
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:16383177-59a6-4e58-94ba-2fb28a3c779a",
+      "company": "CACI",
+      "title": "Software Engineering Co-op Intern",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:af544dc0-7957-4ee1-8aa7-c8c161d3648e",
+      "company": "Datasite",
+      "title": "Product Management Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c1ac74d2-f7fa-4011-8d78-025691a38abc",
+      "company": "OLIX",
+      "title": "Software Engineer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:b748b636-64b5-4ca3-b76a-cc941b9c3ab4",
+      "company": "Sonos",
+      "title": "Software Product Manager Intern",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:54c83f6c-0c22-45e4-8f12-5db6bf3defd8",
+      "company": "Sonos",
+      "title": "Software Engineer Intern - Partner Engineering",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -1164,6 +1428,23 @@
       ]
     },
     {
+      "id": "simplify:514d3f93-a8b0-4017-9379-b1b6253b11d7",
+      "company": "TikTok",
+      "title": "Brand Search Ads Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://lifeattiktok.com/search/7701072604556642613",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:9b71b062-0254-4731-8c73-14ea6becaeb3",
       "company": "Visa",
       "title": "Data Science Intern - Data and AI Team",
@@ -1208,27 +1489,6 @@
         "Ashburn, VA"
       ],
       "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:07c7ac36-a6b7-4d9a-a42c-4243b95697ae",
-      "company": "NVIDIA",
-      "title": "Software Engineer Intern - AI Agents and Backend Infrastructure",
-      "location": "Bristol, UK +3 more",
-      "locations": [
-        "Bristol, UK",
-        "Belfast, UK",
-        "Remote in UK",
-        "Reading, UK"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939",
       "date_posted": "2026-10-27",
       "deadline": "",
       "season": "",
@@ -1698,6 +1958,21 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:a56c3be4-35d8-45ca-a8f7-c98206f9e105",
+      "company": "Burns Engineering",
+      "title": "Software Engineer Intern",
+      "location": "Pittsburgh, PA",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009",
+      "date_posted": "2026-10-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:40788700-c5a9-4875-9193-d098f17dbbd8",
@@ -3993,6 +4268,21 @@
       "degrees": []
     },
     {
+      "id": "simplify:4df32e9a-c2bf-41b5-a2d3-5bffe9caf0b5",
+      "company": "OneEthos",
+      "title": "Product Management Intern",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "Fall 2026 / Spring 2027 / Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
       "id": "simplify:2649142c-09b6-4a9e-84cd-10f97d29c2c1",
       "company": "Meta",
       "title": "Research Scientist Intern - Robotics - World Models & Embodied AI",
@@ -4006,6 +4296,24 @@
       "season": "",
       "category": "AI/ML/Data",
       "degrees": []
+    },
+    {
+      "id": "simplify:fc7e57ed-e4b3-4658-b094-842e4a64636a",
+      "company": "Apple",
+      "title": "Machine Learning Research Intern - Speech-to-Speech Translation",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://jobs.apple.com/en-us/details/200690125",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
     },
     {
       "id": "simplify:b3c0d835-cfc4-48e9-8841-d656e80fb21c",
@@ -6246,6 +6554,21 @@
       "degrees": []
     },
     {
+      "id": "simplify:68010781-d0a8-481c-b196-8485cb918231",
+      "company": "SiTime",
+      "title": "ASIC Digital Verification Engineer Intern",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009",
+      "date_posted": "2026-10-16",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
       "id": "simplify:1e7773d3-204e-4be0-84c6-7d80b5db80ff",
       "company": "Leonardo",
       "title": "Software Engineering Apprentice",
@@ -6451,6 +6774,25 @@
       "season": "",
       "category": "AI/ML/Data",
       "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:e32e272c-9c49-42b3-a5f8-28c2581acf78",
+      "company": "Capital de Recherche Tower",
+      "title": "Machine Learning Intern",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8286965",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ]
     },
@@ -8548,6 +8890,40 @@
       ]
     },
     {
+      "id": "simplify:faaf5b8b-6d65-440e-b445-14d9f0e1bd7c",
+      "company": "Riverlane",
+      "title": "Software Engineering Intern",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:5878bf66-e4ea-4991-93a9-a7bf15303126",
+      "company": "Riverlane",
+      "title": "Hardware Engineer Intern",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://www.riverlane.com/jobs?gh_jid=5001377101#vacancies",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
       "id": "simplify:1564dff4-1455-4c39-8484-e1940718b5df",
       "company": "WTW",
       "title": "Software Developer Intern",
@@ -10010,6 +10386,23 @@
       ]
     },
     {
+      "id": "simplify:67af29a3-58ac-47dc-9fc4-c94be1828e2f",
+      "company": "West Monroe",
+      "title": "Software Engineering Consultant Intern - AI Concentration",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:9c73b8be-e8be-4a91-9db0-df9eb032917a",
       "company": "Cadence Solutions",
       "title": "Software Engineer Intern",
@@ -10453,6 +10846,24 @@
       ]
     },
     {
+      "id": "simplify:3cc9cc0f-0e1a-4dce-bb78-729c0ac8bddb",
+      "company": "Astronics",
+      "title": "Electrical Engineer Intern",
+      "location": "Kirkland, WA",
+      "locations": [
+        "Kirkland, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431922009",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:41056107-e942-4486-b971-bd3f27fbf814",
       "company": "Mercor",
       "title": "Research Scientist Intern",
@@ -10604,6 +11015,23 @@
       "date_posted": "2026-10-05",
       "deadline": "",
       "season": "Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3d956618-19c8-41b1-beb3-388e234964d5",
+      "company": "Astronics",
+      "title": "Software Engineer Intern",
+      "location": "Kirkland, WA",
+      "locations": [
+        "Kirkland, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
+      "date_posted": "2026-10-05",
+      "deadline": "",
+      "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
@@ -10948,6 +11376,21 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:d3fea6f1-3557-4f70-b650-ab6dedaf6706",
+      "company": "TobogganLabs",
+      "title": "Data Science Intern",
+      "location": "Qu\u00e9bec City, QC, Canada",
+      "locations": [
+        "Qu\u00e9bec City, QC, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003",
+      "date_posted": "2026-10-04",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
     },
     {
       "id": "simplify:3318c591-4135-42fd-aee3-50ae988fc30f",
@@ -11639,6 +12082,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:4e5a549d-7b37-4edc-b990-e4f3ec584002",
+      "company": "Qualcomm",
+      "title": "Design Automation & Quality Assurance Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721349404",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:55b485ba-ab1e-4b8b-80da-6df85730bab6",
       "company": "Astranis",
       "title": "Radio Frequency Hardware Intern",
@@ -11892,6 +12352,23 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:1411f04b-0318-4e7d-9f6a-3d8abbd29414",
+      "company": "Astronics",
+      "title": "Electrical Test Engineer Intern",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -13445,24 +13922,6 @@
       ]
     },
     {
-      "id": "simplify:c986d084-22ce-42b2-8117-a1fdd3db77a4",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Engineer Intern",
-      "location": "Bristol, UK",
-      "locations": [
-        "Bristol, UK"
-      ],
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5eb5b284-a13e-460f-8868-b285bb6e1821",
       "company": "Grow Therapy",
       "title": "Software Engineer Intern",
@@ -13883,6 +14342,23 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:fb64e1f2-3b7a-4ca1-9b36-3e2b08047160",
+      "company": "Netcraft",
+      "title": "Software Engineer Intern",
+      "location": "London, UK +2 more",
+      "locations": [
+        "London, UK",
+        "Bath, UK",
+        "Manchester, UK"
+      ],
+      "url": "https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101",
+      "date_posted": "2026-09-21",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:2e8bb17d-0726-4482-af62-5f868bede92c",
@@ -14492,6 +14968,21 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:0fe687ca-5424-4eac-9d21-5b5baf0a4e5d",
+      "company": "Capital de Recherche Tower",
+      "title": "Software Developer Intern",
+      "location": "Montreal, QC, Canada",
+      "locations": [
+        "Montreal, QC, Canada"
+      ],
+      "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
+      "date_posted": "2026-09-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
@@ -17614,6 +18105,25 @@
       ]
     },
     {
+      "id": "simplify:2ef8d3a4-d742-471f-81ab-d84c40ed6070",
+      "company": "Qube Research & Technologies",
+      "title": "Data Engineering Intern",
+      "location": "London, UK / Paris, France",
+      "locations": [
+        "London, UK",
+        "Paris, France"
+      ],
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+      "date_posted": "2026-09-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:20b0f4b1-dafa-4b0c-bebe-41e1e3676175",
       "company": "K2 Space",
       "title": "Simulation Software Engineering Intern",
@@ -18060,6 +18570,31 @@
       ]
     },
     {
+      "id": "simplify:e40e4287-aac7-4a1e-9d73-45d2647663f4",
+      "company": "Qube Research & Technologies",
+      "title": "Quantitative Research and Trading Intern",
+      "location": "Aarhus, Denmark +6 more",
+      "locations": [
+        "Aarhus, Denmark",
+        "London, UK",
+        "Paris, France",
+        "Geneva, Switzerland",
+        "Dubai - United Arab Emirates",
+        "Budapest, Hungary",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:e6dbbc55-6f12-4929-aae1-6c7b7e14a24b",
       "company": "United Launch Alliance",
       "title": "Software Engineer Intern",
@@ -18074,6 +18609,30 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4ebdb3ee-932e-4e34-80a3-dd7c09749e71",
+      "company": "Qube Research & Technologies",
+      "title": "Software Engineering Intern - Quantitative Development",
+      "location": "Aarhus, Denmark +6 more",
+      "locations": [
+        "Aarhus, Denmark",
+        "London, UK",
+        "Wroc\u0142aw, Poland",
+        "Paris, France",
+        "Amsterdam, Netherlands",
+        "Dubai - United Arab Emirates",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "date_posted": "2026-09-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -22434,6 +22993,23 @@
       ]
     },
     {
+      "id": "simplify:8281f41a-114f-4b46-bd00-8660449e0b4a",
+      "company": "Advanced Space",
+      "title": "Software Engineer Intern",
+      "location": "Westminster, CO",
+      "locations": [
+        "Westminster, CO"
+      ],
+      "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:90a62333-1a88-4334-9894-32435465205b",
       "company": "MSA Safety",
       "title": "Software Engineer Intern - Product Development - Summer 2027",
@@ -22478,6 +23054,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7bc539ab-f191-44a4-b03e-dce55640d12d",
+      "company": "Advanced Space",
+      "title": "Machine Learning Intern",
+      "location": "Westminster, CO",
+      "locations": [
+        "Westminster, CO"
+      ],
+      "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324875009",
+      "date_posted": "2026-08-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -23634,6 +24227,24 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:98084d5d-37e5-4d39-b53f-dac829c5d8e2",
+      "company": "Spaceium",
+      "title": "Electrical Intern",
+      "location": "Ottawa, ON, Canada",
+      "locations": [
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/spaceium/jobs/4368438009",
+      "date_posted": "2026-08-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
