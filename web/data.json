@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 1524,
+    "postings_tracked": 1525,
     "sources": 1,
-    "companies": 548,
+    "companies": 551,
     "last_updated": "2026-10-29"
   },
   "postings": [
+    {
+      "id": "simplify:502cc8d5-9ab0-45f7-8d62-eb6c9c030d91",
+      "company": "USAFacts",
+      "title": "AI & Software Engineer Intern",
+      "location": "Bellevue, WA",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009",
+      "date_posted": "2026-10-29",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:59d141aa-01da-4018-b691-7eebe9dcc077",
       "company": "Texas Instruments",
@@ -356,21 +373,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:178d0613-9e8b-480c-b35e-f7b89b94e02e",
-      "company": "VSP Vision",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
@@ -808,6 +810,38 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:b64d919f-170b-4ad3-aabb-30b23dc31666",
+      "company": "HP Inc.",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4a098ba2-02ea-4b14-babc-3e128389bce8",
+      "company": "HP Inc.",
+      "title": "Software Engineer Intern - Connectivity",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
     },
     {
       "id": "simplify:9857a37f-ddfe-474b-877b-894f4761b0d3",
@@ -1615,23 +1649,6 @@
       ]
     },
     {
-      "id": "simplify:ab58c3d1-4540-4198-a564-b9137141d44d",
-      "company": "onsemi",
-      "title": "AI & Data Science Intern",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506468",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:0aca0586-50f8-43e9-91ec-40151024c17f",
       "company": "Parallel Systems",
       "title": "Product Management Intern",
@@ -1821,24 +1838,6 @@
         "Master's",
         "PhD",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:7798bf2e-3ece-4347-8e89-2b3368142206",
-      "company": "RTX",
-      "title": "Systems Engineering Co-op",
-      "location": "Woburn, MA",
-      "locations": [
-        "Woburn, MA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineering-Co-op_01884039",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9941,6 +9940,21 @@
       ]
     },
     {
+      "id": "simplify:b857cd85-6707-4978-800d-770a5472e07a",
+      "company": "HPS Investment Partners",
+      "title": "Risk & Quant Strats Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739868005",
+      "date_posted": "2026-10-06",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
       "id": "simplify:e6f9e297-654b-4ab5-a79f-6d9f4d7f38dc",
       "company": "Tenstorrent",
       "title": "Hardware Intern - AI HW & System on a Chip",
@@ -12561,6 +12575,25 @@
       ]
     },
     {
+      "id": "simplify:c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
+      "company": "General Dynamics Information Technology",
+      "title": "AI/ML Software Development and Engineering Intern",
+      "location": "Bossier City, LA",
+      "locations": [
+        "Bossier City, LA"
+      ],
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+      "date_posted": "2026-09-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "Associate's"
+      ]
+    },
+    {
       "id": "simplify:1f8a0413-c78d-4d89-a614-ceba126efdf8",
       "company": "Red Ventures",
       "title": "Data Science Intern - Launch Program",
@@ -13197,45 +13230,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:049cea50-d78a-47ec-bcdf-991d89ae226a",
-      "company": "Aurora Innovation",
-      "title": "Full Stack Engineer Intern",
-      "location": "Pittsburgh, PA / Mountain View, CA",
-      "locations": [
-        "Pittsburgh, PA",
-        "Mountain View, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:65e488fa-baa8-48fd-8126-1c6ada908ef9",
-      "company": "Aurora Innovation",
-      "title": "Data & ML Platform Engineer Intern",
-      "location": "SF +2 more",
-      "locations": [
-        "SF",
-        "Pittsburgh, PA",
-        "Mountain View, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -14845,6 +14839,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8b4d0160-e50b-4b12-a510-29a4243ff741",
+      "company": "Rendezvous Robotics",
+      "title": "Software Engineer Intern",
+      "location": "Golden, CO",
+      "locations": [
+        "Golden, CO"
+      ],
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
+      "date_posted": "2026-09-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
