@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1581,
+    "postings_tracked": 1575,
     "sources": 1,
-    "companies": 578,
+    "companies": 577,
     "last_updated": "2026-10-30"
   },
   "postings": [
@@ -293,25 +293,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:adbedd81-f1ff-4fb4-b2f8-57640c235a16",
-      "company": "Path Robotics",
-      "title": "Machine Learning & Robotics Intern",
-      "location": "Columbus, OH",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -682,23 +663,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3c021cdc-9d68-4ff2-9c0e-ba221e49a543",
-      "company": "GlobalFoundries",
-      "title": "Digital Design Backend Engineering Intern - 3D and AI Flows",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Digital-Design-Backend-Engineering-Intern--3D-and-AI-Flows_JR-2604355",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -1393,24 +1357,6 @@
       ]
     },
     {
-      "id": "simplify:899a6a36-b872-414e-bbce-aa5bc5b85fdc",
-      "company": "Micron Technology",
-      "title": "Embedded Software Engineer Intern",
-      "location": "Boise, ID",
-      "locations": [
-        "Boise, ID"
-      ],
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f5f92fa6-34b5-4a3d-9bb0-65f4e2a13555",
       "company": "Subtotal",
       "title": "Software Engineer Intern",
@@ -1802,6 +1748,23 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:515bc7ee-5cb6-4df0-904a-19e675ac3476",
+      "company": "SageSure",
+      "title": "Data Science Product Analyst Intern",
+      "location": "Fairfield, CA",
+      "locations": [
+        "Fairfield, CA"
+      ],
+      "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -2289,24 +2252,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:bbafedf8-3027-4b87-9939-79a79a2b3655",
-      "company": "RTX",
-      "title": "Receiver \u2013 & Processing Architecture Software Engineer Intern - Exciter",
-      "location": "Marlborough, MA",
-      "locations": [
-        "Marlborough, MA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-Intern--Summer-2027----Onsite_01885187",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:add0b8bc-464a-47b8-a28b-b63532dc6262",
       "company": "CHS",
       "title": "Data Engineer Intern",
@@ -2339,24 +2284,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:b65c767b-a542-408b-8821-3378b57afe82",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - Graduates",
-      "location": "Arden Hills, MN",
-      "locations": [
-        "Arden Hills, MN"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600558",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5705,21 +5632,6 @@
       "degrees": [
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:535fd64c-e754-4f4a-b1f0-2b111731d1ff",
-      "company": "Sony",
-      "title": "Data Quality & Systems Intern",
-      "location": "Weybridge, UK",
-      "locations": [
-        "Weybridge, UK"
-      ],
-      "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:274daa15-b592-485a-8d98-cc56d12ebdca",
@@ -13326,6 +13238,23 @@
       ]
     },
     {
+      "id": "simplify:d70a18b1-4e20-4567-af5a-45ade24493b2",
+      "company": "Voyager Technologies",
+      "title": "Software Engineer Intern",
+      "location": "Long Beach, CA",
+      "locations": [
+        "Long Beach, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:f60317b7-57f8-4a35-8a4a-001aa5b31e8d",
       "company": "UL Solutions",
       "title": "Data Science Intern",
@@ -17080,23 +17009,6 @@
       ]
     },
     {
-      "id": "simplify:b7692605-3675-4ede-ac05-2e35ccc95ce8",
-      "company": "SEP",
-      "title": "Software Engineer Intern",
-      "location": "Westfield, IN",
-      "locations": [
-        "Westfield, IN"
-      ],
-      "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
       "company": "American Express",
       "title": "Product Manager Intern - Undergraduate",
@@ -20164,6 +20076,24 @@
       ]
     },
     {
+      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:8028ea71-392c-4173-9d2a-1dc31c5a4571",
       "company": "Hadrian",
       "title": "Data Science/Data Engineer Intern",
@@ -20993,24 +20923,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:26fc2a52-b260-4601-a804-43fb299bebf2",
-      "company": "American Express",
-      "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Master's",
         "PhD"
@@ -22235,23 +22147,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:6a910274-8203-4361-9726-d22a315d1644",
-      "company": "American Express",
-      "title": "Product Development Intern - Global Commercial Services",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
