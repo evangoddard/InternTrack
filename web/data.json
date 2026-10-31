@@ -1,11 +1,44 @@
 {
   "stats": {
-    "postings_tracked": 1601,
+    "postings_tracked": 1593,
     "sources": 1,
-    "companies": 583,
-    "last_updated": "2026-10-30"
+    "companies": 579,
+    "last_updated": "2026-10-31"
   },
   "postings": [
+    {
+      "id": "simplify:016fa4b5-f0be-4f7d-9eaa-5a420aa83638",
+      "company": "Firework",
+      "title": "Data Engineer Intern",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09/apply",
+      "date_posted": "2026-10-31",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e985983d-927d-468b-9444-57275a4b4f73",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Video Recsys",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1553890293163197",
+      "date_posted": "2026-10-31",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
     {
       "id": "simplify:65c35c20-efcf-4c73-8b69-84bf4f90577b",
       "company": "Microsoft",
@@ -2132,23 +2165,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e56fc6cf-2283-4163-bd37-3a76a7894bb5",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Scientific Software Engineer Intern",
-      "location": "Devens, MA",
-      "locations": [
-        "Devens, MA"
-      ],
-      "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -6033,24 +6049,6 @@
       ]
     },
     {
-      "id": "simplify:12d5d73d-0f5a-459e-aede-1f15093ed6ed",
-      "company": "NVIDIA",
-      "title": "Applied Research Intern - Integrated Sensing and Communications",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:2ad07235-f2f9-4156-b729-afd7942895fc",
       "company": "Integrate",
       "title": "Software Engineer Intern",
@@ -8765,23 +8763,6 @@
       ]
     },
     {
-      "id": "simplify:02985926-4e37-4219-a8ab-21d9d6594ab2",
-      "company": "MEMX",
-      "title": "Data Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/memx/jobs/5450442008",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:7f3fadd1-4c8b-404a-9792-1d8ad16fd265",
       "company": "Keysight Technologies",
       "title": "Research and Development Hardware Engineer Intern",
@@ -10191,40 +10172,6 @@
       ]
     },
     {
-      "id": "simplify:2dd43b4d-a243-4996-826b-d46251f0fc5e",
-      "company": "Sensata",
-      "title": "Software Engineering Intern",
-      "location": "Newtownabbey, UK",
-      "locations": [
-        "Newtownabbey, UK"
-      ],
-      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Software-Engineering-Placement-Student_IRC98573",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
-      "company": "Sensata",
-      "title": "Hardware Engineer Intern",
-      "location": "Newtownabbey, UK",
-      "locations": [
-        "Newtownabbey, UK"
-      ],
-      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:64ffe791-24fc-4b7a-b06b-90a8bc63b978",
       "company": "Badger Meter",
       "title": "Software Engineering Intern",
@@ -10779,24 +10726,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a3bc2e02-54a9-46bc-8322-c42571a8600b",
-      "company": "The Aerospace Corporation",
-      "title": "Embedded Systems / Software Engineer Intern",
-      "location": "Chantilly, VA / El Segundo, CA",
-      "locations": [
-        "Chantilly, VA",
-        "El Segundo, CA"
-      ],
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -11953,23 +11882,6 @@
       ]
     },
     {
-      "id": "simplify:0173534b-1a00-43bf-8929-2a7c5bfa842d",
-      "company": "LexisNexis Risk Solutions",
-      "title": "Data Science Intern",
-      "location": "Alpharetta, GA",
-      "locations": [
-        "Alpharetta, GA"
-      ],
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:02bb784d-be4f-49f0-a8b5-b63b8705968d",
       "company": "Micron Technology",
       "title": "Next Generation HBM Platform Architecture Intern",
@@ -12460,26 +12372,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:1379e1b7-e282-4180-bee2-043f56139dd9",
-      "company": "Elevance Health",
-      "title": "Data Analyst Graduate Intern",
-      "location": "Indianapolis, IN +3 more",
-      "locations": [
-        "Indianapolis, IN",
-        "Richmond, VA",
-        "Chicago, IL",
-        "Atlanta, GA"
-      ],
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analyst-Graduate-Intern---Summer-2027_JR209074-1",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -13060,24 +12952,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:365794f9-57cb-460f-a01a-ff545f9d0cc9",
-      "company": "Aurora Innovation",
-      "title": "LiDAR Systems Intern",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1/application?embed=true",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -15210,23 +15084,6 @@
       ]
     },
     {
-      "id": "simplify:0a5aaa9d-f7d9-4898-8c8b-5f43d72e316f",
-      "company": "NVIDIA",
-      "title": "Networking Research Intern - Networking",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:d2c8d6aa-577e-4c0d-8edc-a385f1d6ad60",
       "company": "Symbotic",
       "title": "Hardware Engineer",
@@ -16798,6 +16655,24 @@
       "season": "Summer 2026",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:c671ab74-606e-409b-a6c6-dabe7d21c602",
+      "company": "AspenTech",
+      "title": "Data Science Intern",
+      "location": "Bedford, MA",
+      "locations": [
+        "Bedford, MA"
+      ],
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
     },
     {
       "id": "simplify:da019f62-73d5-4a2c-8601-9b62b96f300c",
@@ -19807,25 +19682,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:37f5de8f-da79-4e88-801b-65f4b77bd4e5",
-      "company": "GE Aerospace",
-      "title": "Software Engineering Placement - Month Placement",
-      "location": "Bristol, UK / Cheltenham, UK",
-      "locations": [
-        "Bristol, UK",
-        "Cheltenham, UK"
-      ],
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2",
-      "date_posted": "2026-09-06",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:e50e21b7-95d2-497c-9bca-f25e90e4cfd7",
       "company": "GE Aerospace",
       "title": "Data Science Placement - Month Placement",
@@ -20434,23 +20290,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:45f530d7-4c78-4402-8da1-8e54f5c4a245",
-      "company": "Roblox",
-      "title": "Product Management Intern",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -23338,25 +23177,6 @@
       ]
     },
     {
-      "id": "simplify:9de89282-33d7-4fbd-a3ab-45e63fd1c0e0",
-      "company": "GE Vernova",
-      "title": "Controls Product Management Intern",
-      "location": "Longmont, CO / Greenville, SC",
-      "locations": [
-        "Longmont, CO",
-        "Greenville, SC"
-      ],
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:bbd6e777-012d-4311-bbee-2f7372acaa9d",
       "company": "Brunswick",
       "title": "Product Management Intern - Oils & Lubricants",
@@ -24186,6 +24006,25 @@
       ]
     },
     {
+      "id": "simplify:03f5f454-515c-41f5-b670-e30a0e59a27e",
+      "company": "NVIDIA",
+      "title": "Hardware ASIC Design Intern - Hardware",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:832f302a-8bc2-45f2-8ada-37a23bf080a7",
       "company": "NVIDIA",
       "title": "Hardware Engineering Intern",
@@ -24202,6 +24041,24 @@
         "Bachelor's",
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
+      "company": "NVIDIA",
+      "title": "Developer and Performance Technology Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -24224,18 +24081,18 @@
       ]
     },
     {
-      "id": "simplify:2698abcf-1f94-40b6-9881-1b14c416262f",
+      "id": "simplify:3affcaac-d7f9-45d1-8139-19defc762e13",
       "company": "NVIDIA",
-      "title": "Computer Architecture Intern",
+      "title": "Deep Learning Computer Architecture Intern",
       "location": "Santa Clara, CA",
       "locations": [
         "Santa Clara, CA"
       ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
       "date_posted": "2026-08-19",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Hardware",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's",
