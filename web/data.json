@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1600,
+    "postings_tracked": 1605,
     "sources": 1,
-    "companies": 581,
-    "last_updated": "2026-10-31"
+    "companies": 583,
+    "last_updated": "2026-11-01"
   },
   "postings": [
     {
@@ -2550,6 +2550,21 @@
       ]
     },
     {
+      "id": "simplify:9498d145-8f1f-456a-9bf8-bba9eb7f316d",
+      "company": "CSAA Insurance Group",
+      "title": "Data Science Intern",
+      "location": "Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
+      "date_posted": "2026-10-27",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
       "id": "simplify:d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
       "company": "Boston Dynamics",
       "title": "Electrical Engineer Co-op",
@@ -4738,6 +4753,25 @@
       ]
     },
     {
+      "id": "simplify:30ef7e36-6232-4c97-a0a2-f1e7acec8ee7",
+      "company": "Meta",
+      "title": "Research Scientist Intern - AI Alignment",
+      "location": "Boston, MA +4 more",
+      "locations": [
+        "Boston, MA",
+        "Seattle, WA",
+        "SF",
+        "Menlo Park, CA",
+        "NYC"
+      ],
+      "url": "https://www.metacareers.com/jobs/2356892281747003",
+      "date_posted": "2026-10-22",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
       "id": "simplify:fe6e8418-4f04-486e-a068-b40390792ac4",
       "company": "Meta",
       "title": "Research Scientist Intern - World-Model Aware Perception & Communication",
@@ -5730,6 +5764,25 @@
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": []
+    },
+    {
+      "id": "simplify:4b1ef870-8dbd-4266-8248-07cc21b77402",
+      "company": "Skydio",
+      "title": "Wireless Hardware Engineer Intern",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
     },
     {
       "id": "simplify:a1f44bba-d5c1-4c7c-ac07-e78ab47ee7a5",
@@ -8734,6 +8787,22 @@
         "Sunnyvale, CA"
       ],
       "url": "https://www.metacareers.com/jobs/2067000203934229",
+      "date_posted": "2026-10-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f2895a6a-273a-415c-b0e0-977de7af90e6",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+      "location": "Redmond, WA / Sunnyvale, CA",
+      "locations": [
+        "Redmond, WA",
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1139865145249047",
       "date_posted": "2026-10-13",
       "deadline": "",
       "season": "",
@@ -20460,6 +20529,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
