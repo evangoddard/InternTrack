@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1586,
+    "postings_tracked": 1588,
     "sources": 1,
-    "companies": 581,
+    "companies": 579,
     "last_updated": "2026-11-01"
   },
   "postings": [
@@ -7784,24 +7784,6 @@
       ]
     },
     {
-      "id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
-      "company": "Microsoft",
-      "title": "Researcher Intern - Coreai",
-      "location": "Redmond, WA / Mountain View, CA",
-      "locations": [
-        "Redmond, WA",
-        "Mountain View, CA"
-      ],
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-      "date_posted": "2026-10-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:a0a19e3f-13fd-418d-ac34-dabe9b73c200",
       "company": "PA Consulting",
       "title": "Software and AI Systems Intern",
@@ -10403,21 +10385,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:560fbfa2-951c-4d72-adc2-93abc85d1a5b",
-      "company": "StudyFetch",
-      "title": "Robotics Intern - Learning Kits & Curriculum",
-      "location": "Beverly Hills, CA",
-      "locations": [
-        "Beverly Hills, CA"
-      ],
-      "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
     },
     {
       "id": "simplify:8b0296b6-e7e6-41b4-a423-68e926dd861f",
@@ -14271,23 +14238,6 @@
       ]
     },
     {
-      "id": "simplify:099a34f8-de36-4008-b851-c1546eb7f942",
-      "company": "American Century Investments",
-      "title": "Software Developer Intern",
-      "location": "Kansas City, MO",
-      "locations": [
-        "Kansas City, MO"
-      ],
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:897cf111-754d-4f14-9819-92f0de243bae",
       "company": "Zurn Elkay Water Solutions",
       "title": "Embedded Firmware Intern - Summer 2027",
@@ -16536,24 +16486,6 @@
         "Bachelor's",
         "Master's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:00026218-6b9b-420f-a490-b3b29742cf17",
-      "company": "APEX Analytix",
-      "title": "Data Analyst Intern - Summer 2027",
-      "location": "Greensboro, NC",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -20479,24 +20411,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
-      "company": "InfiniteQuant",
-      "title": "Quantitative Developer Intern",
-      "location": "Dubai - United Arab Emirates / NYC",
-      "locations": [
-        "Dubai - United Arab Emirates",
-        "NYC"
-      ],
-      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -24521,6 +24435,131 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
