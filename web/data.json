@@ -1,11 +1,112 @@
 {
   "stats": {
-    "postings_tracked": 1577,
+    "postings_tracked": 1571,
     "sources": 1,
     "companies": 578,
     "last_updated": "2026-11-02"
   },
   "postings": [
+    {
+      "id": "simplify:86211428-83c5-4e73-823b-83ec240734ad",
+      "company": "KION Group",
+      "title": "Real-Time Software Engineer Intern",
+      "location": "Westhill, UK / Stockport, UK",
+      "locations": [
+        "Westhill, UK",
+        "Stockport, UK"
+      ],
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:570083cf-94ad-40b3-ae98-cbb61d20eee7",
+      "company": "ParetoHealth",
+      "title": "Software Engineer Intern",
+      "location": "Philadelphia, PA",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:150a2f8b-ff3c-4b5e-b0e9-62ac7286a822",
+      "company": "ParetoHealth",
+      "title": "Product Manager Intern",
+      "location": "Philadelphia, PA",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:09939e91-4c36-4e3b-ace2-9d0117e05b68",
+      "company": "Microsoft",
+      "title": "Explore Program Engineering Intern",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
+      "company": "Roku",
+      "title": "Software Engineer Intern - AI Engineering",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:4e5f22da-1551-4dbf-a079-0c987a791f0d",
+      "company": "CoStar Group",
+      "title": "Data Science Intern",
+      "location": "Richmond, VA",
+      "locations": [
+        "Richmond, VA"
+      ],
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:406b0816-39b7-4e44-bdd9-17030f08c8f2",
       "company": "TRG",
@@ -401,23 +502,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b1c85b2f-82a7-405f-be5e-b91959b2f8aa",
-      "company": "PTC",
-      "title": "Software Engineering Intern",
-      "location": "Cambridge, UK",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998",
-      "date_posted": "2026-10-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -1686,21 +1770,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:178d0613-9e8b-480c-b35e-f7b89b94e02e",
-      "company": "VSP Vision",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
@@ -4903,24 +4972,6 @@
       ]
     },
     {
-      "id": "simplify:6f2b4d23-50f1-4385-a940-5a3daf9cd7b4",
-      "company": "Apple",
-      "title": "Software Engineer Intern - iCloud Platform",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://jobs.apple.com/en-us/details/200690044",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:770d0c2e-5cd5-4716-b307-3db3d3f8e1ce",
       "company": "Meta",
       "title": "Research Scientist Intern - Central Applied Science",
@@ -5699,24 +5750,6 @@
       ]
     },
     {
-      "id": "simplify:96501c84-a83b-453d-a76d-9cb6b18d192c",
-      "company": "Microsoft",
-      "title": "Product Management Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040083",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:8da922e7-05ce-40d5-b0b8-36805547ece6",
       "company": "Meta",
       "title": "Research Scientist Intern - Computational Imaging and Robotics",
@@ -6182,23 +6215,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ce3b8f14-1ad2-4f80-bec4-061f793b8f86",
-      "company": "CACI",
-      "title": "Electrical Test Engineer Intern",
-      "location": "Danbury, CT",
-      "locations": [
-        "Danbury, CT"
-      ],
-      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Electrical-Test-Engineering-Intern---Summer-2027_333809",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -7814,23 +7830,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
-      "company": "Tessera Labs",
-      "title": "Full Stack Software Engineer Intern - Full Stack",
-      "location": "San Jose, CA +2 more",
-      "locations": [
-        "San Jose, CA",
-        "Remote in USA",
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
-      "date_posted": "2026-10-15",
-      "deadline": "",
-      "season": "Fall 2026 / Spring 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:9425b93f-c2dd-40f3-8335-c8ee684f4bf8",
@@ -10402,6 +10401,21 @@
       ]
     },
     {
+      "id": "simplify:560fbfa2-951c-4d72-adc2-93abc85d1a5b",
+      "company": "StudyFetch",
+      "title": "Robotics Intern - Learning Kits & Curriculum",
+      "location": "Beverly Hills, CA",
+      "locations": [
+        "Beverly Hills, CA"
+      ],
+      "url": "https://ats.rippling.com/studyfetch/jobs/2ba84837-7cb6-4278-bd58-ad554ee0b8f5",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
       "id": "simplify:8b0296b6-e7e6-41b4-a423-68e926dd861f",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Video",
@@ -11691,24 +11705,6 @@
       ]
     },
     {
-      "id": "simplify:fc5e6607-4ac0-4e9c-9d0d-429cb1076eee",
-      "company": "ABB",
-      "title": "AI Engineering Intern - Business Systems",
-      "location": "Cary, NC",
-      "locations": [
-        "Cary, NC"
-      ],
-      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:dc82a841-9a85-4033-ac1d-61f15f22a355",
       "company": "GE Healthcare",
       "title": "Electrical Engineering Technician Co-op",
@@ -12002,23 +11998,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
-      "company": "Fresenius Medical Care",
-      "title": "Software Engineering Co-op",
-      "location": "Lawrence, MA",
-      "locations": [
-        "Lawrence, MA"
-      ],
-      "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:4c9b657c-308b-428a-b374-4960e3b7e09f",
@@ -15717,24 +15696,6 @@
       ]
     },
     {
-      "id": "simplify:854b0375-7239-4af1-824a-67ccffe9066a",
-      "company": "Roche",
-      "title": "Data Science Intern - Multiple Teams",
-      "location": "Welwyn Garden City, UK",
-      "locations": [
-        "Welwyn Garden City, UK"
-      ],
-      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Data-Science-Industrial-Placement---Multiple-roles-within-Biostats--Data-Management--Real-World-Data-and-more_202609-122536",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1567fd06-d23c-423d-bdd7-1b3068d7257a",
       "company": "Waymo",
       "title": "Software Engineering Intern - Multiple Teams",
@@ -16501,6 +16462,24 @@
         "Bachelor's",
         "Master's",
         "Associate's"
+      ]
+    },
+    {
+      "id": "simplify:00026218-6b9b-420f-a490-b3b29742cf17",
+      "company": "APEX Analytix",
+      "title": "Data Analyst Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef",
+      "date_posted": "2026-09-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -21046,23 +21025,6 @@
       ]
     },
     {
-      "id": "simplify:d6145bb9-e227-4e58-93d0-88787216d111",
-      "company": "L3Harris Technologies",
-      "title": "Associate Multimedia Web Developer/Programmer Intern - Technical Training",
-      "location": "Rochester, NY",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Multimedia-Web-DeveloperProgrammer-(Technical-Training)-NY-14609/1425480300/?ats=successfactors",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3f0954b3-4e14-4815-bc41-777fce0a87f4",
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "Software Developer Intern - Tactical System Prototyping and Deployment",
@@ -21598,62 +21560,6 @@
       "category": "Quant",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:7ad48361-649c-4efe-abeb-2c80430792f5",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern - Immersion Program",
-      "location": "Glasgow, UK",
-      "locations": [
-        "Glasgow, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:7b78b68a-dea7-4e76-8753-553fdfda1113",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern",
-      "location": "London, UK / Glasgow, UK",
-      "locations": [
-        "London, UK",
-        "Glasgow, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:85495d7e-4673-4650-8d26-bbe8301a8736",
-      "company": "JP Morgan Chase",
-      "title": "Software Engineer Intern - Summer Internship",
-      "location": "London, UK / Glasgow, UK",
-      "locations": [
-        "London, UK",
-        "Glasgow, UK"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -23567,21 +23473,6 @@
       "degrees": [
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:82866724-4ab4-4955-9baf-42d63ab200e3",
-      "company": "The Hartford",
-      "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-      "location": "Hartford, CT",
-      "locations": [
-        "Hartford, CT"
-      ],
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:355a0760-208b-425c-9769-6bd234775cfa",
