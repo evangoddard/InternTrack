@@ -1,11 +1,43 @@
 {
   "stats": {
-    "postings_tracked": 1614,
+    "postings_tracked": 1605,
     "sources": 1,
-    "companies": 585,
+    "companies": 579,
     "last_updated": "2026-11-03"
   },
   "postings": [
+    {
+      "id": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
+      "date_posted": "2026-11-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e2bae655-ca7c-44a9-9d27-68eb9e0e23c6",
+      "company": "Meta",
+      "title": "Research Scientist Intern - FM Quality ML",
+      "location": "Menlo Park, CA",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1125383989877928",
+      "date_posted": "2026-11-03",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
     {
       "id": "simplify:c2b1b1ff-27fa-48bb-909f-52cf19e69b16",
       "company": "onepot",
@@ -1282,23 +1314,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:fb4ff940-a824-4d20-bce3-e3331a46768e",
-      "company": "Pyrotek",
-      "title": "Product Management Intern",
-      "location": "Spokane, WA",
-      "locations": [
-        "Spokane, WA"
-      ],
-      "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479",
-      "date_posted": "2026-10-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -4449,23 +4464,6 @@
       ]
     },
     {
-      "id": "simplify:765cf08e-bec4-4b7c-b810-b06b2b3d4040",
-      "company": "Booz Allen",
-      "title": "Software Developer Intern - University - Summer Games",
-      "location": "Dayton, OH",
-      "locations": [
-        "Dayton, OH"
-      ],
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:38659e34-903e-4ed1-b655-6563767f4724",
       "company": "Booz Allen",
       "title": "2027 Summer Games Data Scientist Intern",
@@ -7121,25 +7119,6 @@
       ]
     },
     {
-      "id": "simplify:cde3a717-b612-4994-bbd5-0272b6a0df41",
-      "company": "Zebra Technologies",
-      "title": "Supplies & Sensors Product Manager Intern - US",
-      "location": "Lincolnshire, IL",
-      "locations": [
-        "Lincolnshire, IL"
-      ],
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "MBA"
-      ]
-    },
-    {
       "id": "simplify:cdf32eb8-9cf1-4a82-9118-d6ce6021c24e",
       "company": "Sony",
       "title": "Research Engineer Intern - Ethical Creative and Protective AI Lab",
@@ -9727,24 +9706,6 @@
       ]
     },
     {
-      "id": "simplify:f25ac517-b641-4c69-87e1-685fcf4b4dbc",
-      "company": "KLA",
-      "title": "Software Engineer Intern - AI",
-      "location": "Ann Arbor, MI",
-      "locations": [
-        "Ann Arbor, MI"
-      ],
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:d9e4a180-0f27-4270-88cd-ec0195cdb5f3",
       "company": "Prologis",
       "title": "AI Product Management Intern",
@@ -9985,24 +9946,6 @@
       ]
     },
     {
-      "id": "simplify:2c3978ec-96e1-4cd8-aa36-f871453348ce",
-      "company": "Tencent",
-      "title": "LLM & Agent Research Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108173",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:9fe5cb59-10c4-44a8-80e4-6cb6542c2889",
       "company": "Aptiv",
       "title": "Cloud Engineer Intern",
@@ -10051,23 +9994,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9b2b1358-6a3c-48e5-afa1-219bc271af07",
-      "company": "KLA",
-      "title": "AI/ML Software Engineer Intern",
-      "location": "Ann Arbor, MI",
-      "locations": [
-        "Ann Arbor, MI"
-      ],
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -10986,25 +10912,6 @@
       ]
     },
     {
-      "id": "simplify:9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
-      "company": "Workday",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
-      "locations": [
-        "Toronto, ON, Canada",
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
       "company": "Workday",
       "title": "Software Engineer Intern",
@@ -11545,23 +11452,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:211b91fc-4182-4722-a8a3-8a956e36e7fa",
-      "company": "Pretium",
-      "title": "Quantitative Strategies Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
         "PhD"
       ]
     },
@@ -13496,26 +13386,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:76c67bd8-fe68-4164-844f-a009b786af36",
-      "company": "American Family Insurance Group",
-      "title": "GenAI/ML Intern",
-      "location": "Madison, WI / Boston, MA",
-      "locations": [
-        "Madison, WI",
-        "Boston, MA"
-      ],
-      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -16305,23 +16175,6 @@
       ]
     },
     {
-      "id": "simplify:a4432340-1e42-4079-be3e-d590b4a323ec",
-      "company": "Publicis Groupe",
-      "title": "Product Manager Intern - Class of 2028",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ff92bb19-8b5b-4eaf-8e39-166979cd49fb",
       "company": "Keysight Technologies",
       "title": "Embedded Software Intern - R&D",
@@ -16353,23 +16206,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:9b9456d9-4ae4-40b5-b658-deb0296a8d68",
-      "company": "Publicis Groupe",
-      "title": "Product Manager Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://publicisgroupe.jibeapply.com/jobs/172574?icims=1",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
@@ -16656,23 +16492,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
-      "company": "Gordon Food Service",
-      "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -17127,23 +16946,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:e229af0f-ee15-4743-b863-7a2ae2645455",
-      "company": "Gordon Food Service",
-      "title": "Data Science Engineer Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18038,21 +17840,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:9d613826-b169-4950-9be3-779d329aab98",
-      "company": "Tive",
-      "title": "Software Engineer Co-op",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://ats.rippling.com/tive-careers/jobs/c88ab3d3-a8e7-4639-b95b-d6c9b5290dd0",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:c0de0a9c-5b04-458f-942a-5c88c3747d9f",
@@ -19491,23 +19278,6 @@
         "San Leandro, CA"
       ],
       "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ef40c957-572d-4f46-9bab-b7378678804d",
-      "company": "Publicis Groupe",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1",
       "date_posted": "2026-09-09",
       "deadline": "",
       "season": "Summer 2027",
@@ -22223,23 +21993,6 @@
       ]
     },
     {
-      "id": "simplify:1039c116-f4d4-4ea6-b62b-f893dd21373b",
-      "company": "Emerson Electric",
-      "title": "Software Engineer Co-op - January 2027 - May 2027",
-      "location": "Shakopee, MN",
-      "locations": [
-        "Shakopee, MN"
-      ],
-      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:2cea51eb-48da-45c8-a9e8-7067345c2cae",
       "company": "Travelers",
       "title": "Product Management Intern - Pmdp",
@@ -24876,6 +24629,75 @@
       "degrees": []
     },
     {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
       "company": "Goldman Sachs",
       "title": "Quantitative Strategist Intern - Americas",
@@ -24908,6 +24730,26 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
       ]
     },
     {
