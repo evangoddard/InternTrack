@@ -1,11 +1,26 @@
 {
   "stats": {
-    "postings_tracked": 1603,
+    "postings_tracked": 1614,
     "sources": 1,
-    "companies": 581,
+    "companies": 585,
     "last_updated": "2026-11-03"
   },
   "postings": [
+    {
+      "id": "simplify:c2b1b1ff-27fa-48bb-909f-52cf19e69b16",
+      "company": "onepot",
+      "title": "Machine Learning Researcher Intern - Machine Learning",
+      "location": "South SF",
+      "locations": [
+        "South SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/onepot/5116ee20-adfa-4177-b120-e3f48354e7e8/application?embed=true",
+      "date_posted": "2026-11-03",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
     {
       "id": "simplify:afab4458-ec50-4376-b4ce-cfaef466fc4f",
       "company": "Meta",
@@ -1004,6 +1019,42 @@
       "season": "Summer 2026",
       "category": "AI/ML/Data",
       "degrees": []
+    },
+    {
+      "id": "simplify:7772f70d-d994-4fdf-8874-04f00ed5e24b",
+      "company": "ASML",
+      "title": "Electrical Engineer Co-op Intern",
+      "location": "Wilton, CT",
+      "locations": [
+        "Wilton, CT"
+      ],
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
+      "company": "NVIDIA",
+      "title": "AI Compiler and Kernel Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
     },
     {
       "id": "simplify:406b0816-39b7-4e44-bdd9-17030f08c8f2",
@@ -9157,6 +9208,23 @@
       ]
     },
     {
+      "id": "simplify:81f6a6a0-ca1b-4a27-aafa-49735204bc0e",
+      "company": "LSEG",
+      "title": "Software Engineer Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
+      "date_posted": "2026-10-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:15673192-0e1c-44c5-a89a-23d9577cba4b",
       "company": "Altera",
       "title": "High Level Synthesis Intern - High Level Synthesis - Compiler Engineer",
@@ -9169,6 +9237,24 @@
       "deadline": "",
       "season": "",
       "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9bd3bc29-77ef-440c-9c59-3f852606c72c",
+      "company": "LSEG",
+      "title": "Quantitative Services Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2",
+      "date_posted": "2026-10-14",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Master's",
         "PhD"
@@ -11201,6 +11287,40 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:2dd43b4d-a243-4996-826b-d46251f0fc5e",
+      "company": "Sensata",
+      "title": "Software Engineering Intern",
+      "location": "Newtownabbey, UK",
+      "locations": [
+        "Newtownabbey, UK"
+      ],
+      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Software-Engineering-Placement-Student_IRC98573",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
+      "company": "Sensata",
+      "title": "Hardware Engineer Intern",
+      "location": "Newtownabbey, UK",
+      "locations": [
+        "Newtownabbey, UK"
+      ],
+      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -20211,24 +20331,6 @@
       ]
     },
     {
-      "id": "simplify:63bb5635-fcbb-4c10-ac91-d7f76b6c3d75",
-      "company": "Trimble",
-      "title": "Product Management Intern",
-      "location": "Westminster, CO / San Diego, CA",
-      "locations": [
-        "Westminster, CO",
-        "San Diego, CA"
-      ],
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:30dd5981-4dd4-4270-a114-1f8d10583205",
       "company": "Ingredion",
       "title": "Supply Chain Data Science Intern",
@@ -20280,30 +20382,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ca3d442d-982e-4251-b443-6e607ffd2504",
-      "company": "Trimble",
-      "title": "Software Engineer Intern",
-      "location": "Dayton, OH +7 more",
-      "locations": [
-        "Dayton, OH",
-        "Knoxville, TN",
-        "Portsmouth, NH",
-        "Princeton, NJ",
-        "Lake Oswego, OR",
-        "Westminster, CO",
-        "Sunnyvale, CA",
-        "Atlanta, GA"
-      ],
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -20376,26 +20454,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:4faaca93-0c42-437d-9ffe-3b46d8d67e62",
-      "company": "Trimble",
-      "title": "Hardware/Software Testing Intern",
-      "location": "Dayton, OH +3 more",
-      "locations": [
-        "Dayton, OH",
-        "Portsmouth, NH",
-        "Lake Oswego, OR",
-        "Westminster, CO"
-      ],
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -24784,6 +24842,126 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
