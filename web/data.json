@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1618,
+    "postings_tracked": 1614,
     "sources": 1,
-    "companies": 583,
+    "companies": 581,
     "last_updated": "2026-11-04"
   },
   "postings": [
+    {
+      "id": "simplify:354fa9d8-b057-4738-8d2f-90507d404a89",
+      "company": "Northrop Grumman",
+      "title": "Software Embedded Engineering Intern",
+      "location": "Sykesville, MD",
+      "locations": [
+        "Sykesville, MD"
+      ],
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
+      "date_posted": "2026-11-04",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:2586b9a7-c10d-47f4-a80e-d01413e93066",
       "company": "Erie Insurance Group",
@@ -572,6 +590,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d56d3b77-c61d-40dc-9b97-f80a57775765",
+      "company": "Zurn Elkay Water Solutions",
+      "title": "Electrical & Electronics Engineering Intern",
+      "location": "Downers Grove, IL",
+      "locations": [
+        "Downers Grove, IL"
+      ],
+      "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097",
+      "date_posted": "2026-11-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2659,23 +2695,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:198b1795-11c2-45d8-aedf-4794abe8f889",
-      "company": "Sun Life",
-      "title": "Data Analyst Co-op",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027 / Fall 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -7392,23 +7411,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:135b8fde-7c9d-4852-a29b-385efc07e7b4",
-      "company": "Steel",
-      "title": "Software Engineer Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -14945,23 +14947,6 @@
       ]
     },
     {
-      "id": "simplify:62a58db2-7867-4166-bfeb-81e7fc0f9aac",
-      "company": "William Blair",
-      "title": "Technology Intern - Wit - Data Science",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242280007",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:40987f16-cee6-44d0-91b0-d6c90c3d3ae5",
       "company": "Cummins",
       "title": "Electronic Systems Intern",
@@ -16499,44 +16484,6 @@
       ]
     },
     {
-      "id": "simplify:dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Analyst Intern - Fixed Income Team",
-      "location": "Boston, MA / Merrimack, NH",
-      "locations": [
-        "Boston, MA",
-        "Merrimack, NH"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:580bd080-8355-4c59-a6d5-f4d6cc61be55",
-      "company": "Fidelity Investments",
-      "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "MBA",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:5292f2d8-70e9-44a6-a50e-aea6724dfacd",
       "company": "Symbotic",
       "title": "Software Engineer",
@@ -16939,24 +16886,6 @@
       "category": "Quant",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ad26d172-59a3-4f93-9750-94d260cfb4e5",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Maneuvering Tech",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
