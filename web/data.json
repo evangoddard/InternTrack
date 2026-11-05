@@ -1,11 +1,30 @@
 {
   "stats": {
-    "postings_tracked": 1695,
+    "postings_tracked": 1685,
     "sources": 1,
-    "companies": 608,
+    "companies": 607,
     "last_updated": "2026-11-05"
   },
   "postings": [
+    {
+      "id": "simplify:bfe22603-3bca-4307-b600-b967e2c833a8",
+      "company": "RR Donnelley",
+      "title": "Software Developer Intern",
+      "location": "Warrenville, IL",
+      "locations": [
+        "Warrenville, IL"
+      ],
+      "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000159883639",
+      "date_posted": "2026-11-05",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:59e8bcfa-d272-4908-b44c-ffb7fa90719a",
       "company": "General Dynamics Mission Systems",
@@ -394,6 +413,38 @@
       "category": "Software",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:1e76d73e-91b3-4272-aef5-8001b690b62f",
+      "company": "NRDC",
+      "title": "Donor Systems Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-11-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:79f9478e-8da8-40c2-9ec5-ae55ac3157ba",
+      "company": "Parsons",
+      "title": "Embedded Developer Intern",
+      "location": "Columbia, MD",
+      "locations": [
+        "Columbia, MD"
+      ],
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299",
+      "date_posted": "2026-11-05",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1936,23 +1987,6 @@
       ]
     },
     {
-      "id": "simplify:4e5f22da-1551-4dbf-a079-0c987a791f0d",
-      "company": "CoStar Group",
-      "title": "Data Science Intern",
-      "location": "Richmond, VA",
-      "locations": [
-        "Richmond, VA"
-      ],
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ef971fc9-99f7-453f-91a9-664481b3b831",
       "company": "Sierra Nevada Corporation",
       "title": "Data Science Intern - Summer 2027",
@@ -2002,21 +2036,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:f7d94cc4-15c3-4072-a1c9-9e8a2413fd5a",
-      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:d961770e-2db5-4501-bd6a-d25420fa4238",
@@ -3932,21 +3951,6 @@
       ]
     },
     {
-      "id": "simplify:67c38e84-2904-4f41-b7d9-11a2d287366b",
-      "company": "Sonos",
-      "title": "Software Product Management Intern",
-      "location": "Seattle, WA",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
       "id": "simplify:e8606879-563d-41b2-95b4-fdb2205d94f0",
       "company": "FormFactor",
       "title": "Electrical Design Automation Intern - AI & EDA Automation",
@@ -5229,40 +5233,6 @@
       ]
     },
     {
-      "id": "simplify:c653bbbf-b416-4571-bf39-8208f6011a49",
-      "company": "Highmark Health",
-      "title": "Software Engineer Intern",
-      "location": "Pennsylvania",
-      "locations": [
-        "Pennsylvania"
-      ],
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:aac08f60-5598-4676-9fbd-0bb81e77da07",
-      "company": "Highmark Health",
-      "title": "Software Engineer Undergraduate Intern",
-      "location": "Pennsylvania",
-      "locations": [
-        "Pennsylvania"
-      ],
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4932b03e-a9cc-4ba5-b920-5bf313404094",
       "company": "Zebra Technologies",
       "title": "Product Management Intern",
@@ -5313,75 +5283,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:26adecaa-1b1b-48c4-bb1e-931f72e03f7d",
-      "company": "Highmark Health",
-      "title": "Applied Gen AI/Data Scientist Graduate Intern",
-      "location": "New Mexico +50 more",
-      "locations": [
-        "New Mexico",
-        "Washington",
-        "Kansas",
-        "Pennsylvania",
-        "North Dakota",
-        "Oregon",
-        "Delaware",
-        "Iowa",
-        "California",
-        "Washington, DC",
-        "Vermont",
-        "Wyoming",
-        "Connecticut",
-        "Texas",
-        "Montana",
-        "Florida",
-        "New Hampshire",
-        "Nevada",
-        "South Carolina",
-        "South Dakota",
-        "Georgia",
-        "Arizona",
-        "Mississippi",
-        "Tennessee",
-        "Virginia",
-        "Arkansas",
-        "Minnesota",
-        "Colorado",
-        "Nebraska",
-        "Rhode Island",
-        "Utah",
-        "Kentucky",
-        "West Virginia",
-        "NYC",
-        "Maryland",
-        "Hawaii",
-        "Wisconsin",
-        "Maine",
-        "Massachusetts",
-        "North Carolina",
-        "Oklahoma",
-        "Missouri",
-        "Ohio",
-        "New Jersey",
-        "Indiana",
-        "Louisiana",
-        "Alaska",
-        "Michigan",
-        "Illinois",
-        "Alabama",
-        "Idaho"
-      ],
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -9788,23 +9689,6 @@
       ]
     },
     {
-      "id": "simplify:d22f3e14-e4d1-4fff-9e8a-373760835d7d",
-      "company": "Leidos",
-      "title": "Performance Enablement AI/ML Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
-      "date_posted": "2026-10-15",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:6be326d4-b4e5-4d1a-9440-abd55d5a377d",
       "company": "General Motors",
       "title": "AI/ML Engineer Intern - Mapping - Masters",
@@ -13927,23 +13811,6 @@
       ]
     },
     {
-      "id": "simplify:3d956618-19c8-41b1-beb3-388e234964d5",
-      "company": "Astronics",
-      "title": "Software Engineer Intern",
-      "location": "Kirkland, WA",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
       "company": "Quantum Signal AI",
       "title": "Software Engineer Intern - Tools and Prototypes",
@@ -16653,24 +16520,6 @@
       ]
     },
     {
-      "id": "simplify:b02fcae4-ac36-4769-8a28-85242403362c",
-      "company": "NCR Voyix",
-      "title": "Software Engineer Fellow",
-      "location": "Florida",
-      "locations": [
-        "Florida"
-      ],
-      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700",
-      "date_posted": "2026-09-24",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
       "company": "Marvell",
       "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
@@ -17923,23 +17772,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d042c4df-d400-4412-8a8f-e088dca5e104",
-      "company": "OCC",
-      "title": "Quantitative Risk Management Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -19896,24 +19728,6 @@
       "date_posted": "2026-09-11",
       "deadline": "",
       "season": "Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5cefc7e6-b923-4f8b-805c-97d558b50afd",
-      "company": "AMD",
-      "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-      "location": "San Jose, CA / Santa Clara, CA",
-      "locations": [
-        "San Jose, CA",
-        "Santa Clara, CA"
-      ],
-      "url": "https://careers.amd.com/jobs/92350?icims=1",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
       "category": "Hardware",
       "degrees": [
         "PhD"
@@ -22299,6 +22113,24 @@
       ]
     },
     {
+      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:8028ea71-392c-4173-9d2a-1dc31c5a4571",
       "company": "Hadrian",
       "title": "Data Science/Data Engineer Intern",
@@ -22927,22 +22759,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:ee4b10f5-1464-463a-b28a-9020824aa805",
-      "company": "McKesson",
-      "title": "Software Engineer Intern",
-      "location": "Irving, TX / Atlanta, GA",
-      "locations": [
-        "Irving, TX",
-        "Atlanta, GA"
-      ],
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:ca96c441-d218-4a8a-b6f6-a035b101c51b",
@@ -24714,23 +24530,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:37384e6e-e33d-4d9e-978b-68157cdf4c51",
-      "company": "RJ Lee Group",
-      "title": "Artificial Intelligence Software Modernization Intern",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://rjleegroupinc.applytojob.com/apply/vMYHU0VqAg/Internship-Artificial-Intelligence-Software-Modernization",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c5bd1b3f-c4a1-4606-b687-e4afcc112363",
       "company": "Tesla",
       "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
@@ -26180,23 +25979,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:eeb5660e-5241-42ab-8b48-af7b01b81087",
-      "company": "Garmin",
-      "title": "Electrical Design Engineer Intern",
-      "location": "Olathe, KS",
-      "locations": [
-        "Olathe, KS"
-      ],
-      "url": "https://careers.garmin.com/jobs/19643?icims=1",
-      "date_posted": "2026-08-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
