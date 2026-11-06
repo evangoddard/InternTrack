@@ -1,11 +1,139 @@
 {
   "stats": {
-    "postings_tracked": 1698,
+    "postings_tracked": 1691,
     "sources": 1,
     "companies": 607,
     "last_updated": "2026-11-06"
   },
   "postings": [
+    {
+      "id": "simplify:03bd77d2-3d33-47c7-93cd-c8cc83b1d94f",
+      "company": "ASM International",
+      "title": "Product Intelligence Engineering Intern - AI/ML",
+      "location": "Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:07a19024-a7e3-4ed0-8957-671b7122f176",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Autonomy Software",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c1dbbda9-9a6c-4ee9-95bf-58b66d48f831",
+      "company": "Zoox",
+      "title": "Hardware Engineer Intern - Vehicle Systems",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c924f746-7ad7-4688-a1d2-00db70c70823",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Systems",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:bfd495aa-8461-4455-8885-5db271cd1cc0",
+      "company": "Zoox",
+      "title": "Software Engineer Intern - Software Platforms & Product",
+      "location": "Foster City, CA",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:f175936e-7cd2-44d3-8f3d-2c881af188ce",
+      "company": "Light & Wonder",
+      "title": "Software Engineer Intern",
+      "location": "Reno, NV",
+      "locations": [
+        "Reno, NV"
+      ],
+      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:77127d50-fe05-4069-a053-a1d3aed35a10",
+      "company": "HoYoverse",
+      "title": "Research Scientist Intern - Video Generation",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
     {
       "id": "simplify:99fda289-3315-417b-ba2f-e6522ae9fb61",
       "company": "Legrand",
@@ -750,21 +878,40 @@
       ]
     },
     {
-      "id": "simplify:5af9e4a2-62e4-479e-a872-0450860c73bd",
-      "company": "AMD",
-      "title": "Senior Systems Design Engineer Intern",
-      "location": "Markham, ON, Canada",
+      "id": "simplify:519aa545-7ad9-4720-9fc1-926b6e963038",
+      "company": "Invesco",
+      "title": "Digital Product Management Intern",
+      "location": "Atlanta, GA",
       "locations": [
-        "Markham, ON, Canada"
+        "Atlanta, GA"
       ],
-      "url": "https://careers.amd.com/jobs/95806?icims=1",
-      "date_posted": "2026-11-04",
+      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+      "date_posted": "2026-11-05",
       "deadline": "",
-      "season": "",
-      "category": "Hardware",
+      "season": "Summer 2027",
+      "category": "Product",
       "degrees": [
-        "Bachelor's",
-        "Master's"
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0c7e5252-d2b8-45c7-880c-9923fc29984a",
+      "company": "NVIDIA",
+      "title": "Research and Engineering Intern - Agentic Systems Intelligence",
+      "location": "Austin, TX +2 more",
+      "locations": [
+        "Austin, TX",
+        "Redmond, WA",
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+      "date_posted": "2026-11-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -2252,24 +2399,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ae59bf1a-6bc0-4208-9390-f2775cf89664",
-      "company": "Zebra Technologies",
-      "title": "Data Scientist Intern",
-      "location": "Holtsville, NY / Lincolnshire, IL",
-      "locations": [
-        "Holtsville, NY",
-        "Lincolnshire, IL"
-      ],
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -4664,22 +4793,6 @@
       ]
     },
     {
-      "id": "simplify:6a4d978f-591a-4db3-91fc-cf7e1e34458b",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Foundation Model Optimization",
-      "location": "Burlingame, CA / Menlo Park, CA",
-      "locations": [
-        "Burlingame, CA",
-        "Menlo Park, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1435245618154892",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:ae277909-103c-4d44-9947-224d2c430997",
       "company": "Meta",
       "title": "Research Scientist Intern - Search",
@@ -6572,24 +6685,6 @@
       "category": "Product",
       "degrees": [
         "MBA"
-      ]
-    },
-    {
-      "id": "simplify:47b1aeb6-587f-4d70-974c-6dd226fbf9e7",
-      "company": "Johnson & Johnson",
-      "title": "Laboratory Automation Systems Intern",
-      "location": "Spring House, PA",
-      "locations": [
-        "Spring House, PA"
-      ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
-      "date_posted": "2026-10-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9959,24 +10054,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:c3531726-3761-43df-9283-622508689b62",
-      "company": "Businessolver",
-      "title": "Business Intelligence Analyst Intern - Innovation & Data Science",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://www.businessolver.com/careers/openings/?gh_jid=8281727",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
     },
     {
       "id": "simplify:4c60792c-0069-4c3e-bed6-f6ab0bc5610c",
@@ -13418,24 +13495,6 @@
       ]
     },
     {
-      "id": "simplify:95c4cff1-400b-4054-ab5a-96b8ea6662dd",
-      "company": "Royal Bank of Canada",
-      "title": "Capital Markets Intern - Quantitative Technology Services",
-      "location": "Raleigh, NC",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c9c49f01-51e4-4d6b-99a4-24bad0192c34",
       "company": "G-Research",
       "title": "Machine Learning Engineer Intern",
@@ -14433,43 +14492,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:93b4a798-697c-42d2-a104-cda1bb152b83",
-      "company": "General Motors",
-      "title": "Software Engineer Intern - AV/AI Platform",
-      "location": "Sunnyvale, CA / Warren, MI",
-      "locations": [
-        "Sunnyvale, CA",
-        "Warren, MI"
-      ],
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:037d751e-e964-4164-ad1e-5cd1b7b6cb57",
-      "company": "General Motors",
-      "title": "Machine Learning Engineer Intern - AV/AI Platform",
-      "location": "Sunnyvale, CA",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -19020,24 +19042,6 @@
       ]
     },
     {
-      "id": "simplify:62c3b982-db7b-4ad1-a538-560067cf4279",
-      "company": "ExodusPoint",
-      "title": "Quantitative Intern - Credit",
-      "location": "Wynnewood, PA",
-      "locations": [
-        "Wynnewood, PA"
-      ],
-      "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:52807e76-e549-4151-acee-65e13a613edf",
       "company": "TikTok",
       "title": "Client Solutions Manager Intern - GBS-LATAM",
@@ -19070,55 +19074,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c0e6ac9c-3a51-4bb6-99c2-9d3ed632d897",
-      "company": "American Express",
-      "title": "Product Manager Intern - Undergraduate",
-      "location": "Burgess Hill, UK",
-      "locations": [
-        "Burgess Hill, UK"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": []
-    },
-    {
-      "id": "simplify:40b8274c-c520-4495-8d40-2d974156e76d",
-      "company": "American Express",
-      "title": "Software Engineer Intern - Undergraduate",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:275ffbf9-4e98-440f-92a7-a43740911ff4",
-      "company": "American Express",
-      "title": "AI Engineer Intern - Undergraduate",
-      "location": "Burgess Hill, UK",
-      "locations": [
-        "Burgess Hill, UK"
-      ],
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
       ]
     },
     {
@@ -20255,23 +20210,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:53789711-bf05-4e76-ac3d-2aca7cc68bc2",
-      "company": "Delta Dental of Iowa",
-      "title": "Data Analyst Intern",
-      "location": "Johnston, IA",
-      "locations": [
-        "Johnston, IA"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491829",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -21944,6 +21882,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cebe2404-0f14-43f7-a80e-93b201cd0441",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern",
+      "location": "Dubai - United Arab Emirates / NYC",
+      "locations": [
+        "Dubai - United Arab Emirates",
+        "NYC"
+      ],
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
+      "date_posted": "2026-09-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
       "degrees": [
         "Bachelor's"
       ]
@@ -25871,25 +25827,6 @@
       ]
     },
     {
-      "id": "simplify:336b94ac-b891-4459-bd54-23d89446c8e2",
-      "company": "GE Aerospace",
-      "title": "Engines Engineering Intern - Computer or Software Engineering",
-      "location": "Lynn, MA / Evendale, OH",
-      "locations": [
-        "Lynn, MA",
-        "Evendale, OH"
-      ],
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
-      "date_posted": "2026-08-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:baf0289f-d552-40cc-956a-c2184364f85a",
       "company": "Xantium",
       "title": "Quantitative Developer Intern",
@@ -28430,62 +28367,6 @@
       "category": "Quant",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:736ed5d6-63be-4dfa-b0d6-5eb9c5d4e663",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Risk and Treasury",
-      "location": "Plano, TX +2 more",
-      "locations": [
-        "Plano, TX",
-        "Chicago, IL",
-        "NYC"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:067fde7e-5b83-40ed-8830-3864aced6f33",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Summer Analyst Intern - Asset Management",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:c603c749-ab7d-489e-a4f7-a962ea05b835",
-      "company": "JP Morgan Chase",
-      "title": "Quantitative Research Intern - Markets - Analyst",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
