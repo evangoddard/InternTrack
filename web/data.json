@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1685,
+    "postings_tracked": 1669,
     "sources": 1,
-    "companies": 608,
+    "companies": 601,
     "last_updated": "2026-11-06"
   },
   "postings": [
@@ -316,24 +316,6 @@
       ]
     },
     {
-      "id": "simplify:77127d50-fe05-4069-a053-a1d3aed35a10",
-      "company": "HoYoverse",
-      "title": "Research Scientist Intern - Video Generation",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/hoyoverse/432bf860-11c1-4a8f-92a1-b3773ac42280/application?embed=true",
-      "date_posted": "2026-11-06",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:4c1d2a29-8238-4827-a622-c10a3a4efcf9",
       "company": "SAS",
       "title": "Data Scientist Intern",
@@ -497,23 +479,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:328d4568-bcae-457f-96e8-ea5e59164c08",
-      "company": "Lumbermen's",
-      "title": "Software Developer Intern",
-      "location": "Grand Rapids, MI",
-      "locations": [
-        "Grand Rapids, MI"
-      ],
-      "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -3039,23 +3004,6 @@
       ]
     },
     {
-      "id": "simplify:54bf1db6-ad2a-4a55-8eba-9726ba4c9e1c",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Robotics Engineer Intern - Maritime Systems",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60742?icims=1",
-      "date_posted": "2026-10-30",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:ac27249b-0f36-44ff-a07c-513168c4e98b",
       "company": "Stratolaunch",
       "title": "Manufacturing Systems & Data Intern - Systems",
@@ -3170,23 +3118,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:5e2d984e-53bd-486c-a6e7-04c15a9ff87b",
-      "company": "Altera",
-      "title": "Hardware Design Engineer Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
-      "date_posted": "2026-10-30",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -4356,6 +4287,24 @@
       ]
     },
     {
+      "id": "simplify:f4dc97f0-baca-420e-a5eb-96d5e9625bf3",
+      "company": "Applied Materials",
+      "title": "Data Science Intern",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+      "date_posted": "2026-10-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:8fc2cb90-08e3-4ad4-bd72-2f24096d4905",
       "company": "Applied Materials",
       "title": "Data Scientist Intern - Master's",
@@ -5006,24 +4955,6 @@
       ]
     },
     {
-      "id": "simplify:7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
-      "company": "Visa",
-      "title": "Sophomore Program Software Engineer Intern",
-      "location": "Ashburn, VA",
-      "locations": [
-        "Ashburn, VA"
-      ],
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:26950fa2-b1ab-4035-b222-f7a747d72c6c",
       "company": "ASML",
       "title": "Frontend Developer Intern",
@@ -5565,23 +5496,6 @@
         "Bachelor's",
         "Master's",
         "MBA"
-      ]
-    },
-    {
-      "id": "simplify:58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb",
-      "company": "Highmark Health",
-      "title": "Provider Delivery Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -7727,23 +7641,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:24537423-4d5f-4c4e-96e3-47f55defe704",
-      "company": "ICF International",
-      "title": "Seasonal Associate Intern - Full Stack Developer",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:7f1577fe-f906-4768-872a-6a8b2a16dd0a",
       "company": "The Aerospace Corporation",
       "title": "Embedded Software Engineer Intern - Multiple Teams",
@@ -7945,21 +7842,6 @@
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:46a45053-654d-405d-9ac0-371cda4b6f79",
-      "company": "FanDuel",
-      "title": "Sports Trader Intern",
-      "location": "Jersey City, NJ",
-      "locations": [
-        "Jersey City, NJ"
-      ],
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8300829",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
       "degrees": []
     },
     {
@@ -11090,23 +10972,6 @@
       ]
     },
     {
-      "id": "simplify:24c2d5a3-467d-49eb-a5e6-8d36e5ded684",
-      "company": "Nokia",
-      "title": "Hardware Development Co-op",
-      "location": "New Providence, NJ",
-      "locations": [
-        "New Providence, NJ"
-      ],
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
-      "date_posted": "2026-10-12",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:182b2433-7798-4b89-991d-e3734677029c",
       "company": "ADT",
       "title": "Product Management & Product Operations Intern",
@@ -12596,23 +12461,6 @@
       ]
     },
     {
-      "id": "simplify:560dca20-ee7d-4406-bef2-be998ced912d",
-      "company": "Werfen",
-      "title": "Acute Care Hardware Systems Engineer Co-op",
-      "location": "Bedford, MA",
-      "locations": [
-        "Bedford, MA"
-      ],
-      "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c5e542fe-ee8a-4e19-9642-374aa9b2fde6",
       "company": "Texas Instruments",
       "title": "Analog Design Engineer Intern",
@@ -13388,23 +13236,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:b06deec1-af33-42d4-8b2a-cc576f1314b2",
-      "company": "Astera Labs",
-      "title": "Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:50499486-6332-4938-96b5-b56eb16e464d",
       "company": "Astera Labs",
       "title": "Hardware Design Engineer Intern",
@@ -13899,23 +13730,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
-      "company": "Quantum Signal AI",
-      "title": "Software Engineer Intern - Tools and Prototypes",
-      "location": "Saline, MI",
-      "locations": [
-        "Saline, MI"
-      ],
-      "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
@@ -16930,39 +16744,6 @@
       ]
     },
     {
-      "id": "simplify:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
-      "company": "Emerson Electric",
-      "title": "Software Engineer Intern - Process Systems and Solutions",
-      "location": "Round Rock, TX",
-      "locations": [
-        "Round Rock, TX"
-      ],
-      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
-      "company": "West Bend Insurance",
-      "title": "IT Data Engineer Intern",
-      "location": "Madison, WI / West Bend, WI",
-      "locations": [
-        "Madison, WI",
-        "West Bend, WI"
-      ],
-      "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:3a86764d-e47b-4475-98c1-ec31081f9a2f",
       "company": "Udig",
       "title": "Software Engineer Intern",
@@ -17446,23 +17227,6 @@
         "Toronto, ON, Canada"
       ],
       "url": "https://qualcomm.eightfold.ai/careers/job/446721156182",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:62317988-f7af-49cb-9853-8ad936c5a1e1",
-      "company": "Qualcomm",
-      "title": "MSIP Digital Design Verification Engineering Intern - HW",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721156800",
       "date_posted": "2026-09-18",
       "deadline": "",
       "season": "Summer 2027",
@@ -23956,23 +23720,6 @@
       ]
     },
     {
-      "id": "simplify:bfeef96e-5bbc-425d-9ee0-3fa12f525bf1",
-      "company": "Epic Games",
-      "title": "Frontend Programmer Intern",
-      "location": "Cary, NC",
-      "locations": [
-        "Cary, NC"
-      ],
-      "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d8558fc9-9efb-4c17-b70f-26aafda3b66a",
       "company": "Bosch Home Comfort",
       "title": "Software Engineer Intern",
@@ -27995,23 +27742,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:db36b892-52d0-41cd-a477-521af6328b70",
-      "company": "Samsara",
-      "title": "Software Engineering Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Spring 2028 / Summer 2028 / Fall 2028 / Winter 2029",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
