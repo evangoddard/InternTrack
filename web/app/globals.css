@@ -1,24 +1,41 @@
 @import "tailwindcss";
 
 /* -----------------------------------------------------------------------
-   Dark, blue-gradient + glassmorphism theme. Contrast ratios verified
-   against WCAG AA: near-white text on bg 18.6:1, blue-500 text on bg
-   5.48:1, white text on blue-600 pill fill 4.77:1.
+   Instrument-panel theme: near-black with a warm cast, warm-white type, one
+   hot coral for signal. Shared with the marketing landing so the brand does
+   not change underneath someone who has just signed up.
+
+   Contrast verified against WCAG AA: warm-white text on bg 17.4:1, muted text
+   on bg 6.2:1, faint on bg 4.9:1, coral on bg 7.0:1, and dark ink on a coral fill 7.1:1 — which
+   is why fills carry --accent-ink rather than --text. Warm white on coral
+   would be 2.6:1 and fail.
    ----------------------------------------------------------------------- */
 :root {
-  --bg: #05070c;
-  --bg-raised: #0b0f1a;
-  --text: #f3f6fb;
-  --text-muted: #93a0b4;
-  --text-faint: #5c6779;
-  --border: rgba(255, 255, 255, 0.1);
-  --border-strong: rgba(255, 255, 255, 0.18);
-  --glass: rgba(255, 255, 255, 0.06);
-  --glass-strong: rgba(255, 255, 255, 0.1);
-  --accent: #3b82f6;
-  --accent-bright: #60a5fa;
-  --accent-fill: #2563eb;
-  --accent-wash: rgba(59, 130, 246, 0.14);
+  --bg: #0b0c0e;
+  --bg-raised: #131519;
+  --text: #f4f1ec;
+  --text-muted: #8e9198;
+  --text-faint: #7a7f88;
+  --border: #262a32;
+  --border-strong: #333a46;
+  --glass: rgba(255, 255, 255, 0.045);
+  --glass-strong: rgba(255, 255, 255, 0.075);
+  --accent: #ff6b4a;
+  --accent-bright: #ff8a6e;
+  --accent-fill: #ff6b4a;
+  /* Text and icons that sit *on* an accent fill. */
+  --accent-ink: #12100f;
+  --accent-wash: rgba(255, 107, 74, 0.13);
+
+  /* One radius scale for the whole product. Marketing, the workspace, and the
+     Tailwind pages were each using their own set — 16 distinct values on the
+     landing page alone — which is the kind of drift that reads as "assembled"
+     rather than designed. */
+  --r-xs: 6px;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-pill: 999px;
 }
 
 @theme inline {
@@ -34,7 +51,12 @@
   --color-accent: var(--accent);
   --color-accent-bright: var(--accent-bright);
   --color-accent-fill: var(--accent-fill);
+  --color-accent-ink: var(--accent-ink);
   --color-accent-wash: var(--accent-wash);
+  --radius-xs: var(--r-xs);
+  --radius-sm: var(--r-sm);
+  --radius-md: var(--r-md);
+  --radius-lg: var(--r-lg);
   --font-display: var(--font-display);
   --font-body: var(--font-body);
   --font-num: var(--font-num);
@@ -46,7 +68,7 @@ body {
 }
 
 .font-display {
-  font-family: var(--font-display), serif;
+  font-family: var(--font-display), ui-sans-serif, system-ui, sans-serif;
   letter-spacing: -0.03em;
 }
 
@@ -73,13 +95,14 @@ p {
   border: 1px solid var(--border);
 }
 
-/* Hero gradient: a deep-space navy resolving into a blue glow, evoking the
-   reference's radial color wash without copying its palette. */
+/* Hero gradient: a warm lift out of near-black with the faintest coral cast.
+   Deliberately far quieter than the blue wash it replaces — the accent earns
+   its weight by being rare, and a full-bleed glow spends it on nothing. */
 .hero-gradient {
   background:
-    radial-gradient(70% 100% at 25% 15%, rgba(59, 130, 246, 0.6), transparent 65%),
-    radial-gradient(60% 80% at 90% 5%, rgba(96, 165, 250, 0.4), transparent 60%),
-    linear-gradient(180deg, #0a1330 0%, #060a16 60%, #05070c 100%);
+    radial-gradient(70% 100% at 25% 15%, rgba(255, 107, 74, 0.16), transparent 62%),
+    radial-gradient(60% 80% at 90% 5%, rgba(255, 138, 110, 0.08), transparent 58%),
+    linear-gradient(180deg, #16181e 0%, #101216 58%, var(--bg) 100%);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -98,5 +121,520 @@ p {
   .reveal {
     opacity: 1;
     transform: none;
+  }
+}
+
+/* -----------------------------------------------------------------------
+   Long-form prose, used by the Privacy and Terms pages. Scoped rather than
+   global so it can never affect the application's own dense UI.
+   ----------------------------------------------------------------------- */
+.legal-prose {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--text-muted);
+}
+
+.legal-prose h2 {
+  margin: 2.4rem 0 0.75rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: var(--text);
+}
+
+.legal-prose p {
+  margin: 0 0 1rem;
+}
+
+.legal-prose ul {
+  margin: 0 0 1.25rem;
+  padding-left: 1.1rem;
+  list-style: none;
+}
+
+.legal-prose li {
+  position: relative;
+  margin-bottom: 0.7rem;
+  padding-left: 0.4rem;
+}
+
+.legal-prose li::before {
+  content: "";
+  position: absolute;
+  left: -0.8rem;
+  top: 0.66em;
+  width: 5px;
+  height: 5px;
+  border-radius: 1px;
+  background: var(--accent);
+}
+
+.legal-prose strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.legal-prose a {
+  color: var(--accent-bright);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Unresolved facts are rendered, not hidden, so an unreviewed policy can
+   never be mistaken for a finished one. */
+.legal-prose code {
+  font-family: var(--font-num), monospace;
+  font-size: 0.82em;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  background: var(--accent-wash);
+  color: var(--accent-bright);
+}
+
+.legal-review {
+  margin-bottom: 2rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  background: var(--glass);
+  font-size: 0.86rem;
+  line-height: 1.6;
+}
+
+/* -----------------------------------------------------------------------
+   Application stages.
+
+   One hue per stage, used sparingly: the tab accent, the stage label, and a
+   2px left border on the row. Everything else stays neutral, so the list
+   still scans as a list rather than a rainbow.
+   ----------------------------------------------------------------------- */
+:root {
+  --stage-not_applied: #8e9198;
+  --stage-applied: #6f9dff;
+  --stage-oa: #a78bfa;
+  --stage-interview: #f0a35e;
+  --stage-final_round: #ffb340;
+  --stage-offer: #6ee7a8;
+  --stage-rejected: #d4736b;
+}
+
+/* -----------------------------------------------------------------------
+   Tracker
+   ----------------------------------------------------------------------- */
+.tb-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.tb-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.9rem;
+}
+
+.tb-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 0.8rem;
+  margin-bottom: -1px;
+  font: inherit;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: color 0.12s ease, border-color 0.12s ease;
+}
+
+.tb-tab:hover {
+  color: var(--text);
+}
+
+.tb-tab.is-on {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+/* Each stage tab takes its own accent when active. */
+.tb-tab.is-on[data-stage="not_applied"] { border-bottom-color: var(--stage-not_applied); }
+.tb-tab.is-on[data-stage="applied"]     { border-bottom-color: var(--stage-applied); }
+.tb-tab.is-on[data-stage="oa"]          { border-bottom-color: var(--stage-oa); }
+.tb-tab.is-on[data-stage="interview"]   { border-bottom-color: var(--stage-interview); }
+.tb-tab.is-on[data-stage="final_round"] { border-bottom-color: var(--stage-final_round); }
+.tb-tab.is-on[data-stage="offer"]       { border-bottom-color: var(--stage-offer); }
+.tb-tab.is-on[data-stage="rejected"]    { border-bottom-color: var(--stage-rejected); }
+
+.tb-tab-n {
+  font-family: var(--font-num), monospace;
+  font-size: 0.68rem;
+  color: var(--text-faint);
+}
+
+.tb-tab.is-on .tb-tab-n {
+  color: var(--text-muted);
+}
+
+.tb-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.9rem;
+}
+
+.tb-search {
+  flex: 1;
+  min-width: 12rem;
+  max-width: 26rem;
+}
+
+.tb-search input,
+.tb-sort select {
+  width: 100%;
+  padding: 0.42rem 0.7rem;
+  font: inherit;
+  font-size: 0.82rem;
+  color: var(--text);
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--r-xs);
+}
+
+.tb-sort select {
+  width: auto;
+}
+
+.tb-clear {
+  padding: 0.42rem 0.7rem;
+  font: inherit;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px dashed var(--border);
+  border-radius: var(--r-xs);
+  cursor: pointer;
+}
+
+.tb-showing {
+  margin-left: auto;
+  font-family: var(--font-num), monospace;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+.tb-showing span {
+  color: var(--text-faint);
+}
+
+.tb-rows {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--border);
+}
+
+/* Rows, not cards: a 2px stage border and a rule between them carry the
+   grouping that a bordered box would otherwise have to. */
+.tb-row {
+  display: grid;
+  grid-template-columns: minmax(0, 2.2fr) minmax(0, 1.3fr) auto auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.7rem 0.9rem;
+  border-bottom: 1px solid var(--border);
+  border-left: 2px solid transparent;
+  transition: background-color 0.12s ease;
+}
+
+.tb-row:hover {
+  background: var(--glass);
+}
+
+.tb-row.is-selected {
+  background: var(--glass-strong);
+}
+
+.tb-row[data-stage="not_applied"] { border-left-color: var(--stage-not_applied); }
+.tb-row[data-stage="applied"]     { border-left-color: var(--stage-applied); }
+.tb-row[data-stage="oa"]          { border-left-color: var(--stage-oa); }
+.tb-row[data-stage="interview"]   { border-left-color: var(--stage-interview); }
+.tb-row[data-stage="final_round"] { border-left-color: var(--stage-final_round); }
+.tb-row[data-stage="offer"]       { border-left-color: var(--stage-offer); }
+.tb-row[data-stage="rejected"]    { border-left-color: var(--stage-rejected); }
+
+.tb-main {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-width: 0;
+}
+
+.tb-idm {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.tb-company {
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tb-role {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tb-role:hover {
+  color: var(--accent-bright);
+  text-decoration: underline;
+}
+
+.tb-meta {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.tb-loc {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tb-date {
+  font-family: var(--font-num), monospace;
+  font-size: 0.68rem;
+  color: var(--text-faint);
+}
+
+.tb-flags {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.tb-flag {
+  padding: 0.1rem 0.4rem;
+  font-family: var(--font-num), monospace;
+  font-size: 0.62rem;
+  border-radius: var(--r-xs);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.tb-flag.is-quiet {
+  color: var(--stage-interview);
+  border-color: color-mix(in srgb, var(--stage-interview) 40%, transparent);
+}
+
+.tb-flag.is-closed {
+  border-style: dashed;
+}
+
+.tb-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.tb-empty {
+  padding: 2.5rem 1rem;
+  text-align: center;
+  border: 1px dashed var(--border);
+  border-radius: var(--r-md);
+}
+
+.tb-empty-head {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.tb-empty-body {
+  margin: 0.5rem auto 0;
+  max-width: 30rem;
+  font-size: 0.84rem;
+  color: var(--text-muted);
+}
+
+.tb-btn {
+  margin-top: 1rem;
+  padding: 0.45rem 0.9rem;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--accent-ink);
+  background: var(--accent-fill);
+  border: none;
+  border-radius: var(--r-xs);
+  cursor: pointer;
+}
+
+.tb-link {
+  color: var(--accent-bright);
+  text-decoration: underline;
+}
+
+@media (max-width: 860px) {
+  /* Stacked rather than a squeezed grid — four columns of application data
+     do not survive a phone, and the actions must stay reachable. */
+  .tb-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.5rem;
+  }
+
+  .tb-meta {
+    flex-direction: row;
+    gap: 0.75rem;
+    align-items: baseline;
+  }
+
+  .tb-actions {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .tb-showing {
+    margin-left: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tb-tab,
+  .tb-row {
+    transition: none !important;
+  }
+}
+
+/* -----------------------------------------------------------------------
+   Light theme.
+
+   Designed rather than inverted. The dark theme is near-black with warm-white
+   type; flipping those values produces the grey-on-grey wash that makes most
+   light modes unreadable. Instead: a warm off-white ground, a genuinely dark
+   ink for body text, and the same coral doing the same job.
+
+   Coral needs care here — #ff6b4a on white is 2.6:1 and fails. Text and icons
+   that use the accent switch to a darker coral; the accent *fill* keeps the
+   bright coral with dark ink on top, which is the same pairing as dark mode.
+
+   Contrast on --bg (#faf8f5):
+     --text        #16181c  16.1:1
+     --text-muted  #5c6067   6.1:1
+     --text-faint  #757a82   4.5:1
+     --accent      #c2410c   5.3:1   (darker coral, for text/icons)
+     accent-ink on --accent-fill      7.0:1
+   ----------------------------------------------------------------------- */
+:root[data-theme="light"] {
+  --bg: #faf8f5;
+  --bg-raised: #ffffff;
+  --text: #16181c;
+  --text-muted: #5c6067;
+  --text-faint: #757a82;
+  --border: #e4e0d9;
+  --border-strong: #cdc7bd;
+  --glass: rgba(22, 24, 28, 0.035);
+  --glass-strong: rgba(22, 24, 28, 0.06);
+  /* Readable coral for text and icons. */
+  --accent: #c2410c;
+  --accent-bright: #9a3412;
+  /* The fill keeps the brand coral; ink on top stays dark. */
+  --accent-fill: #ff6b4a;
+  --accent-ink: #2a1206;
+  --accent-wash: rgba(255, 107, 74, 0.14);
+
+  /* Stage hues darkened to stay legible on a light ground. */
+  --stage-not_applied: #6b7280;
+  --stage-applied: #2563eb;
+  --stage-oa: #7c3aed;
+  --stage-interview: #c2410c;
+  --stage-final_round: #b45309;
+  --stage-offer: #15803d;
+  --stage-rejected: #b91c1c;
+}
+
+/* The marketing page keeps its own dark palette regardless of app theme —
+   the scroll story is composed for a black ground and there is no light
+   version of it to switch to. */
+:root[data-theme="light"] .lp-root {
+  color-scheme: dark;
+}
+
+/* Tells the browser which form-control and scrollbar rendering to use. */
+:root { color-scheme: dark; }
+:root[data-theme="light"] { color-scheme: light; }
+
+/* The hero wash is tuned for near-black; on the light ground it becomes a
+   faint warm tint instead of a glow. */
+:root[data-theme="light"] .hero-gradient {
+  background:
+    radial-gradient(70% 100% at 25% 15%, rgba(255, 107, 74, 0.10), transparent 62%),
+    linear-gradient(180deg, #fffdfa 0%, var(--bg) 100%);
+}
+
+/* Appearance control. Hidden until the client has read the stored value, so
+   no segment is ever lit incorrectly on first paint. */
+.theme-toggle {
+  display: inline-flex;
+  gap: 2px;
+  padding: 2px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-pill);
+  background: var(--bg);
+  visibility: hidden;
+}
+
+.theme-toggle[data-ready="true"] {
+  visibility: visible;
+}
+
+.theme-toggle button {
+  padding: 0.32rem 0.75rem;
+  font: inherit;
+  font-size: 0.76rem;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.theme-toggle button:hover {
+  color: var(--text);
+}
+
+.theme-toggle button.is-on {
+  background: var(--accent-fill);
+  color: var(--accent-ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle button {
+    transition: none !important;
   }
 }

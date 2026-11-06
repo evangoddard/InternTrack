@@ -5,6 +5,7 @@ import { revalidatePath } from "next/cache";
 import { createClient } from "@/lib/supabase/server";
 import { CATEGORIES } from "@/lib/categories";
 import type { DegreeLevel } from "@/lib/eligibility";
+import { overLimit } from "@/lib/rateLimit";
 
 const LEVELS: DegreeLevel[] = ["associate", "bachelor", "master", "phd"];
 
@@ -29,6 +30,7 @@ export async function updateProfile(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) back("error", "Too many changes just now. Wait a minute and try again.");
 
   const fullName = String(formData.get("full_name") ?? "").trim().slice(0, 80);
 
@@ -75,6 +77,9 @@ export async function changePassword(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user?.email) redirect("/login");
+  // Also throttles credential guessing against the current-password check
+  // below, which is a signInWithPassword call.
+  if (await overLimit("write")) back("error", "Too many attempts just now. Wait a minute and try again.");
 
   const current = String(formData.get("current_password") ?? "");
   const next = String(formData.get("new_password") ?? "");
@@ -118,6 +123,7 @@ export async function deleteMyData(formData: FormData) {
     data: { user },
   } = await supabase.auth.getUser();
   if (!user) redirect("/login");
+  if (await overLimit("write")) back("error", "Too many requests just now. Wait a minute and try again.");
 
   if (String(formData.get("confirm") ?? "").trim().toUpperCase() !== "DELETE") {
     back("error", 'Type DELETE to confirm.');

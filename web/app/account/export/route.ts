@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
+import { checkRateLimit, tooManyRequests } from "@/lib/rateLimit";
 
 // GET /account/export -- everything the app stores about you, as JSON.
 //
@@ -16,6 +17,9 @@ export async function GET() {
   if (!user) {
     return NextResponse.json({ error: "Sign in first." }, { status: 401 });
   }
+
+  const limit = await checkRateLimit("export");
+  if (!limit.allowed) return tooManyRequests("export", limit);
 
   const [{ data: saved }, { data: dismissed }, { data: resumes }] = await Promise.all([
     supabase.from("saved_postings").select("*").eq("user_id", user.id),
@@ -45,6 +49,8 @@ export async function GET() {
     headers: {
       "Content-Type": "application/json",
       "Content-Disposition": `attachment; filename="${fileName}"`,
+      // A complete dump of one account. Must never sit in a shared cache.
+      "Cache-Control": "no-store, private",
     },
   });
 }

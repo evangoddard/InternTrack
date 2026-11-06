@@ -1,0 +1,2601 @@
+/* ---------------------------------------------------------------------------
+   InternTrack — public landing, scroll story.
+
+   Visual direction: an instrument panel, not a product shot. Near-black with a
+   warm cast, warm-white type, one hot coral for signal and one cool seafoam for
+   data. Dense, technical, editorial — the opposite of a cool-grey device page.
+   Motion quality is the borrowed idea; nothing else is.
+
+   Scoped entirely under .lp-root. Loads no production stylesheet and is loaded
+   by no production route.
+--------------------------------------------------------------------------- */
+
+.lp-root {
+  --bg: #0b0c0e;
+  --bg-lift: #101216;
+  --panel: #131519;
+  --panel-2: #17191f;
+  --line: #262a32;
+  --line-soft: rgba(255, 255, 255, 0.07);
+  --text: #f4f1ec;
+  --dim: #8e9198;
+  --dimmer: #7a7f88;
+  --accent: #ff6b4a;
+  --cool: #7dd3c0;
+
+  --display: var(--lp-display), ui-sans-serif, system-ui, sans-serif;
+  --mono: var(--lp-mono), ui-monospace, SFMono-Regular, monospace;
+
+  position: relative;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--display);
+  /* Revealed by the intro tween once GSAP has taken over, so the unstyled
+     pre-hydration frame never flashes. */
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* ---- stage ---------------------------------------------------------------- */
+
+.lp-stage {
+  position: relative;
+  height: 100vh;
+  height: 100svh;
+  overflow: hidden;
+  background:
+    radial-gradient(120% 90% at 50% 0%, #14171d 0%, var(--bg) 62%),
+    var(--bg);
+}
+
+.lp-fit,
+.lp-camera {
+  position: absolute;
+  inset: 0;
+  will-change: transform;
+}
+
+/* Perspective lives on the fit layer so the camera, its direct child, is the
+   thing that tips. */
+.lp-fit {
+  perspective: 2600px;
+}
+
+.lp-camera {
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+/* The canvas is wider than any viewport, and grid/flex `center` refuses to
+   centre a child that overflows its container — it clamps to the start edge.
+   Explicit 50% + translate is the only alignment that survives the overflow,
+   and the camera's maths assumes the canvas is dead centre. */
+.lp-canvas-host {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Depth pass. One element, opacity only — cheap, and it does the work that
+   blurring a dozen panels would otherwise cost. */
+.lp-vignette {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 3;
+  background:
+    radial-gradient(76% 62% at 50% 48%, transparent 38%, rgba(6, 7, 9, 0.82) 100%),
+    linear-gradient(to bottom, rgba(6, 7, 9, 0.5) 0%, transparent 22%, transparent 78%, rgba(6, 7, 9, 0.72) 100%);
+  opacity: 0.85;
+}
+
+/* ---- the workspace canvas ------------------------------------------------- */
+
+.lp-canvas {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--r-lg);
+  background: linear-gradient(180deg, var(--bg-lift) 0%, #0d0f13 100%);
+  border: 1px solid var(--line);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.04) inset,
+    0 60px 140px -40px rgba(0, 0, 0, 0.9);
+  overflow: hidden;
+  will-change: transform, filter;
+}
+
+/* ---- top bar -------------------------------------------------------------- */
+
+.lp-topbar {
+  height: 56px;
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 0 20px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.015);
+}
+
+.lp-brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.lp-brand-mark {
+  width: 15px;
+  height: 15px;
+  border-radius: var(--r-xs);
+  background: var(--accent);
+  box-shadow: 0 0 14px rgba(255, 107, 74, 0.45);
+}
+
+.lp-brand-name {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.lp-season {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--dim);
+  padding: 4px 9px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-xs);
+}
+
+.lp-search {
+  flex: 1;
+  max-width: 420px;
+  font-size: 12px;
+  color: var(--dimmer);
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.lp-topbar-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.lp-scanned {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--dim);
+}
+
+.lp-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--cool);
+  box-shadow: 0 0 8px rgba(125, 211, 192, 0.7);
+}
+
+.lp-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: linear-gradient(140deg, #3a3f4a, #22262d);
+  border: 1px solid var(--line);
+}
+
+/* ---- body grid ------------------------------------------------------------ */
+
+.lp-body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  gap: 16px;
+  padding: 20px;
+}
+
+.lp-panel-title {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  margin: 0;
+}
+
+/* ---- left rail ------------------------------------------------------------ */
+
+.lp-rail {
+  width: 260px;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  will-change: filter, opacity;
+}
+
+.lp-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.lp-nav-item {
+  font-size: 13px;
+  color: var(--dim);
+  padding: 8px 11px;
+  border-radius: var(--r-xs);
+}
+
+.lp-nav-item.is-active {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.lp-resume {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--panel);
+}
+
+.lp-drop {
+  position: relative;
+  height: 250px;
+  flex: none;
+  border: 1px dashed rgba(255, 255, 255, 0.1);
+  border-radius: var(--r-sm);
+  display: grid;
+  place-items: center;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.lp-drop-hint {
+  position: absolute;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--dimmer);
+}
+
+/* The résumé sheet. Hidden until act 1 drops it in. */
+.lp-sheet {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--r-xs);
+  background: linear-gradient(180deg, #f4f1ec 0%, #e6e2da 100%);
+  padding: 12px 11px 26px;
+  overflow: hidden;
+  box-shadow: 0 14px 32px -10px rgba(0, 0, 0, 0.75);
+  opacity: 0;
+}
+
+.lp-sheet-lines {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.lp-sheet-lines span {
+  height: 3px;
+  border-radius: 2px;
+  background: #b9b3a8;
+}
+
+.lp-sheet-lines span:first-child {
+  height: 6px;
+  background: #4a4640;
+}
+
+.lp-scanline {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 22px;
+  opacity: 0;
+  background: linear-gradient(180deg, transparent, rgba(255, 107, 74, 0.55), transparent);
+  box-shadow: 0 0 22px rgba(255, 107, 74, 0.55);
+}
+
+.lp-sheet-foot {
+  position: absolute;
+  left: 11px;
+  right: 11px;
+  bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.lp-sheet-name {
+  font-family: var(--mono);
+  font-size: 9px;
+  color: #35322d;
+}
+
+.lp-sheet-meta {
+  font-family: var(--mono);
+  font-size: 8px;
+  color: #8a857c;
+}
+
+.lp-extracted {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 0;
+}
+
+.lp-extracted-label,
+.lp-skillset-label {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.lp-chip {
+  font-size: 10.5px;
+  padding: 3px 7px;
+  border-radius: var(--r-xs);
+  border: 1px solid var(--line);
+  color: var(--dim);
+  background: rgba(255, 255, 255, 0.03);
+  white-space: nowrap;
+}
+
+.lp-extracted .lp-chip {
+  opacity: 0;
+}
+
+.lp-chip.is-have {
+  color: var(--cool);
+  border-color: rgba(125, 211, 192, 0.3);
+  background: rgba(125, 211, 192, 0.07);
+  opacity: 0;
+}
+
+.lp-chip.is-missing {
+  color: var(--dim);
+  border-color: rgba(255, 255, 255, 0.12);
+  border-style: dashed;
+  opacity: 0;
+}
+
+/* ---- feed ----------------------------------------------------------------- */
+
+.lp-feed {
+  width: 700px;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--panel);
+  overflow: hidden;
+  will-change: filter, opacity;
+}
+
+.lp-feed-head {
+  flex: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 14px 14px 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.lp-feed-sub {
+  margin: 4px 0 0;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--dim);
+}
+
+.lp-feed-filter {
+  display: flex;
+  gap: 6px;
+}
+
+.lp-filter-pill {
+  font-size: 10.5px;
+  padding: 4px 9px;
+  border-radius: var(--r-xs);
+  border: 1px solid var(--line);
+  color: var(--dim);
+}
+
+.lp-filter-pill.is-on {
+  color: rgba(244, 241, 236, 0.45);
+}
+
+.lp-rows-clip {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.lp-rows {
+  position: absolute;
+  inset: 0 0 auto;
+  will-change: transform;
+}
+
+.lp-row {
+  height: 34px; /* must equal ROW_H in story.ts — the reflow maths depends on it */
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.045);
+  opacity: 0;
+  will-change: transform, opacity;
+}
+
+.lp-row-co {
+  width: 120px;
+  flex: none;
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lp-row-role {
+  flex: 1;
+  min-width: 0;
+  font-size: 11.5px;
+  color: var(--dim);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lp-row-loc {
+  width: 128px;
+  flex: none;
+  font-size: 10.5px;
+  color: var(--dimmer);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lp-row-score {
+  width: 78px;
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.lp-score-bar {
+  width: 40px;
+  height: 3px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.09);
+  overflow: hidden;
+}
+
+.lp-score-bar i {
+  display: block;
+  height: 100%;
+  background: var(--cool);
+}
+
+.lp-row-score b {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  font-weight: 500;
+  color: var(--dim);
+  width: 18px;
+  text-align: right;
+}
+
+.lp-row[data-keep="1"] .lp-row-score b {
+  color: var(--text);
+}
+
+.lp-row[data-keep="1"] .lp-score-bar i {
+  background: var(--accent);
+}
+
+/* ---- detail + gaps -------------------------------------------------------- */
+
+.lp-detailcol {
+  width: 460px;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 0;
+}
+
+.lp-detail {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: linear-gradient(180deg, var(--panel-2) 0%, var(--panel) 100%);
+  box-shadow: 0 24px 60px -24px rgba(0, 0, 0, 0.85);
+  opacity: 0;
+  will-change: transform, opacity, filter;
+}
+
+.lp-detail-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.lp-detail-co {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.lp-detail-role {
+  margin: 5px 0 5px;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+.lp-detail-meta {
+  margin: 0;
+  font-size: 11px;
+  color: var(--dim);
+}
+
+.lp-detail-score {
+  flex: none;
+  text-align: right;
+}
+
+.lp-detail-num {
+  display: block;
+  font-family: var(--mono);
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--accent);
+}
+
+.lp-detail-num-label {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-because {
+  margin: 0;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--dim);
+  padding-left: 11px;
+  border-left: 2px solid rgba(255, 107, 74, 0.4);
+}
+
+.lp-skillset {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.lp-gate {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 9px 11px;
+  border-radius: var(--r-sm);
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid var(--line-soft);
+  opacity: 0;
+}
+
+.lp-gate-label {
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-gate-text {
+  font-size: 11.5px;
+  color: var(--text);
+}
+
+.lp-detail-foot {
+  display: flex;
+  gap: 8px;
+  margin-top: 2px;
+}
+
+.lp-btn {
+  font-size: 11.5px;
+  font-weight: 500;
+  padding: 8px 13px;
+  border-radius: var(--r-xs);
+  border: 1px solid var(--line);
+  color: var(--dim);
+}
+
+.lp-btn.is-primary {
+  background: var(--accent);
+  border-color: transparent;
+  color: #12100f;
+  will-change: transform;
+}
+
+.lp-gaps {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--panel);
+  opacity: 0;
+  will-change: transform, opacity, filter;
+}
+
+.lp-gaps-head {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.lp-gaps-sub {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-gap {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+
+.lp-gap-name {
+  width: 108px;
+  flex: none;
+  font-size: 11.5px;
+  color: var(--text);
+}
+
+.lp-gap-track {
+  flex: 1;
+  height: 5px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.07);
+  overflow: hidden;
+}
+
+.lp-gap-track i {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  background: linear-gradient(90deg, rgba(255, 107, 74, 0.5), var(--accent));
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  will-change: transform;
+}
+
+.lp-gap-share {
+  width: 32px;
+  flex: none;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--dim);
+  text-align: right;
+}
+
+/* ---- tracker -------------------------------------------------------------- */
+
+.lp-tracker {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: var(--panel);
+  will-change: filter, opacity;
+}
+
+.lp-tracker-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.lp-tracker-sub {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--dim);
+}
+
+.lp-board {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.lp-col {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 9px;
+  border-radius: var(--r-sm);
+  background: rgba(0, 0, 0, 0.24);
+  border: 1px solid var(--line-soft);
+}
+
+.lp-col-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(244, 241, 236, 0.55);
+}
+
+.lp-col-label {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.lp-col-count {
+  font-family: var(--mono);
+  font-size: 9.5px;
+  opacity: 0.7;
+}
+
+/* Measured for the travelling card's landing position; never painted. */
+.lp-slot {
+  height: 54px;
+  flex: none;
+  border-radius: var(--r-xs);
+  border: 1px dashed rgba(255, 255, 255, 0.06);
+}
+
+.lp-card {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 9px;
+  border-radius: var(--r-xs);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+}
+
+.lp-card-co {
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.lp-card-role {
+  font-size: 10px;
+  color: var(--dim);
+}
+
+.lp-card-note {
+  font-family: var(--mono);
+  font-size: 9px;
+  color: var(--dimmer);
+  margin-top: 2px;
+}
+
+/* The one card the story follows. Absolute against the canvas so it can cross
+   column boundaries on transforms alone. */
+.lp-travel {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 4;
+  width: 148px;
+  opacity: 0;
+  background: linear-gradient(180deg, #1d2027 0%, #171a20 100%);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.55);
+  will-change: transform, opacity;
+}
+
+/* ---- captions ------------------------------------------------------------- */
+
+.lp-caps {
+  position: absolute;
+  inset: 0;
+  z-index: 5;
+  pointer-events: none;
+}
+
+.lp-cap {
+  position: absolute;
+  max-width: 30rem;
+  opacity: 0;
+  will-change: transform, opacity, filter;
+}
+
+.lp-cap.is-center {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 46rem;
+  text-align: center;
+}
+
+.lp-cap.is-left {
+  left: clamp(2.5rem, 6vw, 7rem);
+  bottom: clamp(3rem, 9vh, 7rem);
+}
+
+.lp-cap.is-right {
+  right: clamp(2.5rem, 6vw, 7rem);
+  bottom: clamp(3rem, 9vh, 7rem);
+  text-align: right;
+}
+
+.lp-cap.is-bottom {
+  left: 50%;
+  bottom: clamp(3rem, 9vh, 7rem);
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.lp-cap-eyebrow {
+  display: block;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1.1rem;
+}
+
+.lp-cap-head {
+  margin: 0;
+  font-size: clamp(1.9rem, 3.1vw, 3.15rem);
+  line-height: 1.06;
+  letter-spacing: -0.032em;
+  font-weight: 600;
+  text-wrap: balance;
+}
+
+.lp-cap.is-center .lp-cap-head {
+  font-size: clamp(2.4rem, 4.6vw, 4.4rem);
+}
+
+.lp-cap-body {
+  margin: 1.15rem 0 0;
+  font-size: clamp(0.94rem, 1.05vw, 1.06rem);
+  line-height: 1.55;
+  color: var(--dim);
+  max-width: 27rem;
+  text-wrap: pretty;
+}
+
+.lp-cap.is-center .lp-cap-body {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lp-cap.is-right .lp-cap-body {
+  margin-left: auto;
+}
+
+/* SplitText's line mask needs the line to be a block that can clip. */
+.lp-line {
+  overflow: hidden;
+}
+
+/* ---- chrome: act ticks + scroll hint -------------------------------------- */
+
+.lp-ticks {
+  position: absolute;
+  right: clamp(1.25rem, 2.4vw, 2.5rem);
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 6;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.lp-tick {
+  width: 2px;
+  height: 16px;
+  border-radius: 1px;
+  background: rgba(255, 255, 255, 0.14);
+  transition: background-color 0.45s ease, transform 0.45s ease;
+  transform-origin: 50% 50%;
+}
+
+.lp-tick.is-on {
+  background: var(--accent);
+  transform: scaleX(2);
+}
+
+.lp-scrollhint {
+  position: absolute;
+  left: 50%;
+  bottom: 2.2rem;
+  transform: translateX(-50%);
+  z-index: 6;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+  opacity: 0;
+}
+
+/* ---------------------------------------------------------------------------
+   Sections around the pinned sequence.
+
+   The opening follows the reference's category-page shape — a wordmark-scale
+   headline, then a row of chiplets that stagger in — and the sections after the
+   pin are a carousel and a card grid, all revealed on enter at the measured
+   0.76s / 0.16s / ease-in-out rather than scrubbed.
+--------------------------------------------------------------------------- */
+
+.lp-hero {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(3rem, 7vh, 5.5rem);
+  padding: 7rem clamp(1.5rem, 6vw, 5rem) 5rem;
+  background:
+    radial-gradient(120% 80% at 50% 0%, #14171d 0%, var(--bg) 60%),
+    var(--bg);
+}
+
+/* Full width on purpose: the wordmark is set in `nowrap` at display scale and
+   would overflow any narrower box. The prose inside caps its own measure. */
+.lp-hero-inner {
+  width: 100%;
+  text-align: center;
+  will-change: transform, opacity, filter;
+}
+
+/* ---- the wordmark ---------------------------------------------------------
+   The first thing on the page and the largest thing on it. Set in uppercase at
+   display scale with negative tracking, which the entrance animates in from a
+   looser setting so the name visibly resolves rather than simply appearing. */
+.lp-wordmark {
+  margin: 0 0 clamp(1.75rem, 4vh, 2.75rem);
+  /* Measured, not guessed: "INTERNTRACK" in this face sets 8.15x its font-size
+     at the entrance's loosest tracking. 9.6vw keeps it inside the hero's
+     padding at every width the cinematic branch runs at, with margin to spare. */
+  font-size: clamp(2.4rem, 9.6vw, 8.5rem);
+  line-height: 0.94;
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  /* Solid, not a gradient. `background-clip: text` paints the parent's own
+     text, and SplitText moves every glyph into a child span — which inherits
+     `color: transparent` and has no background of its own, so the wordmark
+     disappears the moment it is split. */
+  color: var(--text);
+}
+
+/* SplitText's char masks clip each glyph as it rises. They need to be
+   inline-block to size to the character, and the wordmark's negative tracking
+   would otherwise let neighbouring masks crop each other. */
+.lp-char {
+  will-change: transform;
+  padding-right: 0.02em;
+}
+
+.lp-hero-head {
+  margin: 0 auto;
+  max-width: 30rem;
+  font-size: clamp(1.05rem, 1.55vw, 1.4rem);
+  line-height: 1.35;
+  letter-spacing: -0.018em;
+  font-weight: 500;
+  color: var(--text);
+  text-wrap: balance;
+}
+
+.lp-hero-body {
+  margin: 1.15rem auto 0;
+  max-width: 33rem;
+  font-size: clamp(0.92rem, 1.05vw, 1.02rem);
+  line-height: 1.6;
+  color: var(--dim);
+}
+
+.lp-hero-actions {
+  display: flex;
+  gap: 0.7rem;
+  justify-content: center;
+  margin-top: clamp(1.75rem, 3.5vh, 2.5rem);
+}
+
+.lp-hero-actions > * {
+}
+
+/* The chiplet row. Sits between the story and the carousel now — a summary of
+   the surfaces just walked through, rather than a header device. */
+.lp-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: clamp(1.5rem, 3.4vw, 3.4rem);
+  padding: clamp(3rem, 8vh, 5.5rem) clamp(1.5rem, 6vw, 5rem) 0;
+  background: var(--bg);
+}
+
+.lp-chip-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+  will-change: transform, opacity;
+}
+
+.lp-chip-glyph {
+  display: grid;
+  place-items: center;
+  width: 62px;
+  height: 62px;
+  border-radius: var(--r-md);
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, var(--panel-2) 0%, var(--panel) 100%);
+  color: var(--dim);
+  transition: color 0.4s ease, border-color 0.4s ease, transform 0.4s ease;
+}
+
+.lp-chip-item:hover .lp-chip-glyph {
+  color: var(--accent);
+  border-color: rgba(255, 107, 74, 0.4);
+  transform: translateY(-3px);
+}
+
+.lp-chip-label {
+  font-size: 12.5px;
+  color: var(--dim);
+  letter-spacing: -0.005em;
+}
+
+/* ---- shared section furniture -------------------------------------------- */
+
+.lp-sec-head {
+  margin: 0;
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+
+/* ---- carousel ------------------------------------------------------------- */
+
+.lp-carousel {
+  padding: clamp(5rem, 11vh, 8rem) 0 clamp(3rem, 7vh, 5rem);
+  background: var(--bg);
+}
+
+.lp-carousel-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 0 clamp(1.5rem, 6vw, 5rem);
+  margin-bottom: clamp(1.75rem, 4vh, 2.75rem);
+}
+
+.lp-carousel-head > * {
+}
+
+.lp-carousel-nav {
+  display: flex;
+  gap: 0.6rem;
+  flex: none;
+}
+
+.lp-carousel-nav button {
+  width: 38px;
+  height: 38px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  transition: opacity 0.3s ease, background-color 0.3s ease;
+}
+
+.lp-carousel-nav button:hover {
+  background: var(--panel-2);
+}
+
+.lp-carousel-nav button.is-off {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.lp-track {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  padding: 0 clamp(1.5rem, 6vw, 5rem) 1.5rem;
+  /* Snapping aligns to the border box, so without this the track scrolls past
+     its own left padding and clips the first card against the viewport edge. */
+  scroll-padding-left: clamp(1.5rem, 6vw, 5rem);
+}
+
+.lp-track::-webkit-scrollbar {
+  display: none;
+}
+
+.lp-ccard {
+  position: relative;
+  flex: 0 0 clamp(19rem, 26vw, 23rem);
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  padding: 1.65rem 1.65rem 4.5rem;
+  border-radius: var(--r-lg);
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, var(--panel-2) 0%, var(--panel) 100%);
+  will-change: transform, opacity;
+}
+
+.lp-ccard-eyebrow {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.lp-ccard-head {
+  margin: 0.85rem 0 0;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+.lp-ccard-body {
+  margin: 0.75rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--dim);
+}
+
+/* Behind the "+", collapsed until asked for.
+   `grid-template-rows: 0fr -> 1fr` animates to the content's natural height
+   without measuring it in JS, and `hidden` keeps the collapsed content out of
+   the tab order. */
+.lp-ccard-more {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.42s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.lp-ccard-more[hidden] {
+  display: none;
+}
+
+.lp-ccard.is-open .lp-ccard-more {
+  grid-template-rows: 1fr;
+}
+
+.lp-ccard-more-inner {
+  overflow: hidden;
+  min-height: 0;
+}
+
+.lp-ccard-more p {
+  margin: 0.9rem 0 0;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--dim);
+}
+
+/* An expanded card leaves the row and takes the width it needs to stay
+   readable — three columns of body text at 19rem would not be. */
+.lp-ccard.is-open {
+  flex: 0 0 min(38rem, 88vw);
+  scroll-snap-align: center;
+  background: linear-gradient(180deg, var(--panel-2) 0%, var(--panel) 100%);
+  border-color: var(--border-strong, rgba(255, 255, 255, 0.18));
+}
+
+/* ---- the small real-product fragments inside an expanded card ------------ */
+
+.lp-ex,
+.lp-ex-source {
+  margin-top: 1.1rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: rgba(0, 0, 0, 0.24);
+}
+
+.lp-ex-source {
+  display: grid;
+  gap: 0.45rem;
+  margin: 1.1rem 0 0;
+}
+
+.lp-ex-source > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.lp-ex-source dt {
+  font-size: 0.8rem;
+  color: var(--dim);
+}
+
+.lp-ex-source dd {
+  margin: 0;
+  font-family: var(--mono);
+  font-size: 0.76rem;
+  color: var(--text);
+  text-align: right;
+}
+
+.lp-ex-label {
+  display: block;
+  margin-top: 0.7rem;
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-ex-label:first-child {
+  margin-top: 0;
+}
+
+.lp-ex-score {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.3rem;
+}
+
+.lp-ex-num {
+  font-family: var(--mono);
+  font-size: 2rem;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--accent);
+}
+
+.lp-ex-num-label {
+  font-size: 0.72rem;
+  line-height: 1.35;
+  color: var(--dim);
+}
+
+.lp-ex-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0.35rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lp-ex-chips li {
+  padding: 2px 7px;
+  font-size: 0.68rem;
+  border-radius: var(--r-xs);
+  border: 1px solid var(--line);
+  color: var(--dim);
+}
+
+.lp-ex-chips li.is-have {
+  color: var(--cool);
+  border-color: rgba(125, 211, 192, 0.32);
+  background: rgba(125, 211, 192, 0.08);
+}
+
+.lp-ex-chips li.is-missing {
+  border-style: dashed;
+}
+
+.lp-ex-reqs,
+.lp-ex-verdicts,
+.lp-ex-gaps {
+  margin: 0.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lp-ex-reqs li {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.28rem 0;
+  font-size: 0.76rem;
+  line-height: 1.45;
+  color: var(--dim);
+}
+
+.lp-ex-reqs li.is-covered {
+  color: var(--text);
+}
+
+.lp-ex-tick {
+  flex: none;
+  margin-top: 0.15rem;
+  color: var(--dimmer);
+}
+
+.lp-ex-reqs li.is-covered .lp-ex-tick {
+  color: var(--cool);
+}
+
+.lp-ex-verdicts li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--line-soft);
+  font-size: 0.76rem;
+}
+
+.lp-ex-verdicts li:last-child {
+  border-bottom: none;
+}
+
+.lp-ex-verdict-label {
+  color: var(--text);
+}
+
+.lp-ex-verdict-state {
+  flex: none;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-align: right;
+}
+
+.lp-ex-verdicts li.is-ok .lp-ex-verdict-state {
+  color: var(--cool);
+}
+
+.lp-ex-verdicts li.is-out .lp-ex-verdict-state {
+  color: var(--accent);
+}
+
+.lp-ex-gaps li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.28rem 0;
+}
+
+.lp-ex-gap-name {
+  width: 6rem;
+  flex: none;
+  font-size: 0.76rem;
+  color: var(--text);
+}
+
+.lp-ex-gap-track {
+  flex: 1;
+  height: 4px;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+
+.lp-ex-gap-track i {
+  display: block;
+  height: 100%;
+  border-radius: 2px;
+  background: linear-gradient(90deg, rgba(255, 107, 74, 0.5), var(--accent));
+}
+
+.lp-ex-gap-share {
+  width: 2.2rem;
+  flex: none;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  color: var(--dim);
+  text-align: right;
+}
+
+.lp-carousel-nav button:disabled {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.lp-ccard-more-btn {
+  position: absolute;
+  left: 1.65rem;
+  bottom: 1.5rem;
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  cursor: pointer;
+  transition: transform 0.35s ease, background-color 0.35s ease;
+}
+
+.lp-ccard-more-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.lp-ccard.is-open .lp-ccard-more-btn {
+  transform: rotate(45deg);
+  background: var(--accent);
+  color: #12100f;
+  border-color: transparent;
+}
+
+/* Small abstract visual per card — the product's own vocabulary, reduced. */
+.lp-ccard-art {
+  margin-top: auto;
+  padding-top: 1.6rem;
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 74px;
+}
+
+.lp-ccard-art span {
+  flex: 1;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.09);
+}
+
+.lp-ccard-art[data-art="sources"] span {
+  height: 100%;
+  background: repeating-linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.12) 0 3px,
+    transparent 3px 9px
+  );
+}
+
+.lp-ccard-art[data-art="score"] span:nth-child(1) { height: 78%; background: var(--accent); }
+.lp-ccard-art[data-art="score"] span:nth-child(2) { height: 58%; background: rgba(255,107,74,0.6); }
+.lp-ccard-art[data-art="score"] span:nth-child(3) { height: 36%; }
+.lp-ccard-art[data-art="score"] span:nth-child(4) { height: 22%; }
+
+.lp-ccard-art[data-art="gate"] span:nth-child(1) { height: 46%; background: var(--cool); }
+.lp-ccard-art[data-art="gate"] span:nth-child(2) { height: 46%; background: var(--cool); }
+.lp-ccard-art[data-art="gate"] span:nth-child(3) { height: 46%; opacity: 0.35; }
+.lp-ccard-art[data-art="gate"] span:nth-child(4) { height: 46%; opacity: 0.35; }
+
+.lp-ccard-art[data-art="gaps"] span:nth-child(1) { height: 90%; background: rgba(255,107,74,0.75); }
+.lp-ccard-art[data-art="gaps"] span:nth-child(2) { height: 66%; background: rgba(255,107,74,0.55); }
+.lp-ccard-art[data-art="gaps"] span:nth-child(3) { height: 44%; background: rgba(255,107,74,0.4); }
+.lp-ccard-art[data-art="gaps"] span:nth-child(4) { height: 28%; background: rgba(255,107,74,0.28); }
+
+.lp-ccard-art[data-art="quiet"] span:nth-child(1) { height: 30%; }
+.lp-ccard-art[data-art="quiet"] span:nth-child(2) { height: 30%; }
+.lp-ccard-art[data-art="quiet"] span:nth-child(3) { height: 84%; background: var(--accent); }
+.lp-ccard-art[data-art="quiet"] span:nth-child(4) { height: 30%; }
+
+/* ---- three-up grid -------------------------------------------------------- */
+
+.lp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: clamp(1.25rem, 2.5vw, 2rem);
+  padding: clamp(3rem, 7vh, 5rem) clamp(1.5rem, 6vw, 5rem);
+  background: var(--bg);
+}
+
+.lp-grid-item {
+  display: flex;
+  flex-direction: column;
+  padding: 1.75rem;
+  border-radius: var(--r-lg);
+  border: 1px solid var(--line);
+  background: var(--panel);
+  opacity: 0;
+  will-change: transform, opacity;
+}
+
+.lp-grid-stat {
+  font-family: var(--mono);
+  font-size: clamp(2.4rem, 4.4vw, 3.4rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--accent);
+}
+
+.lp-grid-label {
+  margin-top: 0.7rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.lp-grid-body {
+  margin: 0.8rem 0 0;
+  font-size: 0.87rem;
+  line-height: 1.55;
+  color: var(--dim);
+}
+
+/* ---- close ---------------------------------------------------------------- */
+
+.lp-cta {
+  padding: clamp(6rem, 14vh, 10rem) clamp(1.5rem, 6vw, 5rem)
+    clamp(7rem, 16vh, 11rem);
+  background:
+    radial-gradient(90% 120% at 50% 100%, #16191f 0%, var(--bg) 62%),
+    var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.lp-cta-inner {
+  max-width: 44rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lp-cta-inner > *:not(.lp-cta-head) {
+}
+
+.lp-cta-eyebrow {
+  display: block;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1.4rem;
+}
+
+.lp-cta-head {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1.06;
+  letter-spacing: -0.034em;
+  font-weight: 600;
+  text-wrap: balance;
+}
+
+.lp-cta-body {
+  margin: 1.35rem auto 0;
+  max-width: 32rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--dim);
+}
+
+.lp-cta-actions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 2.25rem;
+}
+
+.lp-cta-btn {
+  font-size: 0.93rem;
+  font-weight: 500;
+  padding: 0.8rem 1.5rem;
+  border-radius: var(--r-sm);
+  border: 1px solid var(--line);
+  color: var(--text);
+  cursor: pointer;
+  transition: transform 0.35s ease, background-color 0.35s ease;
+}
+
+.lp-cta-btn.is-primary {
+  background: var(--accent);
+  border-color: transparent;
+  color: #12100f;
+}
+
+.lp-cta-btn:hover {
+  transform: translateY(-2px);
+}
+
+/* ---------------------------------------------------------------------------
+   Preview-only chrome: the session switcher and the dashboard stand-in.
+   Neither ships. They exist so the routing fork can be walked through.
+--------------------------------------------------------------------------- */
+
+.lp-authbar {
+  position: fixed;
+  right: clamp(1rem, 2vw, 1.75rem);
+  bottom: clamp(1rem, 2vw, 1.75rem);
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--line);
+  background: rgba(11, 12, 14, 0.92);
+  backdrop-filter: blur(12px);
+  font-family: var(--mono);
+}
+
+.lp-authbar-label {
+  padding: 0 0.5rem 0 0.35rem;
+  font-size: 9px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+}
+
+.lp-authbar button {
+  padding: 0.35rem 0.7rem;
+  border-radius: var(--r-pill);
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--dim);
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.lp-authbar button.is-on {
+  background: var(--accent);
+  color: #12100f;
+}
+
+/* ---- dashboard stand-in --------------------------------------------------- */
+
+.lp-root.lp-app {
+  opacity: 1;
+  visibility: visible;
+  min-height: 100vh;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: clamp(1rem, 3vh, 2rem);
+  background: var(--bg);
+}
+
+.lp-appnote,
+.lp-appmeta {
+  margin: 0;
+  text-align: center;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--dimmer);
+}
+
+.lp-appbox {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  border-radius: var(--r-lg);
+  overflow: hidden;
+}
+
+.lp-apphost {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform-origin: 50% 50%;
+}
+
+/* The stand-in shows the app at rest, so everything the story would have
+   revealed is simply present. */
+.lp-root.lp-app .lp-sheet,
+.lp-root.lp-app .lp-row,
+.lp-root.lp-app .lp-detail,
+.lp-root.lp-app .lp-gaps,
+.lp-root.lp-app .lp-gate,
+.lp-root.lp-app .lp-chip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lp-root.lp-app .lp-gap-track i {
+  transform: scaleX(1);
+}
+
+.lp-root.lp-app .lp-drop-hint,
+.lp-root.lp-app .lp-travel {
+  display: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Showcase mode — the site's default state.
+
+   The cinematic sequence is a first-visit event. Every visit after it, the
+   workspace is an ordinary product shot: nothing pinned, nothing scrubbed, no
+   camera. Keyed off a class the layout's blocking script puts on <html>, so the
+   decision is made before first paint and a returning visitor never sees a
+   frame of the pinned layout collapsing into this one.
+--------------------------------------------------------------------------- */
+
+.lp-root.lp-showcase .lp-stage {
+  height: auto;
+  overflow: visible;
+  padding: clamp(2rem, 6vh, 4rem) 0 clamp(3rem, 9vh, 6rem);
+}
+
+.lp-root.lp-showcase .lp-fit {
+  position: relative;
+  inset: auto;
+  width: 100%;
+  overflow: hidden;
+  perspective: none;
+  transform: none !important;
+}
+
+.lp-root.lp-showcase .lp-camera {
+  position: static;
+  transform: none !important;
+}
+
+.lp-root.lp-showcase .lp-canvas-host {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform-origin: 50% 0%;
+}
+
+.lp-root.lp-showcase .lp-caps,
+.lp-root.lp-showcase .lp-ticks,
+.lp-root.lp-showcase .lp-vignette,
+.lp-root.lp-showcase .lp-drop-hint,
+.lp-root.lp-showcase .lp-travel {
+  display: none;
+}
+
+/* The product shot shows the finished state of the workspace, so everything the
+   timeline would have revealed is simply already there. */
+.lp-root.lp-showcase .lp-sheet,
+.lp-root.lp-showcase .lp-row,
+.lp-root.lp-showcase .lp-detail,
+.lp-root.lp-showcase .lp-gaps,
+.lp-root.lp-showcase .lp-gate,
+.lp-root.lp-showcase .lp-chip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lp-root.lp-showcase .lp-gap-track i {
+  transform: scaleX(1);
+}
+
+/* Only on offer once the tour is spent — a first-time visitor is never invited
+   to replay something they are currently inside. */
+.lp-replay {
+  display: none;
+  margin: 2rem auto 0;
+  padding: 0.4rem 0.2rem;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+  cursor: pointer;
+  transition: color 0.35s ease, border-color 0.35s ease;
+}
+
+.lp-root.lp-showcase .lp-replay {
+  display: block;
+}
+
+.lp-replay:hover {
+  color: var(--accent);
+  border-color: rgba(255, 107, 74, 0.5);
+}
+
+/* ---------------------------------------------------------------------------
+   Reduced motion and narrow viewports.
+
+   The story is a desktop-scale, motion-dependent artefact. Rather than degrade
+   it into a jerky small-screen version, the page becomes a plain document: the
+   workspace once, the captions in order, nothing pinned and nothing scrubbed.
+--------------------------------------------------------------------------- */
+
+.lp-root.lp-static {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lp-root.lp-static .lp-stage {
+  height: auto;
+  overflow: visible;
+  padding: clamp(2.5rem, 7vw, 5rem) 0 0;
+}
+
+/* The canvas keeps its authored size and is scaled as a whole by the camera
+   host, top-aligned and horizontally centred. `.lp-fit` becomes a plain box
+   whose height JS sets to the scaled canvas height, so the document below it
+   flows normally instead of colliding with an absolutely-positioned stage. */
+.lp-root.lp-static .lp-fit {
+  position: relative;
+  inset: auto;
+  width: 100%;
+  overflow: hidden;
+  perspective: none;
+  transform: none !important;
+}
+
+.lp-root.lp-static .lp-camera {
+  position: static;
+  transform: none !important;
+}
+
+.lp-root.lp-static .lp-canvas-host {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform-origin: 50% 0%;
+}
+
+.lp-root.lp-static .lp-vignette,
+.lp-root.lp-static .lp-ticks,
+.lp-root.lp-static .lp-scrollhint {
+  display: none;
+}
+
+.lp-root.lp-static .lp-caps {
+  position: static;
+  display: flex;
+  flex-direction: column;
+  gap: clamp(2.75rem, 8vw, 4.5rem);
+  padding: clamp(3rem, 8vw, 5rem) clamp(1.5rem, 6vw, 5rem);
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+.lp-root.lp-static .lp-cap,
+.lp-root.lp-static .lp-cap.is-center,
+.lp-root.lp-static .lp-cap.is-left,
+.lp-root.lp-static .lp-cap.is-right,
+.lp-root.lp-static .lp-cap.is-bottom {
+  position: static;
+  inset: auto;
+  opacity: 1;
+  transform: none;
+  max-width: none;
+  text-align: left;
+}
+
+.lp-root.lp-static .lp-cap-head,
+.lp-root.lp-static .lp-cap.is-center .lp-cap-head {
+  font-size: clamp(1.6rem, 5.4vw, 2.4rem);
+}
+
+.lp-root.lp-static .lp-cap-body,
+.lp-root.lp-static .lp-cap.is-center .lp-cap-body,
+.lp-root.lp-static .lp-cap.is-right .lp-cap-body {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 34rem;
+}
+
+.lp-root.lp-static .lp-cap-eyebrow {
+  margin-bottom: 0.75rem;
+}
+
+/* SplitText copies the computed text-align onto each generated line as an
+   inline style, and it splits before this branch adds `.lp-static` — so the
+   centred and right-aligned captions arrive here already baked. An inline
+   style is the one thing a plain rule cannot outrank. */
+.lp-root.lp-static .lp-line,
+.lp-root.lp-static .lp-cap-head {
+  text-align: left !important;
+}
+
+/* The on-enter reveals only get wired up in the cinematic branch, so every
+   element they would have faded in has to be present here by default. */
+.lp-root.lp-static .lp-hero-eyebrow,
+.lp-root.lp-static .lp-hero-body,
+.lp-root.lp-static .lp-hero-actions > *,
+.lp-root.lp-static .lp-chip-item,
+.lp-root.lp-static .lp-carousel-head > *,
+.lp-root.lp-static .lp-ccard,
+.lp-root.lp-static .lp-step,
+.lp-root.lp-static .lp-pricing-inner > *,
+.lp-root.lp-static .lp-faq-item,
+.lp-root.lp-static .lp-about-inner > *,
+.lp-root.lp-static .lp-cta-inner > * {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+/* Every element the timeline would have revealed is simply present. */
+.lp-root.lp-static .lp-sheet,
+.lp-root.lp-static .lp-row,
+.lp-root.lp-static .lp-detail,
+.lp-root.lp-static .lp-gaps,
+.lp-root.lp-static .lp-gate,
+.lp-root.lp-static .lp-chip,
+.lp-root.lp-static .lp-extracted .lp-chip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.lp-root.lp-static .lp-drop-hint,
+.lp-root.lp-static .lp-travel {
+  display: none;
+}
+
+.lp-root.lp-static .lp-gap-track i {
+  transform: scaleX(1);
+}
+
+/* ---------------------------------------------------------------------------
+   Marketing chrome: nav, steps, pricing, FAQ, about, footer, mobile CTA.
+   All revealed on enter at the measured cadence; none of it is scrubbed.
+--------------------------------------------------------------------------- */
+
+.lp-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Every interactive element on the marketing site shares one focus ring, so
+   keyboard users get a consistent, clearly visible target. */
+.lp-root a:focus-visible,
+.lp-root button:focus-visible,
+.lp-root [tabindex]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: var(--r-xs);
+}
+
+/* ---- nav ------------------------------------------------------------------ */
+
+.lp-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 70;
+  transition: background-color 0.4s ease, border-color 0.4s ease;
+  border-bottom: 1px solid transparent;
+}
+
+.lp-nav-bar.is-solid {
+  background: rgba(11, 12, 14, 0.82);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom-color: var(--line);
+}
+
+.lp-nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  max-width: 84rem;
+  margin: 0 auto;
+  padding: 0.9rem clamp(1rem, 4vw, 2.5rem);
+}
+
+.lp-nav-brand {
+  font-size: 1.02rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.lp-nav-links {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0 auto 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.lp-nav-links a {
+  font-size: 0.86rem;
+  color: var(--dim);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.lp-nav-links a:hover {
+  color: var(--text);
+}
+
+.lp-nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.lp-nav-signin {
+  font-size: 0.86rem;
+  color: var(--dim);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.lp-nav-signin:hover {
+  color: var(--text);
+}
+
+.lp-nav-cta {
+  font-size: 0.84rem;
+  font-weight: 600;
+  padding: 0.5rem 0.95rem;
+  border-radius: var(--r-sm);
+  background: var(--accent);
+  color: #12100f;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.lp-nav-cta:hover {
+  transform: translateY(-1px);
+}
+
+.lp-nav-toggle {
+  display: none;
+  margin-left: auto;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.lp-burger {
+  display: grid;
+  gap: 5px;
+  width: 18px;
+}
+
+.lp-burger i {
+  display: block;
+  height: 1.5px;
+  background: currentColor;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.lp-burger.is-open i:first-child {
+  transform: translateY(3.25px) rotate(45deg);
+}
+
+.lp-burger.is-open i:last-child {
+  transform: translateY(-3.25px) rotate(-45deg);
+}
+
+.lp-nav-panel {
+  padding: 0.5rem clamp(1rem, 4vw, 2.5rem) 1.25rem;
+  background: rgba(11, 12, 14, 0.97);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+
+.lp-nav-panel ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.lp-nav-panel a {
+  display: block;
+  padding: 0.7rem 0;
+  font-size: 0.98rem;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.lp-nav-panel-actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.lp-nav-panel-actions .lp-cta-btn {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* ---- shared section furniture --------------------------------------------- */
+
+.lp-sec-eyebrow {
+  display: block;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+/* ---- steps ---------------------------------------------------------------- */
+
+.lp-steps {
+  padding: clamp(4rem, 10vh, 7rem) clamp(1.5rem, 6vw, 5rem);
+  background: var(--bg);
+}
+
+.lp-steps-list {
+  counter-reset: none;
+  margin: clamp(2rem, 5vh, 3rem) 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+/* A process is a sequence, not four equivalent boxes. Numbered rows separated
+   by rules read in order and carry the ordinal as the visual anchor — which is
+   also what makes it unmistakably a *process* rather than a feature grid. */
+.lp-step {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 22rem) minmax(0, 1fr);
+  gap: clamp(1rem, 3vw, 2.5rem);
+  align-items: baseline;
+  padding: clamp(1.4rem, 3vh, 2rem) 0;
+  border-bottom: 1px solid var(--line);
+  opacity: 0;
+  will-change: transform, opacity;
+}
+
+.lp-step-n {
+  font-family: var(--mono);
+  font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--line);
+}
+
+.lp-step-head {
+  margin: 0;
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.lp-step-body {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--dim);
+}
+
+/* ---- pricing -------------------------------------------------------------- */
+
+.lp-pricing {
+  padding: clamp(4rem, 10vh, 7rem) clamp(1.5rem, 6vw, 5rem);
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.lp-pricing-inner {
+  max-width: 40rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.lp-pricing-inner > * {
+}
+
+.lp-pricing-body {
+  margin: 1.1rem auto 0;
+  max-width: 32rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--dim);
+}
+
+/* Left-aligned inside a centred section, so the list reads as a list rather
+   than as three centred fragments. `inline-flex` put it in the text flow and
+   the CTA that follows collided with it — a block that centres itself keeps
+   both on their own lines. */
+.lp-pricing-points {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  width: fit-content;
+  margin: 1.75rem auto;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.lp-pricing-points li {
+  position: relative;
+  padding-left: 1.6rem;
+  font-size: 0.92rem;
+  color: var(--text);
+}
+
+.lp-pricing-points li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.42em;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background: var(--accent);
+}
+
+.lp-pricing .lp-cta-btn {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* ---- faq ------------------------------------------------------------------ */
+
+.lp-faq {
+  padding: clamp(4rem, 10vh, 7rem) clamp(1.5rem, 6vw, 5rem);
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.lp-faq-inner {
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+.lp-faq-list {
+  margin: clamp(2rem, 5vh, 3rem) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lp-faq-item {
+  border-bottom: 1px solid var(--line);
+  will-change: transform, opacity;
+}
+
+.lp-faq-q {
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+.lp-faq-q button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  width: 100%;
+  padding: 1.25rem 0;
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: clamp(0.98rem, 1.3vw, 1.12rem);
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+
+.lp-faq-mark {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  color: var(--dim);
+  transition: transform 0.35s ease, background-color 0.35s ease, color 0.35s ease;
+}
+
+.lp-faq-mark.is-open {
+  transform: rotate(45deg);
+  background: var(--accent);
+  border-color: transparent;
+  color: #12100f;
+}
+
+.lp-faq-a p {
+  margin: 0;
+  padding: 0 0 1.4rem;
+  max-width: 40rem;
+  font-size: 0.94rem;
+  line-height: 1.65;
+  color: var(--dim);
+}
+
+/* ---- about ---------------------------------------------------------------- */
+
+.lp-about {
+  padding: clamp(4rem, 10vh, 7rem) clamp(1.5rem, 6vw, 5rem);
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.lp-about-inner {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.lp-about-inner > * {
+}
+
+.lp-about-body {
+  margin: 1.15rem 0 0;
+  font-size: 0.98rem;
+  line-height: 1.65;
+  color: var(--dim);
+}
+
+/* ---- footer --------------------------------------------------------------- */
+
+.lp-footer {
+  padding: clamp(3.5rem, 8vh, 5rem) clamp(1.5rem, 6vw, 5rem) 2.5rem;
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+}
+
+.lp-footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(2rem, 6vw, 5rem);
+  max-width: 84rem;
+  margin: 0 auto;
+}
+
+.lp-footer-brand {
+  flex: 1 1 20rem;
+}
+
+.lp-footer-mark {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.lp-footer-note {
+  margin: 0.85rem 0 0;
+  max-width: 30rem;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--dimmer);
+}
+
+.lp-footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+.lp-footer-nav h3 {
+  margin: 0 0 0.85rem;
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--dimmer);
+  font-weight: 400;
+}
+
+.lp-footer-nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.lp-footer-nav a {
+  font-size: 0.86rem;
+  color: var(--dim);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.lp-footer-nav a:hover {
+  color: var(--text);
+}
+
+.lp-footer-legal {
+  max-width: 84rem;
+  margin: clamp(2.5rem, 6vh, 4rem) auto 0;
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--dimmer);
+}
+
+/* ---- sticky mobile CTA ----------------------------------------------------- */
+
+.lp-mobile-cta {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 65;
+  display: none;
+  padding: 0.75rem clamp(1rem, 4vw, 1.5rem);
+  padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+  background: rgba(11, 12, 14, 0.92);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-top: 1px solid var(--line);
+  transform: translateY(110%);
+  transition: transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.lp-mobile-cta.is-on {
+  transform: translateY(0);
+}
+
+.lp-mobile-cta .lp-cta-btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* ---- responsive ------------------------------------------------------------ */
+
+@media (max-width: 900px) {
+  .lp-nav-links,
+  .lp-nav-actions {
+    display: none;
+  }
+
+  .lp-nav-toggle {
+    display: grid;
+  }
+
+  .lp-mobile-cta {
+    display: block;
+  }
+}
+
+/* The sticky bar is a mobile affordance; on a pointer device the header CTA is
+   always a scroll away and a permanent bar is just lost space. */
+@media (min-width: 901px) {
+  .lp-mobile-cta {
+    display: none !important;
+  }
+}
+
+/* Motion is decoration here — the transitions above are all short and
+   non-essential, so they simply stop. */
+@media (prefers-reduced-motion: reduce) {
+  .lp-ccard-more,
+  .lp-nav-bar,
+  .lp-burger i,
+  .lp-faq-mark,
+  .lp-mobile-cta,
+  .lp-nav-cta,
+  .lp-cta-btn {
+    transition: none !important;
+  }
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  .lp-root,
+  .lp-hero-eyebrow,
+  .lp-hero-body,
+  .lp-hero-actions > *,
+  .lp-chip-item,
+  .lp-carousel-head > *,
+  .lp-ccard,
+  .lp-step,
+  .lp-pricing-inner > *,
+  .lp-faq-item,
+  .lp-about-inner > *,
+  .lp-cta-inner > * {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    filter: none !important;
+  }
+}
+
+
+/* ---------------------------------------------------------------------------
+   Anchor-target clearance.
+
+   The nav is fixed, so a section scrolled to the very top would sit underneath
+   it. useHashScroll applies the same offset when it drives the scroll itself;
+   this covers every path that bypasses the handler — keyboard in-page
+   navigation, find-on-page, and the browser's own restoration.
+--------------------------------------------------------------------------- */
+#features,
+#how-it-works,
+#pricing,
+#faq,
+#about,
+.lp-carousel,
+.lp-steps,
+.lp-pricing,
+.lp-faq,
+.lp-about,
+.lp-cta {
+  scroll-margin-top: 76px;
+}
+
+
+@media (max-width: 720px) {
+  .lp-step {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+    gap: 0.75rem 1rem;
+    align-items: start;
+  }
+
+  /* The number keeps its column; the body tucks under the heading rather than
+     being squeezed into a third of a phone screen. */
+  .lp-step-body {
+    grid-column: 2;
+    margin-top: 0.5rem;
+  }
+}
