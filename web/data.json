@@ -1,6 +1,6 @@
 {
   "stats": {
-    "postings_tracked": 1702,
+    "postings_tracked": 1701,
     "sources": 1,
     "companies": 605,
     "last_updated": "2026-11-08"
@@ -2885,23 +2885,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:09939e91-4c36-4e3b-ace2-9d0117e05b68",
-      "company": "Microsoft",
-      "title": "Explore Program Engineering Intern",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
