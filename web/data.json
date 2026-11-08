@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1705,
+    "postings_tracked": 1702,
     "sources": 1,
-    "companies": 606,
+    "companies": 605,
     "last_updated": "2026-11-08"
   },
   "postings": [
@@ -10447,21 +10447,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:89ca1b73-4bb7-4170-8435-a36bee214e34",
-      "company": "Meta",
-      "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
-      "location": "Sunnyvale, CA",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1079763448023260",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
       "id": "simplify:4139dc2e-f7dd-46c5-a327-21b811637059",
       "company": "National Life",
       "title": "Data Science Intern",
@@ -10951,24 +10936,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2da5da2b-d4bb-411a-9edc-521c81a36a7a",
-      "company": "Pebl",
-      "title": "Software Engineering Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
-      "date_posted": "2026-10-13",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -12445,24 +12412,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:a2992424-eba5-4abe-a57d-d8c6c12fc0ce",
-      "company": "Workday",
-      "title": "Product Manager Intern",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Product",
       "degrees": [
         "Bachelor's",
         "Master's"
