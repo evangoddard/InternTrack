@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1688,
+    "postings_tracked": 1673,
     "sources": 1,
-    "companies": 602,
+    "companies": 596,
     "last_updated": "2026-11-10"
   },
   "postings": [
@@ -2452,21 +2452,6 @@
       ]
     },
     {
-      "id": "simplify:1e76d73e-91b3-4272-aef5-8001b690b62f",
-      "company": "NRDC",
-      "title": "Donor Systems Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://careers-nrdc.icims.com/jobs/6046/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:79f9478e-8da8-40c2-9ec5-ae55ac3157ba",
       "company": "Parsons",
       "title": "Embedded Developer Intern",
@@ -3410,24 +3395,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:b95bae38-a6a8-415c-9506-13422799369b",
-      "company": "Resideo",
-      "title": "Data Science Intern",
-      "location": "Austin, TX / Golden Valley, MN",
-      "locations": [
-        "Austin, TX",
-        "Golden Valley, MN"
-      ],
-      "url": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8388,22 +8355,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:b97c016f-9c98-43d8-b626-302f1ee28c77",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Low-Power Scene Reconstruction for AR/VR",
-      "location": "Burlingame, CA / Redmond, WA",
-      "locations": [
-        "Burlingame, CA",
-        "Redmond, WA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1075160338670575",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": []
     },
     {
@@ -15693,23 +15644,6 @@
       ]
     },
     {
-      "id": "simplify:1411f04b-0318-4e7d-9f6a-3d8abbd29414",
-      "company": "Astronics",
-      "title": "Electrical Test Engineer Intern",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4420383009",
-      "date_posted": "2026-09-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:069dfa9c-8d02-4151-9206-14b22adce975",
       "company": "Wellmark",
       "title": "Software Engineer Intern - Metadata Enablement Team",
@@ -17164,24 +17098,6 @@
       ]
     },
     {
-      "id": "simplify:5eb5b284-a13e-460f-8868-b285bb6e1821",
-      "company": "Grow Therapy",
-      "title": "Software Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8/application?embed=true",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:93dd3fda-fc7f-40c8-b141-553b32a68027",
       "company": "Eaton",
       "title": "Electrical Engineer Intern/Co-op - Engineering",
@@ -17460,23 +17376,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:63c49c26-a318-41ac-a40f-775acc74c21c",
-      "company": "AMD",
-      "title": "Generative AI and Reinforcement Learning Research Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://careers.amd.com/jobs/90910?icims=1",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -18367,23 +18266,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:59143a12-b5c5-4756-adf5-a3376f4b7296",
-      "company": "RAVE Aerospace",
-      "title": "Software Engineer Intern",
-      "location": "Laramie, WY",
-      "locations": [
-        "Laramie, WY"
-      ],
-      "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9d3deed3-7476-4d1b-ac11-2072ffe638ff",
       "company": "Antares Nuclear",
       "title": "Software Engineer Intern",
@@ -18537,23 +18419,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
-      "company": "Zions Bank",
-      "title": "Software Engineer Intern",
-      "location": "United States",
-      "locations": [
-        "United States"
-      ],
-      "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -19274,23 +19139,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:78dea16e-7995-4a4e-89c9-002d993054b1",
-      "company": "EquipmentShare",
-      "title": "Electrical Engineering Intern - Embedded",
-      "location": "Columbia, MO",
-      "locations": [
-        "Columbia, MO"
-      ],
-      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8142763",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -23151,27 +22999,6 @@
       ]
     },
     {
-      "id": "simplify:c00cea89-6203-42a3-af35-f98efd65e78a",
-      "company": "AMD",
-      "title": "Compiler Engineer Intern/Co-op - Masters",
-      "location": "Austin, TX +4 more",
-      "locations": [
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Boxborough, MA"
-      ],
-      "url": "https://careers.amd.com/jobs/91867?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:efa5d293-2ac9-4834-ab66-383fe4779246",
       "company": "Western & Southern Financial Group",
       "title": "Software Engineer Intern",
@@ -24860,23 +24687,6 @@
       ]
     },
     {
-      "id": "simplify:f8139c71-b2b0-4405-8d3c-7468022996e2",
-      "company": "Empirical Foods",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Dakota Dunes, SD",
-      "locations": [
-        "Dakota Dunes, SD"
-      ],
-      "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-25",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b5558b87-ced5-4750-8c2d-4314921cca90",
       "company": "Honeywell",
       "title": "Embedded Engineer Intern",
@@ -25564,29 +25374,6 @@
       ]
     },
     {
-      "id": "simplify:a5a8ff7e-b250-4699-8d5f-b15adf724936",
-      "company": "AMD",
-      "title": "Firmware Engineer Intern/Co-op",
-      "location": "Secaucus, NJ +6 more",
-      "locations": [
-        "Secaucus, NJ",
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Massachusetts"
-      ],
-      "url": "https://careers.amd.com/jobs/90801?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:3a7a0552-99e6-49df-a934-5f5f8e97109b",
       "company": "AMD",
       "title": "Firmware Engineering Intern Co-op - Undergrad",
@@ -25618,28 +25405,6 @@
       "deadline": "",
       "season": "Spring 2027 / Summer 2027 / Fall 2027",
       "category": "Hardware",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:646c1eeb-a6b8-40f6-95c7-581780504d2e",
-      "company": "AMD",
-      "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
-      "location": "Rochester, NY +5 more",
-      "locations": [
-        "Rochester, NY",
-        "Austin, TX",
-        "Longmont, CO",
-        "Fishkill, NY",
-        "Fort Collins, CO",
-        "Boxborough, MA"
-      ],
-      "url": "https://careers.amd.com/jobs/91181?icims=1",
-      "date_posted": "2026-08-21",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027 / Fall 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Master's"
       ]
@@ -26639,25 +26404,6 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:45430dd6-d10c-488f-9e97-caa01db1f0b0",
-      "company": "AQR Capital Management",
-      "title": "Quantitative Prediction Markets Research Summer Analyst Intern",
-      "location": "Greenwich, CT",
-      "locations": [
-        "Greenwich, CT"
-      ],
-      "url": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
-      "date_posted": "2026-08-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
         "PhD"
       ]
     },
@@ -29229,23 +28975,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:ce1d842e-89a6-4905-a608-3eca02ddd233",
-      "company": "Virtu Financial",
-      "title": "Quantitative Trading Intern",
-      "location": "Austin, TX +2 more",
-      "locations": [
-        "Austin, TX",
-        "Chicago, IL",
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
-      "date_posted": "2026-07-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": []
     },
     {
       "id": "simplify:800e06ea-4a8a-4db5-a93a-7aae82cfac49",
