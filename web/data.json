@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1691,
+    "postings_tracked": 1678,
     "sources": 1,
-    "companies": 606,
+    "companies": 602,
     "last_updated": "2026-11-11"
   },
   "postings": [
+    {
+      "id": "simplify:0a8fac2b-a162-4852-a387-bb6d8ee58bd7",
+      "company": "APEX Analytix",
+      "title": "Product Management Intern",
+      "location": "Greensboro, NC",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:cceaa90f-ed2e-4df2-b29a-b53f8da47d99",
       "company": "Apple",
@@ -109,6 +127,73 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c61918bd-5ada-4656-a323-df5bf5b467a8",
+      "company": "Rockwell Automation",
+      "title": "Software Developer/Engineering Intern",
+      "location": "Mequon, WI",
+      "locations": [
+        "Mequon, WI"
+      ],
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f953ad90-6b80-4798-97ee-1bcc2ea8583c",
+      "company": "Dow Chemical Company",
+      "title": "Infrastructure Mapping & Data Quality Co-op",
+      "location": "Midland, MI",
+      "locations": [
+        "Midland, MI"
+      ],
+      "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/Local-College-Co-op--Infrastructure-Mapping---Data-Quality--Michigan-Operations-_R2069169",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:aa197a09-04fb-4bde-b219-68f5e18eb056",
+      "company": "Entrust",
+      "title": "Electrical Engineer Co-op",
+      "location": "Shakopee, MN",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5c47d2c6-87fd-41d7-ad7b-88e3b69a6a63",
+      "company": "Unisys",
+      "title": "Software Engineer Intern",
+      "location": "Eagan, MN",
+      "locations": [
+        "Eagan, MN"
+      ],
+      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -677,23 +762,6 @@
         "Master's",
         "MBA",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a34749cb-1425-494f-8acb-09f66135961e",
-      "company": "McDonald's",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors",
-      "date_posted": "2026-11-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -5753,24 +5821,6 @@
       ]
     },
     {
-      "id": "simplify:14c2c82f-b0c3-4560-b9aa-f0b3f1161bab",
-      "company": "RTX",
-      "title": "Hardware Electrical Engineer Intern",
-      "location": "Cambridge, MA",
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:e8606879-563d-41b2-95b4-fdb2205d94f0",
       "company": "FormFactor",
       "title": "Electrical Design Automation Intern - AI & EDA Automation",
@@ -5874,28 +5924,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:3a53411a-544e-46b8-bdcb-b481c9421c49",
-      "company": "Regeneron Pharmaceuticals",
-      "title": "AI/ML & Data Engineering Intern",
-      "location": "Cambridge, MA +4 more",
-      "locations": [
-        "Cambridge, MA",
-        "Armonk, NY",
-        "Warren, NJ",
-        "Sleepy Hollow, NY",
-        "Tarrytown, NY"
-      ],
-      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -8721,23 +8749,6 @@
       ]
     },
     {
-      "id": "simplify:502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1",
-      "company": "Walrus",
-      "title": "Full Stack Developer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:064c8343-1089-4244-a770-b00a99e21927",
       "company": "Qualcomm",
       "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
@@ -8982,23 +8993,6 @@
       "season": "Summer 2027",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:fb38e938-a410-4c0d-8933-595419ce7ac4",
-      "company": "GlobalFoundries",
-      "title": "Software Engineer Intern - Cloud Platform",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
     },
     {
       "id": "simplify:70557434-b7bd-444b-9ab3-93a161ec0253",
@@ -9509,23 +9503,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f373a612-0ef4-40c7-8033-08f1354ac0ab",
-      "company": "RTX",
-      "title": "Electrical Components Engineer Intern",
-      "location": "Tucson, AZ",
-      "locations": [
-        "Tucson, AZ"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -13124,25 +13101,6 @@
       ]
     },
     {
-      "id": "simplify:2be561b9-160a-48ef-bd5b-6428e001f402",
-      "company": "GlobalFoundries",
-      "title": "Software Engineer Intern",
-      "location": "Austin, TX / Santa Clara, CA",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA"
-      ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
       "company": "Workday",
       "title": "Software Engineer Intern",
@@ -14213,23 +14171,6 @@
       ]
     },
     {
-      "id": "simplify:67af29a3-58ac-47dc-9fc4-c94be1828e2f",
-      "company": "West Monroe",
-      "title": "Software Engineering Consultant Intern - AI Concentration",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9c73b8be-e8be-4a91-9db0-df9eb032917a",
       "company": "Cadence Solutions",
       "title": "Software Engineer Intern",
@@ -15049,23 +14990,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:dc6d3e71-ebfb-4944-b5ca-3b05d6f4f188",
-      "company": "Semtech",
-      "title": "Software Developer Co-op - Web/Cloud Application",
-      "location": "Richmond, BC, Canada",
-      "locations": [
-        "Richmond, BC, Canada"
-      ],
-      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -16071,23 +15995,6 @@
       ]
     },
     {
-      "id": "simplify:069dfa9c-8d02-4151-9206-14b22adce975",
-      "company": "Wellmark",
-      "title": "Software Engineer Intern - Metadata Enablement Team",
-      "location": "Des Moines, IA",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699",
-      "date_posted": "2026-09-30",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
       "company": "AMCA",
       "title": "Software Engineer Intern",
@@ -16119,24 +16026,6 @@
       "season": "Summer 2027",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:282a057f-48f4-4133-a52c-2261299e04a8",
-      "company": "Enova",
-      "title": "Software Engineer Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://job-boards.greenhouse.io/enova/jobs/8239619",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:d31f3a4e-421a-4972-a2ef-2b849b218777",
@@ -16451,6 +16340,23 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c952a747-7189-4687-a073-04347d98d705",
+      "company": "H&R Block",
+      "title": "Product Management Intern - S",
+      "location": "Kansas City, MO",
+      "locations": [
+        "Kansas City, MO"
+      ],
+      "url": "https://careers.hrblock.com/jobs/76986?icims=1",
+      "date_posted": "2026-09-28",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -17753,23 +17659,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:fb64e1f2-3b7a-4ca1-9b36-3e2b08047160",
-      "company": "Netcraft",
-      "title": "Software Engineer Intern",
-      "location": "London, UK +2 more",
-      "locations": [
-        "London, UK",
-        "Bath, UK",
-        "Manchester, UK"
-      ],
-      "url": "https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:2e8bb17d-0726-4482-af62-5f868bede92c",
@@ -20614,23 +20503,6 @@
       ]
     },
     {
-      "id": "simplify:30f6fed1-ce14-40e5-a0b6-c22c7ded3c7d",
-      "company": "Dell Technologies",
-      "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:5f786704-9f4e-4137-8947-80614fba3b53",
       "company": "Walmart",
       "title": "Data Science Intern 3",
@@ -21595,24 +21467,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:2339b28c-2c1e-486e-a448-13adc31b9ad2",
-      "company": "Dimensional Fund Advisors",
-      "title": "Software Engineer Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -23319,74 +23173,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a130716c-fb2f-4134-9ac5-6e93002f40e0",
-      "company": "AMD",
-      "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://careers.amd.com/jobs/90367?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:01929cf0-26d4-4cd4-a5da-3d08a8e72180",
-      "company": "AMD",
-      "title": "Analog and Mixed Signal Engineer Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://careers.amd.com/jobs/91369?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a9bc71c2-1372-4b6c-a7e8-1562c9bbf631",
-      "company": "AMD",
-      "title": "Product Management Intern/Co-op - Multiple Teams",
-      "location": "Calgary, AB, Canada",
-      "locations": [
-        "Calgary, AB, Canada"
-      ],
-      "url": "https://careers.amd.com/jobs/90411?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0494b1ec-0437-4a60-92c9-cd379693aae3",
-      "company": "AMD",
-      "title": "Diagnostics Design Engineer Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://careers.amd.com/jobs/90435?icims=1",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -29053,24 +28839,6 @@
       "deadline": "",
       "season": "Summer 2026 / Fall 2026",
       "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:38dd79e9-6abd-459e-9571-75919ddffdf7",
-      "company": "Textron",
-      "title": "Information Systems Quality Intern - Quality Systems Information Technology",
-      "location": "Mirabel, QC, Canada",
-      "locations": [
-        "Mirabel, QC, Canada"
-      ],
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983",
-      "date_posted": "2026-07-27",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
