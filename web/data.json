@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1699,
+    "postings_tracked": 1684,
     "sources": 1,
-    "companies": 613,
+    "companies": 610,
     "last_updated": "2026-11-13"
   },
   "postings": [
@@ -213,23 +213,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:9a62a1d9-b377-4f59-8ea6-c0a34533d5c2",
-      "company": "Shield AI",
-      "title": "Hardware Test Engineer Co-op",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a/apply",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:f7300419-4cb7-4b86-bb44-cac2e3d6a836",
       "company": "Muon Space",
       "title": "Software Engineer Intern - Information Systems",
@@ -245,25 +228,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:8a4e9608-ce8b-49b7-8abf-67ae536f0ded",
-      "company": "Octant Bio",
-      "title": "Software Engineering Intern",
-      "location": "Emeryville, CA",
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "url": "https://www.octant.bio/jobs?gh_jid=6260895004",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -716,21 +680,6 @@
       ]
     },
     {
-      "id": "simplify:591ce27b-c9c3-4753-9411-c8c9b6186cf7",
-      "company": "CareSource",
-      "title": "Software Engineer Intern",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:0481fb67-c0ea-4fc5-b59c-316b5ffb6870",
       "company": "Shield AI",
       "title": "Hardware Test Engineering Co-op",
@@ -1112,23 +1061,6 @@
       ]
     },
     {
-      "id": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
-      "company": "Tesla",
-      "title": "Software Developer Intern - IT Apps",
-      "location": "Fremont, CA",
-      "locations": [
-        "Fremont, CA"
-      ],
-      "url": "https://www.tesla.com/careers/search/job/289683",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9d5b1383-ff73-4c8f-b6f4-0197c46a6c9f",
       "company": "Bask Health",
       "title": "Product Management Intern",
@@ -1349,23 +1281,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0118d441-7dae-4cc7-9995-917a58ea9471",
-      "company": "MKS Instruments",
-      "title": "Software Engineer Co-op",
-      "location": "Andover, MA",
-      "locations": [
-        "Andover, MA"
-      ],
-      "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -3570,27 +3485,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
-      "company": "Shield AI",
-      "title": "Software Engineer Co-op Intern",
-      "location": "Seattle, WA +3 more",
-      "locations": [
-        "Seattle, WA",
-        "Washington, DC",
-        "Dallas, TX",
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -6471,28 +6365,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:08f5ae2c-794c-4da3-94f0-d72a0a5e2b56",
-      "company": "Amazon",
-      "title": "Robotics Applied Scientist 2 Intern",
-      "location": "Seattle, WA +5 more",
-      "locations": [
-        "Seattle, WA",
-        "North Reading, MA",
-        "NYC",
-        "Bellevue, WA",
-        "Sunnyvale, CA",
-        "Westborough, MA"
-      ],
-      "url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -14602,23 +14474,6 @@
       ]
     },
     {
-      "id": "simplify:4fad9043-edfc-44f1-82bf-a9f8834796b5",
-      "company": "Dow Jones",
-      "title": "Data Analyst Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55893",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:372d4fe8-00f2-45db-9347-93c45470698c",
       "company": "Hewlett Packard Enterprise",
       "title": "ASIC Design Engineer Intern",
@@ -15332,23 +15187,6 @@
       "degrees": [
         "Bachelor's",
         "Associate's"
-      ]
-    },
-    {
-      "id": "simplify:0a4893e7-38e7-4feb-a45f-54f033fd1b6b",
-      "company": "BorgWarner",
-      "title": "Electrical Design Engineer Intern",
-      "location": "Kokomo, IN",
-      "locations": [
-        "Kokomo, IN"
-      ],
-      "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -21180,24 +21018,6 @@
       ]
     },
     {
-      "id": "simplify:b7311fa1-4180-4d5a-8ce3-29a7c2703ea1",
-      "company": "Shield AI",
-      "title": "Software Engineer Intern",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5f786704-9f4e-4137-8947-80614fba3b53",
       "company": "Walmart",
       "title": "Data Science Intern 3",
@@ -21540,23 +21360,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:96af2834-7e64-41a6-b0d4-d000f97b76cb",
-      "company": "Coinbase",
-      "title": "Data Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8175459",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -23228,23 +23031,6 @@
       ]
     },
     {
-      "id": "simplify:27e893cb-896a-4fd1-805b-a43fbb5f89f9",
-      "company": "Shure",
-      "title": "Electrical Engineer Intern - Pro Audio Circuitry",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:b645d72b-c6ef-4d01-9338-2730eccd3665",
       "company": "Shure",
       "title": "Electrical Engineering Intern - Digital Circuitry",
@@ -23427,25 +23213,6 @@
       ]
     },
     {
-      "id": "simplify:21efbf02-6578-4c87-87f9-18d3e7020e57",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Firmware and Diagnostic Intern",
-      "location": "Bloomington, MN / Chippewa Falls, WI",
-      "locations": [
-        "Bloomington, MN",
-        "Chippewa Falls, WI"
-      ],
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:d685084b-bb19-44ee-94e2-9dc27f4ae170",
       "company": "Hewlett Packard Enterprise",
       "title": "Pre-Silicon Diagnostics Intern",
@@ -23560,27 +23327,6 @@
         "Phoenix, AZ"
       ],
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
-      "company": "Intel",
-      "title": "Silicon Hardware Engineering Intern - Bachelor's",
-      "location": "Austin, TX +4 more",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Hillsboro, OR",
-        "Folsom, CA",
-        "Phoenix, AZ"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
       "date_posted": "2026-09-02",
       "deadline": "",
       "season": "Spring 2027 / Summer 2027",
@@ -24553,24 +24299,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d8558fc9-9efb-4c17-b70f-26aafda3b66a",
-      "company": "Bosch Home Comfort",
-      "title": "Software Engineer Intern",
-      "location": "Farmington Hills, MI",
-      "locations": [
-        "Farmington Hills, MI"
-      ],
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546849",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
