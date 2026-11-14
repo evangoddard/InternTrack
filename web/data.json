@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1691,
+    "postings_tracked": 1684,
     "sources": 1,
-    "companies": 610,
+    "companies": 606,
     "last_updated": "2026-11-14"
   },
   "postings": [
@@ -3789,41 +3789,6 @@
       ]
     },
     {
-      "id": "simplify:828a4dbb-5797-4e1f-8b81-d5f469169768",
-      "company": "L.L.Bean",
-      "title": "Business Analyst/Data Analyst Intern",
-      "location": "Freeport, ME",
-      "locations": [
-        "Freeport, ME"
-      ],
-      "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275",
-      "date_posted": "2026-11-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:669e846d-6122-44e9-a9d6-d58d25ce61f0",
-      "company": "L.L.Bean",
-      "title": "Software Developer Intern",
-      "location": "Freeport, ME",
-      "locations": [
-        "Freeport, ME"
-      ],
-      "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1",
-      "date_posted": "2026-11-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:99fda289-3315-417b-ba2f-e6522ae9fb61",
       "company": "Legrand",
       "title": "Firmware Engineer Intern",
@@ -7603,23 +7568,6 @@
       "deadline": "",
       "season": "",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:0237db49-2c6e-4821-9ef5-4c8214f38c17",
-      "company": "Micron Technology",
-      "title": "HBM Data Scientist Intern",
-      "location": "Richardson, TX",
-      "locations": [
-        "Richardson, TX"
-      ],
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -11842,25 +11790,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:cf36f292-d7bf-4d5d-b0c1-deab62925fef",
-      "company": "Zoetis Services",
-      "title": "Chemistry Data Science Intern - Digital CMC Workflows",
-      "location": "Kalamazoo, MI",
-      "locations": [
-        "Kalamazoo, MI"
-      ],
-      "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -20329,40 +20258,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:fcc0a6c7-e090-4804-8107-677c58b416a9",
-      "company": "Guardian Life",
-      "title": "Data Engineering Intern - Digital & Technology",
-      "location": "Holmdel, NJ +2 more",
-      "locations": [
-        "Holmdel, NJ",
-        "NYC",
-        "Bethlehem, PA"
-      ],
-      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:2e731a5d-c18c-446b-ab15-23f671730a6e",
-      "company": "Guardian Life",
-      "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
-      "location": "Holmdel, NJ +2 more",
-      "locations": [
-        "Holmdel, NJ",
-        "NYC",
-        "Bethlehem, PA"
-      ],
-      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:e424769d-79d0-4699-9b2b-74dde7962427",
@@ -28864,28 +28759,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9fede417-0d28-4566-ac69-820d4c8e5f90",
-      "company": "Pentair",
-      "title": "Product Management Internship",
-      "location": "Apex, NC +5 more",
-      "locations": [
-        "Apex, NC",
-        "Brookfield, WI",
-        "Delavan, WI",
-        "North Aurora, IL",
-        "New Brighton, MN",
-        "Golden Valley, MN"
-      ],
-      "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
