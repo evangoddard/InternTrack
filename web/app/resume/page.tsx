@@ -1,8 +1,17 @@
+import type { Metadata } from "next";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { uploadResume, deleteResume } from "@/app/resume/actions";
 import { postings } from "@/lib/data";
 import { rankPostings } from "@/lib/rankPostings";
+
+export const metadata: Metadata = {
+  title: "Résumé",
+  description: "Upload or replace the résumé postings are matched against.",
+  robots: { index: false, follow: false },
+};
+
 
 export default async function ResumePage({
   searchParams,
@@ -24,7 +33,7 @@ export default async function ResumePage({
         </p>
         <Link
           href="/login"
-          className="mt-4 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-text"
+          className="mt-4 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-accent-ink"
         >
           Sign in
         </Link>
@@ -66,6 +75,7 @@ export default async function ResumePage({
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-10 sm:px-6">
+      <Breadcrumbs items={[{ label: "Dashboard", href: "/dashboard" }, { label: "Résumé Analysis" }]} />
       <h1 className="font-display text-2xl font-semibold text-text">Résumé</h1>
       <p className="mt-1 text-sm text-text-muted">
         Stored privately — only you can access it. PDF and .txt files are read
@@ -88,11 +98,11 @@ export default async function ResumePage({
           name="file"
           required
           accept=".pdf,.txt"
-          className="text-sm text-text-muted file:mr-3 file:rounded-full file:border-0 file:bg-accent-fill file:px-4 file:py-1.5 file:text-xs file:font-semibold file:text-text"
+          className="text-sm text-text-muted file:mr-3 file:rounded-full file:border-0 file:bg-accent-fill file:px-4 file:py-1.5 file:text-xs file:font-semibold file:text-accent-ink"
         />
         <button
           type="submit"
-          className="rounded-full bg-accent-fill px-4 py-1.5 text-sm font-semibold text-text transition-transform hover:scale-[1.02] active:scale-[0.98]"
+          className="rounded-full bg-accent-fill px-4 py-1.5 text-sm font-semibold text-accent-ink transition-transform hover:scale-[1.02] active:scale-[0.98]"
         >
           Upload
         </button>
