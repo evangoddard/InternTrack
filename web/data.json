@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1689,
+    "postings_tracked": 1696,
     "sources": 1,
-    "companies": 610,
+    "companies": 607,
     "last_updated": "2026-11-14"
   },
   "postings": [
@@ -2518,6 +2518,23 @@
       ]
     },
     {
+      "id": "simplify:b3743545-dd2c-4025-bfe8-5157423b6f88",
+      "company": "Paccar",
+      "title": "Data Analyst Intern",
+      "location": "Chillicothe, OH",
+      "locations": [
+        "Chillicothe, OH"
+      ],
+      "url": "https://jobs.paccar.com/job/Chillicothe-Data-Analyst-Intern-OH-45601-8829/1455610233/?ats=successfactors",
+      "date_posted": "2026-11-09",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:3646873a-8686-46f7-9475-cebfe98ac4ff",
       "company": "Kensington",
       "title": "BI/Data Analyst Intern",
@@ -4570,23 +4587,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:2586b9a7-c10d-47f4-a80e-d01413e93066",
-      "company": "Erie Insurance Group",
-      "title": "Claims Systems & AI Intern 2",
-      "location": "Erie, PA",
-      "locations": [
-        "Erie, PA"
-      ],
-      "url": "https://jobs.erieinsurance.com/job/Erie-Intern-II-(Claims-Systems-&-AI)-PA-16506/1447480500/?ats=successfactors",
-      "date_posted": "2026-11-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:d54af37c-a5fe-446f-bb32-9109e3a29f7c",
       "company": "Texas Instruments",
       "title": "Validation/Characterization Engineering Intern",
@@ -5053,40 +5053,6 @@
       ]
     },
     {
-      "id": "simplify:5e330896-c4d5-49b9-815e-79ff21bc19c7",
-      "company": "LexisNexis Risk Solutions",
-      "title": "Product Management Intern - Insurance",
-      "location": "Alpharetta, GA",
-      "locations": [
-        "Alpharetta, GA"
-      ],
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:52db75c2-6c8b-48e4-96f9-924db21741b2",
-      "company": "LexisNexis Risk Solutions",
-      "title": "Product Manager Intern - Government",
-      "location": "Alpharetta, GA",
-      "locations": [
-        "Alpharetta, GA"
-      ],
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:704dbdde-7a58-402c-b6fe-4a681353bde0",
       "company": "Honeywell",
       "title": "Embedded Software Intern",
@@ -5103,6 +5069,36 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:d973936c-50d5-41f6-acc8-e1dbd6c84acd",
+      "company": "Paccar",
+      "title": "Materials Systems Intern",
+      "location": "Denton, TX",
+      "locations": [
+        "Denton, TX"
+      ],
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:be25948f-3dbe-43b8-8b4b-424a01d9b356",
+      "company": "Paccar",
+      "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
+      "location": "Denton, TX",
+      "locations": [
+        "Denton, TX"
+      ],
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors",
+      "date_posted": "2026-11-02",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
     },
     {
       "id": "simplify:29c0eb17-de6c-4332-addb-c6f0732b0b09",
@@ -9920,24 +9916,6 @@
       "season": "",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:4ce71aa4-5e3f-49cc-a75d-febb20ca81ba",
-      "company": "Safran",
-      "title": "Software Engineering Intern",
-      "location": "Bedford, NH",
-      "locations": [
-        "Bedford, NH"
-      ],
-      "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:4df32e9a-c2bf-41b5-a2d3-5bffe9caf0b5",
@@ -17709,23 +17687,6 @@
       ]
     },
     {
-      "id": "simplify:0de47efa-a533-4274-81c4-2a570d4489ce",
-      "company": "Shield AI",
-      "title": "Electrical Engineer Intern - Hardware Test",
-      "location": "Dallas, TX",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
-      "date_posted": "2026-09-25",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:80a7e2c3-ed7c-41dc-92a7-85bf12db37f5",
       "company": "Genesis Molecular AI",
       "title": "Software Engineer Intern",
@@ -19754,23 +19715,6 @@
       "date_posted": "2026-09-15",
       "deadline": "",
       "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a8c12424-098d-4d97-9658-8820b0fdac3e",
-      "company": "Huntington Ingalls Industries",
-      "title": "Computer Engineering Intern",
-      "location": "Pascagoula, MS",
-      "locations": [
-        "Pascagoula, MS"
-      ],
-      "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -24465,24 +24409,6 @@
       ]
     },
     {
-      "id": "simplify:e4a48ee1-c26a-49b7-8516-d9baa1b2cced",
-      "company": "Qorvo",
-      "title": "Sales Data Analyst Intern",
-      "location": "Hillsboro, OR",
-      "locations": [
-        "Hillsboro, OR"
-      ],
-      "url": "https://careers.qorvo.com/job/Hillsboro-Sales-Data-Analyst-Intern-OR-97124/1421951500/?ats=successfactors",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:4b81bd00-4b97-4ec4-954b-892368c48de0",
       "company": "TikTok",
       "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
@@ -25370,21 +25296,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:bc4407ea-452d-4ef5-b173-3260a4f7db7b",
-      "company": "Sage",
-      "title": "Software Engineer Intern - Full Stack",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
@@ -26295,6 +26206,215 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:814b873c-2c4e-4173-85d1-c90cf9ccc964",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Investment Banking",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175428?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Multiple Teams",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175424?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:bc2e9762-a592-48ef-9e42-21dfdec88ec4",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175423?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175421?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f6b73d49-ad99-40ba-844a-4f885a901a91",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171548?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:f3fffaac-34e8-4f3e-aa74-fb1928331995",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+      "location": "Salt Lake City, UT",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "url": "https://higher.gs.com/roles/171551?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9d3e4916-4e1e-4317-83a1-92d2664ed59b",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Intern - Americas",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171532?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:260ebea6-b3a6-4e5e-8824-71490c13d10f",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://higher.gs.com/roles/171547?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ea185fae-1828-4e79-9bfa-34dc512cce8c",
+      "company": "Goldman Sachs",
+      "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175427?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
+      "company": "Goldman Sachs",
+      "title": "Associate Intern - The Core Quantitative Strats",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://higher.gs.com/roles/171546?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "MBA",
+        "PhD",
+        "JD",
+        "MD"
+      ]
+    },
+    {
+      "id": "simplify:1560332f-3e4c-4d15-819d-df9bf4889deb",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+      "location": "West Palm Beach, FL",
+      "locations": [
+        "West Palm Beach, FL"
+      ],
+      "url": "https://higher.gs.com/roles/181628?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:60f69f38-4cc3-4dbd-a041-e8208a00725c",
+      "company": "Goldman Sachs",
+      "title": "Summer Analyst Intern - The Core Quantitative Strats",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://higher.gs.com/roles/175426?type=students",
+      "date_posted": "2026-08-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
     },
     {
       "id": "simplify:14e51d14-067b-43b8-80cf-dcf3c6893565",
