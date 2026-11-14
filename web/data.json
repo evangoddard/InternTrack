@@ -1,11 +1,352 @@
 {
   "stats": {
-    "postings_tracked": 1684,
+    "postings_tracked": 1689,
     "sources": 1,
     "companies": 610,
-    "last_updated": "2026-11-13"
+    "last_updated": "2026-11-14"
   },
   "postings": [
+    {
+      "id": "simplify:47e607e8-bfa3-490f-9847-4eec64d1daf3",
+      "company": "Amazon",
+      "title": "Robotics Applied Scientist 2 Intern - Robotics",
+      "location": "Seattle, WA +5 more",
+      "locations": [
+        "Seattle, WA",
+        "North Reading, MA",
+        "NYC",
+        "Bellevue, WA",
+        "Sunnyvale, CA",
+        "Westborough, MA"
+      ],
+      "url": "https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Winter 2027 / Spring 2027 / Summer 2027 / Fall 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d064d6a0-7525-406b-8cfc-490eca3f6d09",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Materials Architecture & Device Integration",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1674297360998408",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:1c21b84c-49d3-4c76-93cb-4433ffa3743c",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Diffractive Optics",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1158829233342350",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:6b73a3bf-eeb9-4318-84af-2f7f53519b89",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c68b88e0-4d45-43f7-b99f-cf02ddad18c3",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Coding Agents",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:d02a74dd-8183-4a37-8203-b66654240269",
+      "company": "NextEra Energy",
+      "title": "Software Engineering Intern - Technical",
+      "location": "St Paul, MN",
+      "locations": [
+        "St Paul, MN"
+      ],
+      "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:98b8527c-743e-40c3-9e08-fd3c37c6e096",
+      "company": "Koch Industries",
+      "title": "Product Management Intern - Aerospace & Defense Solutions",
+      "location": "Georgetown, TX",
+      "locations": [
+        "Georgetown, TX"
+      ],
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/197821",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:db176e40-82c8-4ffe-9d7a-f681f709ddda",
+      "company": "BMLL Technologies",
+      "title": "Junior Quantitative Analyst Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://apply.workable.com/bmlltech/j/685458148E/apply",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Quant",
+      "degrees": []
+    },
+    {
+      "id": "simplify:0b13fda3-98fa-465a-b8b5-d8c8960a15e1",
+      "company": "Toyota Research Institute",
+      "title": "Research Intern - Continual Adaptation for Robotics",
+      "location": "Cambridge, MA",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac/apply",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:de5725f8-73f9-4e2d-aaef-780c14e2bb0a",
+      "company": "Trane Technologies",
+      "title": "Product Management Engineering Co-op",
+      "location": "Pueblo, CO / Grand Rapids, MI",
+      "locations": [
+        "Pueblo, CO",
+        "Grand Rapids, MI"
+      ],
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-10435",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1fd3b7e9-483a-4e07-a8b3-c73b1478f547",
+      "company": "Texas Instruments",
+      "title": "Test Engineering Intern",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019536",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c05a2c9f-2927-4b5c-98a6-2bb5f3927e24",
+      "company": "Texas Instruments",
+      "title": "Analog Design Engineer Intern - Power",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019495",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5419a9d5-4873-4ba7-b8e8-7bc26e61535a",
+      "company": "Texas Instruments",
+      "title": "Analog Design Engineer Intern - High-Speed/RF",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016352",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6c5ca861-ad54-45ad-8003-4eba522a5836",
+      "company": "Texas Instruments",
+      "title": "Analog Design Engineer Intern - High-speed/RF/mm-wave",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016349",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:31ab742c-419d-487a-a7db-05afa0bf3014",
+      "company": "Texas Instruments",
+      "title": "Analog Design Engineer Intern - GaN Device",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016345",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:82f22736-6d39-41dc-88ed-e53ac7a10f0f",
+      "company": "Texas Instruments",
+      "title": "Product Engineering Failure Analysis Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:244ece75-c37a-420d-9923-f0415e7ba302",
+      "company": "Lightmatter",
+      "title": "Hardware Test Engineer Intern",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:0b4ccde0-5421-4204-8674-7df0ce55af74",
+      "company": "Samsung",
+      "title": "ML Compiler Intern - Kernel Auto-Tuning",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:ec82affa-7a1c-4750-af20-7ed5c5aabcd6",
+      "company": "Samsung",
+      "title": "AI Systems Performance Engineer Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2893eedc-72f1-40de-824d-9bcf11d29bd1",
+      "company": "Samsung",
+      "title": "SSD Firmware Development Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:ad14b025-74ef-4ada-8315-206a35b4bc1c",
       "company": "WTW",
@@ -96,24 +437,6 @@
       ]
     },
     {
-      "id": "simplify:d52ae577-609f-49a7-bc5e-5c2a1e928841",
-      "company": "Aurora Innovation",
-      "title": "Software Engineer Intern - Vehicle Platforms",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
-      "date_posted": "2026-11-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:470b39db-6434-4cac-81d5-bfa9c179796e",
       "company": "Entegris",
       "title": "Associate Product Manager Intern",
@@ -142,6 +465,92 @@
       "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": []
+    },
+    {
+      "id": "simplify:66d868a1-ada3-4053-93c1-ef721ae97298",
+      "company": "ASML",
+      "title": "EUV Data Science and Analytics Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:dc69d87b-429b-4585-b813-07931caae11f",
+      "company": "Reliable Robotics",
+      "title": "Hardware Test Engineer Intern",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e/application?embed=true",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:d4aaacf7-470e-48ba-aa9e-059dc2d01890",
+      "company": "Reliable Robotics",
+      "title": "FPGA Design Engineer Intern",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54/application?embed=true",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:81cfb0db-2e35-4ab7-8ded-f4e7d0b805ea",
+      "company": "Reliable Robotics",
+      "title": "Flight Software Engineer Intern",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed/application?embed=true",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ea81eda9-f69e-45d8-a77f-1ba463459e40",
+      "company": "Nexus Cognitive Technologies",
+      "title": "Data Engineer Intern",
+      "location": "Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "url": "https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5/application?embed=true",
+      "date_posted": "2026-11-13",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:c75045c9-5445-4e97-b041-41bab0c8bb71",
@@ -263,40 +672,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0426a336-7f89-4536-b830-d0fc489947e7",
-      "company": "ServiceNow",
-      "title": "Senior Inbound Product Manager Intern",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161364609",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2028",
-      "category": "Product",
-      "degrees": [
-        "MBA"
-      ]
-    },
-    {
-      "id": "simplify:6c1db6a9-db3d-4a8f-8f50-a15d2d049104",
-      "company": "ServiceNow",
-      "title": "Senior Outbound Product Manager Intern",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161362293",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2028",
-      "category": "Product",
-      "degrees": [
-        "MBA"
       ]
     },
     {
@@ -1770,24 +2145,6 @@
       ]
     },
     {
-      "id": "simplify:93ec3dc9-9199-4cc3-b201-70a6e5ba9917",
-      "company": "Investissement Qu\u00e9bec",
-      "title": "Automation and Artificial Intelligence Intern",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656",
-      "date_posted": "2026-11-10",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:b8fa57e0-dafa-4a48-ba9d-0c89fb6a1bda",
       "company": "REGENT",
       "title": "Embedded Software Engineer Intern",
@@ -2156,23 +2513,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:b3743545-dd2c-4025-bfe8-5157423b6f88",
-      "company": "Paccar",
-      "title": "Data Analyst Intern",
-      "location": "Chillicothe, OH",
-      "locations": [
-        "Chillicothe, OH"
-      ],
-      "url": "https://jobs.paccar.com/job/Chillicothe-Data-Analyst-Intern-OH-45601-8829/1455610233/?ats=successfactors",
-      "date_posted": "2026-11-09",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -4765,36 +5105,6 @@
       ]
     },
     {
-      "id": "simplify:d973936c-50d5-41f6-acc8-e1dbd6c84acd",
-      "company": "Paccar",
-      "title": "Materials Systems Intern",
-      "location": "Denton, TX",
-      "locations": [
-        "Denton, TX"
-      ],
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:be25948f-3dbe-43b8-8b4b-424a01d9b356",
-      "company": "Paccar",
-      "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
-      "location": "Denton, TX",
-      "locations": [
-        "Denton, TX"
-      ],
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:29c0eb17-de6c-4332-addb-c6f0732b0b09",
       "company": "Wellmark",
       "title": "Software Engineer Intern - AI Platform Team",
@@ -6641,24 +6951,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f4dc97f0-baca-420e-a5eb-96d5e9625bf3",
-      "company": "Applied Materials",
-      "title": "Data Science Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
-      "date_posted": "2026-10-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -9484,24 +9776,6 @@
       ]
     },
     {
-      "id": "simplify:6cc5f70b-3a8d-4c8f-af87-5d2ff7d1a983",
-      "company": "Rockwell Automation",
-      "title": "Electrical Engineer Intern",
-      "location": "Mequon, WI / Eden Prairie, MN",
-      "locations": [
-        "Mequon, WI",
-        "Eden Prairie, MN"
-      ],
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320-1",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:c8065191-fc0d-4846-9c05-5736286153db",
       "company": "Ixian Robotics",
       "title": "Hardware Intern",
@@ -11264,21 +11538,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:1000756a-02f1-412a-94b0-5ebdad09465d",
-      "company": "Systems Planning and Analysis",
-      "title": "Data Engineering & Analytics Tools Intern",
-      "location": "Washington, DC",
-      "locations": [
-        "Washington, DC"
-      ],
-      "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:0a8ec819-e5fa-47ae-abbe-075d7e73a845",
@@ -14508,23 +14767,6 @@
       ]
     },
     {
-      "id": "simplify:64fff9f9-a727-4e4a-8276-7c86d2eff96d",
-      "company": "Dow Jones",
-      "title": "Software Engineer Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55891",
-      "date_posted": "2026-10-07",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:9d58c016-deec-47ad-adab-db768f2e513e",
       "company": "Nissan Global",
       "title": "Systems Engineer Intern - Summer 2027",
@@ -16040,24 +16282,6 @@
       ]
     },
     {
-      "id": "simplify:d9f6166b-f239-4844-9e1a-42616d92df8b",
-      "company": "Allegion",
-      "title": "Hardware Engineering Intern - Hardware Engineering",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1",
-      "date_posted": "2026-10-02",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:b761fed7-c990-47a1-884c-8d67dabdcc04",
       "company": "Nelnet",
       "title": "IT Software Engineer Intern",
@@ -16519,6 +16743,24 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:beaa414a-33e5-448c-ae31-d7aeeb886d98",
+      "company": "Aurora Innovation",
+      "title": "Embedded Software Engineer Intern - Lidar",
+      "location": "Bozeman, MT",
+      "locations": [
+        "Bozeman, MT"
+      ],
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true",
+      "date_posted": "2026-10-01",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -17730,6 +17972,24 @@
       ]
     },
     {
+      "id": "simplify:6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
+      "company": "Marvell",
+      "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
+      "location": "Toronto, ON, Canada / Ottawa, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Ottawa, ON, Canada"
+      ],
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:641e5df2-28c3-4b93-9707-1071b5f603f4",
       "company": "ZipRecruiter",
       "title": "Software Engineer Intern",
@@ -18414,24 +18674,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:ff92bb19-8b5b-4eaf-8e39-166979cd49fb",
-      "company": "Keysight Technologies",
-      "title": "Embedded Software Intern - R&D",
-      "location": "Colorado Springs, CO",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "url": "https://jobs.keysight.com/jobs/54353?icims=1",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -19483,24 +19725,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9cb3446e-3c82-4d8d-b018-8c325d2f08b3",
-      "company": "F&G",
-      "title": "IT Software Engineer Intern - Summer",
-      "location": "Des Moines, IA",
-      "locations": [
-        "Des Moines, IA"
-      ],
-      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ]
     },
     {
@@ -20910,24 +21134,6 @@
       ]
     },
     {
-      "id": "simplify:704919c0-90ff-43e4-8f99-9b3c97e85cb0",
-      "company": "Impulse Space",
-      "title": "RF Test Engineer Intern - Summer 2027",
-      "location": "Redondo Beach, CA",
-      "locations": [
-        "Redondo Beach, CA"
-      ],
-      "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:1e876ae2-39bb-4074-b163-dcb7368e9df3",
       "company": "Impulse Space",
       "title": "Flight Software Engineer Intern - Summer 2027",
@@ -21345,24 +21551,6 @@
       ]
     },
     {
-      "id": "simplify:93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
-      "company": "Coinbase",
-      "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://boards.greenhouse.io/embed/job_app?token=8175462",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:c588f748-c6d2-459d-90b6-c43d81d4522b",
       "company": "Coinbase",
       "title": "Associate Product Manager Intern - Multiple Teams",
@@ -21683,23 +21871,6 @@
       "date_posted": "2026-09-08",
       "deadline": "",
       "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:940140be-314d-40e2-8614-14d3a19bb049",
-      "company": "Vercel",
-      "title": "Software Engineer Intern - Summer",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-      "date_posted": "2026-09-08",
-      "deadline": "",
-      "season": "Summer 2026",
       "category": "Software",
       "degrees": [
         "Bachelor's"
@@ -22979,23 +23150,6 @@
       ]
     },
     {
-      "id": "simplify:80bc2f39-e660-4691-aa38-68acbd7b9e84",
-      "company": "Shure",
-      "title": "Software Engineer Intern",
-      "location": "Niles, IL",
-      "locations": [
-        "Niles, IL"
-      ],
-      "url": "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:5ea0f850-a40e-4b33-8998-b57f63ea8379",
       "company": "Shure",
       "title": "Embedded Software Intern",
@@ -23312,71 +23466,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ca96c441-d218-4a8a-b6f6-a035b101c51b",
-      "company": "Intel",
-      "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-      "location": "Austin, TX +4 more",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Hillsboro, OR",
-        "Folsom, CA",
-        "Phoenix, AZ"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
-      "company": "Intel",
-      "title": "Silicon Hardware Engineering Intern - Graduate",
-      "location": "Austin, TX +4 more",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Hillsboro, OR",
-        "Folsom, CA",
-        "Phoenix, AZ"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a4415818-9dfc-4624-8235-e94c953af5e4",
-      "company": "Intel",
-      "title": "Platform Hardware and Systems Engineering Intern",
-      "location": "Austin, TX +4 more",
-      "locations": [
-        "Austin, TX",
-        "Santa Clara, CA",
-        "Hillsboro, OR",
-        "Folsom, CA",
-        "Phoenix, AZ"
-      ],
-      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
-      "date_posted": "2026-09-02",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -24556,23 +24645,6 @@
       ]
     },
     {
-      "id": "simplify:67c1b95e-7d8e-429c-8252-51543316efbd",
-      "company": "BlueCross BlueShield of Nebraska",
-      "title": "Data Intern - Data Science - Data Analytics",
-      "location": "Omaha, NE",
-      "locations": [
-        "Omaha, NE"
-      ],
-      "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Data-Intern--Summer-2027_JR101406",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:69d6ccc7-ad4b-42d6-ad99-56d14805e531",
       "company": "Hewlett Packard Enterprise",
       "title": "Data Science Intern",
@@ -25283,23 +25355,6 @@
       ]
     },
     {
-      "id": "simplify:90a62333-1a88-4334-9894-32435465205b",
-      "company": "MSA Safety",
-      "title": "Software Engineer Intern - Product Development - Summer 2027",
-      "location": "Cranberry Township, PA",
-      "locations": [
-        "Cranberry Township, PA"
-      ],
-      "url": "https://careers.msasafety.com/jobs/9993?icims=1",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:cb063395-698b-47f5-9fe1-4b86a1b0dee5",
       "company": "Springs Window Fashions",
       "title": "Software Engineering Intern - Summer 2027",
@@ -25827,6 +25882,23 @@
       "date_posted": "2026-08-20",
       "deadline": "",
       "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:1c385c6d-d388-465d-9ccb-4051032c9a09",
+      "company": "Sysco",
+      "title": "Software Engineer Intern",
+      "location": "Houston, TX",
+      "locations": [
+        "Houston, TX"
+      ],
+      "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660",
+      "date_posted": "2026-08-20",
+      "deadline": "",
+      "season": "Summer 2026",
       "category": "Software",
       "degrees": [
         "Bachelor's"
