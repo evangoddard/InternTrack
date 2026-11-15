@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1687,
+    "postings_tracked": 1686,
     "sources": 1,
-    "companies": 607,
+    "companies": 606,
     "last_updated": "2026-11-15"
   },
   "postings": [
@@ -1189,24 +1189,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8f0be6fa-e4b9-467b-bcd6-654bb5eb2f65",
-      "company": "E2 Consulting Engineers",
-      "title": "Data Analyst Intern",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://careers-e2.icims.com/jobs/6496/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ]
     },
     {
