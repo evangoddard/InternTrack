@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1684,
+    "postings_tracked": 1685,
     "sources": 1,
-    "companies": 606,
-    "last_updated": "2026-11-14"
+    "companies": 607,
+    "last_updated": "2026-11-15"
   },
   "postings": [
     {
@@ -20,6 +20,28 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
+    },
+    {
+      "id": "simplify:44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
+      "company": "Eight Sleep",
+      "title": "Firmware Intern",
+      "location": "Washington, DC +4 more",
+      "locations": [
+        "Washington, DC",
+        "SF",
+        "Austin, TX",
+        "LA",
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true",
+      "date_posted": "2026-11-14",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:47e607e8-bfa3-490f-9847-4eec64d1daf3",
