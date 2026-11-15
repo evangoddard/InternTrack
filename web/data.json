@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1685,
+    "postings_tracked": 1684,
     "sources": 1,
-    "companies": 607,
+    "companies": 606,
     "last_updated": "2026-11-15"
   },
   "postings": [
@@ -20,28 +20,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:44a81cc5-de8a-4ff8-83e7-fa7552050e4c",
-      "company": "Eight Sleep",
-      "title": "Firmware Intern",
-      "location": "Washington, DC +4 more",
-      "locations": [
-        "Washington, DC",
-        "SF",
-        "Austin, TX",
-        "LA",
-        "NYC"
-      ],
-      "url": "https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b/application?embed=true",
-      "date_posted": "2026-11-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:47e607e8-bfa3-490f-9847-4eec64d1daf3",
@@ -14071,6 +14049,25 @@
       ]
     },
     {
+      "id": "simplify:9187fc2c-03e7-4644-8d01-d1d0a44fc73d",
+      "company": "Workday",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Toronto, ON, Canada / Vancouver, BC, Canada",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
       "company": "Workday",
       "title": "Software Engineer Intern",
@@ -14336,40 +14333,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2dd43b4d-a243-4996-826b-d46251f0fc5e",
-      "company": "Sensata",
-      "title": "Software Engineering Intern",
-      "location": "Newtownabbey, UK",
-      "locations": [
-        "Newtownabbey, UK"
-      ],
-      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Software-Engineering-Placement-Student_IRC98573",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:d9a3f92c-e25d-49d0-9782-5d9f9a8b9e8d",
-      "company": "Sensata",
-      "title": "Hardware Engineer Intern",
-      "location": "Newtownabbey, UK",
-      "locations": [
-        "Newtownabbey, UK"
-      ],
-      "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -14852,6 +14815,21 @@
         "Bachelor's",
         "Master's"
       ]
+    },
+    {
+      "id": "simplify:793ec0c7-1beb-4313-b882-ed495d809c95",
+      "company": "Genesys",
+      "title": "Web Software Developer Intern - WFM",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
+      "date_posted": "2026-10-07",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:341ad57c-d6c1-47e3-97ae-3056b177f31e",
