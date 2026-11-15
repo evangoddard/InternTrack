@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 1684,
+    "postings_tracked": 1687,
     "sources": 1,
-    "companies": 606,
+    "companies": 607,
     "last_updated": "2026-11-15"
   },
   "postings": [
+    {
+      "id": "simplify:f7c4221f-6c64-4799-8157-8a32799d7e85",
+      "company": "Fanatics",
+      "title": "Product Management Intern",
+      "location": "Seattle, WA",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+      "date_posted": "2026-11-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7dcaed62-38da-41f4-9f67-549f034babfe",
+      "company": "Fanatics",
+      "title": "Product Intern - Physical Trading Cards",
+      "location": "Coppell, TX",
+      "locations": [
+        "Coppell, TX"
+      ],
+      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+      "date_posted": "2026-11-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:ae819759-0f9c-4f3f-880f-a57a3b10b824",
       "company": "SAS",
@@ -9788,21 +9822,6 @@
       ]
     },
     {
-      "id": "simplify:c8065191-fc0d-4846-9c05-5736286153db",
-      "company": "Ixian Robotics",
-      "title": "Hardware Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/ixianrobotics/f974d07a-0186-4cc9-8c63-ef962dd06f0b/application?embed=true",
-      "date_posted": "2026-10-22",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
       "id": "simplify:3637c96b-e3a1-4ad6-9c56-e835096933dc",
       "company": "General Dynamics Mission Systems",
       "title": "Hardware/Electrical Engineer Intern",
@@ -14437,6 +14456,36 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:8d83cf3a-bff7-4005-99bf-d54464601adc",
+      "company": "NCR Atleos",
+      "title": "Product Management Intern",
+      "location": "Dundee, UK",
+      "locations": [
+        "Dundee, UK"
+      ],
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:008cb674-f57a-4a6c-8865-05d831611eb9",
+      "company": "NCR Atleos",
+      "title": "Software Engineer Intern",
+      "location": "Dundee, UK",
+      "locations": [
+        "Dundee, UK"
+      ],
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942",
+      "date_posted": "2026-10-08",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:a8655c72-8299-4087-b0ad-d93807cef979",
