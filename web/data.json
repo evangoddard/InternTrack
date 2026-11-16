@@ -1,11 +1,28 @@
 {
   "stats": {
-    "postings_tracked": 1686,
+    "postings_tracked": 1689,
     "sources": 1,
-    "companies": 606,
-    "last_updated": "2026-11-15"
+    "companies": 609,
+    "last_updated": "2026-11-16"
   },
   "postings": [
+    {
+      "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
+      "company": "Southern States, LLC",
+      "title": "Electrical Engineer Intern",
+      "location": "Hampton, GA",
+      "locations": [
+        "Hampton, GA"
+      ],
+      "url": "https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1",
+      "date_posted": "2026-11-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:f7c4221f-6c64-4799-8157-8a32799d7e85",
       "company": "Fanatics",
@@ -38,6 +55,24 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:cb801eef-3df8-4694-8f76-f34099190836",
+      "company": "Philips",
+      "title": "Upstream Product Management Intern",
+      "location": "Bedford, MA",
+      "locations": [
+        "Bedford, MA"
+      ],
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
+      "date_posted": "2026-11-15",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "MBA",
+        "PhD"
       ]
     },
     {
@@ -10466,6 +10501,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:135b8fde-7c9d-4852-a29b-385efc07e7b4",
+      "company": "Steel",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
