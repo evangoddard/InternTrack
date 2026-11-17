@@ -1,11 +1,197 @@
 {
   "stats": {
-    "postings_tracked": 1689,
+    "postings_tracked": 1690,
     "sources": 1,
-    "companies": 607,
+    "companies": 610,
     "last_updated": "2026-11-17"
   },
   "postings": [
+    {
+      "id": "simplify:4c31bb53-e611-4a3c-96fb-c9d7be9acf24",
+      "company": "Canyon AeroConnect",
+      "title": "Electrical Engineer Intern",
+      "location": "Prescott, AZ",
+      "locations": [
+        "Prescott, AZ"
+      ],
+      "url": "https://canyonaeroconnect.bamboohr.com/careers/165/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:85ef2153-9e8f-421b-8371-86e442ac09c7",
+      "company": "Canyon AeroConnect",
+      "title": "Test Engineer Intern",
+      "location": "Prescott, AZ",
+      "locations": [
+        "Prescott, AZ"
+      ],
+      "url": "https://canyonaeroconnect.bamboohr.com/careers/166/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b344f0b9-d226-4e26-b217-c3c275f9cfce",
+      "company": "FSP",
+      "title": "Placement Software Developer Intern",
+      "location": "Glasgow, UK / Reading, UK",
+      "locations": [
+        "Glasgow, UK",
+        "Reading, UK"
+      ],
+      "url": "https://fsp.bamboohr.com/careers/323/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:793a9ac6-92f9-400d-b060-1bb9144677cd",
+      "company": "Road Commission for Oakland County",
+      "title": "Geographic Information Systems Intern",
+      "location": "Michigan",
+      "locations": [
+        "Michigan"
+      ],
+      "url": "https://rcoc.bamboohr.com/careers/314/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e832e189-e1cc-4b4f-ba16-3f62ddbf3bb7",
+      "company": "Sedaro",
+      "title": "Compiler Intern - Simulator",
+      "location": "Arlington County, Arlington, VA",
+      "locations": [
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://sedarotech.bamboohr.com/careers/95/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:73c60737-21d3-447f-89c4-cacd4904932a",
+      "company": "Sedaro",
+      "title": "Software Engineer Intern",
+      "location": "Arlington County, Arlington, VA",
+      "locations": [
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://sedarotech.bamboohr.com/careers/97/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e9dbab50-28ba-4352-8794-b48f5a64b318",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - Privacy Innovation Lab",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7703923326767483141",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:72649a86-d70f-46de-8b0f-8ce6aaea71b7",
+      "company": "Birdseye Security Solutions",
+      "title": "Software Developer Intern",
+      "location": "Mississauga, ON, Canada",
+      "locations": [
+        "Mississauga, ON, Canada"
+      ],
+      "url": "https://birdseyeaccount.bamboohr.com/careers/286/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:3c078c0f-8a73-45a7-8180-3cf64a2b15a7",
+      "company": "Birdseye Security Solutions",
+      "title": "AI Systems Intern",
+      "location": "Mississauga, ON, Canada",
+      "locations": [
+        "Mississauga, ON, Canada"
+      ],
+      "url": "https://birdseyeaccount.bamboohr.com/careers/287/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:c4c07e6a-44f8-4847-ba4c-378473c3515f",
+      "company": "All Options",
+      "title": "Graduate Quantitative Trader Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://alloptions.bamboohr.com/careers/85/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Quant",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c5774094-54c2-4d78-bb91-86ec4d8cb4a7",
+      "company": "SecurityMetrics",
+      "title": "Software Engineer Intern",
+      "location": "Orem, UT",
+      "locations": [
+        "Orem, UT"
+      ],
+      "url": "https://securitymetrics.bamboohr.com/careers/215/",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:ba23165e-e66d-4e52-90f4-9e640cdb5325",
       "company": "HexArmor",
@@ -22,6 +208,21 @@
       "degrees": [
         "Bachelor's"
       ]
+    },
+    {
+      "id": "simplify:d41e138a-8737-4f04-8bfc-1cf248d694a2",
+      "company": "Havas",
+      "title": "Data & Analytics Platformer Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://wd3.myworkdaysite.com/recruiting/havas/GroupExternalCareerSite/job/London/Data---Analytics-Platformer_JR0101641",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
     },
     {
       "id": "simplify:6b1eaa5d-98a1-4f76-bc2d-7e99beb87572",
@@ -2673,24 +2874,6 @@
       ]
     },
     {
-      "id": "simplify:6f89592c-cad0-4384-8d65-14460588b283",
-      "company": "T-Mobile",
-      "title": "Software Engineer Intern - T-Ads",
-      "location": "Philadelphia, PA",
-      "locations": [
-        "Philadelphia, PA"
-      ],
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
-      "date_posted": "2026-11-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:b8fa57e0-dafa-4a48-ba9d-0c89fb6a1bda",
       "company": "REGENT",
       "title": "Embedded Software Engineer Intern",
@@ -3332,6 +3515,21 @@
         "Master's",
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:025c8fcb-d728-4999-b384-666f9e4eaf4f",
+      "company": "Skydio",
+      "title": "Systems Engineering Intern",
+      "location": "San Mateo, CA",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a/application?embed=true",
+      "date_posted": "2026-11-09",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
     },
     {
       "id": "simplify:63b0cc3b-2e81-4428-ab00-769c4524fcb3",
@@ -5310,21 +5508,6 @@
         "Redmond, WA"
       ],
       "url": "https://www.metacareers.com/jobs/1872420890835857",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:805fa8a6-96cb-4f51-8398-5cca7acfe9a8",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Interactive Physics Simulation for Robotics",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://www.metacareers.com/jobs/1143164681833409",
       "date_posted": "2026-11-02",
       "deadline": "",
       "season": "",
@@ -7754,21 +7937,6 @@
       ]
     },
     {
-      "id": "simplify:9498d145-8f1f-456a-9bf8-bba9eb7f316d",
-      "company": "CSAA Insurance Group",
-      "title": "Data Science Intern",
-      "location": "Phoenix, AZ",
-      "locations": [
-        "Phoenix, AZ"
-      ],
-      "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:d1eb6cb3-969b-432d-bc33-ab75d1d2130f",
       "company": "Boston Dynamics",
       "title": "Electrical Engineer Co-op",
@@ -7936,25 +8104,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:457f471d-0890-4c19-b624-05089c7e682e",
-      "company": "Trinity Life Sciences",
-      "title": "Data Science Intern",
-      "location": "Waltham, MA / NYC",
-      "locations": [
-        "Waltham, MA",
-        "NYC"
-      ],
-      "url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -10885,25 +11034,6 @@
       ]
     },
     {
-      "id": "simplify:33d259a8-0a0b-4a4c-9875-dd5206ee2317",
-      "company": "Micron Technology",
-      "title": "Machine Learning Engineering Intern",
-      "location": "Richardson, TX",
-      "locations": [
-        "Richardson, TX"
-      ],
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:6e49745f-bd43-4f9c-86b7-ac3cd8172873",
       "company": "Hewlett Packard Enterprise",
       "title": "Embedded Software Engineer Intern",
@@ -11693,23 +11823,6 @@
       ]
     },
     {
-      "id": "simplify:91d247d9-54be-41c4-bd29-790886bb6888",
-      "company": "Electronic Arts",
-      "title": "AI/ML Software Engineer Co-op Intern",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:0f58df99-f546-4b97-831d-6ddad09b6821",
       "company": "ADT",
       "title": "Hardware Engineering & Connected Devices Intern",
@@ -12479,23 +12592,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:07aad510-60aa-4f59-a810-1efbb9d74d6f",
-      "company": "Indie",
-      "title": "Applications Software Developer Intern",
-      "location": "Aliso Viejo, CA",
-      "locations": [
-        "Aliso Viejo, CA"
-      ],
-      "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -17401,23 +17497,6 @@
       ]
     },
     {
-      "id": "simplify:7d1275b2-15f0-44af-b8f9-712a132e0f50",
-      "company": "Micron Technology",
-      "title": "Memory Systems Architecture & AI Intern - Research",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:125c32fc-ca61-4131-9772-9d02c97c7729",
       "company": "GlobalFoundries",
       "title": "Silicon Photonics Reliability Engineering Intern",
@@ -21552,24 +21631,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8b26c26a-93b7-4702-b463-83420efc11af",
-      "company": "TruStage",
-      "title": "Information Technology Development and Infrastructure Intern",
-      "location": "Madison, WI",
-      "locations": [
-        "Madison, WI"
-      ],
-      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
       ]
     },
     {
@@ -28861,25 +28922,6 @@
       ]
     },
     {
-      "id": "simplify:b7198b61-27db-46c1-8155-5a5bdb14370f",
-      "company": "Microsoft",
-      "title": "Product Manager Intern",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "date_posted": "2026-08-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:86e907c2-6aef-4071-ae6c-20a9c6b7306c",
       "company": "Netsmart",
       "title": "Software Engineer Intern",
@@ -29380,24 +29422,6 @@
       ]
     },
     {
-      "id": "simplify:f09f0a56-4999-4d19-afb4-894ea819d401",
-      "company": "GE Healthcare",
-      "title": "Engineering Development Program Intern - Software",
-      "location": "Waukesha, WI",
-      "locations": [
-        "Waukesha, WI"
-      ],
-      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
-      "date_posted": "2026-07-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
       "company": "Databricks",
       "title": "Product Management Intern",
@@ -29465,21 +29489,6 @@
       "date_posted": "2026-07-16",
       "deadline": "",
       "season": "Winter 2026 / Spring 2026 / Summer 2026 / Fall 2026 / Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
-      "id": "simplify:043d70c3-4576-4f40-bc1f-08885ba8ebc8",
-      "company": "Jane Street",
-      "title": "Linux Engineer",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8626260002",
-      "date_posted": "2026-07-15",
-      "deadline": "",
-      "season": "",
       "category": "Software",
       "degrees": []
     },
