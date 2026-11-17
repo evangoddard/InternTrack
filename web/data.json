@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1690,
+    "postings_tracked": 1676,
     "sources": 1,
-    "companies": 610,
+    "companies": 602,
     "last_updated": "2026-11-17"
   },
   "postings": [
+    {
+      "id": "simplify:3d381561-5185-4f99-9edc-b39a9744f1aa",
+      "company": "Amazon",
+      "title": "ASIC Design Verification Engineer Intern",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+      "date_posted": "2026-11-17",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:4c31bb53-e611-4a3c-96fb-c9d7be9acf24",
       "company": "Canyon AeroConnect",
@@ -687,6 +705,24 @@
       ]
     },
     {
+      "id": "simplify:852ba030-95f1-4c5a-afa9-3dfe3eef2762",
+      "company": "KLA",
+      "title": "Firmware Intern",
+      "location": "Milpitas, CA",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Firmware-Intern_2642154",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
       "company": "Southern States, LLC",
       "title": "Electrical Engineer Intern",
@@ -1148,23 +1184,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:218fd898-7718-46b4-bc2b-65b9ee205d5c",
-      "company": "Soros Fund Management",
-      "title": "Trading Intern - Middle and Back Office Dev",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
-      "date_posted": "2026-11-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -4311,24 +4330,6 @@
       ]
     },
     {
-      "id": "simplify:bb4d63c9-3314-4a0d-a295-e15f62bd7a87",
-      "company": "Salesforce",
-      "title": "Product Management Intern - Product Management",
-      "location": "SF / NYC",
-      "locations": [
-        "SF",
-        "NYC"
-      ],
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
-      "date_posted": "2026-11-06",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:be4332c5-d83a-4a08-8665-0ca7425c43ad",
       "company": "Notion",
       "title": "Software Engineer Intern - iOS",
@@ -4521,23 +4522,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:59e8bcfa-d272-4908-b44c-ffb7fa90719a",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineering Intern",
-      "location": "Lakewood, OH",
-      "locations": [
-        "Lakewood, OH"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -5868,23 +5852,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:4cef3318-d05a-4bf7-852e-a4e0bc3d3945",
-      "company": "Ciena",
-      "title": "Optical New Product Engineering Intern - New Product Introduction \u2013 Photonic Test Engineer (Co-op)",
-      "location": "Montreal, QC, Canada",
-      "locations": [
-        "Montreal, QC, Canada"
-      ],
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:90c37e21-1be8-4342-ab01-a574535591af",
       "company": "Astro Mechanica",
       "title": "Software Engineer Intern",
@@ -6946,21 +6913,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:8eb06226-0a94-47f2-a0bb-60bcb7df92c4",
-      "company": "Axiom Space",
-      "title": "Enterprise Data Analyst Intern - Power BI & Data Quality",
-      "location": "Houston, TX",
-      "locations": [
-        "Houston, TX"
-      ],
-      "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:f85e3825-ee60-4f0f-8fca-cb96f23760d0",
@@ -8090,23 +8042,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:c954619f-edf2-43f7-88e7-7dd114fbd845",
-      "company": "Greystone",
-      "title": "Full Stack Engineer Intern",
-      "location": "Warrenton, VA",
-      "locations": [
-        "Warrenton, VA"
-      ],
-      "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145",
-      "date_posted": "2026-10-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:1312152c-4959-4f28-b103-cf720d739a3d",
       "company": "Dover",
       "title": "Product Management Intern",
@@ -8956,23 +8891,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:16eb930e-0ac5-48f4-b2e1-0092e4756c31",
-      "company": "Intercontinental Exchange",
-      "title": "Agentic AI Data Science Intern",
-      "location": "Jacksonville, FL",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "url": "https://ice.jibeapply.com/jobs/14070?icims=1",
-      "date_posted": "2026-10-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -10432,24 +10350,6 @@
       ]
     },
     {
-      "id": "simplify:21f33b87-6b19-48ce-8820-5dfeb12ae12f",
-      "company": "Humble Robotics",
-      "title": "Embedded Software Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:18198413-10c8-4a0e-b6e1-1f6ad54facb4",
       "company": "Humble Robotics",
       "title": "Electrical Engineer Intern",
@@ -10601,23 +10501,6 @@
       "season": "Summer 2027",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:8805f9d8-30eb-4f3e-baf8-a87bc0f4850b",
-      "company": "Cummins",
-      "title": "Engineering School-to-Work Intern - Electronics Systems Validation Engineering",
-      "location": "Troy, MI",
-      "locations": [
-        "Troy, MI"
-      ],
-      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439243",
-      "date_posted": "2026-10-20",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
@@ -17037,6 +16920,24 @@
       "degrees": []
     },
     {
+      "id": "simplify:a7373af1-154a-4460-accf-0f684091471b",
+      "company": "KLA",
+      "title": "Software Engineer Intern",
+      "location": "Milpitas, CA",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:d31f3a4e-421a-4972-a2ef-2b849b218777",
       "company": "Epic Games",
       "title": "Product Management Intern",
@@ -17513,23 +17414,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:eb37331a-1033-4766-8467-155ffde46382",
-      "company": "GlobalFoundries",
-      "title": "Reliability Test Engineer Intern",
-      "location": "Malta, NY",
-      "locations": [
-        "Malta, NY"
-      ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Reliability-Test-Engineering-Intern--Summer-2027-_JR-2604361",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -19335,21 +19219,6 @@
       ]
     },
     {
-      "id": "simplify:25e34297-e8b4-4e9c-8141-ab4dfc4fac2c",
-      "company": "V2X",
-      "title": "Artificial Intelligence Intern",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://careers.gov2x.com/jobs/62843?icims=1",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:9d3deed3-7476-4d1b-ac11-2072ffe638ff",
       "company": "Antares Nuclear",
       "title": "Software Engineer Intern",
@@ -19634,46 +19503,6 @@
       ]
     },
     {
-      "id": "simplify:575cff72-551d-4520-b574-ee32f9252195",
-      "company": "Elire",
-      "title": "AI Software Developer Intern - Multiple Teams",
-      "location": "Remote in USA / Minneapolis, MN",
-      "locations": [
-        "Remote in USA",
-        "Minneapolis, MN"
-      ],
-      "url": "https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:cb134c63-620d-4f0e-966c-ae3c7a03d34b",
-      "company": "Elire",
-      "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
-      "location": "Remote in USA / Minneapolis, MN",
-      "locations": [
-        "Remote in USA",
-        "Minneapolis, MN"
-      ],
-      "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:f74bc55b-29bc-4d06-9433-426a6fc434e0",
       "company": "Gecko Robotics",
       "title": "Embedded Software Engineer Intern - RoboSPLAT - Field Infra",
@@ -19809,23 +19638,6 @@
       "season": "Summer 2027",
       "category": "Quant",
       "degrees": []
-    },
-    {
-      "id": "simplify:0a2d8d42-726b-49fe-9136-60580662f2da",
-      "company": "New York ISO",
-      "title": "Software Engineering Co-op - Software Engineering",
-      "location": "Rensselaer, NY",
-      "locations": [
-        "Rensselaer, NY"
-      ],
-      "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:a8c12424-098d-4d97-9658-8820b0fdac3e",
@@ -22905,23 +22717,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:0f3c4057-6580-4955-8436-b08bb3fa2e4e",
-      "company": "General Matter",
-      "title": "Embedded Software Engineer Intern",
-      "location": "LA",
-      "locations": [
-        "LA"
-      ],
-      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:05be0761-5116-4191-b48d-0c98f2f2c7c0",
       "company": "Marshall Wace",
       "title": "Quantitative Research Intern",
@@ -24814,23 +24609,6 @@
       ]
     },
     {
-      "id": "simplify:84aad02e-2ac4-4eaf-89fd-3674ae05f75e",
-      "company": "Booz Allen",
-      "title": "Software Developer Intern - Summer Games",
-      "location": "El Segundo, CA",
-      "locations": [
-        "El Segundo, CA"
-      ],
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
-      "date_posted": "2026-08-27",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:2189b93d-1a82-4620-9a31-8afd50579cae",
       "company": "Vertiv",
       "title": "Firmware Engineer Intern - Summer 2027",
@@ -25799,23 +25577,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:52758ea7-052d-4c85-9fbe-2558a05538f1",
-      "company": "General Matter",
-      "title": "Software Engineering Intern",
-      "location": "LA",
-      "locations": [
-        "LA"
-      ],
-      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
