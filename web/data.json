@@ -1,11 +1,46 @@
 {
   "stats": {
-    "postings_tracked": 1683,
+    "postings_tracked": 1681,
     "sources": 1,
     "companies": 606,
     "last_updated": "2026-11-18"
   },
   "postings": [
+    {
+      "id": "simplify:660c847a-60fb-4269-bd43-e9e2f7ef9f36",
+      "company": "SSI",
+      "title": "Software Developer Co-op",
+      "location": "Victoria, BC, Canada",
+      "locations": [
+        "Victoria, BC, Canada"
+      ],
+      "url": "https://ssicorporate.bamboohr.com/careers/101/",
+      "date_posted": "2026-11-18",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:27c63eb2-f606-4f11-bf9a-3392a2d765f1",
+      "company": "Airbnb",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "date_posted": "2026-11-18",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
       "company": "Smarty",
@@ -5321,24 +5356,6 @@
       ]
     },
     {
-      "id": "simplify:b90babbc-5fa6-4414-b46f-911f2e400a97",
-      "company": "ASML",
-      "title": "Machine Learning and Image-Based Metrics for EUV System Setup Intern",
-      "location": "San Diego, CA",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567",
-      "date_posted": "2026-11-04",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:18a5b607-afda-4651-8127-866b02920c87",
       "company": "Logiqal",
       "title": "Quantum Error Correction and Architecture Intern",
@@ -8763,21 +8780,6 @@
       ]
     },
     {
-      "id": "simplify:8ac418d6-3fee-416d-8394-e104b7e5e798",
-      "company": "SOTI",
-      "title": "Software Developer Intern - Server",
-      "location": "Mississauga, ON, Canada",
-      "locations": [
-        "Mississauga, ON, Canada"
-      ],
-      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:6c04df75-8087-4664-add0-7b57b5836154",
       "company": "SOTI",
       "title": "Software Developer Intern - Android",
@@ -11518,21 +11520,6 @@
       ]
     },
     {
-      "id": "simplify:1a7232dc-f554-4d51-a14c-0119b05d8672",
-      "company": "Rothesay",
-      "title": "Software Engineer Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:d19bf91f-90c0-4799-9c56-302b3703168a",
       "company": "Robert Bosch Venture Capital",
       "title": "Software Engineering Co-op",
@@ -13820,23 +13807,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:04abf4d8-48c2-4b8e-8ba1-c572d1072c66",
-      "company": "Meter",
-      "title": "Hardware Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
-      "date_posted": "2026-10-10",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -20011,25 +19981,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Commercialization",
-      "location": "SF / Mountain View, CA",
-      "locations": [
-        "SF",
-        "Mountain View, CA"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "date_posted": "2026-09-14",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -28735,6 +28686,24 @@
         "San Jose, CA"
       ],
       "url": "https://lifeattiktok.com/search/7668642761473902901",
+      "date_posted": "2026-08-03",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:53d06972-e847-4ab6-baf8-27f2642beba6",
+      "company": "TikTok",
+      "title": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7668581636242016565",
       "date_posted": "2026-08-03",
       "deadline": "",
       "season": "Summer 2027",
