@@ -1,11 +1,26 @@
 {
   "stats": {
-    "postings_tracked": 1671,
+    "postings_tracked": 1668,
     "sources": 1,
     "companies": 599,
     "last_updated": "2026-11-19"
   },
   "postings": [
+    {
+      "id": "simplify:f15013ab-bc88-41a1-b7fc-084a31cdfa69",
+      "company": "Eridu AI",
+      "title": "ASIC Architecture Intern",
+      "location": "Saratoga, CA",
+      "locations": [
+        "Saratoga, CA"
+      ],
+      "url": "https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
     {
       "id": "simplify:e8bbf313-db80-4a1b-b1fd-6c7cb8eb3583",
       "company": "Meta",
@@ -2470,24 +2485,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:26ed8f15-5f1f-4a5a-9cca-0403cf4d7334",
-      "company": "Entegris",
-      "title": "Data Engineering Intern",
-      "location": "Aurora, IL",
-      "locations": [
-        "Aurora, IL"
-      ],
-      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Engineering-Intern---Summer-2027_REQ-15839",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -6114,36 +6111,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:d973936c-50d5-41f6-acc8-e1dbd6c84acd",
-      "company": "Paccar",
-      "title": "Materials Systems Intern",
-      "location": "Denton, TX",
-      "locations": [
-        "Denton, TX"
-      ],
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:be25948f-3dbe-43b8-8b4b-424a01d9b356",
-      "company": "Paccar",
-      "title": "Sales Administration Data Analyst Intern - Greenhouse Gas",
-      "location": "Denton, TX",
-      "locations": [
-        "Denton, TX"
-      ],
-      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:29c0eb17-de6c-4332-addb-c6f0732b0b09",
@@ -10273,6 +10240,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
+      "company": "TikTok",
+      "title": "Product Manager Project Intern - GMPT Sales and Operations Management Platform",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7620569902743406901",
+      "date_posted": "2026-10-22",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:2374fd2a-48e1-49bd-b761-a8ff1bc13220",
       "company": "LexisNexis Risk Solutions",
       "title": "Data Science & Fraud Analytics Placement Intern",
@@ -12276,23 +12260,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:825cae44-1221-442b-93fc-552072a0498e",
-      "company": "Invesco",
-      "title": "Quantitative Research Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -24317,25 +24284,6 @@
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ecdb732a-4566-44b5-bb1e-360045df13d9",
-      "company": "Northwood Space",
-      "title": "Electrical Engineer Intern - Summer Internship",
-      "location": "LA / Torrance, CA",
-      "locations": [
-        "LA",
-        "Torrance, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
-      "date_posted": "2026-08-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
