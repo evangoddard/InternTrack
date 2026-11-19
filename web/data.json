@@ -1,11 +1,61 @@
 {
   "stats": {
-    "postings_tracked": 1668,
+    "postings_tracked": 1657,
     "sources": 1,
-    "companies": 599,
+    "companies": 595,
     "last_updated": "2026-11-19"
   },
   "postings": [
+    {
+      "id": "simplify:ec63f3d6-689a-45ea-aa6a-980217419acf",
+      "company": "Space Dynamics Laboratory",
+      "title": "Software Engineering Assistant Intern",
+      "location": "Logan, UT",
+      "locations": [
+        "Logan, UT"
+      ],
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:6b257bab-c647-4853-8aa3-4ad9634b67fc",
+      "company": "MSA Safety",
+      "title": "Electrical Engineering Intern/Co-op",
+      "location": "Cranberry Township, PA",
+      "locations": [
+        "Cranberry Township, PA"
+      ],
+      "url": "https://careers.msasafety.com/jobs/10586?icims=1&lang=en-us",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:a8d87113-aa75-4085-aa94-8b2b2fee847a",
+      "company": "Scout Space",
+      "title": "Computer Vision Engineer Intern - AI/ML",
+      "location": "Reston, VA",
+      "locations": [
+        "Reston, VA"
+      ],
+      "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:f15013ab-bc88-41a1-b7fc-084a31cdfa69",
       "company": "Eridu AI",
@@ -436,23 +486,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:0c6dc660-1c39-4976-ae4d-67e73ae7f1d6",
-      "company": "Smarty",
-      "title": "Product Management Intern",
-      "location": "Orem, UT",
-      "locations": [
-        "Orem, UT"
-      ],
-      "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
-      "date_posted": "2026-11-18",
-      "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -1366,6 +1399,25 @@
       ]
     },
     {
+      "id": "simplify:c0fa2195-311d-4b20-895a-835015b65bb8",
+      "company": "Bread Financial",
+      "title": "Software Engineer Intern",
+      "location": "Frisco, TX +4 more",
+      "locations": [
+        "Frisco, TX",
+        "Chadds Ford Township, PA",
+        "Columbus, OH",
+        "Draper, UT",
+        "Wilmington, DE"
+      ],
+      "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
       "company": "Southern States, LLC",
       "title": "Electrical Engineer Intern",
@@ -1773,24 +1825,6 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:ad14b025-74ef-4ada-8315-206a35b4bc1c",
-      "company": "WTW",
-      "title": "Data Analyst Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
-      "date_posted": "2026-11-13",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2588,23 +2622,6 @@
       "season": "",
       "category": "Software",
       "degrees": []
-    },
-    {
-      "id": "simplify:1982a165-a74a-476f-8ebb-5136a38d056d",
-      "company": "McDonald's",
-      "title": "Global Tech Infrastructure & Operations Intern",
-      "location": "Chicago, IL",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
     },
     {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
@@ -6387,27 +6404,6 @@
       ]
     },
     {
-      "id": "simplify:a76e7223-bb98-4ed6-af28-3ae42d23856a",
-      "company": "NVIDIA",
-      "title": "Math Libraries Intern",
-      "location": "Canada +2 more",
-      "locations": [
-        "Canada",
-        "Santa Clara, CA",
-        "United States"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:7772f70d-d994-4fdf-8874-04f00ed5e24b",
       "company": "ASML",
       "title": "Electrical Engineer Co-op Intern",
@@ -6422,25 +6418,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:46fd3fa6-a273-49da-b7ac-7cb7fcf894a9",
-      "company": "NVIDIA",
-      "title": "AI Compiler and Kernel Intern",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -7066,23 +7043,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:289ab040-f17c-4634-aa81-80fcc12325a8",
-      "company": "V2X",
-      "title": "Electrical Engineer Intern",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://careers.gov2x.com/jobs/63854?icims=1",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -11664,24 +11624,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:409557ba-787e-483f-90a0-5070340bc017",
-      "company": "NVIDIA",
-      "title": "ASIC Verification Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
-      "date_posted": "2026-10-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:75a57c7c-d53e-471f-ad32-b424227e9f4a",
       "company": "The Toro Company",
       "title": "Cloud Software Developer Intern",
@@ -12257,24 +12199,6 @@
       "deadline": "",
       "season": "Summer 2026",
       "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:9ca48e9a-a09b-4300-802e-47d9b4466d99",
-      "company": "Ryan",
-      "title": "Software Engineer Intern",
-      "location": "Plano, TX",
-      "locations": [
-        "Plano, TX"
-      ],
-      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -14455,21 +14379,6 @@
       ]
     },
     {
-      "id": "simplify:b058e4f4-66d1-4259-8983-1c888392410d",
-      "company": "Viget",
-      "title": "Software Developer Intern",
-      "location": "Boulder, CO",
-      "locations": [
-        "Boulder, CO"
-      ],
-      "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply",
-      "date_posted": "2026-10-08",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:c81df585-c144-4df1-8111-2a31dee7970f",
       "company": "IMC Trading",
       "title": "Machine Learning Engineer Intern",
@@ -15787,23 +15696,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:97279dfa-d506-4a6b-be36-a783c8647797",
-      "company": "Arondite",
-      "title": "Software Engineer Intern",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://apply.workable.com/arondite/j/D3211449EF/apply",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18882,24 +18774,6 @@
       ]
     },
     {
-      "id": "simplify:1567fd06-d23c-423d-bdd7-1b3068d7257a",
-      "company": "Waymo",
-      "title": "Software Engineering Intern - Multiple Teams",
-      "location": "London, UK",
-      "locations": [
-        "London, UK"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-      "date_posted": "2026-09-17",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:3fc82b32-e0d8-454e-9338-670f6758c02e",
       "company": "Tower Research Capital",
       "title": "Software Developer Intern",
@@ -20838,24 +20712,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:cd3e7aeb-84d9-4069-aa81-e1afa527a3d0",
-      "company": "Motorola",
-      "title": "Digital Signal Processing Software Engineering Intern - Digital Signal Processing",
-      "location": "Plantation, FL",
-      "locations": [
-        "Plantation, FL"
-      ],
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -22897,25 +22753,6 @@
       ]
     },
     {
-      "id": "simplify:04fa737d-39fc-4d4c-a941-98752f72b8ec",
-      "company": "Corteva",
-      "title": "Research and Development Intern - Computer and Data Science",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W",
-      "date_posted": "2026-09-03",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:9894c188-6812-4c2c-8aaa-787cdba604ec",
       "company": "Hewlett Packard",
       "title": "Finance Data Science Intern",
@@ -23403,6 +23240,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:6af66330-0329-40f5-abaf-5feaf563f36d",
+      "company": "Textron",
+      "title": "Software Engineer Intern - Sea Systems",
+      "location": "Hunt Valley, Cockeysville, MD",
+      "locations": [
+        "Hunt Valley, Cockeysville, MD"
+      ],
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935",
+      "date_posted": "2026-09-01",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -25493,25 +25347,6 @@
       ]
     },
     {
-      "id": "simplify:03f5f454-515c-41f5-b670-e30a0e59a27e",
-      "company": "NVIDIA",
-      "title": "Hardware ASIC Design Intern - Hardware",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:832f302a-8bc2-45f2-8ada-37a23bf080a7",
       "company": "NVIDIA",
       "title": "Hardware Engineering Intern",
@@ -25520,43 +25355,6 @@
         "Santa Clara, CA"
       ],
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
-      "company": "NVIDIA",
-      "title": "Developer and Performance Technology Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
-      "date_posted": "2026-08-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:26db23e0-d70f-49b8-ab98-f6c54330d92b",
-      "company": "NVIDIA",
-      "title": "Hardware Physical Design / VLSI Intern",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
       "date_posted": "2026-08-19",
       "deadline": "",
       "season": "Summer 2027",
