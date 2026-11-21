@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1687,
+    "postings_tracked": 1691,
     "sources": 1,
-    "companies": 621,
+    "companies": 628,
     "last_updated": "2026-11-21"
   },
   "postings": [
@@ -1274,6 +1274,40 @@
       ]
     },
     {
+      "id": "simplify:e02d7030-30ac-407a-9855-1a49d83479e1",
+      "company": "Rolls-Royce",
+      "title": "FPGA Engineer Intern",
+      "location": "Glasgow, UK",
+      "locations": [
+        "Glasgow, UK"
+      ],
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Glasgow/FPGA-Summer-Internship---Glasgow--UK_JR6163435",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:b4668eae-16c6-4c57-927b-a0dc130281a9",
+      "company": "AriensCo",
+      "title": "Product Management Intern",
+      "location": "Brillion, WI",
+      "locations": [
+        "Brillion, WI"
+      ],
+      "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
       "company": "Microsoft",
       "title": "Research Intern - Deep Learning Group",
@@ -1745,6 +1779,55 @@
       ]
     },
     {
+      "id": "simplify:b5c5b115-3401-43ce-ac29-ea46e184089f",
+      "company": "Compassion International",
+      "title": "Summer Intern - Data and Software Engineering",
+      "location": "Colorado Springs, CO",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:b5e9a29a-b709-4d78-8e07-c795aad202ea",
+      "company": "Ribbon",
+      "title": "Software Developer Co-op - Common Cloud Services",
+      "location": "Canada",
+      "locations": [
+        "Canada"
+      ],
+      "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:2f9d52bb-ed7d-407a-b2db-ba4eaffe95b9",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer Intern - Circuit Simulation infrastructure",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:79c63349-953a-4d76-82a2-2c01a95745f7",
       "company": "Lucid",
       "title": "Product Management Intern",
@@ -2038,24 +2121,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:d9d64ad1-bfcf-465d-90e1-bad73dcb61da",
-      "company": "Toyota Research Institute",
-      "title": "Robotics Intern - Prototyping and Robotics Operations",
-      "location": "Cambridge, MA",
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply",
-      "date_posted": "2026-11-18",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -2593,6 +2658,27 @@
       ]
     },
     {
+      "id": "simplify:9b07113a-678a-41b9-bb98-fd8e35931087",
+      "company": "Forterra",
+      "title": "Software Engineer Intern",
+      "location": "Winter Park, FL +4 more",
+      "locations": [
+        "Winter Park, FL",
+        "Durham, NC",
+        "East Palo Alto, CA",
+        "Clarksburg, MD",
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:4beffbcd-b583-4c3f-b07f-414684404061",
       "company": "Ralliant",
       "title": "Hardware Verification Engineer Co-op",
@@ -2997,6 +3083,24 @@
       "deadline": "",
       "season": "",
       "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:436c4c36-f3de-487a-83b6-492a4266d8ff",
+      "company": "Blizzard Entertainment",
+      "title": "Data Platform Engineering Intern - Data Platform Engineering",
+      "location": "Irvine, CA",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -14758,40 +14862,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d5b1be21-ea3d-442a-ac92-5df1ec91238c",
-      "company": "Electronic Arts",
-      "title": "Software Engineer Co-op",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:c150fc14-14cb-445f-b7a5-4f8d6b827ffc",
-      "company": "Electronic Arts",
-      "title": "Gameplay Software Engineer Co-op",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
-      "date_posted": "2026-10-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
