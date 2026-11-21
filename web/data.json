@@ -1,11 +1,45 @@
 {
   "stats": {
-    "postings_tracked": 1692,
+    "postings_tracked": 1687,
     "sources": 1,
-    "companies": 623,
+    "companies": 621,
     "last_updated": "2026-11-21"
   },
   "postings": [
+    {
+      "id": "simplify:16db2d2f-ebe2-4ccb-8526-7d28df513068",
+      "company": "Microsoft",
+      "title": "Research Intern - AI System Architecture Modeling and Performance",
+      "location": "Hillsboro, OR",
+      "locations": [
+        "Hillsboro, OR"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+      "date_posted": "2026-11-21",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:cdb1ef31-7f9b-4574-bbe4-01e83315372f",
+      "company": "Lucid Motors",
+      "title": "ADAS Platform Tools Intern",
+      "location": "Newark, CA",
+      "locations": [
+        "Newark, CA"
+      ],
+      "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+      "date_posted": "2026-11-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:612e81e2-c670-4480-bb34-d840b958320e",
       "company": "Acuity Insurance",
@@ -1220,6 +1254,23 @@
       "category": "Software",
       "degrees": [
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:fe1b3680-b402-4413-a522-d43c7499a5a9",
+      "company": "Gorbel",
+      "title": "Front-End Web Developer Co-op",
+      "location": "Victor, NY",
+      "locations": [
+        "Victor, NY"
+      ],
+      "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -2542,27 +2593,6 @@
       ]
     },
     {
-      "id": "simplify:9b07113a-678a-41b9-bb98-fd8e35931087",
-      "company": "Forterra",
-      "title": "Software Engineer Intern",
-      "location": "Winter Park, FL +4 more",
-      "locations": [
-        "Winter Park, FL",
-        "Durham, NC",
-        "East Palo Alto, CA",
-        "Clarksburg, MD",
-        "Arlington County, Arlington, VA"
-      ],
-      "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-      "date_posted": "2026-11-16",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4beffbcd-b583-4c3f-b07f-414684404061",
       "company": "Ralliant",
       "title": "Hardware Verification Engineer Co-op",
@@ -3784,24 +3814,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:6d3f5916-cf7c-49e6-a3dc-a48791bec4fd",
-      "company": "Microsoft",
-      "title": "Data Scientist Intern - CoreAI",
-      "location": "Redmond, WA",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:7be3b067-334e-4e71-9af4-fa7933195bdb",
       "company": "TikTok",
       "title": "Software Engineer Intern - TikTok Search",
@@ -4487,24 +4499,6 @@
       "season": "Summer 2026",
       "category": "Hardware",
       "degrees": []
-    },
-    {
-      "id": "simplify:55799669-fdb2-4df4-8003-40a72d0e7531",
-      "company": "GlobalFoundries",
-      "title": "AI Processor Hardware/Software Integration Engineer Intern",
-      "location": "Richardson, TX",
-      "locations": [
-        "Richardson, TX"
-      ],
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:d1b1603d-0a5e-45ab-9a79-f2dfc4bc9f44",
@@ -8143,22 +8137,19 @@
       "degrees": []
     },
     {
-      "id": "simplify:0aa8fe34-4c71-413b-b204-37dd5226fd7d",
-      "company": "Johnson & Johnson",
-      "title": "Postdoctoral Scientist \u2013 AI/ML and Optimization Intern",
-      "location": "Cambridge, MA / Hopewell Township, NJ",
+      "id": "simplify:2a369c5b-2d82-4445-b2ae-c67327efa726",
+      "company": "Astera",
+      "title": "Robotics Systems Intern - Wheeled Platforms & Lifting Systems",
+      "location": "Emeryville, CA",
       "locations": [
-        "Cambridge, MA",
-        "Hopewell Township, NJ"
+        "Emeryville, CA"
       ],
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Post-Doc---AI-ML-and-Optimization_R-106767-2",
+      "url": "https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8/application?embed=true",
       "date_posted": "2026-10-30",
       "deadline": "",
       "season": "",
       "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
+      "degrees": []
     },
     {
       "id": "simplify:40dcbe28-8038-44a9-8c60-1b92462057e6",
@@ -8315,21 +8306,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:aa17c8d8-a4c8-4f40-9a0f-73bca79d2727",
-      "company": "Meta",
-      "title": "Research Scientist Intern - Scam and Trust",
-      "location": "Menlo Park, CA",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/2355649268510104",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:14fe6917-aa52-43f8-b938-83b67d70feaa",
@@ -10134,21 +10110,6 @@
         "Bachelor's",
         "Master's"
       ]
-    },
-    {
-      "id": "simplify:af44a97e-7851-4c17-95b2-1f4d3f8e5d53",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern - Simulation & Robotics",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true",
-      "date_posted": "2026-10-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:00953f3c-6f6f-4019-b9c6-068ae4854c7e",
@@ -16757,23 +16718,6 @@
       ]
     },
     {
-      "id": "simplify:3d956618-19c8-41b1-beb3-388e234964d5",
-      "company": "Astronics",
-      "title": "Software Engineer Intern",
-      "location": "Kirkland, WA",
-      "locations": [
-        "Kirkland, WA"
-      ],
-      "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
-      "date_posted": "2026-10-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:95c1d1a0-3fe5-4666-a8b9-fd45c3237c63",
       "company": "Mohawk",
       "title": "Product Management Intern",
@@ -17754,17 +17698,17 @@
       ]
     },
     {
-      "id": "simplify:beaa414a-33e5-448c-ae31-d7aeeb886d98",
+      "id": "simplify:76127016-50b2-48d1-99eb-f720b5ff3a2d",
       "company": "Aurora Innovation",
-      "title": "Embedded Software Engineer Intern - Lidar",
-      "location": "Bozeman, MT",
+      "title": "Hardware Systems Engineer Intern",
+      "location": "Pittsburgh, PA",
       "locations": [
-        "Bozeman, MT"
+        "Pittsburgh, PA"
       ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868/application?embed=true",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true",
       "date_posted": "2026-10-01",
       "deadline": "",
-      "season": "",
+      "season": "Summer 2027",
       "category": "Hardware",
       "degrees": [
         "Bachelor's",
@@ -18872,24 +18816,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:90c4aeeb-3983-4bd2-9dfe-15097a7f2d59",
-      "company": "Waymo",
-      "title": "Machine Learning Engineer Intern - Road Understanding",
-      "location": "Mountain View, CA",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-      "date_posted": "2026-09-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -21825,23 +21751,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a6d9fcc3-2f85-4609-9b2d-2ed435325914",
-      "company": "ITT",
-      "title": "Product Management Co-op - Spring/Summer 2027",
-      "location": "Seneca Falls, NY",
-      "locations": [
-        "Seneca Falls, NY"
-      ],
-      "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-09-09",
-      "deadline": "",
-      "season": "Spring 2027 / Summer 2027",
-      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
