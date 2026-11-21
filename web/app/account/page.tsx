@@ -1,3 +1,6 @@
+import type { Metadata } from "next";
+import Breadcrumbs from "@/components/Breadcrumbs";
+import ThemeToggle from "@/components/ThemeToggle";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { CATEGORIES } from "@/lib/categories";
@@ -8,6 +11,12 @@ import {
   signOutEverywhere,
   deleteMyData,
 } from "./actions";
+
+export const metadata: Metadata = {
+  title: "Account",
+  description: "Your profile, résumé, and account settings.",
+  robots: { index: false, follow: false },
+};
 
 const DEGREE_OPTIONS = [
   { value: "associate", label: "Associate" },
@@ -38,7 +47,7 @@ const inputClass =
   "w-full max-w-sm rounded-lg border border-border bg-bg/60 px-3 py-2 text-sm text-text outline-none transition-colors focus:border-accent-bright";
 const labelClass = "block text-[0.65rem] uppercase tracking-[0.06em] text-text-faint";
 const buttonClass =
-  "rounded-full bg-accent-fill px-4 py-1.5 text-sm font-semibold text-text transition-transform hover:scale-[1.02] active:scale-[0.98]";
+  "rounded-full bg-accent-fill px-4 py-1.5 text-sm font-semibold text-accent-ink transition-transform hover:scale-[1.02] active:scale-[0.98]";
 
 export default async function AccountPage({
   searchParams,
@@ -58,7 +67,7 @@ export default async function AccountPage({
         <p className="mt-2 text-sm text-text-muted">Sign in to manage your account.</p>
         <Link
           href="/login"
-          className="mt-4 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-text"
+          className="mt-4 rounded-full bg-accent-fill px-5 py-2 text-sm font-semibold text-accent-ink"
         >
           Sign in
         </Link>
@@ -86,6 +95,16 @@ export default async function AccountPage({
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10 sm:px-6">
+      <Breadcrumbs items={[{ label: "Dashboard", href: "/dashboard" }, { label: "Settings" }]} />
+      <div className="mb-6 flex flex-wrap items-center justify-between gap-3 rounded-xl border border-border bg-bg-raised px-4 py-3">
+        <div>
+          <p className="text-sm font-semibold text-text">Appearance</p>
+          <p className="text-xs text-text-muted">
+            System follows your device setting.
+          </p>
+        </div>
+        <ThemeToggle />
+      </div>
       <h1 className="font-display text-2xl font-semibold text-text">Account</h1>
       <p className="mt-1 text-sm text-text-muted">{user.email}</p>
 
