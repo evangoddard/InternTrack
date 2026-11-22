@@ -1,25 +1,26 @@
 {
   "stats": {
-    "postings_tracked": 1701,
+    "postings_tracked": 1705,
     "sources": 1,
-    "companies": 632,
+    "companies": 634,
     "last_updated": "2026-11-22"
   },
   "postings": [
     {
-      "id": "simplify:090826fc-fc8c-443f-8302-02afa9826799",
-      "company": "AMD",
-      "title": "BIOS Engineering Co-op",
-      "location": "Austin, TX",
+      "id": "simplify:9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
+      "company": "Neogen",
+      "title": "Embedded Systems Engineer Intern",
+      "location": "Oakdale, MN",
       "locations": [
-        "Austin, TX"
+        "Oakdale, MN"
       ],
-      "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
+      "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
       "date_posted": "2026-11-22",
       "deadline": "",
-      "season": "Winter 2027 / Spring 2027 / Summer 2027",
-      "category": "Software",
+      "season": "",
+      "category": "Hardware",
       "degrees": [
+        "Bachelor's",
         "Master's"
       ]
     },
@@ -1378,6 +1379,24 @@
       ]
     },
     {
+      "id": "simplify:c19ddb09-a366-491b-8f74-c4e088f343a8",
+      "company": "First Bank & Trust",
+      "title": "Data Analyst Intern",
+      "location": "Brookings, SD / Sioux Falls, SD",
+      "locations": [
+        "Brookings, SD",
+        "Sioux Falls, SD"
+      ],
+      "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
       "company": "Microsoft",
       "title": "Research Intern - Deep Learning Group",
@@ -1952,6 +1971,23 @@
       ]
     },
     {
+      "id": "simplify:de5b84ef-da26-41b7-a59d-1dd83d33491c",
+      "company": "Fiskars Group",
+      "title": "Product Management Intern",
+      "location": "Middleton, WI",
+      "locations": [
+        "Middleton, WI"
+      ],
+      "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:79c63349-953a-4d76-82a2-2c01a95745f7",
       "company": "Lucid",
       "title": "Product Management Intern",
@@ -2283,6 +2319,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d71c5ba9-0935-4cef-bd4c-21f2c50b2e47",
+      "company": "Viavi Solutions",
+      "title": "Robotics Intern",
+      "location": "Bothell, WA",
+      "locations": [
+        "Bothell, WA"
+      ],
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+      "date_posted": "2026-11-18",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -3249,6 +3302,21 @@
       ]
     },
     {
+      "id": "simplify:ef8562a4-25a5-4d0e-9199-0322e26692b1",
+      "company": "Constellation Brands",
+      "title": "Data Science Intern",
+      "location": "Rochester, NY",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
       "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
       "company": "Southern States, LLC",
       "title": "Electrical Engineer Intern",
@@ -3419,23 +3487,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:d02a74dd-8183-4a37-8203-b66654240269",
-      "company": "NextEra Energy",
-      "title": "Software Engineering Intern - Technical",
-      "location": "St Paul, MN",
-      "locations": [
-        "St Paul, MN"
-      ],
-      "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
-      "date_posted": "2026-11-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18800,6 +18851,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:829f073a-df9b-4448-a870-7d6bc38f0d7d",
+      "company": "Allegion",
+      "title": "Software Engineer Intern - Software Engineering",
+      "location": "Golden, CO",
+      "locations": [
+        "Golden, CO"
+      ],
+      "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795",
+      "date_posted": "2026-09-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
