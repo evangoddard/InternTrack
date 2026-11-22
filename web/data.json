@@ -1,11 +1,46 @@
 {
   "stats": {
-    "postings_tracked": 1689,
+    "postings_tracked": 1702,
     "sources": 1,
-    "companies": 627,
-    "last_updated": "2026-11-21"
+    "companies": 633,
+    "last_updated": "2026-11-22"
   },
   "postings": [
+    {
+      "id": "simplify:c2b3d6cb-a6e8-4677-b5cb-24255710302d",
+      "company": "Neros Technologies",
+      "title": "Firmware/Embedded Software Engineer Intern",
+      "location": "Torrance, CA",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "date_posted": "2026-11-22",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9602bf3d-66e6-4284-abbb-5a93b37a12d1",
+      "company": "Neros Technologies",
+      "title": "Electrical Engineer Intern",
+      "location": "Torrance, CA",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+      "date_posted": "2026-11-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:16db2d2f-ebe2-4ccb-8526-7d28df513068",
       "company": "Microsoft",
@@ -1308,6 +1343,39 @@
       ]
     },
     {
+      "id": "simplify:aea2626a-4582-4875-ab5a-aeed57c50f4d",
+      "company": "Blackberry",
+      "title": "Hardware Engineering Student Intern - Radar",
+      "location": "Waterloo, ON, Canada",
+      "locations": [
+        "Waterloo, ON, Canada"
+      ],
+      "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:aa0bb621-9994-4c59-bf19-588c3ec268c6",
+      "company": "Advance Auto Parts",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
       "company": "Microsoft",
       "title": "Research Intern - Deep Learning Group",
@@ -1825,6 +1893,60 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:57adff29-a237-40f3-ac3f-a81367ed791b",
+      "company": "TransUnion",
+      "title": "Data Science and Analytics Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:572a3070-6f92-4edc-be94-f839a0986464",
+      "company": "NVIDIA",
+      "title": "Applied Research Scientist Intern - Agentic Biology",
+      "location": "United States",
+      "locations": [
+        "United States"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:0f52b6f8-706e-404f-8ce4-13343631217f",
+      "company": "Schnucks",
+      "title": "Data Science Generative AI Intern",
+      "location": "St. Louis, MO +3 more",
+      "locations": [
+        "St. Louis, MO",
+        "Missouri",
+        "Indiana",
+        "Illinois"
+      ],
+      "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "Spring 2027 / Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -3101,6 +3223,24 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:e7c2e379-3430-42d1-abd6-d69a7fab5857",
+      "company": "RTX",
+      "title": "Advanced Effector Guidance Systems Electrical Engineer Intern",
+      "location": "Tucson, AZ",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's"
@@ -6356,6 +6496,24 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:bb4d63c9-3314-4a0d-a295-e15f62bd7a87",
+      "company": "Salesforce",
+      "title": "Product Management Intern - Product Management",
+      "location": "SF / NYC",
+      "locations": [
+        "SF",
+        "NYC"
+      ],
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
+      "date_posted": "2026-11-06",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -11731,6 +11889,23 @@
       ]
     },
     {
+      "id": "simplify:a99e2f5f-e8a1-4b4f-9c09-643e09df2f89",
+      "company": "Expedia Group",
+      "title": "Machine Learning Science Intern",
+      "location": "London, UK",
+      "locations": [
+        "London, UK"
+      ],
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+      "date_posted": "2026-10-21",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
       "id": "simplify:3c5aa30b-a574-4c60-b5bb-5d75268f2945",
       "company": "The Aerospace Corporation",
       "title": "Embedded Software Engineer Grad Intern",
@@ -12692,6 +12867,24 @@
       "season": "",
       "category": "Hardware",
       "degrees": []
+    },
+    {
+      "id": "simplify:409557ba-787e-483f-90a0-5070340bc017",
+      "company": "NVIDIA",
+      "title": "ASIC Verification Intern",
+      "location": "Toronto, ON, Canada",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+      "date_posted": "2026-10-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
     },
     {
       "id": "simplify:06611e55-cdb2-4043-bffc-52543ae4a7e8",
@@ -21542,6 +21735,24 @@
       ]
     },
     {
+      "id": "simplify:976af7b5-d97e-481d-be47-56972cb2e171",
+      "company": "Allegion",
+      "title": "Hardware Engineering Intern - Product Lifecycle Engineering",
+      "location": "Indianapolis, IN",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467",
+      "date_posted": "2026-09-11",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:7530c688-5657-4159-baad-6d34c53ff482",
       "company": "Bedrock Robotics",
       "title": "Onboard Infrastructure Engineer Intern - ML Inference",
@@ -26013,6 +26224,24 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
+      "company": "NVIDIA",
+      "title": "Hardware Design for Test Intern - DFT",
+      "location": "Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+      "date_posted": "2026-08-19",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
         "Master's",
         "PhD"
       ]
