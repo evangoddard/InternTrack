@@ -1,9 +1,9 @@
 {
   "stats": {
-    "postings_tracked": 1705,
+    "postings_tracked": 1708,
     "sources": 1,
-    "companies": 634,
-    "last_updated": "2026-11-22"
+    "companies": 635,
+    "last_updated": "2026-11-23"
   },
   "postings": [
     {
@@ -1397,6 +1397,46 @@
       ]
     },
     {
+      "id": "simplify:d02efc1c-eb5f-49d1-a6d2-cb54a443c193",
+      "company": "Sierra Space",
+      "title": "Electrical Engineering Intern - Electrical Engineering",
+      "location": "Madison, WI +4 more",
+      "locations": [
+        "Madison, WI",
+        "Centennial, CO",
+        "Durham, NC",
+        "Louisville, CO",
+        "Broomfield, CO"
+      ],
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:955f9057-3b81-448d-8411-92be965c2e8a",
+      "company": "Sierra Space",
+      "title": "Software Engineering Intern - Software Engineering",
+      "location": "Madison, WI +4 more",
+      "locations": [
+        "Madison, WI",
+        "Centennial, CO",
+        "Durham, NC",
+        "Louisville, CO",
+        "Broomfield, CO"
+      ],
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+      "date_posted": "2026-11-20",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:a25956ba-3ed6-4f4c-86b1-999dbee31f1e",
       "company": "Microsoft",
       "title": "Research Intern - Deep Learning Group",
@@ -1988,6 +2028,23 @@
       ]
     },
     {
+      "id": "simplify:997560e4-6959-458f-b916-d03dfd783ff3",
+      "company": "Megger",
+      "title": "Product Manager Intern",
+      "location": "Dallas, TX",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:79c63349-953a-4d76-82a2-2c01a95745f7",
       "company": "Lucid",
       "title": "Product Management Intern",
@@ -2336,6 +2393,23 @@
       "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:521a6e1c-c48c-4891-a185-4bb5c9332f7b",
+      "company": "CME Group",
+      "title": "Quantitative Data & AI Analytics Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quantitative-Data---AI-Analytics-Intern---Year-Round_35061",
+      "date_posted": "2026-11-18",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's"
       ]
     },
     {
@@ -2715,23 +2789,6 @@
       "deadline": "",
       "season": "Winter 2027 / Summer 2027",
       "category": "Quant",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:ba23165e-e66d-4e52-90f4-9e640cdb5325",
-      "company": "HexArmor",
-      "title": "Software Engineer Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
-      "date_posted": "2026-11-17",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
       "degrees": [
         "Bachelor's"
       ]
