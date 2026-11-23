@@ -1,11 +1,64 @@
 {
   "stats": {
-    "postings_tracked": 1708,
+    "postings_tracked": 1709,
     "sources": 1,
     "companies": 635,
     "last_updated": "2026-11-23"
   },
   "postings": [
+    {
+      "id": "simplify:3a161bb0-8dda-47d6-bb3a-7db211a89d97",
+      "company": "TikTok",
+      "title": "Client Security & Data Foundation Software Engineer Intern - BRIC",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lifeattiktok.com/search/7705023349533346101",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:f991c7b0-97df-4f9d-a32d-33542afe619f",
+      "company": "First Resonance",
+      "title": "Product Management Intern",
+      "location": "El Segundo, CA",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:9894da93-252f-4667-9ffe-fea0d126c96b",
+      "company": "First Resonance",
+      "title": "Software Engineer Intern - Platform",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:9c9115ad-7e10-4ed2-9f6d-b00d4a2c8f1c",
       "company": "Neogen",
@@ -1842,21 +1895,6 @@
       ]
     },
     {
-      "id": "simplify:40ef9e3b-1493-4170-b639-2beafbc6c791",
-      "company": "Workstream",
-      "title": "Full Stack Engineer Intern",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-      "date_posted": "2026-11-19",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
-    },
-    {
       "id": "simplify:724d8d28-ef8b-46f7-ba87-c388f6f3c296",
       "company": "Georgian Partners Growth",
       "title": "Physical AI and Robotics Intern",
@@ -3374,6 +3412,21 @@
       "degrees": []
     },
     {
+      "id": "simplify:98739a8e-be8d-4278-a61d-45a742339319",
+      "company": "Lumentum",
+      "title": "Data Science & Analytics Intern",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
       "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
       "company": "Southern States, LLC",
       "title": "Electrical Engineer Intern",
@@ -4614,21 +4667,6 @@
         "Master's",
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:7c3a4e38-9f60-4930-b927-0bca4f0e442f",
-      "company": "Brex",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:85631f1b-1a7f-4670-845b-9834b9116159",
@@ -18032,24 +18070,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:76127016-50b2-48d1-99eb-f720b5ff3a2d",
-      "company": "Aurora Innovation",
-      "title": "Hardware Systems Engineer Intern",
-      "location": "Pittsburgh, PA",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true",
-      "date_posted": "2026-10-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
