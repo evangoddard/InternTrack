@@ -1,11 +1,61 @@
 {
   "stats": {
-    "postings_tracked": 1706,
+    "postings_tracked": 1704,
     "sources": 1,
-    "companies": 632,
+    "companies": 633,
     "last_updated": "2026-11-24"
   },
   "postings": [
+    {
+      "id": "simplify:637771ab-fcba-4414-9c25-99bfe21fa777",
+      "company": "RF-SMART",
+      "title": "Software Developer Intern",
+      "location": "Highlands Ranch, CO / Jacksonville, FL",
+      "locations": [
+        "Highlands Ranch, CO",
+        "Jacksonville, FL"
+      ],
+      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:2804d321-266b-4853-a3f6-2741c53b953d",
+      "company": "AMD",
+      "title": "Masters AI Rack/Cluster Design Engineering Co-op",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Winter 2027 / Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:3563c76a-b34e-4368-8653-6f067348425a",
+      "company": "Fanatics",
+      "title": "Product Management Intern - Card Tech",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
     {
       "id": "simplify:9f6de892-81cb-4bb0-8e0f-667d26ee241a",
       "company": "SharkNinja",
@@ -74,24 +124,6 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3b853022-5629-46f0-9410-31a4e4d1518e",
-      "company": "JP Morgan Chase",
-      "title": "Applied AI Intern - HR CDAO",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
-      "date_posted": "2026-11-23",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's",
-        "PhD"
       ]
     },
     {
@@ -2447,23 +2479,6 @@
       ]
     },
     {
-      "id": "simplify:bf7be755-266e-4016-ad50-096a56afdd42",
-      "company": "DraftKings",
-      "title": "Data Engineer Intern",
-      "location": "Boston, MA",
-      "locations": [
-        "Boston, MA"
-      ],
-      "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464",
-      "date_posted": "2026-11-19",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:79c63349-953a-4d76-82a2-2c01a95745f7",
       "company": "Lucid",
       "title": "Product Management Intern",
@@ -3279,6 +3294,27 @@
       ]
     },
     {
+      "id": "simplify:9b07113a-678a-41b9-bb98-fd8e35931087",
+      "company": "Forterra",
+      "title": "Software Engineer Intern",
+      "location": "Winter Park, FL +4 more",
+      "locations": [
+        "Winter Park, FL",
+        "Durham, NC",
+        "East Palo Alto, CA",
+        "Clarksburg, MD",
+        "Arlington County, Arlington, VA"
+      ],
+      "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:4beffbcd-b583-4c3f-b07f-414684404061",
       "company": "Ralliant",
       "title": "Hardware Verification Engineer Co-op",
@@ -3461,6 +3497,25 @@
       "season": "",
       "category": "AI/ML/Data",
       "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:9f33eb65-3c19-47fa-b0ca-d0101c113023",
+      "company": "Qualcomm",
+      "title": "GPU Compiler Intern",
+      "location": "Cambridge, UK",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722152489",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
         "PhD"
       ]
     },
@@ -4681,25 +4736,6 @@
       ]
     },
     {
-      "id": "simplify:1930aa1f-6b82-411d-88d7-1c42cdfa1597",
-      "company": "National Laboratory of the Rockies",
-      "title": "Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling",
-      "location": "Remote in USA",
-      "locations": [
-        "Remote in USA"
-      ],
-      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:e78f0818-9b94-4373-99d0-ec6610a3c4cc",
       "company": "Northrop Grumman",
       "title": "Engineering Technician \u2013 Electrical Ground Support Equipment Intern",
@@ -4824,23 +4860,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:a31cdf39-a527-48df-95d0-b048ca50228e",
-      "company": "Shive-Hattery",
-      "title": "Software Developer Intern - Software Development",
-      "location": "Iowa City, IA",
-      "locations": [
-        "Iowa City, IA"
-      ],
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793",
-      "date_posted": "2026-11-11",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18275,6 +18294,75 @@
       ]
     },
     {
+      "id": "simplify:a87676d0-1e21-4807-9d97-fa492a9143c8",
+      "company": "CarGurus",
+      "title": "Software Engineer Intern - Full Stack",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ee404af2-610e-42a2-8a2e-cf5fe7ca9de9",
+      "company": "CarGurus",
+      "title": "Product Management Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:99fe7134-4906-4bd6-a0ab-47d4ab11103b",
+      "company": "CarGurus",
+      "title": "Product Data Analyst Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9966d0c4-2f1f-41c0-b665-32e7860ef0e3",
+      "company": "CarGurus",
+      "title": "Data Platform Engineer Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
       "company": "AMCA",
       "title": "Software Engineer Intern",
@@ -18534,32 +18622,6 @@
       ]
     },
     {
-      "id": "simplify:fcc5cf43-9a19-40b0-85ff-1c92964514c4",
-      "company": "SouthState Bank",
-      "title": "Quantitative Intern",
-      "location": "Texas +7 more",
-      "locations": [
-        "Texas",
-        "Florida",
-        "South Carolina",
-        "Georgia",
-        "Virginia",
-        "Colorado",
-        "North Carolina",
-        "Alabama"
-      ],
-      "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264",
-      "date_posted": "2026-09-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Master's",
-        "Bachelor's",
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:8a325190-3cfd-424c-8cba-97023be4c1ce",
       "company": "Hewlett Packard Enterprise",
       "title": "Electrical Hardware Engineer Intern",
@@ -18812,25 +18874,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
-      "company": "General Dynamics Information Technology",
-      "title": "AI/ML Software Development and Engineering Intern",
-      "location": "Bossier City, LA",
-      "locations": [
-        "Bossier City, LA"
-      ],
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
-      "date_posted": "2026-09-26",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "Associate's"
       ]
     },
     {
@@ -19983,24 +20026,6 @@
         "Bachelor's",
         "Master's",
         "MBA"
-      ]
-    },
-    {
-      "id": "simplify:bd8058b7-a84d-4dfb-91d8-845c08275253",
-      "company": "RTX",
-      "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
-      "location": "Cedar Rapids, IA",
-      "locations": [
-        "Cedar Rapids, IA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
-      "date_posted": "2026-09-18",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -24281,24 +24306,6 @@
       ]
     },
     {
-      "id": "simplify:5489cdce-696e-4c2f-b1ae-e937cff71c6c",
-      "company": "Textron",
-      "title": "Software Engineer Intern - Crewed Land",
-      "location": "Slidell, LA",
-      "locations": [
-        "Slidell, LA"
-      ],
-      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915",
-      "date_posted": "2026-09-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:9562e72a-a657-4f9c-9e2e-f8d62e41c42c",
       "company": "Textron",
       "title": "Software Engineer Co-op - Uncrewed Land & Air",
@@ -25832,23 +25839,6 @@
       ]
     },
     {
-      "id": "simplify:cb063395-698b-47f5-9fe1-4b86a1b0dee5",
-      "company": "Springs Window Fashions",
-      "title": "Software Engineering Intern - Summer 2027",
-      "location": "Long Island City, Queens, NY",
-      "locations": [
-        "Long Island City, Queens, NY"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
       "company": "Westinghouse Electric Company",
       "title": "Computer Engineering / Software Engineering Intern",
@@ -26054,23 +26044,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:b59dc602-a7f2-4fe8-b95c-1d885aaf533c",
-      "company": "Springs Window Fashions",
-      "title": "Data Analyst Intern - Consumer Business Unit",
-      "location": "Middleton, WI",
-      "locations": [
-        "Middleton, WI"
-      ],
-      "url": "https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-08-22",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -29279,24 +29252,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:e142c984-ca46-4624-af2c-e5061b8b60f2",
-      "company": "HPR (Hyannis Port Research)",
-      "title": "Software Engineer Intern",
-      "location": "Needham, MA",
-      "locations": [
-        "Needham, MA"
-      ],
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-      "date_posted": "2026-08-01",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
