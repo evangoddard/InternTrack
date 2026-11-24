@@ -1,11 +1,47 @@
 {
   "stats": {
-    "postings_tracked": 1708,
+    "postings_tracked": 1706,
     "sources": 1,
-    "companies": 631,
+    "companies": 632,
     "last_updated": "2026-11-24"
   },
   "postings": [
+    {
+      "id": "simplify:9f6de892-81cb-4bb0-8e0f-667d26ee241a",
+      "company": "SharkNinja",
+      "title": "Firmware Engineer Intern - Advanced Development",
+      "location": "Needham, MA",
+      "locations": [
+        "Needham, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:5bd02a56-3f5c-4870-94a4-f361d51200c9",
+      "company": "Illumio",
+      "title": "Engineering Intern - Architecture Platform",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:94a72a59-20ae-4fcc-a654-f08453eb1a00",
       "company": "Illinois Tool Works",
@@ -420,6 +456,77 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d8798f63-531c-47ef-a0f2-a422a9611e12",
+      "company": "Illumio",
+      "title": "Product Manager Intern",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d4d02a87-3f6c-4b9a-b614-18bdc7e716cd",
+      "company": "Illumio",
+      "title": "Product Management Intern - Solution Economics",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:98d9b14e-853a-429a-9a9a-6a691a2e503b",
+      "company": "Illumio",
+      "title": "Security Platforms Engineer Intern - Security Platforms",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:88475193-513e-4bc0-bf5d-77cc8441c769",
+      "company": "Illumio",
+      "title": "Technical Product Management Intern",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -1588,24 +1695,6 @@
       ]
     },
     {
-      "id": "simplify:f057ac78-d4d1-4443-8a91-99ef6b3ee471",
-      "company": "Lucid Motors",
-      "title": "Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving",
-      "location": "Newark, CA",
-      "locations": [
-        "Newark, CA"
-      ],
-      "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
-      "date_posted": "2026-11-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:cb3d3d43-dec0-479f-bf5c-08c24c2f12fa",
       "company": "Lucid Motors",
       "title": "ADAS Systems Integration Intern",
@@ -2186,6 +2275,21 @@
       "degrees": [
         "PhD"
       ]
+    },
+    {
+      "id": "simplify:40ef9e3b-1493-4170-b639-2beafbc6c791",
+      "company": "Workstream",
+      "title": "Full Stack Engineer Intern",
+      "location": "Vancouver, BC, Canada",
+      "locations": [
+        "Vancouver, BC, Canada"
+      ],
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+      "date_posted": "2026-11-19",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
     },
     {
       "id": "simplify:724d8d28-ef8b-46f7-ba87-c388f6f3c296",
@@ -3175,27 +3279,6 @@
       ]
     },
     {
-      "id": "simplify:9b07113a-678a-41b9-bb98-fd8e35931087",
-      "company": "Forterra",
-      "title": "Software Engineer Intern",
-      "location": "Winter Park, FL +4 more",
-      "locations": [
-        "Winter Park, FL",
-        "Durham, NC",
-        "East Palo Alto, CA",
-        "Clarksburg, MD",
-        "Arlington County, Arlington, VA"
-      ],
-      "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
-      "date_posted": "2026-11-16",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:4beffbcd-b583-4c3f-b07f-414684404061",
       "company": "Ralliant",
       "title": "Hardware Verification Engineer Co-op",
@@ -3362,23 +3445,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:9505b5cc-26f0-4893-93fe-d10cabec7014",
-      "company": "Boston Scientific",
-      "title": "Product Data Analyst Intern",
-      "location": "Marlborough, MA",
-      "locations": [
-        "Marlborough, MA"
-      ],
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319",
-      "date_posted": "2026-11-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -4195,24 +4261,6 @@
         "Lincolnshire, IL"
       ],
       "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
-      "date_posted": "2026-11-13",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2d609f21-b04d-4102-a341-b7fc2585a162",
-      "company": "Camping World",
-      "title": "Data Analyst Intern - AI & Machine Learning Focus",
-      "location": "Chicago, IL / Lincolnshire, IL",
-      "locations": [
-        "Chicago, IL",
-        "Lincolnshire, IL"
-      ],
-      "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
       "date_posted": "2026-11-13",
       "deadline": "",
       "season": "Summer 2027",
@@ -6101,24 +6149,6 @@
       ]
     },
     {
-      "id": "simplify:f3d65b6a-089f-4407-b544-6f651a4c28be",
-      "company": "RTX",
-      "title": "Electronic Warfare Electrical Engineer Intern",
-      "location": "Goleta, CA",
-      "locations": [
-        "Goleta, CA"
-      ],
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Electronic-Warfare-Electrical-Engineer-Intern--Summer-2027--Onsite-_01886573",
-      "date_posted": "2026-11-09",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:21b279c6-a6f7-4a27-9383-57ebba097fdf",
       "company": "Hewlett Packard Enterprise",
       "title": "Wireless Hardware Engineer Intern",
@@ -7098,6 +7128,21 @@
       ]
     },
     {
+      "id": "simplify:29a084d4-fdf6-4ef2-b926-16e740b71190",
+      "company": "Esri",
+      "title": "Software Engineer Intern",
+      "location": "St. Louis, MO",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007",
+      "date_posted": "2026-11-05",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
       "id": "simplify:328d4568-bcae-457f-96e8-ea5e59164c08",
       "company": "Lumbermen's",
       "title": "Software Developer Intern",
@@ -7524,23 +7569,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:519aa545-7ad9-4720-9fc1-926b6e963038",
-      "company": "Invesco",
-      "title": "Digital Product Management Intern",
-      "location": "Atlanta, GA",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Product",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -8106,23 +8134,6 @@
       ]
     },
     {
-      "id": "simplify:1cc20c71-908b-45aa-9a70-22f2792a9b8f",
-      "company": "Qualcomm",
-      "title": "Verification Engineer Intern",
-      "location": "Toronto, ON, Canada",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721913769",
-      "date_posted": "2026-11-02",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:fb3a1722-d295-4e12-998b-a2815107d43c",
       "company": "Qualcomm",
       "title": "Deep Learning Research Intern",
@@ -8663,24 +8674,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:22021546-205a-467d-b274-f4cf864649f6",
-      "company": "Astera Labs",
-      "title": "AI Product Management Intern",
-      "location": "San Jose, CA",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
-      "date_posted": "2026-10-30",
-      "deadline": "",
-      "season": "",
-      "category": "Product",
-      "degrees": [
-        "Master's",
-        "MBA"
       ]
     },
     {
@@ -10793,24 +10786,6 @@
       ]
     },
     {
-      "id": "simplify:c56751ac-6762-423d-9796-8d62264d5cac",
-      "company": "Siemens",
-      "title": "Python Backend Developer Intern - Energy Flexibility Platform",
-      "location": "Princeton, NJ",
-      "locations": [
-        "Princeton, NJ"
-      ],
-      "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
-      "date_posted": "2026-10-23",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:78f2f6fd-9234-4b7c-a26c-189023b24ca7",
       "company": "Simbe Robotics",
       "title": "Data Analytics & Data Science Intern",
@@ -12461,6 +12436,24 @@
       ]
     },
     {
+      "id": "simplify:f3d2c73f-e5c3-4ecb-b5f0-6c2a96bc21c8",
+      "company": "ISO New England",
+      "title": "Market Data Analyst Intern",
+      "location": "Holyoke, MA",
+      "locations": [
+        "Holyoke, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/studentinternships/jobs/4454673009",
+      "date_posted": "2026-10-20",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:a3402104-9822-4ba3-8b75-e30551bc1b32",
       "company": "Graphcore",
       "title": "Software Engineer Intern - Drivers and Utilities",
@@ -13851,6 +13844,24 @@
       "date_posted": "2026-10-15",
       "deadline": "",
       "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:2f809092-b7fc-460f-a4e3-0bb90bdac60b",
+      "company": "Microsoft",
+      "title": "Researcher Intern - Coreai",
+      "location": "Redmond, WA / Mountain View, CA",
+      "locations": [
+        "Redmond, WA",
+        "Mountain View, CA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+      "date_posted": "2026-10-15",
+      "deadline": "",
+      "season": "Summer 2027",
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
@@ -15605,6 +15616,23 @@
         "Walnut Creek, CA"
       ],
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "date_posted": "2026-10-09",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e8314098-af0f-4c4a-988b-ea69c0698a13",
+      "company": "Aptiv",
+      "title": "Software Engineer Intern",
+      "location": "Walnut Creek, CA",
+      "locations": [
+        "Walnut Creek, CA"
+      ],
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388",
       "date_posted": "2026-10-09",
       "deadline": "",
       "season": "",
@@ -19616,23 +19644,6 @@
       ]
     },
     {
-      "id": "simplify:b90ec8c6-62de-4677-9db4-1799997bef9e",
-      "company": "Marvell",
-      "title": "Electrical Validation Intern - BS",
-      "location": "Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
-      "date_posted": "2026-09-22",
-      "deadline": "",
-      "season": "Summer 2027 / Fall 2027 / Winter 2028 / Spring 2028 / Summer 2028",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:839325fc-57c6-4d5b-9db5-a2273ec9dd48",
       "company": "Procter & Gamble",
       "title": "R&D Intern - AI Research Engineer",
@@ -22025,24 +22036,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:1e876ae2-39bb-4074-b163-dcb7368e9df3",
-      "company": "Impulse Space",
-      "title": "Flight Software Engineer Intern - Summer 2027",
-      "location": "Redondo Beach, CA",
-      "locations": [
-        "Redondo Beach, CA"
-      ],
-      "url": "https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq",
-      "date_posted": "2026-09-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -26250,24 +26243,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
-      "company": "Zoox",
-      "title": "Data Scientist",
-      "location": "Foster City, CA",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply",
-      "date_posted": "2026-08-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:f9783cfd-0933-41da-8102-1c15ae7d9c3c",
       "company": "TikTok",
       "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
@@ -27861,24 +27836,6 @@
       "category": "AI/ML/Data",
       "degrees": [
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f89dbf35-2e68-4087-a28a-1092da1e72d4",
-      "company": "Roblox",
-      "title": "Software Engineer Intern",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "date_posted": "2026-08-05",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
