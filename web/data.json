@@ -1,25 +1,281 @@
 {
   "stats": {
-    "postings_tracked": 1704,
+    "postings_tracked": 1715,
     "sources": 1,
-    "companies": 633,
-    "last_updated": "2026-11-24"
+    "companies": 638,
+    "last_updated": "2026-11-25"
   },
   "postings": [
     {
-      "id": "simplify:637771ab-fcba-4414-9c25-99bfe21fa777",
-      "company": "RF-SMART",
-      "title": "Software Developer Intern",
-      "location": "Highlands Ranch, CO / Jacksonville, FL",
+      "id": "simplify:b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
+      "company": "Bandwidth",
+      "title": "Software Engineer Intern",
+      "location": "Raleigh, NC",
       "locations": [
-        "Highlands Ranch, CO",
-        "Jacksonville, FL"
+        "Raleigh, NC"
       ],
-      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
-      "date_posted": "2026-11-24",
+      "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+      "date_posted": "2026-11-25",
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e5e856c3-4982-40e5-92e4-b5dae10efbab",
+      "company": "Microsoft",
+      "title": "Research Intern - Memory Pathfinding",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:8b4b2bce-20ad-45a0-bf4e-a27a396c5f72",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Systems Architecture - Efficient LLM Inference",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:a25c6fcf-1b2b-4b7f-be99-31a8e0e14608",
+      "company": "Microsoft",
+      "title": "Research Intern - CXL Memory",
+      "location": "Mountain View, CA",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:0a1029c2-aaef-48e1-9dac-d3e082d6683e",
+      "company": "Samsung",
+      "title": "LLM Inference Acceleration Architecture Intern - Moe & Attention-FFN Disaggregation",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8216717003",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:98973a92-e48a-42ff-8713-8b8f55bb30b6",
+      "company": "Nikkiso",
+      "title": "Product Management Intern",
+      "location": "Huntington Beach, CA",
+      "locations": [
+        "Huntington Beach, CA"
+      ],
+      "url": "https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:347de250-7760-4abd-a7c2-f89f2b261f3c",
+      "company": "Meta",
+      "title": "Research Scientist Intern - Machine Learning for Robust 3D Perception",
+      "location": "Redmond, WA",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1482835147112669",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
+      "id": "simplify:da151fb0-478a-4dc8-a909-d1d905f8c391",
+      "company": "Meta",
+      "title": "Battery Engineer Intern - Battery Systems Engineering",
+      "location": "Sunnyvale, CA",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "url": "https://www.metacareers.com/jobs/1165674205921515",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": []
+    },
+    {
+      "id": "simplify:9e52e349-d863-4322-94e2-b6c2d08b4316",
+      "company": "Reach Labs",
+      "title": "Hardware Prototyping Intern",
+      "location": "Redwood City, CA",
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "url": "https://jobs.lever.co/reachpower/01124bcd-9d13-498d-85ef-4a0fb2389168/apply",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:423cda84-329b-4121-b2ca-e7f6f637cda7",
+      "company": "Kimley-Horn",
+      "title": "Data Science Intern",
+      "location": "Mesa, AZ",
+      "locations": [
+        "Mesa, AZ"
+      ],
+      "url": "https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:11f4ffec-8602-40ac-b28a-7e926f238340",
+      "company": "WSP",
+      "title": "Geographic Information Systems Science Intern",
+      "location": "Denver, CO",
+      "locations": [
+        "Denver, CO"
+      ],
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Artificial Intelligence and Complex Systems Intern",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "Robotics Intern",
+      "location": "Laurel, MD",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:23a7d465-f7ca-4589-9a09-1a20194f2d12",
+      "company": "PatientPoint",
+      "title": "Data Engineer Intern",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:fd035325-c111-46c9-b277-51698b00fed9",
+      "company": "Sparksoft",
+      "title": "Business / Data Analyst Intern",
+      "location": "Maryland",
+      "locations": [
+        "Maryland"
+      ],
+      "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f250aee1-baf7-4cf5-8963-1a8276aad0de",
+      "company": "Eulerity",
+      "title": "Finance Data Analyst Intern - Finance",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4731948006",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
       "degrees": []
     },
     {
@@ -90,6 +346,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:d5a30e45-f930-4281-8553-61e6a7d76bb3",
+      "company": "QinetiQ",
+      "title": "Software Engineer Intern",
+      "location": "Fort Belvoir, VA",
+      "locations": [
+        "Fort Belvoir, VA"
+      ],
+      "url": "https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false",
+      "date_posted": "2026-11-24",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -1624,24 +1897,6 @@
       ]
     },
     {
-      "id": "simplify:0c884a35-d2e9-478a-b007-cb9b4907befe",
-      "company": "Scheels",
-      "title": "Data Analyst Intern",
-      "location": "Fargo, ND",
-      "locations": [
-        "Fargo, ND"
-      ],
-      "url": "https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24",
-      "date_posted": "2026-11-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Associate's"
-      ]
-    },
-    {
       "id": "simplify:a330f92d-8bbe-4101-99dd-42c10ff9ec7a",
       "company": "Tarana Wireless",
       "title": "Hardware Test Engineer Intern",
@@ -2307,21 +2562,6 @@
       "degrees": [
         "PhD"
       ]
-    },
-    {
-      "id": "simplify:40ef9e3b-1493-4170-b639-2beafbc6c791",
-      "company": "Workstream",
-      "title": "Full Stack Engineer Intern",
-      "location": "Vancouver, BC, Canada",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-      "date_posted": "2026-11-19",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": []
     },
     {
       "id": "simplify:724d8d28-ef8b-46f7-ba87-c388f6f3c296",
@@ -3774,6 +4014,21 @@
       "degrees": []
     },
     {
+      "id": "simplify:b6fb4775-b029-410e-8d24-d84afb8fb694",
+      "company": "TransUnion",
+      "title": "Data Analyst Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": []
+    },
+    {
       "id": "simplify:35fdfd06-a580-4ffd-b7d3-38c04cc8da72",
       "company": "Southern States, LLC",
       "title": "Electrical Engineer Intern",
@@ -4893,6 +5148,23 @@
       "degrees": []
     },
     {
+      "id": "simplify:1982a165-a74a-476f-8ebb-5136a38d056d",
+      "company": "McDonald's",
+      "title": "Global Tech Infrastructure & Operations Intern",
+      "location": "Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
+      "date_posted": "2026-11-11",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
       "id": "simplify:36e6d23c-4ded-42d3-b2a4-30e860836348",
       "company": "Meta",
       "title": "Research Scientist Intern - LLM Memory and Skills",
@@ -5614,21 +5886,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:8fc5dfae-9745-459b-8c40-2c93d630e074",
-      "company": "General Dynamics Mission Systems",
-      "title": "ASIC/FPGA Engineer Intern",
-      "location": "Scottsdale, AZ",
-      "locations": [
-        "Scottsdale, AZ"
-      ],
-      "url": "https://careers-gdms.icims.com/jobs/80153/job?mobile=true&needsRedirect=false",
-      "date_posted": "2026-11-10",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
     },
     {
       "id": "simplify:b8fa57e0-dafa-4a48-ba9d-0c89fb6a1bda",
@@ -7318,23 +7575,6 @@
       ]
     },
     {
-      "id": "simplify:b7daac34-0a43-4511-bd61-102463daf2e2",
-      "company": "Toyota Research Institute",
-      "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-      "location": "Los Altos, CA",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
-      "date_posted": "2026-11-05",
-      "deadline": "",
-      "season": "Summer 2027 / Summer 2026",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:34d5b977-2661-420f-8b7b-cd912b8eecb7",
       "company": "TikTok",
       "title": "Research Scientist Intern - Monetization Technology - Ads Core",
@@ -7871,21 +8111,6 @@
       "degrees": [
         "Bachelor's"
       ]
-    },
-    {
-      "id": "simplify:7e85584b-c434-4186-90e5-021b0f802f3b",
-      "company": "Eulerity",
-      "title": "Finance Data Analyst Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4726901006",
-      "date_posted": "2026-11-03",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
     },
     {
       "id": "simplify:24381402-1346-48ef-9e6d-909cd81ca7d5",
@@ -13448,23 +13673,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6e77db86-68fd-4230-b94e-ef69b5581fa6",
-      "company": "Westinghouse Electric Company",
-      "title": "System Test Engineering Intern",
-      "location": "Warrendale, PA",
-      "locations": [
-        "Warrendale, PA"
-      ],
-      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-System-Test-Engineering-OR/1433673100/?ats=successfactors",
-      "date_posted": "2026-10-16",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's"
       ]
@@ -19703,23 +19911,6 @@
         "Bachelor's",
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:f9ebd06d-f0d2-4be5-b56b-c7072ac6e875",
-      "company": "Lazard",
-      "title": "Quantitative Research Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612",
-      "date_posted": "2026-09-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Quant",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
