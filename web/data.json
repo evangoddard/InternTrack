@@ -1,11 +1,29 @@
 {
   "stats": {
-    "postings_tracked": 1725,
+    "postings_tracked": 1722,
     "sources": 1,
-    "companies": 648,
+    "companies": 646,
     "last_updated": "2026-11-26"
   },
   "postings": [
+    {
+      "id": "simplify:7b39170d-3c04-4950-9d6e-71f7c52be118",
+      "company": "AMD",
+      "title": "Hardware Engineering Intern",
+      "location": "Belfast, UK",
+      "locations": [
+        "Belfast, UK"
+      ],
+      "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+      "date_posted": "2026-11-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
     {
       "id": "simplify:769a4faf-656a-4ce2-847a-d28a826c5857",
       "company": "Total Quality Logistics",
@@ -540,44 +558,6 @@
       ]
     },
     {
-      "id": "simplify:ccee3e39-6a88-4c3c-b913-c7af244fc90c",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Artificial Intelligence and Complex Systems Intern",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us",
-      "date_posted": "2026-11-24",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:5c4ff4e4-2ba8-4244-9b38-08135d57623f",
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "Robotics Intern",
-      "location": "Laurel, MD",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "url": "https://careers.jhuapl.edu/jobs/61013?icims=1&lang=en-us",
-      "date_posted": "2026-11-24",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
       "id": "simplify:23a7d465-f7ca-4589-9a09-1a20194f2d12",
       "company": "PatientPoint",
       "title": "Data Engineer Intern",
@@ -728,6 +708,24 @@
       "category": "Hardware",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:3b853022-5629-46f0-9410-31a4e4d1518e",
+      "company": "JP Morgan Chase",
+      "title": "Applied AI Intern - HR CDAO",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
+      "date_posted": "2026-11-23",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Master's",
+        "PhD"
       ]
     },
     {
@@ -14608,23 +14606,6 @@
       ]
     },
     {
-      "id": "simplify:07aad510-60aa-4f59-a810-1efbb9d74d6f",
-      "company": "Indie",
-      "title": "Applications Software Developer Intern",
-      "location": "Aliso Viejo, CA",
-      "locations": [
-        "Aliso Viejo, CA"
-      ],
-      "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:1138115e-954f-402a-aac8-f6975f97c894",
       "company": "Apple",
       "title": "Formal Verification Framework for Hardware IPs Validation Intern",
@@ -16980,27 +16961,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
-      "id": "simplify:e458bd10-4f0d-449d-9f51-dcb595087eb9",
-      "company": "Meta",
-      "title": "Software Engineer Intern - Machine Learning",
-      "location": "Seattle, WA +6 more",
-      "locations": [
-        "Seattle, WA",
-        "Burlingame, CA",
-        "Redmond, WA",
-        "Menlo Park, CA",
-        "NYC",
-        "Bellevue, WA",
-        "Sunnyvale, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/2180490782513668",
-      "date_posted": "2026-10-06",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Software",
       "degrees": []
     },
     {
@@ -21072,24 +21032,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:25dd4ce6-5b41-41fb-9f9c-dabce0749a16",
-      "company": "Citadel Securities",
-      "title": "Quantitative Researcher Intern - US",
-      "location": "Miami, FL / NYC",
-      "locations": [
-        "Miami, FL",
-        "NYC"
-      ],
-      "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
-      "date_posted": "2026-09-15",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
       ]
     },
     {
