@@ -1,11 +1,226 @@
 {
   "stats": {
-    "postings_tracked": 1711,
+    "postings_tracked": 1726,
     "sources": 1,
-    "companies": 639,
-    "last_updated": "2026-11-25"
+    "companies": 646,
+    "last_updated": "2026-11-26"
   },
   "postings": [
+    {
+      "id": "simplify:769a4faf-656a-4ce2-847a-d28a826c5857",
+      "company": "Total Quality Logistics",
+      "title": "Product Management Intern",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Product",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:932ed6de-e1b8-42d6-8ade-34ff02f9d30a",
+      "company": "Total Quality Logistics",
+      "title": "Data Science & Analytics Intern",
+      "location": "Cincinnati, OH",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:5d0f591d-97a3-4f94-9a73-6234290841b7",
+      "company": "Digital Control",
+      "title": "Software Engineer Intern",
+      "location": "Kent, WA",
+      "locations": [
+        "Kent, WA"
+      ],
+      "url": "https://apply.workable.com/digital-control/j/AB9A181560/apply",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:9fed7089-fee2-42d5-9fda-8831aeb4c8ec",
+      "company": "Veeva Systems",
+      "title": "Software Engineer Intern",
+      "location": "Pleasanton, CA",
+      "locations": [
+        "Pleasanton, CA"
+      ],
+      "url": "https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:e3e053b8-8e7b-4690-9875-c136637ed047",
+      "company": "Tesla",
+      "title": "Robotics Audio DSP Engineer Intern",
+      "location": "Palo Alto, CA",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "url": "https://www.tesla.com/careers/search/job/291227",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:7dd43831-e7c5-4a2c-8a46-8163de373bf1",
+      "company": "Staples",
+      "title": "Full Stack Software Engineer Intern",
+      "location": "Austin, TX",
+      "locations": [
+        "Austin, TX"
+      ],
+      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:c60e2c32-7f9d-4251-8b45-47b44ed86850",
+      "company": "Starkey",
+      "title": "Software Engineer Intern",
+      "location": "Eden Prairie, MN",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "url": "https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:f4341e5f-56b8-4f46-9743-f31471747414",
+      "company": "SambaNova Systems",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Austin, TX / San Jose, CA",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:83aad2e6-dfbe-4f3a-9bb9-d31cbb28d460",
+      "company": "SambaNova Systems",
+      "title": "ML Infrastructure Engineer Intern",
+      "location": "Austin, TX / San Jose, CA",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:6a3dba3a-dcd5-4453-8c3d-f30d42332661",
+      "company": "SambaNova Systems",
+      "title": "Compiler Engineer Intern",
+      "location": "Austin, TX / San Jose, CA",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2026",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:6d46bd97-4280-40ca-bd51-3faa2b539b99",
+      "company": "SambaNova Systems",
+      "title": "Post-Silicon Validation Engineer Intern",
+      "location": "Austin, TX / San Jose, CA",
+      "locations": [
+        "Austin, TX",
+        "San Jose, CA"
+      ],
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's",
+        "PhD"
+      ]
+    },
+    {
+      "id": "simplify:485dc312-8ac1-4e1d-981d-81d05ebe80e5",
+      "company": "Docusign",
+      "title": "Product Manager Intern - Abuse Protection",
+      "location": "Seattle, WA / SF",
+      "locations": [
+        "Seattle, WA",
+        "SF"
+      ],
+      "url": "https://careers.docusign.com/jobs/32212?icims=1&lang=en-us",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": []
+    },
     {
       "id": "simplify:bc9756cd-5851-45b0-a46f-cdb537120839",
       "company": "Keysight Technologies",
@@ -124,6 +339,90 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:07bdacbd-90cf-4a2b-bb86-9af0d54b3143",
+      "company": "Ancestry",
+      "title": "Product Manager Co-op - DNA to Family History - Bridges",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
+      "degrees": []
+    },
+    {
+      "id": "simplify:b50a5fcc-fce0-445b-9d9d-763cfe56ae42",
+      "company": "CodeRabbit",
+      "title": "Software Engineer Intern",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:ffd13569-6671-4e60-abdf-df948c2b2292",
+      "company": "Xona Space Systems",
+      "title": "Software Engineer Intern - Engineering Productivity",
+      "location": "Burlingame, CA",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "url": "https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:1c727b5e-5f4c-4dfc-8ccf-2f9bd5cb960c",
+      "company": "Apex",
+      "title": "Flight Software Engineer Intern",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "simplify:07fa3ffd-e710-430b-b375-70c3bfd7b64a",
+      "company": "Apex",
+      "title": "Software Engineering Operating Systems Intern",
+      "location": "LA",
+      "locations": [
+        "LA"
+      ],
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
       ]
     },
     {
@@ -8041,23 +8340,6 @@
       "degrees": []
     },
     {
-      "id": "simplify:540147a8-5c6b-4f1d-8311-8fce3c94c9de",
-      "company": "Staples",
-      "title": "Software Engineer Intern - SDS e-Commerce Team",
-      "location": "Framingham, MA",
-      "locations": [
-        "Framingham, MA"
-      ],
-      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133",
-      "date_posted": "2026-11-03",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:548cd2a3-8ee2-4f86-94ec-3f6d550e9b8f",
       "company": "Xanadu",
       "title": "Photonics Test Engineer Intern",
@@ -12254,23 +12536,6 @@
       ]
     },
     {
-      "id": "simplify:064c8343-1089-4244-a770-b00a99e21927",
-      "company": "Qualcomm",
-      "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
-      "location": "Markham, ON, Canada",
-      "locations": [
-        "Markham, ON, Canada"
-      ],
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
-      "date_posted": "2026-10-21",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
       "id": "simplify:a7ba68b4-0c20-417e-b048-21ba6077cdc9",
       "company": "John Deere",
       "title": "Software Engineer Student Intern - Product Engineering",
@@ -14357,23 +14622,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:07aad510-60aa-4f59-a810-1efbb9d74d6f",
-      "company": "Indie",
-      "title": "Applications Software Developer Intern",
-      "location": "Aliso Viejo, CA",
-      "locations": [
-        "Aliso Viejo, CA"
-      ],
-      "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
-      "date_posted": "2026-10-14",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -18413,6 +18661,23 @@
       "degrees": [
         "Master's",
         "PhD"
+      ]
+    },
+    {
+      "id": "simplify:7f191783-2ab3-4626-a830-2072091a9f5a",
+      "company": "Dandy",
+      "title": "Software Engineering Intern",
+      "location": "NYC",
+      "locations": [
+        "NYC"
+      ],
+      "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true",
+      "date_posted": "2026-09-30",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": [
+        "Master's"
       ]
     },
     {
