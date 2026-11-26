@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1726,
+    "postings_tracked": 1725,
     "sources": 1,
-    "companies": 646,
+    "companies": 648,
     "last_updated": "2026-11-26"
   },
   "postings": [
@@ -36,6 +36,38 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:c4e37c25-c2af-42ad-a27a-13daa426ddf8",
+      "company": "OpenSesame",
+      "title": "Software Engineer Intern",
+      "location": "Remote in USA",
+      "locations": [
+        "Remote in USA"
+      ],
+      "url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:7fe3a334-d820-4526-b73b-f72bcf8288ee",
+      "company": "QuEra Computing",
+      "title": "Technical Product Management Intern",
+      "location": "Boston, MA",
+      "locations": [
+        "Boston, MA"
+      ],
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+      "date_posted": "2026-11-25",
+      "deadline": "",
+      "season": "",
+      "category": "Product",
       "degrees": [
         "Bachelor's"
       ]
@@ -593,23 +625,6 @@
       "season": "",
       "category": "AI/ML/Data",
       "degrees": []
-    },
-    {
-      "id": "simplify:2804d321-266b-4853-a3f6-2741c53b953d",
-      "company": "AMD",
-      "title": "Masters AI Rack/Cluster Design Engineering Co-op",
-      "location": "Austin, TX",
-      "locations": [
-        "Austin, TX"
-      ],
-      "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us",
-      "date_posted": "2026-11-24",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "Hardware",
-      "degrees": [
-        "Master's"
-      ]
     },
     {
       "id": "simplify:3563c76a-b34e-4368-8653-6f067348425a",
@@ -1978,23 +1993,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Product",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:a3321497-bc73-4221-b04b-32490b84a5f3",
-      "company": "CAS",
-      "title": "Business Data Analytics Intern - AI/ML Focus",
-      "location": "Columbus, OH",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f987f8e5-7208-44de-aeb9-9ae2474c177a",
-      "date_posted": "2026-11-20",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -9472,21 +9470,6 @@
       ]
     },
     {
-      "id": "simplify:14fe6917-aa52-43f8-b938-83b67d70feaa",
-      "company": "Meta",
-      "title": "Research Scientist Intern - AI Infra",
-      "location": "Menlo Park, CA",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "url": "https://www.metacareers.com/jobs/4603165899971826",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": []
-    },
-    {
       "id": "simplify:dc50db69-9b07-4a79-9e9f-e3c04664cc2a",
       "company": "Samsung",
       "title": "Systems Software Engineer Intern",
@@ -14622,6 +14605,23 @@
       "degrees": [
         "Bachelor's",
         "Master's"
+      ]
+    },
+    {
+      "id": "simplify:07aad510-60aa-4f59-a810-1efbb9d74d6f",
+      "company": "Indie",
+      "title": "Applications Software Developer Intern",
+      "location": "Aliso Viejo, CA",
+      "locations": [
+        "Aliso Viejo, CA"
+      ],
+      "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007",
+      "date_posted": "2026-10-14",
+      "deadline": "",
+      "season": "",
+      "category": "Hardware",
+      "degrees": [
+        "Bachelor's"
       ]
     },
     {
@@ -30036,24 +30036,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
-      "id": "simplify:c57ba1d3-0591-408a-a691-b05626be84f0",
-      "company": "Zoox",
-      "title": "Student Worker - Data Analyst",
-      "location": "San Mateo, CA",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply",
-      "date_posted": "2026-07-20",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's",
         "Master's"
