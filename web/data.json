@@ -1,11 +1,41 @@
 {
   "stats": {
-    "postings_tracked": 1722,
+    "postings_tracked": 1724,
     "sources": 1,
-    "companies": 646,
-    "last_updated": "2026-11-26"
+    "companies": 647,
+    "last_updated": "2026-11-27"
   },
   "postings": [
+    {
+      "id": "simplify:a209bd23-da6c-48fa-a548-37df370d9dc1",
+      "company": "PQShield",
+      "title": "Software Engineer Intern",
+      "location": "Oxford, UK",
+      "locations": [
+        "Oxford, UK"
+      ],
+      "url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+      "date_posted": "2026-11-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Software",
+      "degrees": []
+    },
+    {
+      "id": "simplify:2449c86e-134e-4493-be4b-b53aafd20b6d",
+      "company": "PQShield",
+      "title": "Hardware Engineer Intern - Placement Year",
+      "location": "Oxford, UK",
+      "locations": [
+        "Oxford, UK"
+      ],
+      "url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101",
+      "date_posted": "2026-11-26",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "Hardware",
+      "degrees": []
+    },
     {
       "id": "simplify:7b39170d-3c04-4950-9d6e-71f7c52be118",
       "company": "AMD",
@@ -4130,6 +4160,23 @@
         "NYC"
       ],
       "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+      "date_posted": "2026-11-16",
+      "deadline": "",
+      "season": "Summer 2027",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's"
+      ]
+    },
+    {
+      "id": "simplify:d4e5b166-f1fd-4172-85ae-9b4ba4ffd6df",
+      "company": "ICONIQ Capital",
+      "title": "Data Science Intern - Science",
+      "location": "SF",
+      "locations": [
+        "SF"
+      ],
+      "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
       "date_posted": "2026-11-16",
       "deadline": "",
       "season": "Summer 2027",
@@ -9442,25 +9489,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's",
-        "PhD"
-      ]
-    },
-    {
-      "id": "simplify:41adf555-f919-4c50-a9ef-ba93383a1378",
-      "company": "Loft Orbital",
-      "title": "Test Engineering Intern - Test Engineering",
-      "location": "Golden, CO",
-      "locations": [
-        "Golden, CO"
-      ],
-      "url": "https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9/apply",
-      "date_posted": "2026-10-29",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Hardware",
       "degrees": [
         "Bachelor's",
         "Master's",
