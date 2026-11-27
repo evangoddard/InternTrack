@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1722,
+    "postings_tracked": 1713,
     "sources": 1,
-    "companies": 645,
+    "companies": 641,
     "last_updated": "2026-11-27"
   },
   "postings": [
@@ -738,24 +738,6 @@
       "degrees": [
         "Master's",
         "PhD"
-      ]
-    },
-    {
-      "id": "simplify:fcb08f49-b9ed-4c1d-87f3-7191ff497a33",
-      "company": "Milliman",
-      "title": "Data Scientist Intern",
-      "location": "Indianapolis, IN",
-      "locations": [
-        "Indianapolis, IN"
-      ],
-      "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=1940672b-d3b1-4e15-a834-fde16cb5a420",
-      "date_posted": "2026-11-23",
-      "deadline": "",
-      "season": "",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
@@ -5260,24 +5242,6 @@
       ]
     },
     {
-      "id": "simplify:51b7a000-c0de-4e4b-9552-970634b7d2e7",
-      "company": "Capital Power",
-      "title": "Student Intern - Data Science",
-      "location": "Edmonton, AB, Canada",
-      "locations": [
-        "Edmonton, AB, Canada"
-      ],
-      "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
-      "date_posted": "2026-11-12",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
-    },
-    {
       "id": "simplify:eb8a6bc2-3f52-4314-86ca-52883b6332d4",
       "company": "CACI",
       "title": "Embedded Software Development Intern",
@@ -8206,23 +8170,6 @@
       "degrees": [
         "Bachelor's",
         "Master's"
-      ]
-    },
-    {
-      "id": "simplify:2a48b4e4-b815-484d-ba1f-6a52419c38d8",
-      "company": "Roku",
-      "title": "Software Engineer Intern",
-      "location": "Cambridge, UK",
-      "locations": [
-        "Cambridge, UK"
-      ],
-      "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
-      "date_posted": "2026-11-04",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
       ]
     },
     {
@@ -19046,53 +18993,6 @@
       ]
     },
     {
-      "id": "simplify:ff723fb0-8021-476f-94d8-a14675f7883f",
-      "company": "The Focusrite Group",
-      "title": "Production Systems Developer Intern",
-      "location": "High Wycombe, UK",
-      "locations": [
-        "High Wycombe, UK"
-      ],
-      "url": "https://apply.workable.com/focusrite/j/EB05509AE0/apply",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
-      "company": "The Focusrite Group",
-      "title": "Embedded Software Placement Intern",
-      "location": "High Wycombe, UK",
-      "locations": [
-        "High Wycombe, UK"
-      ],
-      "url": "https://apply.workable.com/focusrite/j/6520BBBFF1/apply",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
-      "id": "simplify:f940f70a-cfb4-4dbb-bb7a-154fb8d11427",
-      "company": "The Focusrite Group",
-      "title": "Hardware \u2013 Electronics and Firmware Intern",
-      "location": "High Wycombe, UK",
-      "locations": [
-        "High Wycombe, UK"
-      ],
-      "url": "https://apply.workable.com/focusrite/j/4296FAD493/apply",
-      "date_posted": "2026-09-28",
-      "deadline": "",
-      "season": "",
-      "category": "Hardware",
-      "degrees": []
-    },
-    {
       "id": "simplify:6acc24ca-3ff2-4d56-a40c-e531d2a57522",
       "company": "Waymo",
       "title": "Machine Learning Research Intern - Planning/Prediction",
@@ -22194,44 +22094,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:df13ab5f-9eb4-4357-86df-afc457026297",
-      "company": "Citizens Financial Group",
-      "title": "Software Engineer Intern",
-      "location": "Plano, TX +2 more",
-      "locations": [
-        "Plano, TX",
-        "Johnston, RI",
-        "Phoenix, AZ"
-      ],
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
-      "company": "Citizens Financial Group",
-      "title": "Data Engineer Intern - Enterprise Technology & Security",
-      "location": "Plano, TX +2 more",
-      "locations": [
-        "Plano, TX",
-        "Johnston, RI",
-        "Phoenix, AZ"
-      ],
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
-      "date_posted": "2026-09-11",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
@@ -25346,24 +25208,6 @@
       "category": "Product",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:6def32a2-38d9-47cf-8a10-2e7a23785b01",
-      "company": "Robert Bosch Venture Capital",
-      "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
-      "location": "Farmington Hills, MI",
-      "locations": [
-        "Farmington Hills, MI"
-      ],
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429",
-      "date_posted": "2026-08-31",
-      "deadline": "",
-      "season": "Winter 2027 / Summer 2027",
-      "category": "AI/ML/Data",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
       ]
     },
     {
