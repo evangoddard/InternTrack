@@ -1,8 +1,8 @@
 {
   "stats": {
-    "postings_tracked": 1724,
+    "postings_tracked": 1722,
     "sources": 1,
-    "companies": 647,
+    "companies": 645,
     "last_updated": "2026-11-27"
   },
   "postings": [
@@ -435,24 +435,6 @@
       "season": "",
       "category": "Product",
       "degrees": []
-    },
-    {
-      "id": "simplify:b50a5fcc-fce0-445b-9d9d-763cfe56ae42",
-      "company": "CodeRabbit",
-      "title": "Software Engineer Intern",
-      "location": "SF",
-      "locations": [
-        "SF"
-      ],
-      "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true",
-      "date_posted": "2026-11-25",
-      "deadline": "",
-      "season": "",
-      "category": "Software",
-      "degrees": [
-        "Bachelor's",
-        "Master's"
-      ]
     },
     {
       "id": "simplify:ffd13569-6671-4e60-abdf-df948c2b2292",
@@ -19584,6 +19566,24 @@
       "degrees": []
     },
     {
+      "id": "simplify:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Model - LLM",
+      "location": "San Jose, CA",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
+      "date_posted": "2026-09-24",
+      "deadline": "",
+      "season": "",
+      "category": "AI/ML/Data",
+      "degrees": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
       "id": "simplify:fadc5395-c7d9-4c74-8a5d-4dff2d7fa71c",
       "company": "Tradeweb",
       "title": "Market Data Product Management Intern",
@@ -20808,26 +20808,6 @@
       "category": "Software",
       "degrees": [
         "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:097e4adf-07db-4666-8e68-29b3364bc0eb",
-      "company": "Citadel",
-      "title": "Quantitative Researcher Post-Doctoral Intern",
-      "location": "Greenwich, CT +3 more",
-      "locations": [
-        "Greenwich, CT",
-        "Houston, TX",
-        "Miami, FL",
-        "NYC"
-      ],
-      "url": "https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
-      "date_posted": "2026-09-16",
-      "deadline": "",
-      "season": "Summer 2026",
-      "category": "Quant",
-      "degrees": [
-        "PhD"
       ]
     },
     {
@@ -27586,23 +27566,6 @@
       "deadline": "",
       "season": "Summer 2027",
       "category": "Software",
-      "degrees": [
-        "Bachelor's"
-      ]
-    },
-    {
-      "id": "simplify:de926b0a-99e7-4dbd-94cd-334ec565be9f",
-      "company": "Citadel",
-      "title": "Sector Data Scientist Intern",
-      "location": "NYC",
-      "locations": [
-        "NYC"
-      ],
-      "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
-      "date_posted": "2026-08-10",
-      "deadline": "",
-      "season": "Summer 2027",
-      "category": "AI/ML/Data",
       "degrees": [
         "Bachelor's"
       ]
