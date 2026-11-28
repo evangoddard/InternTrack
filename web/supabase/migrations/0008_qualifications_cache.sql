@@ -1,3 +1,17 @@
+-- ---------------------------------------------------------------------
+-- SUPERSEDED BY 0010_qualifications_cache_hardened.sql -- DO NOT RUN THIS.
+--
+-- This version was never applied. It grants INSERT *and UPDATE* to
+-- `authenticated` with `with check (true)`. Because this app holds only the
+-- publishable/anon key, its server routes talk to Postgres as
+-- `authenticated` -- the same role the browser gets -- so that UPDATE grant
+-- would let any signed-in user rewrite requirements text that every other
+-- user's eligibility verdict is computed from.
+--
+-- 0010 creates the same table write-once instead: INSERT only, no UPDATE
+-- policy, no DELETE policy.
+-- ---------------------------------------------------------------------
+
 -- Cache of qualifications text fetched from company ATS pages.
 --
 -- This is public job-posting data, not user data, so it's shared across

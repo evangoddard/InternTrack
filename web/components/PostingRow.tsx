@@ -122,7 +122,19 @@ export default function PostingRow({
                 title="Remove from saved"
                 className="w-fit border-b border-transparent text-xs font-semibold text-accent-bright transition-colors hover:border-red-400 hover:text-red-400"
               >
-                <span className="group-hover/save:hidden">Saved ✓</span>
+                <span className="group-hover/save:hidden inline-flex items-center gap-1">
+                  <svg viewBox="0 0 16 16" width="11" height="11" aria-hidden focusable="false">
+                    <path
+                      d="m3.5 8.5 3 3 6-7"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="1.8"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                  Saved
+                </span>
                 <span className="hidden group-hover/save:inline">Unsave</span>
               </button>
             </form>
